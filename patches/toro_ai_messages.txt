@@ -62394,10 +62394,1231 @@ $_WORD St.<END>
 #FIXEDLENGTH(6,0)
 Arcade<END>
 
+//丸ごと全部 $_WORDに関するお店ばかりの すごい商店街<END>
+#JMP($96EC2)
+#FIXEDLENGTH(50,0)
+An amazin' arcade where every shop is about $_WORD<END>
+
+//何でもいいから $_YOUの好きなモノ おしえて？<END>
+#JMP($96EF5)
+#FIXEDLENGTH(43,0)
+Tell me anything $_YOU likes?<END>
+
+//$_WORD商店街<END>
+#JMP($96F21)
+#FIXEDLENGTH(12,0)
+$_WORD Mall<END>
+
+//$_WORDの品揃えなら 日本一の商店街<END>
+#JMP($96F2E)
+#FIXEDLENGTH(33,0)
+Japan's top $_WORD-stock arcade<END>
+
+//$_WORDを買うならイイ場所があるらしいから そこに<END>
+#JMP($96F50)
+#FIXEDLENGTH(47,0)
+to a great place to buy $_WORD, they say<END>
+
+//$_WORDのコトなら何でもそろう、オトナの街<END>
+#JMP($96F89)
+#FIXEDLENGTH(40,0)
+A grown-up town with all things $_WORD<END>
+
+//エッチなモノって どんなのがあるの？<END>
+#JMP($96FB2)
+#FIXEDLENGTH(35,0)
+What naughty things are there?<END>
+
+//$_WORD天国<END>
+#JMP($96FD6)
+#FIXEDLENGTH(10,0)
+$_WORD Joy<END>
+
+//$_WORDがいっぱい働いてる、$_WORDによる $_WORDのための 商店街<END>
+#JMP($96FE1)
+#FIXEDLENGTH(60,0)
+An arcade of $_WORD workers, by $_WORD, for $_WORD<END>
+
+//$_YOUの好きな 職業って なぁに？<END>
+#JMP($9701E)
+#FIXEDLENGTH(31,0)
+What job does $_YOU like?<END>
+
+//$_WORD横丁<END>
+#JMP($9703E)
+#FIXEDLENGTH(10,0)
+$_WORDLane<END>
+
+//つい フラフラ～っと 誘われて $_WORDしたくなっちゃう横丁<END>
+#JMP($97049)
+#FIXEDLENGTH(55,0)
+A lane that lures you off to $_WORD without thinkin'<END>
+
+//ちょっと $_WORDをしに<END>
+#JMP($97081)
+#FIXEDLENGTH(21,0)
+to $_WORD a little<END>
+
+//ついつい しちゃうコトって なんか ある？<END>
+#JMP($97097)
+#FIXEDLENGTH(39,0)
+Anythin' you end up doin' anyway?<END>
+
+//$_WORDタウン<END>
+#JMP($970BF)
+#FIXEDLENGTH(12,0)
+$_WORDTown<END>
+
+//$_WORDの安さでは どこの商店街にも 負けないという 商店街<END>
+#JMP($970CC)
+#FIXEDLENGTH(55,0)
+An arcade said to beat all on cheap $_WORD<END>
+
+//$_WORDの滝<END>
+#JMP($97104)
+#FIXEDLENGTH(10,0)
+$_WORDFall<END>
+
+//$_WORDを落とすと女神があらわれて 金と銀の $_WORDがもらえる 伝説の滝<END>
+#JMP($97112)
+#FIXEDLENGTH(67,0)
+Drop $_WORD and a goddess gives gold & silver $_WORD<END>
+
+//$_YOUの お気に入りのモノ おしえて？<END>
+#JMP($97156)
+#FIXEDLENGTH(35,0)
+Tell me $_YOU's fave thing?<END>
+
+//$_WORDの水<END>
+#JMP($9717A)
+#FIXEDLENGTH(10,0)
+$_WORDWatr<END>
+
+//ここの滝に うたれると $_WORDの病気やケガが 治ると言われてる伝説の滝<END>
+#JMP($97185)
+#FIXEDLENGTH(67,0)
+A falls said to heal $_WORD illness if you stand under it<END>
+
+//$_WORDと言えば 伝説があるらしいから そこに<END>
+#JMP($971C9)
+#FIXEDLENGTH(42,0)
+to the spot with a $_WORD legend<END>
+
+//$_WORD修行場<END>
+#JMP($971F4)
+#FIXEDLENGTH(12,0)
+$_WORD Dojo<END>
+
+//滝にうたれながら $_WORDの特訓ができる場所<END>
+#JMP($97201)
+#FIXEDLENGTH(41,0)
+A place to train $_WORD under a waterfall<END>
+
+//$_WORDの特訓をしに<END>
+#JMP($9722B)
+#FIXEDLENGTH(18,0)
+to train $_WORD<END>
+
+//$_YOUが もっと上手になりたいコトって なぁに？<END>
+#JMP($9723E)
+#FIXEDLENGTH(45,0)
+What does $_YOU wanna get better at?<END>
+
+//$_WORD桃源郷<END>
+#JMP($9726C)
+#FIXEDLENGTH(12,0)
+$_WORDHeavn<END>
+
+//$_WORDで 骨抜きにされてしまうという エッチな幻が見られる伝説の場所<END>
+#JMP($97279)
+#FIXEDLENGTH(66,0)
+A legendary place with naughty $_WORD visions that melt you<END>
+
+//徳川の隠し財産 $_WORDが埋められてるという伝説のある場所<END>
+#JMP($972BC)
+#FIXEDLENGTH(55,0)
+Where the Tokugawa's hidden $_WORD is said to be buried<END>
+
+//宝物というか すごく高価なモノ おしえて？<END>
+#JMP($972F4)
+#FIXEDLENGTH(40,0)
+Tell me a treasure, somethin' pricey?<END>
+
+//$_WORDで 滝下りすることができる 有名な観光地<END>
+#JMP($9731D)
+#FIXEDLENGTH(44,0)
+A famous spot to ride falls down by $_WORD<END>
+
+//$_WORDの風景<END>
+#JMP($9734A)
+#FIXEDLENGTH(12,0)
+$_WORD View<END>
+
+//遠くで $_WORD してる人たちが よく 見わたせる 屋根の上<END>
+#JMP($97357)
+#FIXEDLENGTH(53,0)
+A roof with a good view of folks far off $_WORD-ing<END>
+
+//お空を見に<END>
+#JMP($9738D)
+#FIXEDLENGTH(10,0)
+to see sky<END>
+
+//$_WORD星の空<END>
+#JMP($973A0)
+#FIXEDLENGTH(12,0)
+$_WORD Sky<END>
+
+//$_WORD星から やってきた UFOが 着陸した屋根<END>
+#JMP($973AD)
+#FIXEDLENGTH(42,0)
+A roof where a UFO from $_WORD landed<END>
+
+//$_WORD星から やってくる UFOを見に<END>
+#JMP($973D8)
+#FIXEDLENGTH(33,0)
+to see UFOs from planet $_WORD<END>
+
+//$_WORDの空<END>
+#JMP($973FA)
+#FIXEDLENGTH(10,0)
+$_WORDSky<END>
+
+//お空の上から $_WORDが ふってきそうな 感じがする屋根<END>
+#JMP($97405)
+#FIXEDLENGTH(51,0)
+A roof where $_WORD might fall from the sky<END>
+
+//この前<END>
+#JMP($97439)
+#FIXEDLENGTH(6,0)
+Lately<END>
+
+//さっき<END>
+#JMP($97440)
+#FIXEDLENGTH(6,0)
+Just<END>
+
+//ちょっと前<END>
+#JMP($97447)
+#FIXEDLENGTH(10,0)
+Not long<END>
+
+//昨日<END>
+#JMP($97452)
+#FIXEDLENGTH(4,0)
+Ystd<END>
+
+//２、３日前<END>
+#JMP($97457)
+#FIXEDLENGTH(10,0)
+2-3 days<END>
+
+//ダサい<END>
+#JMP($97462)
+#FIXEDLENGTH(6,0)
+Lame<END>
+
+//つまんナイ<END>
+#JMP($97469)
+#FIXEDLENGTH(10,0)
+Boring<END>
+
+//ハズカシイ<END>
+#JMP($97474)
+#FIXEDLENGTH(10,0)
+Shameful<END>
+
+//サムい<END>
+#JMP($9747F)
+#FIXEDLENGTH(6,0)
+Cringe<END>
+
+//ロマンチック<END>
+#JMP($97486)
+#FIXEDLENGTH(12,0)
+Romantic<END>
+
+//おとめチック<END>
+#JMP($97493)
+#FIXEDLENGTH(12,0)
+Girly<END>
+
+//ステキ<END>
+#JMP($974A0)
+#FIXEDLENGTH(6,0)
+Nice<END>
+
+//ス・テ・キ<END>
+#JMP($974A7)
+#FIXEDLENGTH(10,0)
+Lovely<END>
+
+//キュート<END>
+#JMP($974B2)
+#FIXEDLENGTH(8,0)
+Cute<END>
+
+//ラブリー<END>
+#JMP($974BB)
+#FIXEDLENGTH(8,0)
+Lovely<END>
+
+//胸キュン<END>
+#JMP($974C4)
+#FIXEDLENGTH(8,0)
+Swoony<END>
+
+//ドリーミー<END>
+#JMP($974CD)
+#FIXEDLENGTH(10,0)
+Dreamy<END>
+
+//ウットリ<END>
+#JMP($974D8)
+#FIXEDLENGTH(8,0)
+Dreamy<END>
+
+//イヤ～ン<END>
+#JMP($974E1)
+#FIXEDLENGTH(8,0)
+Eek～<END>
+
+//げんなり<END>
+#JMP($974EA)
+#FIXEDLENGTH(8,0)
+Ugh<END>
+
+//ギャフン<END>
+#JMP($974F3)
+#FIXEDLENGTH(8,0)
+Gah<END>
+
+//とっても<END>
+#JMP($974FC)
+#FIXEDLENGTH(8,0)
+Very<END>
+
+//すっごく<END>
+#JMP($97505)
+#FIXEDLENGTH(8,0)
+Super<END>
+
+//しぬほど<END>
+#JMP($9750E)
+#FIXEDLENGTH(8,0)
+Deadly<END>
+
+//むっちゃ<END>
+#JMP($97517)
+#FIXEDLENGTH(8,0)
+Mega<END>
+
+//まったく もう～ってぐらい<END>
+#JMP($97523)
+#FIXEDLENGTH(25,0)
+Totally, like, geez～<END>
+
+//男ロボット<END>
+#JMP($97588)
+#FIXEDLENGTH(10,0)
+Robot (M)<END>
+
+//女ロボット<END>
+#JMP($97593)
+#FIXEDLENGTH(10,0)
+Robot (F)<END>
+
+//めいし交換した 人の名前<END>
+#JMP($9759E)
+#FIXEDLENGTH(23,0)
+Name from card swap<END>
+
+//ご紹介で会った 人の名前<END>
+#JMP($975B6)
+#FIXEDLENGTH(23,0)
+Name from intro<END>
+
+//人の名前<END>
+#JMP($975E1)
+#FIXEDLENGTH(8,0)
+Name<END>
+
+//人をあらわすコトバ<END>
+#JMP($975EA)
+#FIXEDLENGTH(18,0)
+Word for people<END>
+
+//男の人の お仕事<END>
+#JMP($975FD)
+#FIXEDLENGTH(15,0)
+Man's job<END>
+
+//女の人の お仕事<END>
+#JMP($9760D)
+#FIXEDLENGTH(15,0)
+Woman's job<END>
+
+//お仕事<END>
+#JMP($9761D)
+#FIXEDLENGTH(6,0)
+Job<END>
+
+//男の人への ほめコトバ<END>
+#JMP($97624)
+#FIXEDLENGTH(21,0)
+Praise for men<END>
+
+//女の人への ほめコトバ<END>
+#JMP($9763A)
+#FIXEDLENGTH(21,0)
+Praise for women<END>
+
+//ほめコトバ<END>
+#JMP($97650)
+#FIXEDLENGTH(10,0)
+Praise<END>
+
+//男の人への けなしコトバ<END>
+#JMP($9765B)
+#FIXEDLENGTH(23,0)
+Insult for men<END>
+
+//女の人への けなしコトバ<END>
+#JMP($97673)
+#FIXEDLENGTH(23,0)
+Insult for women<END>
+
+//けなしコトバ<END>
+#JMP($9768B)
+#FIXEDLENGTH(12,0)
+Insult<END>
+
+//1人でするコト<END>
+#JMP($976A1)
+#FIXEDLENGTH(13,0)
+Solo action<END>
+
+//2人でするコト<END>
+#JMP($976AF)
+#FIXEDLENGTH(13,0)
+Duo action<END>
+
+//グループでするコト<END>
+#JMP($976BD)
+#FIXEDLENGTH(18,0)
+Group action<END>
+
+//スポーツ<END>
+#JMP($976D0)
+#FIXEDLENGTH(8,0)
+Sport<END>
+
+//しなきゃイケナイコト<END>
+#JMP($976D9)
+#FIXEDLENGTH(20,0)
+Must-do things<END>
+
+//しちゃイケナイコト<END>
+#JMP($976EE)
+#FIXEDLENGTH(18,0)
+No-no things<END>
+
+//人にするコト<END>
+#JMP($97701)
+#FIXEDLENGTH(12,0)
+Done to sb<END>
+
+//人にしたり されたりするコト<END>
+#JMP($97711)
+#FIXEDLENGTH(27,0)
+Done to/by others<END>
+
+//人にされるコト<END>
+#JMP($9772D)
+#FIXEDLENGTH(14,0)
+Done by others<END>
+
+//人に しなきゃイケナイコト<END>
+#JMP($9773C)
+#FIXEDLENGTH(25,0)
+Must do to others<END>
+
+//人に しちゃイケナイコト<END>
+#JMP($97756)
+#FIXEDLENGTH(23,0)
+Mustn't do to others<END>
+
+//が住んでる場所<END>
+#JMP($97779)
+#FIXEDLENGTH(14,0)
+Where … lives<END>
+
+//食べ物屋さん<END>
+#JMP($97788)
+#FIXEDLENGTH(12,0)
+Eatery<END>
+
+//ブランド屋さん<END>
+#JMP($97795)
+#FIXEDLENGTH(14,0)
+Brand shop<END>
+
+//地名<END>
+#JMP($977A4)
+#FIXEDLENGTH(4,0)
+Spot<END>
+
+//外国<END>
+#JMP($977A9)
+#FIXEDLENGTH(4,0)
+Abrd<END>
+
+//イベント<END>
+#JMP($977AE)
+#FIXEDLENGTH(8,0)
+Event<END>
+
+//スポーツチーム<END>
+#JMP($977B7)
+#FIXEDLENGTH(14,0)
+Sports team<END>
+
+//団体<END>
+#JMP($977C6)
+#FIXEDLENGTH(4,0)
+Org<END>
+
+//食べモノ<END>
+#JMP($977CB)
+#FIXEDLENGTH(8,0)
+Food<END>
+
+//動物<END>
+#JMP($977E5)
+#FIXEDLENGTH(4,0)
+Pet<END>
+
+//植物<END>
+#JMP($977EA)
+#FIXEDLENGTH(4,0)
+Flra<END>
+
+//曲名<END>
+#JMP($97801)
+#FIXEDLENGTH(4,0)
+Song<END>
+
+//映画<END>
+#JMP($9780F)
+#FIXEDLENGTH(4,0)
+Film<END>
+
+//ネット<END>
+#JMP($97814)
+#FIXEDLENGTH(6,0)
+Net<END>
+
+//アニメ<END>
+#JMP($9781B)
+#FIXEDLENGTH(6,0)
+Anime<END>
+
+//ドラマ<END>
+#JMP($97822)
+#FIXEDLENGTH(6,0)
+Drama<END>
+
+//バラエティー<END>
+#JMP($97829)
+#FIXEDLENGTH(12,0)
+Variety<END>
+
+//テレビ<END>
+#JMP($97836)
+#FIXEDLENGTH(6,0)
+TV<END>
+
+//マンガ<END>
+#JMP($97846)
+#FIXEDLENGTH(6,0)
+Manga<END>
+
+//雑誌<END>
+#JMP($9784D)
+#FIXEDLENGTH(4,0)
+Mag<END>
+
+//使うモノ<END>
+#JMP($97855)
+#FIXEDLENGTH(8,0)
+Tool<END>
+
+//身に付けるモノ<END>
+#JMP($9785E)
+#FIXEDLENGTH(14,0)
+Worn things<END>
+
+//電気で動くモノ<END>
+#JMP($9786D)
+#FIXEDLENGTH(14,0)
+Electrical<END>
+
+//はじまりのあいさつ<END>
+#JMP($97883)
+#FIXEDLENGTH(18,0)
+Openin' greet<END>
+
+//おわりのあいさつ<END>
+#JMP($97896)
+#FIXEDLENGTH(16,0)
+Closin' greet<END>
+
+//おやすみのあいさつ<END>
+#JMP($978BA)
+#FIXEDLENGTH(18,0)
+Bedtime greet<END>
+
+//あいさつ<END>
+#JMP($978CD)
+#FIXEDLENGTH(8,0)
+Greet<END>
+
+//ギャグ<END>
+#JMP($978D6)
+#FIXEDLENGTH(6,0)
+Gag<END>
+
+//座右の銘<END>
+#JMP($978DD)
+#FIXEDLENGTH(8,0)
+Motto<END>
+
+//飲みモノ<END>
+#JMP($978E6)
+#FIXEDLENGTH(8,0)
+Drink<END>
+
+//乗りモノ<END>
+#JMP($978EF)
+#FIXEDLENGTH(8,0)
+Ride<END>
+
+//病気<END>
+#JMP($97901)
+#FIXEDLENGTH(4,0)
+Ill<END>
+
+//ん<END>
+#JMP($97906)
+#FIXEDLENGTH(2,0)
+n<END>
+
+//元気がいちばん<END>
+#JMP($97918)
+#FIXEDLENGTH(14,0)
+Health's best<END>
+
+//いいコトある予感<END>
+#JMP($97927)
+#FIXEDLENGTH(16,0)
+Feelin' lucky<END>
+
+//愛って何だろう？<END>
+#JMP($97947)
+#FIXEDLENGTH(16,0)
+What is love?<END>
+
+//ＡＢ<END>
+#JMP($97988)
+#FIXEDLENGTH(4,0)
+AB<END>
+
+//ポケピ<END>
+#JMP($979AC)
+#FIXEDLENGTH(6,0)
+Pokepi<END>
+
+//ネコ<END>
+#JMP($979B3)
+#FIXEDLENGTH(4,0)
+Cat<END>
+
+//ウサギ<END>
+#JMP($979B8)
+#FIXEDLENGTH(6,0)
+Rabbit<END>
+
+//イヌ<END>
+#JMP($979BF)
+#FIXEDLENGTH(4,0)
+Dog<END>
+
+//カエル<END>
+#JMP($979C4)
+#FIXEDLENGTH(6,0)
+Frog<END>
+
+//でこピン<END>
+#JMP($979CB)
+#FIXEDLENGTH(8,0)
+Flick<END>
+
+//なでなで<END>
+#JMP($979D4)
+#FIXEDLENGTH(8,0)
+Pet it<END>
+
+//受け継いだ？<END>
+#JMP($97A83)
+#FIXEDLENGTH(12,0)
+Inherited?<END>
+
 //そっか…<END>
 #JMP($97A90)
 #FIXEDLENGTH(8,0)
 I see…<END>
+
+//残してったんだ<END>
+#JMP($97A99)
+#FIXEDLENGTH(14,0)
+Left behind<END>
+
+//そのとおり<END>
+#JMP($97B0D)
+#FIXEDLENGTH(10,0)
+Exactly<END>
+
+//そうです<END>
+#JMP($97B18)
+#FIXEDLENGTH(8,0)
+Yes!<END>
+
+//読み方ちがうよ…<END>
+#JMP($97B21)
+#FIXEDLENGTH(16,0)
+Wrong readin'…<END>
+
+//今すぐ なおす<END>
+#JMP($97B32)
+#FIXEDLENGTH(13,0)
+Fix it now<END>
+
+//あとで なおす<END>
+#JMP($97B40)
+#FIXEDLENGTH(13,0)
+Fix it later<END>
+
+//ねこ<END>
+#JMP($97B4E)
+#FIXEDLENGTH(4,0)
+cat<END>
+
+//職業<END>
+#JMP($97B91)
+#FIXEDLENGTH(4,0)
+Job<END>
+
+//人をあらわす<END>
+#JMP($97BA1)
+#FIXEDLENGTH(12,0)
+For people<END>
+
+//ふつうにする<END>
+#JMP($97BAE)
+#FIXEDLENGTH(12,0)
+Normal do<END>
+
+//しなきゃイケナイ<END>
+#JMP($97BBB)
+#FIXEDLENGTH(16,0)
+Must-do<END>
+
+//しちゃイケナイ<END>
+#JMP($97BCC)
+#FIXEDLENGTH(14,0)
+Mustn't-do<END>
+
+//ひとりでする<END>
+#JMP($97BDB)
+#FIXEDLENGTH(12,0)
+Do alone<END>
+
+//ふたりでする<END>
+#JMP($97BE8)
+#FIXEDLENGTH(12,0)
+Do as two<END>
+
+//グループでする<END>
+#JMP($97BF5)
+#FIXEDLENGTH(14,0)
+Do as group<END>
+
+//人にする方<END>
+#JMP($97C04)
+#FIXEDLENGTH(10,0)
+Do to sb<END>
+
+//人にされる方<END>
+#JMP($97C0F)
+#FIXEDLENGTH(12,0)
+Done by sb<END>
+
+//両方<END>
+#JMP($97C1C)
+#FIXEDLENGTH(4,0)
+Both<END>
+
+//されなきゃイケナイ<END>
+#JMP($97C21)
+#FIXEDLENGTH(18,0)
+Must get done<END>
+
+//されちゃイケナイ<END>
+#JMP($97C34)
+#FIXEDLENGTH(16,0)
+Mustn't get done<END>
+
+//どれでもない<END>
+#JMP($97C45)
+#FIXEDLENGTH(12,0)
+None of 'em<END>
+
+//したり されたり<END>
+#JMP($97C52)
+#FIXEDLENGTH(15,0)
+Both ways<END>
+
+//人には しない<END>
+#JMP($97C62)
+#FIXEDLENGTH(13,0)
+Not to sb<END>
+
+//会社名<END>
+#JMP($97C70)
+#FIXEDLENGTH(6,0)
+Firm<END>
+
+//その他の団体<END>
+#JMP($97C77)
+#FIXEDLENGTH(12,0)
+Other group<END>
+
+//飲食店<END>
+#JMP($97C84)
+#FIXEDLENGTH(6,0)
+Eats<END>
+
+//ブランド店<END>
+#JMP($97C8B)
+#FIXEDLENGTH(10,0)
+Brands<END>
+
+//ほかの店<END>
+#JMP($97C96)
+#FIXEDLENGTH(8,0)
+Other<END>
+
+//団体名<END>
+#JMP($97C9F)
+#FIXEDLENGTH(6,0)
+Org<END>
+
+//それ以外の本<END>
+#JMP($97CB4)
+#FIXEDLENGTH(12,0)
+Other book<END>
+
+//ふつうに使う<END>
+#JMP($97CC1)
+#FIXEDLENGTH(12,0)
+Normal use<END>
+
+//電気で動く<END>
+#JMP($97CCE)
+#FIXEDLENGTH(10,0)
+Electric<END>
+
+//はじまりの<END>
+#JMP($97CE8)
+#FIXEDLENGTH(10,0)
+Openin'<END>
+
+//おわりの<END>
+#JMP($97CF3)
+#FIXEDLENGTH(8,0)
+Closin'<END>
+
+//朝の<END>
+#JMP($97CFC)
+#FIXEDLENGTH(4,0)
+A.M.<END>
+
+//夜の<END>
+#JMP($97D01)
+#FIXEDLENGTH(4,0)
+P.M.<END>
+
+//男の仕事<END>
+#JMP($97D06)
+#FIXEDLENGTH(8,0)
+Men job<END>
+
+//女の仕事<END>
+#JMP($97D0F)
+#FIXEDLENGTH(8,0)
+Wmn job<END>
+
+//どっちも<END>
+#JMP($97D18)
+#FIXEDLENGTH(8,0)
+Both<END>
+
+//男のコト<END>
+#JMP($97D21)
+#FIXEDLENGTH(8,0)
+Men's<END>
+
+//女のコト<END>
+#JMP($97D2A)
+#FIXEDLENGTH(8,0)
+Women's<END>
+
+//男のロボット<END>
+#JMP($97D33)
+#FIXEDLENGTH(12,0)
+Male robot<END>
+
+//女のロボット<END>
+#JMP($97D40)
+#FIXEDLENGTH(12,0)
+Female robot<END>
+
+//ロボットに性別ないぞ<END>
+#JMP($97D4D)
+#FIXEDLENGTH(20,0)
+Robots got no sex<END>
+
+//関係ある<END>
+#JMP($97D9E)
+#FIXEDLENGTH(8,0)
+Related<END>
+
+//関係ない<END>
+#JMP($97DA7)
+#FIXEDLENGTH(8,0)
+Unrelatd<END>
+
+//好きでもキライでもない<END>
+#JMP($97DB0)
+#FIXEDLENGTH(22,0)
+Not like or hate<END>
+
+//じゃあ、別のを…<END>
+#JMP($97DE7)
+#FIXEDLENGTH(16,0)
+Then, another…<END>
+
+//じゃあ、もういいや<END>
+#JMP($97DF8)
+#FIXEDLENGTH(18,0)
+Then, never mind<END>
+
+//そっか大変だ<END>
+#JMP($97E0B)
+#FIXEDLENGTH(12,0)
+Wow, rough<END>
+
+//どうしたの？<END>
+#JMP($97E18)
+#FIXEDLENGTH(12,0)
+What's up?<END>
+
+//うわ～ そりゃ大変だ<END>
+#JMP($97E25)
+#FIXEDLENGTH(19,0)
+Whoa, that's rough<END>
+
+//ふーん…<END>
+#JMP($97E39)
+#FIXEDLENGTH(8,0)
+Hmm…<END>
+
+//怖いよ～<END>
+#JMP($97E42)
+#FIXEDLENGTH(8,0)
+Scary～<END>
+
+//全然<END>
+#JMP($97E4B)
+#FIXEDLENGTH(4,0)
+No<END>
+
+//だまされたね<END>
+#JMP($97E50)
+#FIXEDLENGTH(12,0)
+Got fooled<END>
+
+//そんなコトない<END>
+#JMP($97E5D)
+#FIXEDLENGTH(14,0)
+Not at all<END>
+
+//わっはっは！<END>
+#JMP($97E6C)
+#FIXEDLENGTH(12,0)
+Ha ha ha!<END>
+
+//だまされてないよ<END>
+#JMP($97E79)
+#FIXEDLENGTH(16,0)
+I wasn't fooled<END>
+
+//気が付きなよ…<END>
+#JMP($97E8A)
+#FIXEDLENGTH(14,0)
+Wise up…<END>
+
+//ジーンと しちゃう<END>
+#JMP($97EC2)
+#FIXEDLENGTH(17,0)
+Touchin'<END>
+
+//切ない<END>
+#JMP($97ED4)
+#FIXEDLENGTH(6,0)
+Achy<END>
+
+//めいわく<END>
+#JMP($97EDB)
+#FIXEDLENGTH(8,0)
+Bother<END>
+
+//ツライ<END>
+#JMP($97EE4)
+#FIXEDLENGTH(6,0)
+Hard<END>
+
+//ムカツク<END>
+#JMP($97EEB)
+#FIXEDLENGTH(8,0)
+Annoyin'<END>
+
+//カッコいい<END>
+#JMP($97EF4)
+#FIXEDLENGTH(10,0)
+Cool<END>
+
+//キモチいい<END>
+#JMP($97EFF)
+#FIXEDLENGTH(10,0)
+Feels good<END>
+
+//体にいい<END>
+#JMP($97F0A)
+#FIXEDLENGTH(8,0)
+Healthy<END>
+
+//世の中のためになる<END>
+#JMP($97F13)
+#FIXEDLENGTH(18,0)
+Good for the world<END>
+
+//オトナっぽい<END>
+#JMP($97F26)
+#FIXEDLENGTH(12,0)
+Grown-up<END>
+
+//強い<END>
+#JMP($97F33)
+#FIXEDLENGTH(4,0)
+Tuff<END>
+
+//大きい<END>
+#JMP($97F38)
+#FIXEDLENGTH(6,0)
+Big<END>
+
+//大切<END>
+#JMP($97F3F)
+#FIXEDLENGTH(4,0)
+Key<END>
+
+//遊びにカンケーある<END>
+#JMP($97F57)
+#FIXEDLENGTH(18,0)
+About play<END>
+
+//仕事にカンケーある<END>
+#JMP($97F6A)
+#FIXEDLENGTH(18,0)
+About work<END>
+
+//エッチっぽい<END>
+#JMP($97F7D)
+#FIXEDLENGTH(12,0)
+Naughty<END>
+
+//クセに なっちゃう<END>
+#JMP($97F8A)
+#FIXEDLENGTH(17,0)
+Habit-formin'<END>
+
+//キレイ<END>
+#JMP($97F9C)
+#FIXEDLENGTH(6,0)
+Pretty<END>
+
+//カワイイ<END>
+#JMP($97FA3)
+#FIXEDLENGTH(8,0)
+Cute<END>
+
+//ゴージャス<END>
+#JMP($97FAC)
+#FIXEDLENGTH(10,0)
+Gorgeous<END>
+
+// AI-UNSURE: negative stem (Jp "…じゃ" + ない); full negative used, check sentence
+//胸キュンじゃ<END>
+#JMP($97FB7)
+#FIXEDLENGTH(12,0)
+Not swoony<END>
+
+// AI-UNSURE: negative stem
+//ジーンとし<END>
+#JMP($97FC4)
+#FIXEDLENGTH(10,0)
+Not movin'<END>
+
+// AI-UNSURE: negative stem
+//切なく<END>
+#JMP($97FCF)
+#FIXEDLENGTH(6,0)
+Fine<END>
+
+// AI-UNSURE: negative stem
+//めいわくじゃ<END>
+#JMP($97FD6)
+#FIXEDLENGTH(12,0)
+Not a bother<END>
+
+// AI-UNSURE: negative stem
+//ツラく<END>
+#JMP($97FE3)
+#FIXEDLENGTH(6,0)
+Easy<END>
+
+// AI-UNSURE: negative stem
+//ムカツか<END>
+#JMP($97FEA)
+#FIXEDLENGTH(8,0)
+Fine<END>
+
+// AI-UNSURE: negative stem
+//カッコよく<END>
+#JMP($97FF3)
+#FIXEDLENGTH(10,0)
+Not cool<END>
+
+// AI-UNSURE: negative stem
+//キモチよく<END>
+#JMP($97FFE)
+#FIXEDLENGTH(10,0)
+Not good<END>
+
+// AI-UNSURE: negative stem
+//体によく<END>
+#JMP($98009)
+#FIXEDLENGTH(8,0)
+Bad 4 u<END>
+
+// AI-UNSURE: negative stem
+//ためになら<END>
+#JMP($98012)
+#FIXEDLENGTH(10,0)
+Not useful<END>
+
+// AI-UNSURE: negative stem
+//オトナっぽく<END>
+#JMP($9801D)
+#FIXEDLENGTH(12,0)
+Not grown-up<END>
+
+// AI-UNSURE: negative stem
+//強く<END>
+#JMP($9802A)
+#FIXEDLENGTH(4,0)
+Weak<END>
+
+// AI-UNSURE: negative stem
+//大きく<END>
+#JMP($9802F)
+#FIXEDLENGTH(6,0)
+Small<END>
+
+// AI-UNSURE: negative stem
+//大切じゃ<END>
+#JMP($98036)
+#FIXEDLENGTH(8,0)
+Not key<END>
+
+// AI-UNSURE: negative stem
+//遊びのコトじゃ<END>
+#JMP($9804E)
+#FIXEDLENGTH(14,0)
+Not about play<END>
+
+// AI-UNSURE: negative stem
+//仕事のコトじゃ<END>
+#JMP($9805D)
+#FIXEDLENGTH(14,0)
+Not about work<END>
+
+// AI-UNSURE: negative stem
+//エッチじゃ<END>
+#JMP($9806C)
+#FIXEDLENGTH(10,0)
+Not lewd<END>
+
+// AI-UNSURE: negative stem
+//クセに なら<END>
+#JMP($98077)
+#FIXEDLENGTH(11,0)
+No habit<END>
+
+// AI-UNSURE: negative stem
+//キレイじゃ<END>
+#JMP($98083)
+#FIXEDLENGTH(10,0)
+Not pretty<END>
+
+// AI-UNSURE: negative stem
+//カワイく<END>
+#JMP($9808E)
+#FIXEDLENGTH(8,0)
+Not cute<END>
+
+// AI-UNSURE: negative stem
+//ゴージャスじゃ<END>
+#JMP($98097)
+#FIXEDLENGTH(14,0)
+Not gorgeous<END>
+
+//カッコ悪い<END>
+#JMP($980A6)
+#FIXEDLENGTH(10,0)
+Uncool<END>
+
+//キモチ悪い<END>
+#JMP($980B1)
+#FIXEDLENGTH(10,0)
+Feels bad<END>
+
+//体によくない<END>
+#JMP($980BC)
+#FIXEDLENGTH(12,0)
+Unhealthy<END>
 
 //ノーコメント<END>
 #JMP($9813D)
