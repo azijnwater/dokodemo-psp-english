@@ -36893,80 +36893,847 @@ A[LR]
 robot was[LR]
 developed～[LR]<END>
 
+//うわー[LR]<END>
+#JMP($5A6AC)
+#FIXEDLENGTH(7,0)
+Wow[LR]<END>
+
+//[WORD1]から ビームとか 出るのか[NYA]～[LR]<END>
+#JMP($5A6B5)
+#FIXEDLENGTH(35,0)
+Do beams come[LR]
+from [WORD1][LR]
+[NYA]～[LR]<END>
+
+//ストレスが たまると…[LR]<END>
+#JMP($5A6FE)
+#FIXEDLENGTH(22,0)
+When stressed…[LR]<END>
+
+//[WORD0]に 穴が 開いちゃうんだって～[LR]<END>
+#JMP($5A71F)
+#FIXEDLENGTH(34,0)
+you get a hole[LR]
+in [WORD0]～[LR]<END>
+
+//[WORD1]も 気をつけてね…[LR]<END>
+#JMP($5A754)
+#FIXEDLENGTH(23,0)
+[WORD1], be[LR]
+careful…[LR]<END>
+
+//[WORD2]の おすすめの テレビ番組って なぁに？<END>
+#JMP($5A787)
+#FIXEDLENGTH(42,0)
+What TV show does [WORD2] recommend?<END>
+
+//[WORD3]に 巻くだけで…[LR]<END>
+#JMP($5A80E)
+#FIXEDLENGTH(21,0)
+Wrap it on[LR]
+[WORD3]…[LR]<END>
+
+//電気の力で [WORD3]が 筋肉モリモリに なっちゃうんだって～<END>
+#JMP($5A825)
+#FIXEDLENGTH(54,0)
+and electric power makes [WORD3] super buff～<END>
+
+//[WORD3]の筋肉？<END>
+#JMP($5A861)
+#FIXEDLENGTH(13,0)
+Buff [WORD3]?<END>
+
+//「[VAR1]」を 見ながらでも～[LR]<END>
+#JMP($5A87C)
+#FIXEDLENGTH(25,0)
+Even watchin'[LR]
+"[VAR1]"～[LR]<END>
+
+//[WORD4] しながらでも～[LR]<END>
+#JMP($5A897)
+#FIXEDLENGTH(21,0)
+even while[LR]
+[WORD4]-ing[LR]<END>
+
+//楽々 [WORD3]が 引きしまっちゃうの[NYA]！[LR]<END>
+#JMP($5A8B7)
+#FIXEDLENGTH(37,0)
+[WORD3] firms[LR]
+up easy [NYA]![LR]<END>
+
 //[WORD2]の おトモダチ おしえて～<END>
 #JMP($5A8FB)
 #FIXEDLENGTH(29,0)
 Tell me [WORD2]'s friends～<END>
+
+//[WORD1]は 通販で [WORD3]を買って…[LR]<END>
+#JMP($5A967)
+#FIXEDLENGTH(31,0)
+[WORD1][LR]
+mail-ordered[LR]
+[WORD3]…[LR]<END>
+
+//ヒドイ目に あったらしい[NYA]～<END>
+#JMP($5A988)
+#FIXEDLENGTH(28,0)
+and had a bad time [NYA]～<END>
+
+//なにが あったのか[NYA]…？[LR]<END>
+#JMP($5A9BF)
+#FIXEDLENGTH(25,0)
+What happened[LR]
+[NYA]…?[LR]<END>
+
+//ニセモノの [WORD3] だったのかも[NYA]！[LR]<END>
+#JMP($5A9E3)
+#FIXEDLENGTH(35,0)
+Maybe the[LR]
+[WORD3] was[LR]
+fake [NYA]![LR]<END>
+
+//あ なんだ～[LR]<END>
+#JMP($5AA12)
+#FIXEDLENGTH(12,0)
+Oh, huh～[LR]<END>
+
+//もう知ってたの[NYA]？[LR]<END>
+#JMP($5AA20)
+#FIXEDLENGTH(20,0)
+You knew [NYA]?[LR]<END>
+
+//せっかくの [WORD3]が…[LR]<END>
+#JMP($5AA3F)
+#FIXEDLENGTH(21,0)
+The new[LR]
+[WORD3]…[LR]<END>
+
+//ニセモノ だったらしい[NYA]～[LR]<END>
+#JMP($5AA56)
+#FIXEDLENGTH(27,0)
+was a fake[LR]
+[NYA]～[LR]<END>
+
+//[WORD1]が 通販で [WORD3]を買って ヒドイ目に会った、という ウワサを聞いた<END>
+#JMP($5AA73)
+#FIXEDLENGTH(68,0)
+Heard [WORD1] had a bad time buyin' [WORD3] by mail order<END>
+
+//見た目 スマートの [WORD0]でも…[LR]<END>
+#JMP($5AAE2)
+#FIXEDLENGTH(30,0)
+Even slim-lookin'[LR]
+[WORD0]…[LR]<END>
+
+//[WORD0]の中は 脂肪が いっぱいの…[LR]<END>
+#JMP($5AB0B)
+#FIXEDLENGTH(32,0)
+inside [WORD0][LR]
+is full of fat…[LR]<END>
+
+//「隠れ[WORD0]肥満」ってのが あるらしい[NYA]…<END>
+#JMP($5AB2D)
+#FIXEDLENGTH(41,0)
+"hidden [WORD0] obesity" exists [NYA]…<END>
 
 //そっか～[LR]<END>
 #JMP($5AB69)
 #FIXEDLENGTH(9,0)
 I see～[LR]<END>
 
+//[WORD0]は 見た目じゃ ないんだ[NYA]～[LR]<END>
+#JMP($5AB74)
+#FIXEDLENGTH(33,0)
+[WORD0] isn't[LR]
+about looks[LR]
+[NYA]～[LR]<END>
+
+//[WORD0]を いっぱい 飲むと…[LR]<END>
+#JMP($5ABD0)
+#FIXEDLENGTH(26,0)
+Drink lots of[LR]
+[WORD0]…[LR]<END>
+
+//[WORD1]が 大きくなるんだって！[LR]<END>
+#JMP($5ABEC)
+#FIXEDLENGTH(29,0)
+and [WORD1][LR]
+gets big![LR]<END>
+
 //だから…[LR]<END>
 #JMP($5AC14)
 #FIXEDLENGTH(9,0)
 So…[LR]<END>
+
+//成長期の人は [WORD0]を いっぱい 飲まないと ダメなんだ[NYA]～<END>
+#JMP($5AC1F)
+#FIXEDLENGTH(56,0)
+Growin' folks gotta drink lots of [WORD0] [NYA]～<END>
+
+//[WORD2]も [WORD1]…[LR]<END>
+#JMP($5AC7A)
+#FIXEDLENGTH(16,0)
+[WORD2]'s[LR]
+[WORD1]…[LR]<END>
+
+//大きくなりたい[NYA]～[LR]<END>
+#JMP($5AC92)
+#FIXEDLENGTH(20,0)
+to grow big[LR]
+[NYA]～[LR]<END>
+
+//[WORD0]には 栄養たっぷり[NYA]！[LR]<END>
+#JMP($5ACB2)
+#FIXEDLENGTH(28,0)
+[WORD0] is so[LR]
+nourishin' [NYA]![LR]<END>
+
+//きっと [WORD1]も 大きくなるの[NYA]！[LR]<END>
+#JMP($5ACD0)
+#FIXEDLENGTH(33,0)
+[WORD1] will[LR]
+surely grow too[LR]
+[NYA]![LR]<END>
+
+//[WORD2]が よくするコト って なぁに？<END>
+#JMP($5AD0D)
+#FIXEDLENGTH(34,0)
+What does [WORD2] often do?<END>
+
+//「連続 [WORD1]」の 世界記録が 出たんだって～！<END>
+#JMP($5AD6E)
+#FIXEDLENGTH(44,0)
+A world record for "nonstop [WORD1]"～!<END>
+
+//連続[WORD1]？<END>
+#JMP($5AD9C)
+#FIXEDLENGTH(11,0)
+Nonstop?<END>
+
+//なんと [VAR3]時間 [WORD1]しっぱなし！[LR]<END>
+#JMP($5ADB6)
+#FIXEDLENGTH(33,0)
+[VAR3] hours[LR]
+straight of[LR]
+[WORD1]![LR]<END>
+
+//うひゃ～[LR]大記録だ[NYA]～[LR]<END>
+#JMP($5ADD9)
+#FIXEDLENGTH(23,0)
+Whoa～[LR]
+A big record～[LR]<END>
+
+//[WORD2]の 好きな 飲みモノって なぁに？<END>
+#JMP($5AE0C)
+#FIXEDLENGTH(36,0)
+What's [WORD2]'s fave drink?<END>
+
+//[WORD1]は お肌にイイ、って聞いたから…[LR]<END>
+#JMP($5AE7F)
+#FIXEDLENGTH(37,0)
+I heard[LR]
+[WORD1] is[LR]
+good for skin…[LR]<END>
+
+//[WORD3]に ぬりぬり したの[NYA]…<END>
+#JMP($5AEAF)
+#FIXEDLENGTH(28,0)
+so I rubbed it on [WORD3]…<END>
 
 //[WORD3]に？<END>
 #JMP($5AECD)
 #FIXEDLENGTH(9,0)
 [WORD3]?<END>
 
+//そしたら、しみるの！[LR]<END>
+#JMP($5AEE5)
+#FIXEDLENGTH(21,0)
+Then it stung![LR]<END>
+
+//痛いの 痛いの！[LR]<END>
+#JMP($5AEFC)
+#FIXEDLENGTH(16,0)
+Ouch, ouch![LR]<END>
+
+//[WORD4] ヒリヒリする[NYA]！[LR]<END>
+#JMP($5AF0E)
+#FIXEDLENGTH(24,0)
+[WORD4][LR]
+stingin' [NYA]![LR]<END>
+
+//[WORD2]が よく飲む 飲みモノって なぁに？<END>
+#JMP($5AF49)
+#FIXEDLENGTH(38,0)
+What does [WORD2] often drink?<END>
+
+//髪の毛が 痛んだら…[LR]<END>
+#JMP($5AFA0)
+#FIXEDLENGTH(20,0)
+For damaged[LR]
+hair…[LR]<END>
+
+//[WORD1]が イイ、って聞いたから…[LR]<END>
+#JMP($5AFB6)
+#FIXEDLENGTH(31,0)
+I heard[LR]
+[WORD1] is[LR]
+good…[LR]<END>
+
+//[WORD1]で シャンプー してみたの[NYA]～<END>
+#JMP($5AFE0)
+#FIXEDLENGTH(34,0)
+so I shampooed with [WORD1] [NYA]～<END>
+
 //[WORD1]で？<END>
 #JMP($5B004)
 #FIXEDLENGTH(9,0)
 W/ [WORD1]?<END>
+
+//アタマが ごわごわして パリパリに なっちゃったよ～？[LR]<END>
+#JMP($5B01C)
+#FIXEDLENGTH(52,0)
+My head got[LR]
+stiff and[LR]
+crunchy～?[LR]<END>
+
+//[WORD2]が よく食べる おいしい 食べモノって なぁに？<END>
+#JMP($5B073)
+#FIXEDLENGTH(49,0)
+What tasty food does [WORD2] often eat?<END>
+
+//おフロに [WORD1]を浮かべる 「[VAR1]湯」って…<END>
+#JMP($5B0FF)
+#FIXEDLENGTH(40,0)
+A "[VAR1] bath" with [WORD1] floatin'…<END>
+
+//カゼを ひきにくく なるんだって～<END>
+#JMP($5B129)
+#FIXEDLENGTH(32,0)
+helps keep colds away～<END>
+
+//[WORD1]湯？<END>
+#JMP($5B14B)
+#FIXEDLENGTH(9,0)
+Bath?<END>
+
+//なんだか…[LR]<END>
+#JMP($5B163)
+#FIXEDLENGTH(11,0)
+Somehow…[LR]<END>
+
+//おいしそうだけど～[LR]<END>
+#JMP($5B170)
+#FIXEDLENGTH(19,0)
+sounds tasty～[LR]<END>
+
+//[WORD2]の [WORD3]や [WORD4]も…[LR]<END>
+#JMP($5B196)
+#FIXEDLENGTH(26,0)
+[WORD2]'s[LR]
+[WORD3] and[LR]
+[WORD4]…[LR]<END>
+
+//[WORD1]味に なっちゃうのか[NYA]～[LR]<END>
+#JMP($5B1B2)
+#FIXEDLENGTH(30,0)
+would taste like[LR]
+[WORD1] [NYA]～[LR]<END>
+
+//なんか してほしいコト ある？<END>
+#JMP($5B1E4)
+#FIXEDLENGTH(28,0)
+Anything you want done?<END>
+
+//[WORD1]してもらう時は…[LR]<END>
+#JMP($5B25D)
+#FIXEDLENGTH(22,0)
+When[LR]
+[WORD1]-ed…[LR]<END>
+
+//静かに目を 閉じるのが マナーなんだって～[LR]<END>
+#JMP($5B275)
+#FIXEDLENGTH(41,0)
+quietly closin'[LR]
+your eyes is[LR]
+manners～[LR]<END>
+
+//[WORD1]してもらう時？<END>
+#JMP($5B2A0)
+#FIXEDLENGTH(19,0)
+Gettin' [WORD1]-ed?<END>
 
 //でもね…[LR]<END>
 #JMP($5B2C2)
 #FIXEDLENGTH(9,0)
 But…[LR]<END>
 
+//この前、[WORD2]に [WORD1]してもらう時…[LR]<END>
+#JMP($5B2CD)
+#FIXEDLENGTH(36,0)
+The other day,[LR]
+[WORD2][LR]
+[WORD1]-ed[LR]
+me…[LR]<END>
+
+//目を閉じてたら その間に～[LR]<END>
+#JMP($5B2FC)
+#FIXEDLENGTH(26,0)
+eyes closed,[LR]
+meanwhile～[LR]<END>
+
+//[WORD4]の [WORD3]…[LR]<END>
+#JMP($5B320)
+#FIXEDLENGTH(16,0)
+[WORD4]'s[LR]
+[WORD3]…[LR]<END>
+
+//取られちゃった[NYA]～？[LR]<END>
+#JMP($5B33B)
+#FIXEDLENGTH(22,0)
+got taken[LR]
+[NYA]～?[LR]<END>
+
+//世の中には どんな職業が あるの？<END>
+#JMP($5B36C)
+#FIXEDLENGTH(32,0)
+What jobs are in the world?<END>
+
+//[WORD2]を つまんだら 丸くなるのが～[LR]<END>
+#JMP($5B3D2)
+#FIXEDLENGTH(34,0)
+Pinch [WORD2][LR]
+and it curls up～[LR]<END>
+
+//かしこい ネコなんだって！[LR]<END>
+#JMP($5B3FF)
+#FIXEDLENGTH(26,0)
+that's a smart[LR]
+cat![LR]<END>
+
+//[WORD3]は？<END>
+#JMP($5B42A)
+#FIXEDLENGTH(9,0)
+[WORD3]?<END>
+
+//この前、[WORD1]に [WORD2]を つままれたから…[LR]<END>
+#JMP($5B43E)
+#FIXEDLENGTH(41,0)
+[WORD1][LR]
+pinched my[LR]
+[WORD2] lately…[LR]<END>
+
+//ちゃんと 丸くなってみた[NYA]！<END>
+#JMP($5B469)
+#FIXEDLENGTH(28,0)
+so I curled right up [NYA]!<END>
+
+//どう？[LR][WORD3]、 かしこい？<END>
+#JMP($5B498)
+#FIXEDLENGTH(25,0)
+Well?[LR]
+Is [WORD3][LR]
+smart?<END>
+
+//えっへん！[LR][WORD3]、 かしこい！[LR]<END>
+#JMP($5B4CA)
+#FIXEDLENGTH(30,0)
+Ahem![LR]
+[WORD3] is[LR]
+smart![LR]<END>
+
+//そんにゃ～[LR]にゃんで～[LR]<END>
+#JMP($5B4F7)
+#FIXEDLENGTH(22,0)
+No way～[LR]
+Why～[LR]<END>
+
 //今 なんか したいコト ある？<END>
 #JMP($5B521)
 #FIXEDLENGTH(27,0)
 Anything you wanna do now?<END>
+
+//[WORD1]は 人に 見られるコトで 上達するんだって～<END>
+#JMP($5B584)
+#FIXEDLENGTH(46,0)
+[WORD1] improves when people watch～<END>
 
 //[WORD1]が？<END>
 #JMP($5B5B4)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
 
+//だから 人が いっぱいいる [WORD2]で…[LR]<END>
+#JMP($5B5CC)
+#FIXEDLENGTH(35,0)
+So at crowded[LR]
+[WORD2]…[LR]<END>
+
+//[WORD1] してきたんだケド…[LR]<END>
+#JMP($5B5F1)
+#FIXEDLENGTH(25,0)
+I did [WORD1],[LR]
+but…[LR]<END>
+
+//なんか [WORD2]の エライ人に 怒られた[NYA]…[LR]<END>
+#JMP($5B615)
+#FIXEDLENGTH(40,0)
+a [WORD2][LR]
+bigwig scolded[LR]
+me [NYA]…[LR]<END>
+
+//[WORD3]が ステキだな って思う [VAR2]の人 って だぁれ？<END>
+#JMP($5B669)
+#FIXEDLENGTH(49,0)
+What [VAR2] has lovely [WORD3]?<END>
+
+//いつか 人間に なったら…[LR]<END>
+#JMP($5B6CB)
+#FIXEDLENGTH(25,0)
+When I'm human[LR]
+someday…[LR]<END>
+
+//[WORD3]と ケッコンして～[LR]<END>
+#JMP($5B6F7)
+#FIXEDLENGTH(23,0)
+I'll marry[LR]
+[WORD3]～[LR]<END>
+
+//[WORD1]みたいな 赤ちゃんが ほしい[NYA]♥<END>
+#JMP($5B710)
+#FIXEDLENGTH(36,0)
+and want a baby like [WORD1] [NYA]♥<END>
+
+//子育て、今から 勉強しとかにゃいと～[LR]<END>
+#JMP($5B74F)
+#FIXEDLENGTH(36,0)
+Gotta study[LR]
+parentin' now～[LR]<END>
+
 //笑われちゃった…[LR]<END>
 #JMP($5B783)
 #FIXEDLENGTH(17,0)
 You laughed…[LR]<END>
+
+//やっぱ コドモは いっぱい いた方が イイか[NYA]？[LR]<END>
+#JMP($5B79F)
+#FIXEDLENGTH(46,0)
+Lots of kids is[LR]
+better [NYA]?[LR]<END>
+
+//愛があれば 年の差なんて！<END>
+#JMP($5B7FF)
+#FIXEDLENGTH(25,0)
+With love, age is nothin'<END>
+
+//年の差なんて 気にしなくて イイよね～[LR]<END>
+#JMP($5B838)
+#FIXEDLENGTH(37,0)
+No need to mind[LR]
+age gaps, right～[LR]<END>
+
+//えー[LR]年の差 気にするの～[LR]<END>
+#JMP($5B86E)
+#FIXEDLENGTH(25,0)
+Eh[LR]
+You mind age[LR]
+gaps～[LR]<END>
+
+//えっと～[LR]それじゃあ…[LR]<END>
+#JMP($5B892)
+#FIXEDLENGTH(22,0)
+Um～[LR]
+Then…[LR]<END>
+
+//愛があれば [WORD0]の差なんて？<END>
+#JMP($5B8B3)
+#FIXEDLENGTH(28,0)
+With love, [WORD0] is nothin'?<END>
+
+//愛があれば 年の差も [WORD0]の差も 気にならない<END>
+#JMP($5B8F3)
+#FIXEDLENGTH(44,0)
+With love, age and [WORD0] gaps don't matter<END>
+
+//年の差は 気にするが、 [WORD0]の差は 気にならない<END>
+#JMP($5B932)
+#FIXEDLENGTH(46,0)
+Minds age gaps, not [WORD0] gaps<END>
+
+//[WORD0]の差[VAR2] 気にしなくて イイよね～[LR]<END>
+#JMP($5B96B)
+#FIXEDLENGTH(37,0)
+Don't mind[LR]
+[WORD0] gaps[LR]
+[VAR2], right～[LR]<END>
+
+//年の差は 気にしないが、[WORD0]の差は 気にする<END>
+#JMP($5B99D)
+#FIXEDLENGTH(43,0)
+Minds [WORD0] gaps, not age gaps<END>
+
+//愛があっても 年の差や [WORD0]の差は 気になる<END>
+#JMP($5B9D3)
+#FIXEDLENGTH(42,0)
+Even with love, age and [WORD0] gaps matter<END>
+
+//えー 何で～[LR]<END>
+#JMP($5BA0A)
+#FIXEDLENGTH(12,0)
+Eh, why～[LR]<END>
+
+//[WORD0]の差…[LR]気になるんだ…[LR]<END>
+#JMP($5BA1E)
+#FIXEDLENGTH(27,0)
+[WORD0] gaps…[LR]
+you mind…[LR]<END>
+
+//なんか やりたいコト おしえて～<END>
+#JMP($5BA54)
+#FIXEDLENGTH(30,0)
+Tell me somethin' you wanna do<END>
+
+//好きな人と いっしょに [WORD1]できたら シアワセだよね～<END>
+#JMP($5BAA3)
+#FIXEDLENGTH(52,0)
+[WORD1] with someone you love is happiness～<END>
+
+//ふたりは 息ピッタリで [WORD1]するの[NYA]♥[LR]<END>
+#JMP($5BAF2)
+#FIXEDLENGTH(39,0)
+The two[LR]
+[WORD1] in[LR]
+perfect sync[LR]
+[NYA]♥[LR]<END>
+
+//そういう ふたりって…[LR]<END>
+#JMP($5BB24)
+#FIXEDLENGTH(22,0)
+A pair like that…[LR]<END>
+
+//なんか 長いつきあい、って感じで ステキだよね～[LR]<END>
+#JMP($5BB3C)
+#FIXEDLENGTH(47,0)
+feels like a long[LR]
+bond, so lovely～[LR]<END>
+
+//あれれ？[LR]変だ[NYA]？[LR]<END>
+#JMP($5BB77)
+#FIXEDLENGTH(19,0)
+Huh?[LR]
+Weird [NYA]?[LR]<END>
+
+//好きな人と [WORD1]を いっしょに しちゃ ダメなのか[NYA]？[LR]<END>
+#JMP($5BB95)
+#FIXEDLENGTH(53,0)
+Can't [WORD1][LR]
+with someone[LR]
+you love [NYA]?[LR]<END>
+
+//[VAR0]の人の体で どの辺が 気になる？<END>
+#JMP($5BBEE)
+#FIXEDLENGTH(33,0)
+Which [VAR0] body part grabs you?<END>
+
+//恋をすると キレイに なるの[NYA]♥<END>
+#JMP($5BC40)
+#FIXEDLENGTH(31,0)
+Love makes you pretty [NYA]♥<END>
+
+//[WORD3]も [WORD4]に 恋してるから…[LR]<END>
+#JMP($5BC82)
+#FIXEDLENGTH(31,0)
+[WORD3] loves[LR]
+[WORD4] too…[LR]<END>
+
+//そのうち [WORD2]が キレイな 人間に なるんだ[NYA]！[LR]<END>
+#JMP($5BCA3)
+#FIXEDLENGTH(47,0)
+so [WORD2] will[LR]
+be a pretty[LR]
+human [NYA]![LR]<END>
 
 //だれか 人のお名前 おしえて～<END>
 #JMP($5BCE6)
 #FIXEDLENGTH(28,0)
 Tell me someone's name～<END>
 
+//[WORD1]って…[LR]エッチな人？<END>
+#JMP($5BD33)
+#FIXEDLENGTH(24,0)
+Is [WORD1]…[LR]
+a perv?<END>
+
 //そっか～[LR]<END>
 #JMP($5BD71)
 #FIXEDLENGTH(9,0)
 I see～[LR]<END>
+
+//[WORD2]、あんまり [WORD1]と ふたりきりに なっちゃ ダメだよ！[LR]<END>
+#JMP($5BD8D)
+#FIXEDLENGTH(57,0)
+[WORD2], don't[LR]
+be alone with[LR]
+[WORD1] much![LR]<END>
+
+//そっか、よかった～[LR]<END>
+#JMP($5BDDD)
+#FIXEDLENGTH(19,0)
+I see, phew～[LR]<END>
+
+//[WORD2]が [WORD1]に エッチなコトされたら…[LR]<END>
+#JMP($5BE03)
+#FIXEDLENGTH(39,0)
+If [WORD1] did[LR]
+naughty stuff[LR]
+to [WORD2]…[LR]<END>
+
+//どうしようかと 思っちゃった♥[LR]<END>
+#JMP($5BE32)
+#FIXEDLENGTH(30,0)
+I didn't know[LR]
+what to do♥[LR]<END>
+
+//エッチな人 って どんな人のコト？<END>
+#JMP($5BE67)
+#FIXEDLENGTH(32,0)
+What's a pervy person like?<END>
+
+//[WORD2]を 見ればね～[LR]<END>
+#JMP($5BECF)
+#FIXEDLENGTH(19,0)
+Look at[LR]
+[WORD2]～[LR]<END>
+
+//その人が エッチか どうか わかるの[NYA]！<END>
+#JMP($5BEE4)
+#FIXEDLENGTH(38,0)
+and you can tell if they're pervy [NYA]!<END>
+
+//[WORD1]の [WORD2]とか…[LR]<END>
+#JMP($5BF1D)
+#FIXEDLENGTH(20,0)
+[WORD1]'s[LR]
+[WORD2]…[LR]<END>
+
+//きっと エッチな [WORD2]してるの[NYA]～[LR]<END>
+#JMP($5BF33)
+#FIXEDLENGTH(35,0)
+surely a pervy[LR]
+[WORD2] [NYA]～[LR]<END>
+
+//初恋は [WORD0]の味が するって ホント？<END>
+#JMP($5BF7C)
+#FIXEDLENGTH(36,0)
+Does first love taste like [WORD0]?<END>
+
+//わー、初恋って おいしそうなんだ[NYA]～[LR]<END>
+#JMP($5BFBB)
+#FIXEDLENGTH(37,0)
+Wow, first love[LR]
+sounds tasty[LR]
+[NYA]～[LR]<END>
+
+//初恋したら いつも [WORD0]が 味わえるの[NYA]！[LR]<END>
+#JMP($5BFEB)
+#FIXEDLENGTH(42,0)
+In first love, you[LR]
+always taste[LR]
+[WORD0]![LR]<END>
 
 //ありゃあ…[LR]<END>
 #JMP($5C036)
 #FIXEDLENGTH(11,0)
 Oh my…[LR]<END>
 
+//[WORD0]の味じゃない…[LR]<END>
+#JMP($5C043)
+#FIXEDLENGTH(20,0)
+Not [WORD0][LR]
+taste…[LR]<END>
+
+//じゃあ [WORD1]の味かも[NYA]…[LR]<END>
+#JMP($5C062)
+#FIXEDLENGTH(26,0)
+Then maybe[LR]
+[WORD1] [NYA]…[LR]<END>
+
+//[WORD2]が よく するコトって なぁに？<END>
+#JMP($5C098)
+#FIXEDLENGTH(34,0)
+What does [WORD2] often do?<END>
+
+//いつも [WORD2]の そばに いたいの[NYA]…[LR]<END>
+#JMP($5C108)
+#FIXEDLENGTH(36,0)
+I wanna be by[LR]
+[WORD2]'s side[LR]
+always…[LR]<END>
+
+//[WORD1] する時も [WORD3] する時も…[LR]<END>
+#JMP($5C137)
+#FIXEDLENGTH(32,0)
+When[LR]
+[WORD1]-ing or[LR]
+[WORD3]-ing…[LR]<END>
+
+//[WORD2]を そばに おいてね？<END>
+#JMP($5C161)
+#FIXEDLENGTH(25,0)
+keep [WORD2] close?<END>
+
 //わーい！[LR]<END>
 #JMP($5C195)
 #FIXEDLENGTH(9,0)
 Yay![LR]<END>
+
+//おとなしく してるからね！[LR]<END>
+#JMP($5C1A0)
+#FIXEDLENGTH(26,0)
+I'll be good![LR]<END>
+
+//[WORD2]の [WORD1]の ジャマしたり しないからね！[LR]<END>
+#JMP($5C1CD)
+#FIXEDLENGTH(44,0)
+I won't get in[LR]
+[WORD2]'s[LR]
+[WORD1]![LR]<END>
+
+//しょぼーん…[LR]<END>
+#JMP($5C209)
+#FIXEDLENGTH(13,0)
+Mope…[LR]<END>
+
+//夜中に 目が覚めて…[LR]<END>
+#JMP($5C243)
+#FIXEDLENGTH(20,0)
+Wakin' at night…[LR]<END>
+
+//[WORD1]の [WORD0]が 見えないと 不安なの[NYA]…[LR]<END>
+#JMP($5C261)
+#FIXEDLENGTH(41,0)
+Uneasy without[LR]
+[WORD1]'s[LR]
+[WORD0] [NYA]…[LR]<END>
 
 //だから…[LR]<END>
 #JMP($5C295)
 #FIXEDLENGTH(9,0)
 So…[LR]<END>
 
+//夜は [WORD1]を そばに おいてね♥<END>
+#JMP($5C2A8)
+#FIXEDLENGTH(30,0)
+At night keep [WORD1] near♥<END>
+
 //わーい！[LR]<END>
 #JMP($5C2E1)
 #FIXEDLENGTH(9,0)
 Yay![LR]<END>
+
+//これで 夜も こわくない[NYA]～[LR]<END>
+#JMP($5C2EC)
+#FIXEDLENGTH(28,0)
+Now nights[LR]
+aren't scary～[LR]<END>
 
 //ふにゃ…[LR]<END>
 #JMP($5C314)
@@ -36978,75 +37745,590 @@ Funny…[LR]<END>
 #FIXEDLENGTH(13,0)
 Not okay…[LR]<END>
 
+//[WORD2]の 愛してる人 って だぁれ？<END>
+#JMP($5C34F)
+#FIXEDLENGTH(32,0)
+Who does [WORD2] love?<END>
+
+//「好き」って 思ってるだけじゃ ダメなの[NYA]…[LR]<END>
+#JMP($5C3A2)
+#FIXEDLENGTH(44,0)
+Just thinkin' "I[LR]
+like you" isn't[LR]
+enough…[LR]<END>
+
+//ちゃんと 「好き」って 言わないと[NYA]！[LR]<END>
+#JMP($5C3D9)
+#FIXEDLENGTH(38,0)
+You gotta say "I[LR]
+like you" [NYA]![LR]<END>
+
+//[WORD2]は [WORD1]に 好きって 言ってあげてる？<END>
+#JMP($5C412)
+#FIXEDLENGTH(41,0)
+Does [WORD2] tell [WORD1] "I like you"?<END>
+
+//ふにゃ～[LR]ちょっと ヤケちゃう[NYA]♥[LR]<END>
+#JMP($5C456)
+#FIXEDLENGTH(34,0)
+Funyaa～[LR]
+Bit jealous[LR]
+[NYA]♥[LR]<END>
+
+//ダメだよ～[LR]<END>
+#JMP($5C484)
+#FIXEDLENGTH(11,0)
+No good～[LR]<END>
+
+//[WORD1]、たぶん 好きって 言ってもらえるの 待ってるよ！[LR]<END>
+#JMP($5C491)
+#FIXEDLENGTH(53,0)
+[WORD1] is[LR]
+probably waitin'[LR]
+to hear "I like[LR]
+you"![LR]<END>
+
+//そっか～[LR]恋愛って むずかしい[NYA]～[LR]<END>
+#JMP($5C56B)
+#FIXEDLENGTH(34,0)
+I see～[LR]
+Love is hard[LR]
+[NYA]～[LR]<END>
+
+//[WORD1]、 知ってる！[LR]<END>
+#JMP($5C5BB)
+#FIXEDLENGTH(19,0)
+[WORD1] knows![LR]<END>
+
+//恋すると どうなるか、知ってる[NYA]！<END>
+#JMP($5C5D9)
+#FIXEDLENGTH(34,0)
+I know what happens in love [NYA]!<END>
+
 //えっとね～[LR]<END>
 #JMP($5C616)
 #FIXEDLENGTH(11,0)
 Well～[LR]<END>
+
+//あやや…[LR]キョーミ ないのか[NYA]…？[LR]<END>
+#JMP($5C62D)
+#FIXEDLENGTH(34,0)
+Ayaya…[LR]
+Not interested[LR]
+[NYA]…?[LR]<END>
+
+//恋するとね～[LR]<END>
+#JMP($5C65A)
+#FIXEDLENGTH(13,0)
+In love～[LR]<END>
+
+//[WORD0]の辺りが ぽーっと 熱くなるの♥[LR]<END>
+#JMP($5C669)
+#FIXEDLENGTH(36,0)
+near [WORD0][LR]
+it gets all[LR]
+warm♥[LR]<END>
+
+//それが 恋の予感なの[NYA]！[LR]<END>
+#JMP($5C698)
+#FIXEDLENGTH(25,0)
+That's love's[LR]
+hint [NYA]![LR]<END>
+
+//[WORD1]、 知ってる！[LR]<END>
+#JMP($5C6DF)
+#FIXEDLENGTH(19,0)
+[WORD1] knows![LR]<END>
+
+//恋すると どうなるか、知ってる[NYA]！<END>
+#JMP($5C6FD)
+#FIXEDLENGTH(34,0)
+I know what happens in love [NYA]!<END>
+
+//[WORD1]も 経験あるかも しれないけど～[LR]<END>
+#JMP($5C742)
+#FIXEDLENGTH(36,0)
+[WORD1][LR]
+might've felt it[LR]
+too～[LR]<END>
 
 //ありゃ…[LR]<END>
 #JMP($5C772)
 #FIXEDLENGTH(9,0)
 Oops…[LR]<END>
 
+//聞くだけ 聞いてよ～[LR]<END>
+#JMP($5C77D)
+#FIXEDLENGTH(20,0)
+Just hear me[LR]
+out～[LR]<END>
+
+//恋するとね～[LR]<END>
+#JMP($5C79C)
+#FIXEDLENGTH(13,0)
+In love～[LR]<END>
+
+//好きな [WORD0]も ノドを 通らなくなるの[NYA]♥[LR]<END>
+#JMP($5C7AB)
+#FIXEDLENGTH(42,0)
+even fave[LR]
+[WORD0] won't[LR]
+go down [NYA]♥[LR]<END>
+
+//恋すると おなかが 減って 大変だ[NYA]～[LR]<END>
+#JMP($5C7E0)
+#FIXEDLENGTH(37,0)
+Love makes you[LR]
+so hungry[LR]
+[NYA]～[LR]<END>
+
+//[WORD1]、 知ってる！[LR]<END>
+#JMP($5C833)
+#FIXEDLENGTH(19,0)
+[WORD1] knows![LR]<END>
+
+//恋すると どうなるか、知ってる[NYA]！<END>
+#JMP($5C851)
+#FIXEDLENGTH(34,0)
+I know what happens in love [NYA]!<END>
+
 //えっとね～[LR]<END>
 #JMP($5C88E)
 #FIXEDLENGTH(11,0)
 Well～[LR]<END>
+
+//ちゃんと 聞いてよ～[LR]<END>
+#JMP($5C8A5)
+#FIXEDLENGTH(20,0)
+Listen properly～[LR]<END>
+
+//好きな人のコトを 考えながら…[LR]<END>
+#JMP($5C8C4)
+#FIXEDLENGTH(30,0)
+Thinkin' of your[LR]
+love…[LR]<END>
+
+//ついつい [WORD0] しちゃうの♥[LR]<END>
+#JMP($5C8E4)
+#FIXEDLENGTH(28,0)
+you end up[LR]
+[WORD0]-ing♥[LR]<END>
+
+//切ない 恋心なの[NYA]～[LR]<END>
+#JMP($5C90B)
+#FIXEDLENGTH(21,0)
+Achin' love[LR]
+[NYA]～[LR]<END>
 
 //[WORD2]の おトモダチ おしえて～<END>
 #JMP($5C93C)
 #FIXEDLENGTH(29,0)
 Tell me [WORD2]'s friends～<END>
 
+//恋してる人はね～[LR]<END>
+#JMP($5C98C)
+#FIXEDLENGTH(17,0)
+Folks in love～[LR]<END>
+
+//恋の病に かかってるの[NYA]！<END>
+#JMP($5C9A8)
+#FIXEDLENGTH(26,0)
+have lovesickness [NYA]!<END>
+
+//お医者さまでも [WORD1]でも 治せない 病気なんだ[NYA]～[LR]<END>
+#JMP($5C9D8)
+#FIXEDLENGTH(50,0)
+Not doctors or[LR]
+[WORD1] can[LR]
+cure it [NYA]～[LR]<END>
+
+//恋って ツライんだ[NYA]…[LR]<END>
+#JMP($5CA15)
+#FIXEDLENGTH(23,0)
+Love is painful[LR]
+[NYA]…[LR]<END>
+
+//[WORD2]が よくする 好きなコト って なぁに？<END>
+#JMP($5CA48)
+#FIXEDLENGTH(41,0)
+What does [WORD2] love doin' often?<END>
+
+//[WORD2]が そばに いるって 想像しながらね…<END>
+#JMP($5CABF)
+#FIXEDLENGTH(40,0)
+Picturin' [WORD2] beside me…<END>
+
+//[WORD1]するだけで…[LR]<END>
+#JMP($5CAFA)
+#FIXEDLENGTH(18,0)
+doin' [WORD1]…[LR]<END>
+
+//なんだか 恥ずかしくって～[LR]<END>
+#JMP($5CB17)
+#FIXEDLENGTH(26,0)
+is so[LR]
+embarrassin'～[LR]<END>
+
+//[WORD3]が 真っ赤に なっちゃうの[NYA]♥[LR]<END>
+#JMP($5CB33)
+#FIXEDLENGTH(35,0)
+[WORD3] goes[LR]
+bright red[LR]
+[NYA]♥[LR]<END>
+
+//これが 恋なんだ[NYA]！[LR]<END>
+#JMP($5CB61)
+#FIXEDLENGTH(21,0)
+This is love[LR]
+[NYA]![LR]<END>
+
+//[WORD2]は [WORD1]が 好きなんだよね～[LR]<END>
+#JMP($5CBB8)
+#FIXEDLENGTH(33,0)
+[WORD2] likes[LR]
+[WORD1], right～[LR]<END>
+
+//[WORD1]のコト 考えると、胸がキュンって する？<END>
+#JMP($5CBE4)
+#FIXEDLENGTH(43,0)
+Thinkin' of [WORD1], does your heart flutter?<END>
+
 //そっか～[LR]<END>
 #JMP($5CC34)
 #FIXEDLENGTH(9,0)
 I see～[LR]<END>
+
+//胸キュンなの[NYA]～[LR]<END>
+#JMP($5CC3F)
+#FIXEDLENGTH(18,0)
+Heart-flutter～[LR]<END>
+
+//[WORD2]は [WORD1]に 恋してるんだ[NYA]…[LR]<END>
+#JMP($5CC64)
+#FIXEDLENGTH(34,0)
+[WORD2] loves[LR]
+[WORD1] [NYA]…[LR]<END>
+
+//そっか～[LR]胸キュンじゃない…[LR]<END>
+#JMP($5CC9C)
+#FIXEDLENGTH(28,0)
+I see～[LR]
+No flutter…[LR]<END>
+
+//じゃあ その 好きって キモチは 恋じゃないです[NYA]～[LR]<END>
+#JMP($5CCC3)
+#FIXEDLENGTH(50,0)
+Then that likin'[LR]
+isn't love [NYA]～[LR]<END>
+
+//好きな人が 出来た時に…[LR]<END>
+#JMP($5CD1B)
+#FIXEDLENGTH(24,0)
+When you fell…[LR]<END>
+
+//ラブラブに なれる おまじないとか した？<END>
+#JMP($5CD35)
+#FIXEDLENGTH(39,0)
+did you do a love charm?<END>
+
+//そっか～[LR]おまじない するよね～[LR]<END>
+#JMP($5CD77)
+#FIXEDLENGTH(31,0)
+Right～[LR]
+Charms, right～[LR]<END>
 
 //そっか…[LR]<END>
 #JMP($5CDA2)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
 
+//[WORD0]に 好きな人の名前を書いて…[LR]<END>
+#JMP($5CDBA)
+#FIXEDLENGTH(33,0)
+Write their name[LR]
+on [WORD0]…[LR]<END>
+
+//誰にも 見られずに 使い続けるとね～[LR]<END>
+#JMP($5CDDD)
+#FIXEDLENGTH(35,0)
+keep usin' it[LR]
+with nobody[LR]
+seein'～[LR]<END>
+
+//その人と ラブラブに なれるらしいの[NYA]♥[LR]<END>
+#JMP($5CE0B)
+#FIXEDLENGTH(40,0)
+and you'll be[LR]
+lovey-dovey[LR]
+[NYA]♥[LR]<END>
+
+//[VAR0]の人の体、どの辺が 好き？<END>
+#JMP($5CE50)
+#FIXEDLENGTH(28,0)
+Fave part of a [VAR0]'s body?<END>
+
+//恋を すると～[LR]<END>
+#JMP($5CE9D)
+#FIXEDLENGTH(14,0)
+In love～[LR]<END>
+
+//好きな人のコト 考えるだけで ドキドキして…<END>
+#JMP($5CEAD)
+#FIXEDLENGTH(42,0)
+just thinkin' of 'em makes you thump…<END>
+
+//[WORD2]がキュン♥[LR]って 痛むの[NYA]～[LR]<END>
+#JMP($5CEEA)
+#FIXEDLENGTH(33,0)
+[WORD2][LR]
+aches♥[LR]
+with a squeeze～[LR]<END>
+
+//好きな人に されたい コトって なぁに？<END>
+#JMP($5CF1F)
+#FIXEDLENGTH(37,0)
+What do you want your love to do?<END>
+
+//好きな人にね～[LR]<END>
+#JMP($5CF80)
+#FIXEDLENGTH(15,0)
+From your love[LR]<END>
+
+//[WORD1] されると [WORD2] キモチいいん だって♥[LR]<END>
+#JMP($5CF91)
+#FIXEDLENGTH(43,0)
+[WORD1] feels[LR]
+[WORD2] good♥[LR]<END>
+
+//天にも のぼるキモチ らしいの[NYA]～[LR]<END>
+#JMP($5CFC7)
+#FIXEDLENGTH(34,0)
+like risin' to[LR]
+heaven [NYA]～[LR]<END>
+
 //わー[LR]<END>
 #JMP($5D004)
 #FIXEDLENGTH(5,0)
 Wow[LR]<END>
+
+//オトナだ[NYA]～[LR]<END>
+#JMP($5D00B)
+#FIXEDLENGTH(14,0)
+Grown-up～[LR]<END>
+
+//[WORD1]されて 天にのぼるような キモチに なった<END>
+#JMP($5D01B)
+#FIXEDLENGTH(44,0)
+Got [WORD1]-ed, felt like risin' to heaven<END>
+
+//どれぐらい キモチいいのか[NYA]～[LR]<END>
+#JMP($5D057)
+#FIXEDLENGTH(31,0)
+How good does[LR]
+it feel [NYA]～[LR]<END>
+
+//[WORD3]も お空の上まで のぼってみたい[NYA]～[LR]<END>
+#JMP($5D080)
+#FIXEDLENGTH(41,0)
+[WORD3] wants[LR]
+to rise to the[LR]
+sky too [NYA]～[LR]<END>
+
+//好きな人に してあげたい コトって なぁに？<END>
+#JMP($5D0BD)
+#FIXEDLENGTH(41,0)
+What would you do for your love?<END>
+
+//好きな人が よろこんでくれる顔 見たいよね～<END>
+#JMP($5D11B)
+#FIXEDLENGTH(42,0)
+You wanna see your love's happy face～<END>
+
+//ねー、そうだよね♥[LR]<END>
+#JMP($5D160)
+#FIXEDLENGTH(19,0)
+Right, isn't it♥[LR]<END>
+
+//そんな テレないで[NYA]～[LR]<END>
+#JMP($5D17F)
+#FIXEDLENGTH(23,0)
+Don't be shy[LR]
+[NYA]～[LR]<END>
+
+//だから いっしょうけんめい [WORD1]の 練習をして！[LR]<END>
+#JMP($5D1A1)
+#FIXEDLENGTH(47,0)
+So I'll practice[LR]
+[WORD1] hard![LR]<END>
+
+//いっぱい いっぱい [WORD1] してあげるの[NYA]！[LR]<END>
+#JMP($5D1D2)
+#FIXEDLENGTH(42,0)
+and [WORD1][LR]
+lots and lots[LR]
+[NYA]![LR]<END>
+
+//そのうち [WORD2]に [WORD1] してあげるからね！[LR]<END>
+#JMP($5D20F)
+#FIXEDLENGTH(42,0)
+Someday I'll[LR]
+[WORD1][LR]
+[WORD2]![LR]<END>
 
 //[VAR1]の人<END>
 #JMP($5D268)
 #FIXEDLENGTH(7,0)
 [VAR1]s<END>
 
+//[WORD0]に 出来た ニキビはね～<END>
+#JMP($5D285)
+#FIXEDLENGTH(27,0)
+A pimple on [WORD0]～<END>
+
 //[WORD0]に？<END>
 #JMP($5D2A2)
 #FIXEDLENGTH(9,0)
 On [WORD0]?<END>
+
+//ニキビ？<END>
+#JMP($5D2AD)
+#FIXEDLENGTH(8,0)
+Pimple?<END>
+
+//思われニキビなの[NYA][LR]<END>
+#JMP($5D2C0)
+#FIXEDLENGTH(20,0)
+means you're[LR]
+liked[LR]<END>
+
+//きっと どこかで [WORD2]が ホレてるの[NYA]♥<END>
+#JMP($5D2E2)
+#FIXEDLENGTH(39,0)
+Surely [WORD2] has a crush somewhere♥<END>
+
+//[WORD2]か…<END>
+#JMP($5D314)
+#FIXEDLENGTH(9,0)
+[WORD2]…<END>
 
 //あ、そうそう！[LR]<END>
 #JMP($5D328)
 #FIXEDLENGTH(15,0)
 Oh, right![LR]<END>
 
+//[WORD3]も [WORD4]に ホレてるから～[LR]<END>
+#JMP($5D349)
+#FIXEDLENGTH(31,0)
+[WORD3] has a[LR]
+crush on[LR]
+[WORD4]～[LR]<END>
+
 //そのうち…[LR]<END>
 #JMP($5D373)
 #FIXEDLENGTH(11,0)
 Soon…[LR]<END>
+
+//[WORD3]の [WORD0]に ニキビ出来ちゃうね♥<END>
+#JMP($5D388)
+#FIXEDLENGTH(36,0)
+so [WORD3]'s [WORD0] gets pimples♥<END>
 
 //あれれ？[LR]<END>
 #JMP($5D3C7)
 #FIXEDLENGTH(9,0)
 Huh?[LR]<END>
 
+//もっと もっと ホレないと ニキビ 出てこないのか[NYA]…[LR]<END>
+#JMP($5D3D2)
+#FIXEDLENGTH(52,0)
+Gotta crush[LR]
+harder for[LR]
+pimples [NYA]…[LR]<END>
+
+//あ～[LR]痛かった？[LR]<END>
+#JMP($5D412)
+#FIXEDLENGTH(16,0)
+Ah[LR]
+Did it hurt?[LR]<END>
+
+//[WORD3]のせい[NYA]～[LR]ゴメンなさい～[LR]<END>
+#JMP($5D42C)
+#FIXEDLENGTH(32,0)
+[WORD3]'s[LR]
+fault～[LR]
+Sorry [NYA]～[LR]<END>
+
+//[WORD0]が 上手な[VAR1]の人 って…[LR]<END>
+#JMP($5D484)
+#FIXEDLENGTH(29,0)
+[VAR1]s good at[LR]
+[WORD0]…[LR]<END>
+
+//キスが 上手なんだって～<END>
+#JMP($5D4AC)
+#FIXEDLENGTH(23,0)
+are good kissers～<END>
+
 //[WORD0]が？<END>
 #JMP($5D4C8)
 #FIXEDLENGTH(9,0)
 [WORD0]?<END>
 
+//[WORD0] いっぱい 練習して…[LR]<END>
+#JMP($5D4E0)
+#FIXEDLENGTH(26,0)
+Practice[LR]
+[WORD0] lots…[LR]<END>
+
+//上手に なっといた方が イイか[NYA]…[LR]<END>
+#JMP($5D505)
+#FIXEDLENGTH(34,0)
+better get good[LR]
+[NYA]…[LR]<END>
+
+//今 すごく したいコト って なぁに？<END>
+#JMP($5D53B)
+#FIXEDLENGTH(34,0)
+What do you really wanna do now?<END>
+
+//[WORD1]が 上手だと…[LR]<END>
+#JMP($5D597)
+#FIXEDLENGTH(19,0)
+Good at[LR]
+[WORD1]…[LR]<END>
+
+//[VAR2]の子に モテモテなんだって♥<END>
+#JMP($5D5B5)
+#FIXEDLENGTH(30,0)
+[VAR2]s go crazy for you♥<END>
+
 //[WORD1]が？<END>
 #JMP($5D5D8)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
+
+//練習しよっか[NYA]…[LR]<END>
+#JMP($5D5FA)
+#FIXEDLENGTH(18,0)
+Should I[LR]
+practice[LR]<END>
+
+//今 すごく したいコト って なぁに？<END>
+#JMP($5D620)
+#FIXEDLENGTH(34,0)
+What do you really wanna do now?<END>
+
+//[WORD1]が下手だと…[LR]<END>
+#JMP($5D67C)
+#FIXEDLENGTH(18,0)
+Bad at[LR]
+[WORD1]…[LR]<END>
+
+//[VAR2]の子に ガッカリ されちゃうん だって…[LR]<END>
+#JMP($5D699)
+#FIXEDLENGTH(41,0)
+and [VAR2]s get[LR]
+let down…[LR]<END>
 
 //[WORD1]が？<END>
 #JMP($5D6C4)
@@ -37058,10 +38340,203 @@ Huh?[LR]<END>
 #FIXEDLENGTH(18,0)
 Pre-human…[LR]<END>
 
+//[WORD1] 練習しとかないと ダメか[NYA]～[LR]<END>
+#JMP($5D6F9)
+#FIXEDLENGTH(35,0)
+Gotta practice[LR]
+[WORD1] [NYA]～[LR]<END>
+
+//何度も 何度も してるコト、って どんなコト？<END>
+#JMP($5D730)
+#FIXEDLENGTH(43,0)
+What do you do over and over?<END>
+
+//[WORD1]ばっかり してると…[LR]<END>
+#JMP($5D7A3)
+#FIXEDLENGTH(25,0)
+[WORD1] all the[LR]
+time…[LR]<END>
+
+//[VAR2]の子に キラわれちゃうん だって…<END>
+#JMP($5D7C7)
+#FIXEDLENGTH(35,0)
+and [VAR2]s won't like you…<END>
+
+//[WORD1]ばかり？<END>
+#JMP($5D7EC)
+#FIXEDLENGTH(13,0)
+Only [WORD1]?<END>
+
+//せめて…[LR]<END>
+#JMP($5D808)
+#FIXEDLENGTH(9,0)
+Maybe…[LR]<END>
+
+//1日に [VAR3]回ぐらいに しとかないと ダメなのか[NYA]…[LR]<END>
+#JMP($5D81C)
+#FIXEDLENGTH(49,0)
+keep it to[LR]
+[VAR3] times a[LR]
+day [NYA]…[LR]<END>
+
+//恋愛には お約束が あるの[NYA]…<END>
+#JMP($5D8A9)
+#FIXEDLENGTH(29,0)
+Love has its rules [NYA]…<END>
+
+//さいしょに [WORD0]して…[LR]<END>
+#JMP($5D8D9)
+#FIXEDLENGTH(23,0)
+First [WORD0]…[LR]<END>
+
+//仲良くなったら [WORD1]して♥[LR]<END>
+#JMP($5D8FB)
+#FIXEDLENGTH(27,0)
+once close,[LR]
+[WORD1]♥[LR]<END>
+
+//ふたりの キモチを たしかめあったら [WORD2]するの[NYA]！[LR]<END>
+#JMP($5D921)
+#FIXEDLENGTH(52,0)
+once feelin's[LR]
+are sure,[LR]
+[WORD2] [NYA]![LR]<END>
+
+//そうして 恋人同士に なれるの[NYA]！[LR]<END>
+#JMP($5D960)
+#FIXEDLENGTH(34,0)
+and you become[LR]
+lovers [NYA]![LR]<END>
+
+//恋愛には ルールが あるの[NYA]…<END>
+#JMP($5D9B8)
+#FIXEDLENGTH(29,0)
+Love has rules [NYA]…<END>
+
+//[WORD0]は ケッコンするまで しちゃ ダメ[NYA]！<END>
+#JMP($5D9E8)
+#FIXEDLENGTH(41,0)
+No [WORD0] till marriage [NYA]!<END>
+
+//なんてコト しちゃうの！[LR]<END>
+#JMP($5DA33)
+#FIXEDLENGTH(24,0)
+What did you do![LR]<END>
+
+//[WORD0]は ケッコン してからの お楽しみなのに！[LR]<END>
+#JMP($5DA56)
+#FIXEDLENGTH(45,0)
+[WORD0] is a[LR]
+treat for after[LR]
+marriage![LR]<END>
+
+//あーあ、[LR]もったいにゃい…[LR]<END>
+#JMP($5DA8E)
+#FIXEDLENGTH(26,0)
+Oh no,[LR]
+what a waste…[LR]<END>
+
+//結婚前に こっそりと [WORD0]しちゃった<END>
+#JMP($5DAAA)
+#FIXEDLENGTH(35,0)
+Secretly [WORD0]-ed before marriage<END>
+
+//ダメです！[LR]<END>
+#JMP($5DAE5)
+#FIXEDLENGTH(11,0)
+No way![LR]<END>
+
+//ぜったい ダメ！[LR]<END>
+#JMP($5DAF2)
+#FIXEDLENGTH(16,0)
+Totally no![LR]<END>
+
+//[WORD0]は ケッコン してからの お楽しみ[NYA]！[LR]<END>
+#JMP($5DB0D)
+#FIXEDLENGTH(42,0)
+[WORD0] is for[LR]
+after marriage[LR]
+[NYA]![LR]<END>
+
+//[WORD0]で 疲れて…[LR]<END>
+#JMP($5DB72)
+#FIXEDLENGTH(17,0)
+After[LR]
+[WORD0]…[LR]<END>
+
+//好きな人の [WORD1]に もたれて 休むのって ステキだよね♥<END>
+#JMP($5DB85)
+#FIXEDLENGTH(53,0)
+restin' on your love's [WORD1] is lovely♥<END>
+
+//[WORD2]、 まだ ちっちゃいけど…[LR]<END>
+#JMP($5DBD5)
+#FIXEDLENGTH(30,0)
+[WORD2] is still[LR]
+small, but…[LR]<END>
+
 //人間に なったら～[LR]<END>
 #JMP($5DBFE)
 #FIXEDLENGTH(18,0)
 When I'm human～[LR]<END>
+
+//[WORD2]の [WORD1]に もたれて イイからね！[LR]<END>
+#JMP($5DC20)
+#FIXEDLENGTH(38,0)
+you can lean on[LR]
+[WORD2]'s[LR]
+[WORD1]![LR]<END>
+
+//キスにも いろいろ あるの[NYA]♥[LR]<END>
+#JMP($5DC99)
+#FIXEDLENGTH(30,0)
+So many kinds[LR]
+of kisses [NYA]♥[LR]<END>
+
+//おトモダチには [WORD0]への キス…[LR]<END>
+#JMP($5DCCA)
+#FIXEDLENGTH(32,0)
+Friends kiss[LR]
+[WORD0]…[LR]<END>
+
+//恋人同士なら [WORD1]への キス…[LR]<END>
+#JMP($5DCF5)
+#FIXEDLENGTH(30,0)
+lovers kiss[LR]
+[WORD1]…[LR]<END>
+
+//ケッコンしてたら [WORD2]へのキスなの！[LR]<END>
+#JMP($5DD1E)
+#FIXEDLENGTH(37,0)
+married folks[LR]
+kiss [WORD2]![LR]<END>
+
+//ロマンチックだ[NYA]～[LR]<END>
+#JMP($5DD4E)
+#FIXEDLENGTH(20,0)
+Romantic [NYA]～[LR]<END>
+
+//[WORD0]の あとには…[LR]<END>
+#JMP($5DD8A)
+#FIXEDLENGTH(19,0)
+After[LR]
+[WORD0]…[LR]<END>
+
+//やさしく キス してほしい[NYA]♥[LR]<END>
+#JMP($5DD9F)
+#FIXEDLENGTH(30,0)
+I want a gentle[LR]
+kiss [NYA]♥[LR]<END>
+
+//[WORD0]のあと？<END>
+#JMP($5DDBF)
+#FIXEDLENGTH(13,0)
+After [WORD0]?<END>
+
+//[WORD0]の前には やさしく キスしたい<END>
+#JMP($5DDDD)
+#FIXEDLENGTH(33,0)
+Wants to kiss gently before [WORD0]<END>
 
 //人間に なっても…[LR]<END>
 #JMP($5DF24)
@@ -37730,6 +39205,11 @@ Tell me the name of someone important.<END>
 #FIXEDLENGTH(38,0)
 Tell me the name of someone important.<END>
 
+//うわー[LR]<END>
+#JMP($6D5E7)
+#FIXEDLENGTH(7,0)
+Wow[LR]<END>
+
 //[WORD2]より エライ人の 名前 おしえて～？<END>
 #JMP($6D677)
 #FIXEDLENGTH(38,0)
@@ -38104,6 +39584,11 @@ When I'm human…[LR]<END>
 #JMP($71EA2)
 #FIXEDLENGTH(9,0)
 Um…[LR]<END>
+
+//[WORD2]か…<END>
+#JMP($71F06)
+#FIXEDLENGTH(9,0)
+[WORD2]…<END>
 
 //キライな 人って どんな人？<END>
 #JMP($71F78)
@@ -38832,6 +40317,11 @@ But…[LR]<END>
 #FIXEDLENGTH(11,0)
 Like～[LR]<END>
 
+//夜中に 目が覚めて…[LR]<END>
+#JMP($82F28)
+#FIXEDLENGTH(20,0)
+Wakin' at night…[LR]<END>
+
 //でも…[LR]<END>
 #JMP($8318D)
 #FIXEDLENGTH(7,0)
@@ -38881,6 +40371,11 @@ Ehehe♥[LR]<END>
 #JMP($841EE)
 #FIXEDLENGTH(16,0)
 I'll wait [NYA]…[LR]<END>
+
+//ロマンチックだ[NYA]～[LR]<END>
+#JMP($842B1)
+#FIXEDLENGTH(20,0)
+Romantic [NYA]～[LR]<END>
 
 //イヤにゃの…？[LR]<END>
 #JMP($84308)
@@ -39138,6 +40633,11 @@ Never mind<END>
 #JMP($99745)
 #FIXEDLENGTH(8,0)
 Nope<END>
+
+//ニキビ？<END>
+#JMP($9A1C5)
+#FIXEDLENGTH(8,0)
+Pimple?<END>
 
 //へぇ～<END>
 #JMP($9D8AB)
