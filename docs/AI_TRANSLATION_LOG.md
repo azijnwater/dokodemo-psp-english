@@ -117,7 +117,7 @@ Suzuki (ROBO), Jun (USAGI) and Pierre (INU) are parked until the user has played
   [WORD]/$_WORD drops them mid-sentence ("I wanna eat [WORD1]"). Proper nouns and
   "PC" are capitalised.
 - Left in Japanese (no English fits 2–4 bytes): 顔, 目, 恋, 愛, スシ, 新宿, 原宿, 浅草, 学校.
-  Shortened to fit: もでる/ネコ etc. fine; e.g. 早起き → "up early", 肩たたき → "back rub",
+  Shortened to fit, e.g. 早起き → "up early", 肩たたき → "back rub",
   歯ブラシ → "brush", 図書館 → "books", 勉強 → "cram".
 - `build.cmd` and `build.sh` now send any `patches/<char>*dictionary*.txt` to the .DIC
   (previously only `<char>_dictionary.txt`). In `build.cmd` this is
