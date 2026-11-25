@@ -26912,30 +26912,779 @@ Colorful[LR]
 are poisonous,[LR]
 so…[LR]<END>
 
+//気をつけてね…[LR]<END>
+#JMP($460D1)
+#FIXEDLENGTH(15,0)
+Be careful…[LR]<END>
+
+//え？ いないの？[LR]<END>
+#JMP($46100)
+#FIXEDLENGTH(16,0)
+Huh? None?[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($46127)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//夜 ひとりで 寝るの コワイよね…？<END>
+#JMP($4617B)
+#FIXEDLENGTH(33,0)
+Sleepin' alone at night, scary…?<END>
+
+//コワイよね！[LR]コワイよね！[LR]<END>
+#JMP($461B7)
+#FIXEDLENGTH(26,0)
+Scary, right![LR]
+Scary![LR]<END>
+
+//[WORD1]のオバケが出たら イヤだから…[LR]<END>
+#JMP($461DC)
+#FIXEDLENGTH(35,0)
+[WORD1] ghosts[LR]
+would be awful…[LR]<END>
+
+//[WORD2]と いっしょに 寝よっと…[LR]<END>
+#JMP($46212)
+#FIXEDLENGTH(30,0)
+so I'll sleep with[LR]
+[WORD2]…[LR]<END>
+
+//わー[LR][WORD2]、カッコイイ～[LR]たのもしい～[LR]<END>
+#JMP($46244)
+#FIXEDLENGTH(38,0)
+Wow[LR]
+[WORD2], so[LR]
+cool～[LR]
+so brave～[LR]<END>
+
+//もし [WORD1]の オバケが 出ても…[LR]<END>
+#JMP($46275)
+#FIXEDLENGTH(31,0)
+Even if[LR]
+[WORD1] ghosts[LR]
+come…[LR]<END>
+
+//[WORD2]と いっしょに 寝てれば 平気だ[NYA]♥[LR]<END>
+#JMP($462A7)
+#FIXEDLENGTH(40,0)
+sleepin' with[LR]
+[WORD2] I'm[LR]
+safe [NYA]♥[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($462E3)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//夜中 トイレに…[LR]<END>
+#JMP($46337)
+#FIXEDLENGTH(16,0)
+Night toilets…[LR]<END>
+
+//ひとりで 行くのは 危険[NYA]…<END>
+#JMP($46352)
+#FIXEDLENGTH(27,0)
+goin' alone is risky [NYA]…<END>
+
+//ドアを 開けたら…[LR]<END>
+#JMP($46388)
+#FIXEDLENGTH(18,0)
+Open the door…[LR]<END>
+
+//[WORD1]の オバケが 座ってるかも しれない[NYA]！[LR]<END>
+#JMP($463A2)
+#FIXEDLENGTH(44,0)
+and a [WORD1][LR]
+ghost might be[LR]
+sittin' there![LR]<END>
+
+//ひとりで トイレに 行っちゃ ダメだからね…[LR]<END>
+#JMP($463D9)
+#FIXEDLENGTH(42,0)
+Don't go to the[LR]
+toilet alone,[LR]
+okay…[LR]<END>
+
+//でもでも～[LR]<END>
+#JMP($4640F)
+#FIXEDLENGTH(11,0)
+But, but～[LR]<END>
+
+//ドアを開けたら…[LR]<END>
+#JMP($4641C)
+#FIXEDLENGTH(17,0)
+Open the door…[LR]<END>
+
+//[WORD1]のオバケが 座ってるかも～[LR]<END>
+#JMP($46438)
+#FIXEDLENGTH(31,0)
+a [WORD1][LR]
+ghost might be[LR]
+sittin'[LR]<END>
+
+//夜の トイレは…[LR]<END>
+#JMP($46462)
+#FIXEDLENGTH(16,0)
+Night toilets…[LR]<END>
+
+//何が 起こるか わかんないの[NYA]…[LR]<END>
+#JMP($46474)
+#FIXEDLENGTH(32,0)
+anything can[LR]
+happen [NYA]…[LR]<END>
+
+//キライな 人って どんな人？<END>
+#JMP($464AF)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
+
+//おしいれの ふすま…[LR]<END>
+#JMP($464FA)
+#FIXEDLENGTH(20,0)
+Closet doors…[LR]<END>
+
+//ちょっとだけ 開いたままは 危険[NYA]…<END>
+#JMP($46519)
+#FIXEDLENGTH(35,0)
+left a bit open is risky [NYA]…<END>
+
+//おしいれの すきまは…[LR]<END>
+#JMP($46557)
+#FIXEDLENGTH(22,0)
+The closet gap…[LR]<END>
+
+//[WORD1]の国の 入り口なの[NYA]！[LR]<END>
+#JMP($46578)
+#FIXEDLENGTH(28,0)
+is a door to[LR]
+[WORD1] land![LR]<END>
+
+//その すきまから…[LR]<END>
+#JMP($4659F)
+#FIXEDLENGTH(18,0)
+From that gap…[LR]<END>
+
+//[WORD1]が じーっと こっちを 見てるの[NYA]！[LR]<END>
+#JMP($465B3)
+#FIXEDLENGTH(40,0)
+[WORD1] stares[LR]
+right at you[LR]
+[NYA]![LR]<END>
+
+//でもでも～[LR]<END>
+#JMP($465E7)
+#FIXEDLENGTH(11,0)
+But, but～[LR]<END>
+
+//おしいれの すきまは…[LR]<END>
+#JMP($465F4)
+#FIXEDLENGTH(22,0)
+The closet gap…[LR]<END>
+
+//[WORD1]の国の 入り口かも～[LR]<END>
+#JMP($46615)
+#FIXEDLENGTH(25,0)
+Door to[LR]
+[WORD1] land～[LR]<END>
+
+//その すきまから…[LR]<END>
+#JMP($46639)
+#FIXEDLENGTH(18,0)
+From that gap…[LR]<END>
+
+//[WORD1]が じーっと こっちを 見てたら どうするの～!![LR]<END>
+#JMP($4664D)
+#FIXEDLENGTH(50,0)
+What if[LR]
+[WORD1] stares[LR]
+right at you～!![LR]<END>
+
+//夜 ひとりで いる時に…[LR]<END>
+#JMP($466AC)
+#FIXEDLENGTH(23,0)
+When alone at[LR]
+night…[LR]<END>
+
+//天井を見ちゃ ダメだよ～<END>
+#JMP($466CE)
+#FIXEDLENGTH(23,0)
+don't look up there～<END>
+
+//だって だって！[LR]<END>
+#JMP($466F8)
+#FIXEDLENGTH(16,0)
+'Cause, 'cause![LR]<END>
+
+//誰のか わかんない…[LR]<END>
+#JMP($46713)
+#FIXEDLENGTH(20,0)
+Whose?[LR]
+Unknown…[LR]<END>
+
+//[WORD0]の アトが ついてたら…[LR]<END>
+#JMP($46729)
+#FIXEDLENGTH(28,0)
+if there's[LR]
+[WORD0][LR]
+prints…[LR]<END>
+
+//気絶 しちゃう[NYA]～[LR]<END>
+#JMP($46750)
+#FIXEDLENGTH(19,0)
+I'd faint [NYA]～[LR]<END>
+
+//[WORD2]が よく使うモノって なぁに？<END>
+#JMP($46786)
+#FIXEDLENGTH(33,0)
+What does [WORD2] use a lot?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($467DB)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//買ったばかりの [WORD1]に～[LR]<END>
+#JMP($4682F)
+#FIXEDLENGTH(25,0)
+On a brand-new[LR]
+[WORD1]～[LR]<END>
+
+//[WORD4]のように 見える シミが あるよ～<END>
+#JMP($46853)
+#FIXEDLENGTH(36,0)
+a stain that looks like [WORD4]～<END>
+
+//いや[NYA]～[LR]<END>
+#JMP($46892)
+#FIXEDLENGTH(10,0)
+No [NYA]～[LR]<END>
+
+//せっかく 買ったのに～[LR]<END>
+#JMP($4689E)
+#FIXEDLENGTH(22,0)
+I just bought it～[LR]<END>
+
+//オバケ [VAR1] だったなんて…[LR]<END>
+#JMP($468BF)
+#FIXEDLENGTH(26,0)
+A ghost [VAR1]…[LR]<END>
+
+//不良…？[LR]<END>
+#JMP($468EC)
+#FIXEDLENGTH(9,0)
+Punks…?[LR]<END>
+
+//なーんだ！[LR]<END>
+#JMP($46903)
+#FIXEDLENGTH(11,0)
+Oh, phew![LR]<END>
+
+//オバケじゃなくて 不良さんの しわざ[NYA]～[LR]<END>
+#JMP($46910)
+#FIXEDLENGTH(40,0)
+Not ghosts,[LR]
+punks' doin'[LR]
+[NYA]～[LR]<END>
+
+//もー！[LR]せっかく [WORD1] 買ったのに～！[LR]<END>
+#JMP($46943)
+#FIXEDLENGTH(37,0)
+Geez![LR]
+I just bought[LR]
+[WORD1]～![LR]<END>
+
+//[WORD2]の 好きな 有名人って だぁれ??<END>
+#JMP($4698B)
+#FIXEDLENGTH(34,0)
+Who's [WORD2]'s fave celebrity??<END>
+
+//お部屋の カベに…[LR]<END>
+#JMP($469F3)
+#FIXEDLENGTH(18,0)
+On my wall…[LR]<END>
+
+//どす黒い シミを 見つけちゃった～[LR]<END>
+#JMP($46A07)
+#FIXEDLENGTH(33,0)
+I found a dark[LR]
+stain～[LR]<END>
+
+//なんか だんだん…[LR]<END>
+#JMP($46A33)
+#FIXEDLENGTH(18,0)
+Bit by bit…[LR]<END>
+
+//[WORD3]の形に 見えてくるの[NYA]～<END>
+#JMP($46A4D)
+#FIXEDLENGTH(29,0)
+it looks like [WORD3] [NYA]～<END>
+
+//[WORD3]の形？<END>
+#JMP($46A6C)
+#FIXEDLENGTH(11,0)
+Like [WORD3]?<END>
+
+//[WORD2]は 何も 見なかったコトに する[NYA]～[LR]<END>
+#JMP($46A8E)
+#FIXEDLENGTH(40,0)
+[WORD2] will[LR]
+pretend not to[LR]
+see [NYA]～[LR]<END>
+
+//上から [WORD1]の ポスターでも はっちゃえ…[LR]<END>
+#JMP($46AC1)
+#FIXEDLENGTH(41,0)
+I'll stick a[LR]
+[WORD1] poster[LR]
+over it…[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($46B05)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//お部屋の [WORD2]が～[LR]<END>
+#JMP($46B6E)
+#FIXEDLENGTH(19,0)
+The room's[LR]
+[WORD2]～[LR]<END>
+
+//勝手に 動いたの[NYA]～[LR]<END>
+#JMP($46B83)
+#FIXEDLENGTH(21,0)
+moved on its[LR]
+own～[LR]<END>
+
+//[WORD1]の オバケが いるのかも…<END>
+#JMP($46BA3)
+#FIXEDLENGTH(29,0)
+Maybe a [WORD1] ghost…<END>
+
+//え…？[LR]<END>
+#JMP($46BD8)
+#FIXEDLENGTH(7,0)
+Huh…?[LR]<END>
+
+//そ、そうか[NYA]？[LR]<END>
+#JMP($46BE1)
+#FIXEDLENGTH(16,0)
+R-really [NYA]?[LR]<END>
+
+//にゃーんだ！[LR]そっか 風かぁ…[LR]<END>
+#JMP($46C09)
+#FIXEDLENGTH(29,0)
+Nyaa, phew![LR]
+Just wind…[LR]<END>
+
+//[WORD4]、 いつのまにか 超能力ネコに…[LR]<END>
+#JMP($46C3A)
+#FIXEDLENGTH(36,0)
+[WORD4],[LR]
+suddenly a[LR]
+psychic cat…[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($46C72)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//さっきから…[LR]<END>
+#JMP($46CC6)
+#FIXEDLENGTH(13,0)
+A while…[LR]<END>
+
+//なんか 誰かに 見られてる 気がするの～<END>
+#JMP($46CD5)
+#FIXEDLENGTH(37,0)
+I feel like someone's watchin'～<END>
+
+//そっか…[LR]気のせいだよね…[LR]<END>
+#JMP($46D15)
+#FIXEDLENGTH(26,0)
+I see…[LR]
+Just me…[LR]<END>
+
+//[WORD1]の オバケなんか いないよね…[LR]<END>
+#JMP($46D3A)
+#FIXEDLENGTH(34,0)
+No [WORD1][LR]
+ghosts, right…[LR]<END>
+
+//いないよね？[LR]いないよね？[LR]<END>
+#JMP($46D67)
+#FIXEDLENGTH(26,0)
+None, right?[LR]
+None, right?[LR]<END>
+
+//イヤ イヤ イヤ～！[LR]<END>
+#JMP($46D90)
+#FIXEDLENGTH(19,0)
+No no no～![LR]<END>
+
+//やっぱ なんか いるの～？[LR]<END>
+#JMP($46DA5)
+#FIXEDLENGTH(25,0)
+There IS[LR]
+somethin'～?[LR]<END>
+
+//[WORD1]の オバケかも しれにゃい…[LR]<END>
+#JMP($46DC9)
+#FIXEDLENGTH(32,0)
+Might be a[LR]
+[WORD1][LR]
+ghost…[LR]<END>
+
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($46E04)
 #FIXEDLENGTH(37,0)
 What human clothes are there?<END>
+
+//お気に入りの [WORD1]に…[LR]<END>
+#JMP($46E5A)
+#FIXEDLENGTH(23,0)
+On my fave[LR]
+[WORD1]…[LR]<END>
+
+//ち、血が～<END>
+#JMP($46E73)
+#FIXEDLENGTH(10,0)
+B-blood～<END>
+
+//[WORD1]に血？<END>
+#JMP($46E7F)
+#FIXEDLENGTH(11,0)
+Blood?<END>
+
+//[WORD2]、 どこも ケガして ないのに～[LR]<END>
+#JMP($46EA1)
+#FIXEDLENGTH(35,0)
+[WORD2] isn't[LR]
+hurt anywhere～[LR]<END>
+
+//気がついたら…[LR]<END>
+#JMP($46ECF)
+#FIXEDLENGTH(15,0)
+Then I saw…[LR]<END>
+
+//[WORD1] 血まみれ[NYA]～[LR]<END>
+#JMP($46EE0)
+#FIXEDLENGTH(20,0)
+[WORD1] all[LR]
+bloody～[LR]<END>
 
 //もしかして…[LR]<END>
 #JMP($46EFF)
 #FIXEDLENGTH(13,0)
 Maybe…[LR]<END>
 
+//呪いの [WORD1]…[LR]<END>
+#JMP($46F0E)
+#FIXEDLENGTH(15,0)
+Cursed[LR]
+[WORD1]…[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($46F38)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//今 なんか したいコトある？<END>
+#JMP($46F8F)
+#FIXEDLENGTH(26,0)
+Anything you wanna do now?<END>
+
+//夜に なると…[LR]<END>
+#JMP($46FDC)
+#FIXEDLENGTH(14,0)
+At night…[LR]<END>
+
+//ミシッ ミシッって…[LR]屋根から 変な音が するよ～<END>
+#JMP($46FF5)
+#FIXEDLENGTH(46,0)
+creak, creak…[LR]
+weird sounds[LR]
+from the roof～<END>
+
+//気のせい…[LR]だよね…[LR]<END>
+#JMP($4703E)
+#FIXEDLENGTH(20,0)
+Just me…[LR]
+right…[LR]<END>
+
+//屋根ウラで…[LR]<END>
+#JMP($4705D)
+#FIXEDLENGTH(13,0)
+Attic…[LR]<END>
+
+//[WORD1]が [WORD3]してたり しないよね…[LR]<END>
+#JMP($47072)
+#FIXEDLENGTH(35,0)
+[WORD1] isn't[LR]
+[WORD3]-ing,[LR]
+right…[LR]<END>
+
+//はひゃあ～！[LR]<END>
+#JMP($470A1)
+#FIXEDLENGTH(13,0)
+Hyaaa～![LR]<END>
+
+//やっぱ 屋根ウラで～[LR]<END>
+#JMP($470B0)
+#FIXEDLENGTH(20,0)
+In the attic～[LR]<END>
+
+//[WORD1]が [WORD3]してるんだ～[LR]<END>
+#JMP($470CF)
+#FIXEDLENGTH(26,0)
+[WORD1] is[LR]
+[WORD3]-ing～[LR]<END>
+
+//イヤ イヤ イヤ～!![LR]<END>
+#JMP($470EB)
+#FIXEDLENGTH(19,0)
+No no no～!![LR]<END>
+
+//[WORD2]は どんな テレビ番組を 見てるの？<END>
+#JMP($47121)
+#FIXEDLENGTH(38,0)
+What TV shows does [WORD2] watch?<END>
+
+//「[VAR1]」が 終わる 瞬間…[LR]<END>
+#JMP($4718F)
+#FIXEDLENGTH(24,0)
+As "[VAR1]"[LR]
+ends…[LR]<END>
+
+//テレビの 画面に いっしゅんだけ…[LR]<END>
+#JMP($471B2)
+#FIXEDLENGTH(33,0)
+just for a[LR]
+moment on[LR]
+screen…[LR]<END>
+
+//半透明の [WORD3]が 映るんだって～<END>
+#JMP($471DE)
+#FIXEDLENGTH(31,0)
+a see-through [WORD3] appears～<END>
+
+//心霊現象 なの[NYA]…[LR]<END>
+#JMP($47215)
+#FIXEDLENGTH(19,0)
+It's paranormal…[LR]<END>
+
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($4724B)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($472A8)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//夜中に [WORD1]へ 行って…[LR]<END>
+#JMP($47311)
+#FIXEDLENGTH(24,0)
+[WORD1] at[LR]
+midnight…[LR]<END>
+
+//[WORD5]を ひとりで してると…[LR]<END>
+#JMP($4732B)
+#FIXEDLENGTH(28,0)
+[WORD5] alone…[LR]<END>
+
+//よつんばいの [WORD4]に 出会っちゃうの[NYA]！<END>
+#JMP($47352)
+#FIXEDLENGTH(40,0)
+and meet a crawlin' [WORD4] [NYA]!<END>
+
+//目が合うと 追いかけてくるの！[LR]<END>
+#JMP($47392)
+#FIXEDLENGTH(30,0)
+Meet its eyes, it[LR]
+chases you![LR]<END>
+
+//逃げて 逃げて～[LR][WORD2]、逃げて～!![LR]<END>
+#JMP($473C3)
+#FIXEDLENGTH(34,0)
+Run, run～[LR]
+[WORD2], run～!![LR]<END>
+
+//うわーん！ うわーん！<END>
+#JMP($473F0)
+#FIXEDLENGTH(21,0)
+Waaah! Waaah!<END>
+
 //あ…[LR]<END>
 #JMP($47418)
 #FIXEDLENGTH(5,0)
 Ah…[LR]<END>
+
+//ちょっと コーフン しすぎた…[LR]<END>
+#JMP($47422)
+#FIXEDLENGTH(29,0)
+Got a bit too[LR]
+worked up…[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4745A)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//夜中に [WORD2]を ひとりで 歩いてると…[LR]<END>
+#JMP($474D8)
+#FIXEDLENGTH(37,0)
+Walkin'[LR]
+[WORD2] alone[LR]
+at night…[LR]<END>
+
+//なんか [WORD3]が 重く 感じてくる らしい[NYA]…<END>
+#JMP($474FF)
+#FIXEDLENGTH(42,0)
+[WORD3] starts to feel heavy [NYA]…<END>
 
 //[WORD3]が？<END>
 #JMP($4752B)
 #FIXEDLENGTH(9,0)
 [WORD3]?<END>
 
+//そしたら 絶対…[LR]<END>
+#JMP($47543)
+#FIXEDLENGTH(16,0)
+Then for sure…[LR]<END>
+
+//立ち止まらずに そこから 逃げて[NYA]！<END>
+#JMP($47555)
+#FIXEDLENGTH(35,0)
+don't stop, run from there [NYA]!<END>
+
+//[WORD3]に しがみついてる [WORD1]を 見ちゃ ダメだよ～[LR]<END>
+#JMP($4758B)
+#FIXEDLENGTH(49,0)
+Don't look at[LR]
+[WORD1][LR]
+clingin' to[LR]
+[WORD3]～[LR]<END>
+
+//見ちゃうと お部屋まで 付いてきちゃうから～[LR]<END>
+#JMP($475C7)
+#FIXEDLENGTH(43,0)
+Look and it[LR]
+follows you[LR]
+home～[LR]<END>
+
+//逃げて 逃げて～[LR][WORD4]、逃げて～!![LR]<END>
+#JMP($47605)
+#FIXEDLENGTH(34,0)
+Run, run～[LR]
+[WORD4], run～!![LR]<END>
+
+//うわーん！ うわーん！<END>
+#JMP($47632)
+#FIXEDLENGTH(21,0)
+Waaah! Waaah!<END>
+
 //あ…[LR]<END>
 #JMP($4765A)
 #FIXEDLENGTH(5,0)
 Ah…[LR]<END>
+
+//コワイ 想像 しちゃってた…[LR]<END>
+#JMP($47664)
+#FIXEDLENGTH(27,0)
+Imaginin' scary[LR]
+stuff…[LR]<END>
+
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($476A2)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
+//[WORD1]に 行く途中の トンネルを…[LR]<END>
+#JMP($47726)
+#FIXEDLENGTH(32,0)
+A tunnel on the[LR]
+way to[LR]
+[WORD1]…[LR]<END>
+
+//[WORD3]で 通ろうとすると～[LR]<END>
+#JMP($47751)
+#FIXEDLENGTH(25,0)
+go through by[LR]
+[WORD3]～[LR]<END>
+
+//バンッ！ バンッ！[LR]って たたかれるの～<END>
+#JMP($4776C)
+#FIXEDLENGTH(37,0)
+Bang! Bang![LR]
+somethin' hits～<END>
+
+//[WORD3]を？<END>
+#JMP($47793)
+#FIXEDLENGTH(9,0)
+[WORD3]?<END>
+
+//トンネルを 抜けると～[LR]<END>
+#JMP($477AB)
+#FIXEDLENGTH(22,0)
+Out of the[LR]
+tunnel～[LR]<END>
+
+//[WORD3]の あちこちに…[LR]<END>
+#JMP($477C3)
+#FIXEDLENGTH(21,0)
+all over[LR]
+[WORD3]…[LR]<END>
+
+//血まみれの [WORD4]の跡が ビッシリ！[LR]<END>
+#JMP($477E3)
+#FIXEDLENGTH(34,0)
+bloody [WORD4][LR]
+prints, packed![LR]<END>
+
+//[WORD0]に おしっこを かけちゃうと～[LR]<END>
+#JMP($47832)
+#FIXEDLENGTH(34,0)
+Pee on[LR]
+[WORD0]～[LR]<END>
+
+//バチが 当たって…[LR]<END>
+#JMP($4785F)
+#FIXEDLENGTH(18,0)
+you're cursed…[LR]<END>
+
+//おしっこが 止まらなく なっちゃうん だって～<END>
+#JMP($4787C)
+#FIXEDLENGTH(43,0)
+and the pee won't stop, they say～<END>
+
+//イヌじゃないもん！[LR]<END>
+#JMP($478CC)
+#FIXEDLENGTH(19,0)
+I'm not a dog![LR]<END>
+
+//おしっこなんか かけないよ…[LR]<END>
+#JMP($478EA)
+#FIXEDLENGTH(28,0)
+I won't pee on[LR]
+stuff…[LR]<END>
+
+//[WORD0]に おしっこを かけちゃうと～[LR]<END>
+#JMP($47948)
+#FIXEDLENGTH(34,0)
+Pee on[LR]
+[WORD0]～[LR]<END>
+
+//バチが 当たって…[LR]<END>
+#JMP($47975)
+#FIXEDLENGTH(18,0)
+you're cursed…[LR]<END>
+
+//[WORD1]が パンパンに はれちゃうん だって～<END>
+#JMP($47992)
+#FIXEDLENGTH(40,0)
+[WORD1] swells up big～<END>
 
 //[WORD1]が？<END>
 #JMP($479BC)
@@ -26947,35 +27696,826 @@ Ah…[LR]<END>
 #FIXEDLENGTH(13,0)
 But [WORD2]…[LR]<END>
 
+//そんなコト しないもん…[LR]<END>
+#JMP($479EB)
+#FIXEDLENGTH(24,0)
+I won't do that…[LR]<END>
+
+//平気[NYA]…[LR]<END>
+#JMP($47A0E)
+#FIXEDLENGTH(10,0)
+Fine…[LR]<END>
+
+//トイレの 便座を 下げ忘れて…[LR]<END>
+#JMP($47A41)
+#FIXEDLENGTH(29,0)
+Forgot the[LR]
+toilet seat…[LR]<END>
+
+//そのまま 落ちちゃった[NYA]…<END>
+#JMP($47A69)
+#FIXEDLENGTH(26,0)
+and fell right in [NYA]…<END>
+
+//でも こわかった～[LR]<END>
+#JMP($47A9E)
+#FIXEDLENGTH(18,0)
+But it was scary[LR]<END>
+
+//笑わないでよ～[LR]<END>
+#JMP($47ABC)
+#FIXEDLENGTH(15,0)
+Don't laugh～[LR]<END>
+
+//すごく こわかったん だから！[LR]<END>
+#JMP($47ACD)
+#FIXEDLENGTH(29,0)
+It was super[LR]
+scary![LR]<END>
+
+//あのまま 水を 流しちゃったら…[LR]<END>
+#JMP($47AF5)
+#FIXEDLENGTH(31,0)
+If it had[LR]
+flushed…[LR]<END>
+
+//[WORD1]の [WORD0]が 吸い込まれて…[LR]<END>
+#JMP($47B27)
+#FIXEDLENGTH(31,0)
+[WORD1]'s[LR]
+[WORD0] gets[LR]
+sucked in…[LR]<END>
+
+//そのまま 抜けなくなった かも～[LR]<END>
+#JMP($47B4E)
+#FIXEDLENGTH(31,0)
+maybe stuck for[LR]
+good～[LR]<END>
+
+//ふひゃあ…[LR]トイレ、コワイ…[LR]<END>
+#JMP($47B78)
+#FIXEDLENGTH(28,0)
+Fuhyaa…[LR]
+Toilets, scary…[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($47BAF)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//ある日 目が覚めて…[LR]<END>
+#JMP($47C2F)
+#FIXEDLENGTH(20,0)
+Wakin' up one[LR]
+day…[LR]<END>
+
+//自分の [WORD2]に～[LR]<END>
+#JMP($47C4E)
+#FIXEDLENGTH(17,0)
+on my[LR]
+[WORD2]～[LR]<END>
+
+//[WORD1]の顔が 生えてたら どうしよ～？<END>
+#JMP($47C61)
+#FIXEDLENGTH(35,0)
+what if [WORD1]'s face grew there～?<END>
+
 //[WORD2]に？<END>
 #JMP($47C86)
 #FIXEDLENGTH(9,0)
 In [WORD2]?<END>
+
+//[WORD1]の顔？<END>
+#JMP($47C91)
+#FIXEDLENGTH(11,0)
+A face?<END>
+
+//しかも しゃべるの！[LR]<END>
+#JMP($47CA7)
+#FIXEDLENGTH(20,0)
+And it talks![LR]<END>
+
+//[WORD3]を 食べるの！[LR]<END>
+#JMP($47CBD)
+#FIXEDLENGTH(19,0)
+It eats[LR]
+[WORD3]![LR]<END>
+
+//人面[VAR2][NYA]～[LR]<END>
+#JMP($47CDB)
+#FIXEDLENGTH(13,0)
+Face-[VAR2]～[LR]<END>
+
+//ば、化け[VAR0]って 知ってる～？<END>
+#JMP($47D2A)
+#FIXEDLENGTH(28,0)
+K-know the ghost [VAR0]～?<END>
+
+//化け[WORD0]？<END>
+#JMP($47D48)
+#FIXEDLENGTH(11,0)
+Ghost?<END>
+
+//夜中に ぴちゃり ぴちゃりと…[LR]<END>
+#JMP($47D62)
+#FIXEDLENGTH(29,0)
+At midnight,[LR]
+slurp slurp…[LR]<END>
+
+//[WORD1]を なめるんだって!![LR]<END>
+#JMP($47D8A)
+#FIXEDLENGTH(25,0)
+it licks[LR]
+[WORD1]!![LR]<END>
+
+//[WORD0]が びょ～んって 伸びる…[LR]<END>
+#JMP($47DD0)
+#FIXEDLENGTH(30,0)
+[WORD0][LR]
+stretches[LR]
+boing～…[LR]<END>
+
+//ろくろ[WORD0]って オバケが いるの[NYA]～<END>
+#JMP($47DF9)
+#FIXEDLENGTH(36,0)
+there's a ghost, long-[WORD0] [NYA]～<END>
+
+//ろくろ[WORD0]？<END>
+#JMP($47E1F)
+#FIXEDLENGTH(13,0)
+Long-[WORD0]?<END>
+
+//逃げても 逃げても…[LR]<END>
+#JMP($47E3B)
+#FIXEDLENGTH(20,0)
+Run and run…[LR]<END>
+
+//[WORD0]を 伸ばして 追いかけてくる らしい[NYA]！[LR]<END>
+#JMP($47E57)
+#FIXEDLENGTH(44,0)
+it stretches[LR]
+[WORD0] and[LR]
+chases you[LR]
+[NYA]![LR]<END>
+
+//人の血を吸う…[LR]<END>
+#JMP($47EC5)
+#FIXEDLENGTH(15,0)
+Bloodsuckin'…[LR]<END>
+
+//「吸血[VAR0]」が いるんだって～<END>
+#JMP($47EDC)
+#FIXEDLENGTH(28,0)
+there's a "vampire [VAR0]"～<END>
+
+//吸血[WORD0]？<END>
+#JMP($47EFA)
+#FIXEDLENGTH(11,0)
+Vamp [WORD0]?<END>
+
+//人の [WORD1]に かみついて…[LR]<END>
+#JMP($47F14)
+#FIXEDLENGTH(26,0)
+It bites your[LR]
+[WORD1]…[LR]<END>
+
+//体中の 血を 吸いつくすの[NYA]！[LR]<END>
+#JMP($47F39)
+#FIXEDLENGTH(30,0)
+and drains all[LR]
+the blood [NYA]![LR]<END>
+
+//宇宙から やってきた…[LR]<END>
+#JMP($47FAE)
+#FIXEDLENGTH(22,0)
+From outer[LR]
+space…[LR]<END>
+
+//「宇宙[VAR0]」が いるんだって～[LR]<END>
+#JMP($47FCC)
+#FIXEDLENGTH(29,0)
+there's a "space[LR]
+[VAR0]"～[LR]<END>
+
+//宇宙[WORD0]？<END>
+#JMP($47FEB)
+#FIXEDLENGTH(11,0)
+Spacey?<END>
+
+//[WORD1]を 侵略しようと してるのかも…[LR]<END>
+#JMP($48005)
+#FIXEDLENGTH(36,0)
+Maybe out to[LR]
+invade[LR]
+[WORD1]…[LR]<END>
+
+//パッと見は ふつうの [WORD0]なんだけど…[LR]<END>
+#JMP($48034)
+#FIXEDLENGTH(38,0)
+Looks like[LR]
+normal[LR]
+[WORD0]…[LR]<END>
+
+//宇宙[VAR0]の…[LR]<END>
+#JMP($48065)
+#FIXEDLENGTH(12,0)
+Its…[LR]<END>
+
+//[WORD2]は 緑色なんだって！[LR]<END>
+#JMP($48079)
+#FIXEDLENGTH(25,0)
+[WORD2] is[LR]
+green![LR]<END>
+
+//[WORD2]が よく使うモノって なぁに？<END>
+#JMP($480B1)
+#FIXEDLENGTH(33,0)
+What does [WORD2] use a lot?<END>
+
+//「死を呼ぶ 13[VAR1]」 って 知ってる～？<END>
+#JMP($48105)
+#FIXEDLENGTH(36,0)
+Know the "13 [VAR1] of death"～?<END>
+
+//ふつうに 数えると…[LR]<END>
+#JMP($48141)
+#FIXEDLENGTH(20,0)
+Count normally…[LR]<END>
+
+//12個しかないのに～[LR]<END>
+#JMP($48157)
+#FIXEDLENGTH(19,0)
+only 12 of 'em～[LR]<END>
+
+//真夜中に 数えると…[LR]<END>
+#JMP($48175)
+#FIXEDLENGTH(20,0)
+Count at[LR]
+midnight…[LR]<END>
+
+//いつのまにか 13個あるの！[LR]<END>
+#JMP($4818B)
+#FIXEDLENGTH(26,0)
+suddenly there's[LR]
+13![LR]<END>
+
+//数えちゃったよ～[LR]<END>
+#JMP($481B0)
+#FIXEDLENGTH(17,0)
+I counted～[LR]<END>
+
+//13個どころか…[LR][WORD1]、14個も あったよ!?<END>
+#JMP($481C9)
+#FIXEDLENGTH(39,0)
+Not 13…[LR]
+[WORD1][LR]
+counted 14!?<END>
+
+//もう 数えないの[NYA]…[LR]<END>
+#JMP($4820B)
+#FIXEDLENGTH(21,0)
+No more[LR]
+countin'…[LR]<END>
+
+//次 数えたら…[LR]不吉なコトが おこるかも…[LR]<END>
+#JMP($4822B)
+#FIXEDLENGTH(40,0)
+Count again…[LR]
+bad stuff might[LR]
+happen…[LR]<END>
+
+//え？ そう？[LR]そうか[NYA]…？[LR]<END>
+#JMP($48266)
+#FIXEDLENGTH(26,0)
+Huh? Yeah?[LR]
+Is it [NYA]…?[LR]<END>
+
+//そうかも…[LR]<END>
+#JMP($4828E)
+#FIXEDLENGTH(11,0)
+Maybe…[LR]<END>
+
+//よく考えたら～[LR]<END>
+#JMP($482A4)
+#FIXEDLENGTH(15,0)
+Thinkin'～[LR]<END>
+
+//１個 お徳だもん[NYA]…[LR]<END>
+#JMP($482B5)
+#FIXEDLENGTH(21,0)
+it's 1 extra[LR]
+[NYA]…[LR]<END>
+
+//[WORD0]が 濡れちゃっても…[LR]<END>
+#JMP($482F0)
+#FIXEDLENGTH(25,0)
+Even if[LR]
+[WORD0] gets[LR]
+wet…[LR]<END>
+
+//電子レンジで かわかしたら ダメなんだよ～<END>
+#JMP($48314)
+#FIXEDLENGTH(40,0)
+don't dry it in a microwave～<END>
+
+//電子レンジに [WORD0]を 入れると…[LR]<END>
+#JMP($4834F)
+#FIXEDLENGTH(32,0)
+Put [WORD0] in[LR]
+a microwave…[LR]<END>
+
+//[WORD0]が パーン！[LR]<END>
+#JMP($4837A)
+#FIXEDLENGTH(17,0)
+[WORD0] goes[LR]
+pop![LR]<END>
+
+//って ハレツ しちゃうの[NYA]！[LR]<END>
+#JMP($48393)
+#FIXEDLENGTH(28,0)
+and bursts[LR]
+[NYA]![LR]<END>
+
+//[WORD0]を 生のまま 丸のみしたら…<END>
+#JMP($483D5)
+#FIXEDLENGTH(31,0)
+Swallow [WORD0] raw and whole…<END>
 
 //[WORD0]を？<END>
 #JMP($483F6)
 #FIXEDLENGTH(9,0)
 [WORD0]?<END>
 
+//そのうち おなかの中で…[LR]<END>
+#JMP($4840E)
+#FIXEDLENGTH(24,0)
+soon in your[LR]
+tummy…[LR]<END>
+
+//[WORD0]が タマゴを 産んで…[LR]<END>
+#JMP($48428)
+#FIXEDLENGTH(26,0)
+[WORD0] lays[LR]
+eggs…[LR]<END>
+
+//卵が かえると…[LR]<END>
+#JMP($4844D)
+#FIXEDLENGTH(16,0)
+they hatch…[LR]<END>
+
+//おなかが パーン！[LR]<END>
+#JMP($48468)
+#FIXEDLENGTH(18,0)
+tummy goes pop![LR]<END>
+
+//って ハレツしちゃうんだって！[LR]<END>
+#JMP($48482)
+#FIXEDLENGTH(30,0)
+and bursts, they[LR]
+say![LR]<END>
+
+//生は ダメなの[NYA]…[LR]<END>
+#JMP($484AB)
+#FIXEDLENGTH(19,0)
+No raw [NYA]…[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($484D9)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//よつんばいで…[LR]<END>
+#JMP($48542)
+#FIXEDLENGTH(15,0)
+On all fours…[LR]<END>
+
+//時速 80Kmの [WORD2]を 追い抜いてく…[LR]<END>
+#JMP($4855C)
+#FIXEDLENGTH(35,0)
+passin' a[LR]
+[WORD2] at[LR]
+80km/h…[LR]<END>
+
+//[WORD1]が あらわれたん だって！<END>
+#JMP($4858A)
+#FIXEDLENGTH(29,0)
+a [WORD1] appeared, they say!<END>
+
+//その [WORD1]…[LR]<END>
+#JMP($485BF)
+#FIXEDLENGTH(13,0)
+That [WORD1]…[LR]<END>
+
+//スピード違反で 捕まった らしい[NYA]～[LR]<END>
+#JMP($485D7)
+#FIXEDLENGTH(36,0)
+got caught[LR]
+speedin' [NYA]～[LR]<END>
+
+//[WORD0]の人が 病院でね…[LR]<END>
+#JMP($48653)
+#FIXEDLENGTH(23,0)
+At a hospital…[LR]<END>
+
+//レントゲンを とったの[NYA]…[LR]<END>
+#JMP($4866C)
+#FIXEDLENGTH(27,0)
+got an X-ray[LR]
+[NYA]…[LR]<END>
+
 //そしたら…[LR]<END>
 #JMP($48692)
 #FIXEDLENGTH(11,0)
 And then…[LR]<END>
+
+//[WORD1]の辺りに 変なカゲが 写ってたん だって…<END>
+#JMP($4869F)
+#FIXEDLENGTH(44,0)
+a weird shadow showed near [WORD1]…<END>
+
+//そのカゲを…[LR]<END>
+#JMP($486E3)
+#FIXEDLENGTH(13,0)
+The shadow…[LR]<END>
+
+//よーく 見たら…[LR]<END>
+#JMP($486F2)
+#FIXEDLENGTH(16,0)
+looked close…[LR]<END>
+
+//「[VAR3]」って 文字に 読めたんだって!![LR]<END>
+#JMP($4870D)
+#FIXEDLENGTH(36,0)
+read "[VAR3]"!![LR]<END>
+
+//[WORD2]の 知ってる 有名人 おしえて～<END>
+#JMP($48754)
+#FIXEDLENGTH(34,0)
+Tell me a celebrity [WORD2] knows～<END>
+
+//「[VAR1]電話」ってのが あるの[NYA]！<END>
+#JMP($487D3)
+#FIXEDLENGTH(31,0)
+There's a "[VAR1] phone" [NYA]!<END>
+
+//[WORD1]電話？<END>
+#JMP($487F4)
+#FIXEDLENGTH(11,0)
+Phone?<END>
+
+//その 電話に かけると～[LR]<END>
+#JMP($4880E)
+#FIXEDLENGTH(23,0)
+Call that[LR]
+number～[LR]<END>
+
+//…もしもし あたし [WORD1]。[LR]<END>
+#JMP($48830)
+#FIXEDLENGTH(26,0)
+…Hello, it's[LR]
+[WORD1].[LR]<END>
+
+//…お電話 ありがとう。[LR]<END>
+#JMP($4884C)
+#FIXEDLENGTH(22,0)
+…Thanks for[LR]
+callin'.[LR]<END>
+
+//…今 [WORD3]に いるの。[LR]<END>
+#JMP($48864)
+#FIXEDLENGTH(22,0)
+…I'm at [WORD3][LR]
+now.[LR]<END>
+
+//って おはなし できるの[NYA]～<END>
+#JMP($48885)
+#FIXEDLENGTH(27,0)
+and you can talk [NYA]～<END>
+
+//もう１回 かけると～[LR]<END>
+#JMP($488B3)
+#FIXEDLENGTH(20,0)
+Call once more～[LR]<END>
+
+//…もしもし あたし [WORD1]。[LR]<END>
+#JMP($488D2)
+#FIXEDLENGTH(26,0)
+…Hello, it's[LR]
+[WORD1].[LR]<END>
+
+//…お電話 ありがとう。[LR]<END>
+#JMP($488EE)
+#FIXEDLENGTH(22,0)
+…Thanks for[LR]
+callin'.[LR]<END>
+
+//…今 [WORD4]中なの。[LR]<END>
+#JMP($48906)
+#FIXEDLENGTH(19,0)
+…I'm[LR]
+[WORD4]-ing.[LR]<END>
+
+//もう １回…[LR]<END>
+#JMP($4892F)
+#FIXEDLENGTH(12,0)
+Once more…[LR]<END>
+
+//…もしもし あたし [WORD1]。[LR]<END>
+#JMP($48946)
+#FIXEDLENGTH(26,0)
+…Hello, it's[LR]
+[WORD1].[LR]<END>
+
+//…今 あなたの 家の前なの。[LR]<END>
+#JMP($48962)
+#FIXEDLENGTH(27,0)
+…I'm outside[LR]
+your house.[LR]<END>
+
+//家の前…？[LR]<END>
+#JMP($48988)
+#FIXEDLENGTH(11,0)
+Outside…?[LR]<END>
+
+//もう １回…[LR]<END>
+#JMP($489A6)
+#FIXEDLENGTH(12,0)
+Once more…[LR]<END>
+
+//…もしもし あたし [WORD1]。[LR]<END>
+#JMP($489BD)
+#FIXEDLENGTH(26,0)
+…Hello, it's[LR]
+[WORD1].[LR]<END>
+
+//…今 あなたの うしろよ！[LR]<END>
+#JMP($489D9)
+#FIXEDLENGTH(25,0)
+…I'm behind you[LR]
+now![LR]<END>
+
+//[WORD0]に [WORD0]が 追突する 事故が あったんだって～<END>
+#JMP($48A2D)
+#FIXEDLENGTH(48,0)
+There was a [WORD0] rear-endin' a [WORD0]～<END>
 
 //[WORD0]の？<END>
 #JMP($48A5F)
 #FIXEDLENGTH(9,0)
 [WORD0]'s?<END>
 
+//ぶつかった ２台の [WORD0]の 間から…[LR]<END>
+#JMP($48A77)
+#FIXEDLENGTH(35,0)
+From between[LR]
+the 2 [WORD0]…[LR]<END>
+
+//ぺちゃんこに なった ３台目の [WORD0]が 出てきたの[NYA]！[LR]<END>
+#JMP($48AA5)
+#FIXEDLENGTH(53,0)
+a squashed 3rd[LR]
+[WORD0] came[LR]
+out [NYA]![LR]<END>
+
+//[WORD1]が いっぱい いる場所で…[LR]<END>
+#JMP($48B1C)
+#FIXEDLENGTH(30,0)
+Where there's[LR]
+lots of[LR]
+[WORD1]…[LR]<END>
+
+//転んだりして…[LR]<END>
+#JMP($48B45)
+#FIXEDLENGTH(15,0)
+if you fall…[LR]<END>
+
+//[WORD0]に キズを 作っちゃうと…<END>
+#JMP($48B56)
+#FIXEDLENGTH(29,0)
+and cut your [WORD0]…<END>
+
 //[WORD0]に？<END>
 #JMP($48B75)
 #FIXEDLENGTH(9,0)
 On [WORD0]?<END>
 
+//キズ口から [WORD1]の タマゴが 入って～[LR]<END>
+#JMP($48B8D)
+#FIXEDLENGTH(37,0)
+[WORD1] eggs[LR]
+get in the[LR]
+wound～[LR]<END>
+
+//そのうち [WORD0]の ウラ側に～[LR]<END>
+#JMP($48BBD)
+#FIXEDLENGTH(28,0)
+and soon under[LR]
+[WORD0]～[LR]<END>
+
+//[WORD1]が びっしり なんだって～[LR]<END>
+#JMP($48BE1)
+#FIXEDLENGTH(30,0)
+it's packed with[LR]
+[WORD1]～[LR]<END>
+
+//昔から 言われてる らしいんだけど…[LR]<END>
+#JMP($48C6B)
+#FIXEDLENGTH(35,0)
+There's an old[LR]
+sayin'…[LR]<END>
+
+//カベに [WORD0]あり[LR]<END>
+#JMP($48C99)
+#FIXEDLENGTH(17,0)
+Walls have[LR]
+[WORD0][LR]<END>
+
+//障子に [WORD1]あり[LR]<END>
+#JMP($48CAC)
+#FIXEDLENGTH(17,0)
+doors have[LR]
+[WORD1][LR]<END>
+
+//なんだって～<END>
+#JMP($48CC8)
+#FIXEDLENGTH(12,0)
+they say～<END>
+
+//壁に [WORD0]？<END>
+#JMP($48CD6)
+#FIXEDLENGTH(12,0)
+Walls?<END>
+
+//障子に [WORD1]？<END>
+#JMP($48CE4)
+#FIXEDLENGTH(14,0)
+Doors, [WORD1]?<END>
+
+//昔の お家は オバケやしきなの[NYA]～[LR]<END>
+#JMP($48CFD)
+#FIXEDLENGTH(34,0)
+Old houses are[LR]
+haunted [NYA]～[LR]<END>
+
+//[WORD2]には [WORD3]が あるかも しれない[NYA]…[LR]<END>
+#JMP($48D2A)
+#FIXEDLENGTH(41,0)
+[WORD2] might[LR]
+have [WORD3][LR]
+[NYA]…[LR]<END>
+
+//カベに 穴が 開いてて…[LR]<END>
+#JMP($48D95)
+#FIXEDLENGTH(23,0)
+A hole in the[LR]
+wall…[LR]<END>
+
+//のぞいてみたら 真っ赤に 見えたら すぐに 逃げて[NYA]～<END>
+#JMP($48DB7)
+#FIXEDLENGTH(51,0)
+peek in, if it's bright red, run [NYA]～<END>
+
+//その 赤いのは…[LR]<END>
+#JMP($48DFD)
+#FIXEDLENGTH(16,0)
+That red…[LR]<END>
+
+//真っ赤な [WORD1]をした…[LR]<END>
+#JMP($48E18)
+#FIXEDLENGTH(23,0)
+is a red[LR]
+[WORD1]…[LR]<END>
+
+//[WORD0]が 向こう側からも のぞいてるの[NYA]～<END>
+#JMP($48E37)
+#FIXEDLENGTH(40,0)
+[WORD0] peekin' back from the other side～<END>
+
+//穴から その 真っ赤な [WORD1]が～[LR]<END>
+#JMP($48E77)
+#FIXEDLENGTH(31,0)
+From the hole,[LR]
+red [WORD1]～[LR]<END>
+
+//ニョキ！[LR]って 飛び出して くるかも～<END>
+#JMP($48E9E)
+#FIXEDLENGTH(35,0)
+Boing![LR]
+might pop out～<END>
+
+//[WORD2]の 知ってる 有名人 おしえて～<END>
+#JMP($48EE4)
+#FIXEDLENGTH(34,0)
+Tell me a celebrity [WORD2] knows～<END>
+
+//[WORD3]にね…[LR]<END>
+#JMP($48F65)
+#FIXEDLENGTH(12,0)
+At [WORD3]…[LR]<END>
+
+//４つの 自動販売機が ならんでる所が あるの…<END>
+#JMP($48F73)
+#FIXEDLENGTH(43,0)
+there's a spot with 4 vendin' machines…<END>
+
 //[WORD3]に？<END>
 #JMP($48FA0)
 #FIXEDLENGTH(9,0)
 [WORD3]?<END>
+
+//その ３つ目と ４つ目の すきまに…[LR]<END>
+#JMP($48FB8)
+#FIXEDLENGTH(34,0)
+between the 3rd[LR]
+and 4th…[LR]<END>
+
+//厚さ１cmの [WORD1]が いるの[NYA]～<END>
+#JMP($48FE5)
+#FIXEDLENGTH(30,0)
+lives a 1cm-thin [WORD1] [NYA]～<END>
+
+//「ぺらぺら [VAR1]」って その妖怪を 見ちゃうと～[LR]<END>
+#JMP($4901B)
+#FIXEDLENGTH(45,0)
+See that yokai[LR]
+"Flimsy [VAR1]"～[LR]<END>
+
+//お部屋まで ついてきて…[LR]<END>
+#JMP($4904A)
+#FIXEDLENGTH(24,0)
+it follows you[LR]
+home…[LR]<END>
+
+//タンスの すきまとか！[LR]<END>
+#JMP($4906D)
+#FIXEDLENGTH(22,0)
+gaps in the[LR]
+dresser![LR]<END>
+
+//[WORD4]の すきまとかに！[LR]<END>
+#JMP($49085)
+#FIXEDLENGTH(23,0)
+gaps in[LR]
+[WORD4]![LR]<END>
+
+//住みついちゃうから 気をつけて～[LR]<END>
+#JMP($490A7)
+#FIXEDLENGTH(32,0)
+it moves in, be[LR]
+careful～[LR]<END>
+
+//真夜中に [WORD0]を 口に くわえて…[LR]<END>
+#JMP($49109)
+#FIXEDLENGTH(33,0)
+Midnight,[LR]
+[WORD0] in[LR]
+mouth…[LR]<END>
+
+//洗面器に [WORD1]を 入れて～[LR]<END>
+#JMP($49135)
+#FIXEDLENGTH(26,0)
+[WORD1] in a[LR]
+washbasin～[LR]<END>
+
+//中を見るの[NYA]！[LR]<END>
+#JMP($49151)
+#FIXEDLENGTH(16,0)
+look inside![LR]<END>
+
+//そしたら 未来の ケッコン相手の 顔が 映るんだって～<END>
+#JMP($4916C)
+#FIXEDLENGTH(50,0)
+and your future spouse's face shows～<END>
+
+//やってみたけど…[LR]<END>
+#JMP($491B1)
+#FIXEDLENGTH(17,0)
+I tried, but…[LR]<END>
+
+//自分の顔しか 映ってなかった[NYA]…[LR]<END>
+#JMP($491CA)
+#FIXEDLENGTH(33,0)
+only my face[LR]
+showed [NYA]…[LR]<END>
+
+//自分で 自分と ケッコン するって コトか[NYA]～？[LR]<END>
+#JMP($491F6)
+#FIXEDLENGTH(46,0)
+Does it mean I'll[LR]
+marry myself[LR]
+[NYA]～?[LR]<END>
+
+//はっ！[LR]ずっと 独身!?[LR]<END>
+#JMP($4923F)
+#FIXEDLENGTH(21,0)
+Ah![LR]
+Single forever!?[LR]<END>
+
+//え！[LR]そういう意味!?[LR]<END>
+#JMP($49263)
+#FIXEDLENGTH(20,0)
+Huh![LR]
+That's it!?[LR]<END>
 
 //そんにゃあ…[LR]<END>
 #JMP($49282)
@@ -26987,20 +28527,45 @@ Nyaww…[LR]<END>
 #FIXEDLENGTH(9,0)
 [WORD0]?<END>
 
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($498D4)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
 //人間の お仕事って どんなのが あるの？<END>
 #JMP($49931)
 #FIXEDLENGTH(37,0)
 What human jobs are there?<END>
+
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($49B07)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
+//[WORD2]の 知ってる 有名人 おしえて～<END>
+#JMP($49B6C)
+#FIXEDLENGTH(34,0)
+Tell me a celebrity [WORD2] knows～<END>
 
 //そういえば…[LR]<END>
 #JMP($49BE9)
 #FIXEDLENGTH(13,0)
 By the way…[LR]<END>
 
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($49CD2)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
 //そういえば…[LR]<END>
 #JMP($49D5C)
 #FIXEDLENGTH(13,0)
 By the way…[LR]<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($49E69)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
 
 //[WORD0]が？<END>
 #JMP($4A560)
@@ -27011,6 +28576,16 @@ By the way…[LR]<END>
 #JMP($4A63F)
 #FIXEDLENGTH(31,0)
 What books should I read [NYA]?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4AA90)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4AD83)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
 
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($4B23C)
@@ -27043,10 +28618,25 @@ gotta watch it…[LR]<END>
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
 
+//今 なんか したいコトある？<END>
+#JMP($4B668)
+#FIXEDLENGTH(26,0)
+Anything you wanna do now?<END>
+
 //[WORD1]が？<END>
 #JMP($4BA4B)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
+
+//[WORD2]の 知ってる 有名人 おしえて～<END>
+#JMP($4BB39)
+#FIXEDLENGTH(34,0)
+Tell me a celebrity [WORD2] knows～<END>
+
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($4BC64)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
 
 //でも…[LR]<END>
 #JMP($4BF1A)
@@ -27057,6 +28647,11 @@ But…[LR]<END>
 #JMP($4C165)
 #FIXEDLENGTH(37,0)
 What human jobs are there?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4C50B)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
 
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($4CC05)
@@ -27089,6 +28684,16 @@ careful…[LR]<END>
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
 
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($4D580)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($4D710)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
 //そういう時は…[LR]<END>
 #JMP($4D82A)
 #FIXEDLENGTH(15,0)
@@ -27115,15 +28720,51 @@ careful…[LR]<END>
 #FIXEDLENGTH(31,0)
 What kind of folks do you hate?<END>
 
+//うわーん！ うわーん！<END>
+#JMP($4E028)
+#FIXEDLENGTH(21,0)
+Waaah! Waaah!<END>
+
+//逃げて 逃げて～[LR][WORD4]、逃げて～!![LR]<END>
+#JMP($4E1F6)
+#FIXEDLENGTH(34,0)
+Run, run～[LR]
+[WORD4], run～!![LR]<END>
+
+//キライな 人って どんな人？<END>
+#JMP($4E2F1)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
+
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($4E3B8)
 #FIXEDLENGTH(37,0)
 What human clothes are there?<END>
 
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4E56D)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4E694)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
 //[WORD1]が？<END>
 #JMP($4E7CE)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4E82E)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4EAA9)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
 
 //きっと…[LR]<END>
 #JMP($4ED96)
@@ -27134,6 +28775,11 @@ Surely…[LR]<END>
 #JMP($4F016)
 #FIXEDLENGTH(9,0)
 [WORD0]?<END>
+
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($4F599)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
 
 //なーんだ…[LR]<END>
 #JMP($4F665)
@@ -27150,6 +28796,11 @@ Aw, huh…[LR]<END>
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
 
+//[WORD2]が よく おでかけする 場所って どこ？<END>
+#JMP($4F951)
+#FIXEDLENGTH(41,0)
+Where does [WORD2] often go out?<END>
+
 //[WORD1]にね～[LR]<END>
 #JMP($4F9E4)
 #FIXEDLENGTH(12,0)
@@ -27160,6 +28811,11 @@ At [WORD1]～[LR]<END>
 #FIXEDLENGTH(15,0)
 Wait a sec…[LR]<END>
 
+//世の中には どんな人が いるの[NYA]？<END>
+#JMP($4FB50)
+#FIXEDLENGTH(33,0)
+What kinds of folks exist [NYA]?<END>
+
 //[WORD1]が？<END>
 #JMP($4FC3D)
 #FIXEDLENGTH(9,0)
@@ -27169,6 +28825,11 @@ Wait a sec…[LR]<END>
 #JMP($501DC)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
+
+//キライな 人って どんな人？<END>
+#JMP($50276)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
 
 //そうだよね…[LR]<END>
 #JMP($50316)
@@ -27249,6 +28910,11 @@ then…[LR]<END>
 #JMP($51B46)
 #FIXEDLENGTH(9,0)
 [WORD0]?<END>
+
+//キライな 人って どんな人？<END>
+#JMP($51BBD)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
 
 //[WORD1]に？<END>
 #JMP($51C5F)
@@ -27523,6 +29189,11 @@ Oh my…[LR]<END>
 #JMP($57427)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
+
+//[WORD2]の 知ってる 有名人 おしえて～<END>
+#JMP($575B0)
+#FIXEDLENGTH(34,0)
+Tell me a celebrity [WORD2] knows～<END>
 
 //うにゃ～[LR]<END>
 #JMP($577C1)
@@ -28185,6 +29856,26 @@ Tell me where [WORD2] often goes<END>
 #FIXEDLENGTH(9,0)
 W/ [WORD1]?<END>
 
+//今 なんか したいコトある？<END>
+#JMP($6742D)
+#FIXEDLENGTH(26,0)
+Anything you wanna do now?<END>
+
+//今 なんか したいコトある？<END>
+#JMP($67515)
+#FIXEDLENGTH(26,0)
+Anything you wanna do now?<END>
+
+//今 なんか したいコトある？<END>
+#JMP($6760E)
+#FIXEDLENGTH(26,0)
+Anything you wanna do now?<END>
+
+//今 なんか したいコトある？<END>
+#JMP($6772D)
+#FIXEDLENGTH(26,0)
+Anything you wanna do now?<END>
+
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($67A3F)
 #FIXEDLENGTH(37,0)
@@ -28229,6 +29920,16 @@ Tell me someone close to [WORD2]<END>
 #JMP($6906E)
 #FIXEDLENGTH(9,0)
 [WORD0]'s?<END>
+
+//[WORD3]を？<END>
+#JMP($69189)
+#FIXEDLENGTH(9,0)
+[WORD3]?<END>
+
+//[WORD3]を？<END>
+#JMP($692C5)
+#FIXEDLENGTH(9,0)
+[WORD3]?<END>
 
 //だれか 人のお名前 おしえて～<END>
 #JMP($69B83)
@@ -28307,6 +30008,11 @@ Surely…[LR]<END>
 
 //[WORD3]が？<END>
 #JMP($6C11F)
+#FIXEDLENGTH(9,0)
+[WORD3]?<END>
+
+//[WORD3]を？<END>
+#JMP($6C3B6)
 #FIXEDLENGTH(9,0)
 [WORD3]?<END>
 
@@ -28515,10 +30221,20 @@ I see, good…[LR]<END>
 #FIXEDLENGTH(11,0)
 Like～[LR]<END>
 
+//キライな 人って どんな人？<END>
+#JMP($6FE07)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
+
 //人間に なったら…[LR]<END>
 #JMP($6FE67)
 #FIXEDLENGTH(18,0)
 When I'm human…[LR]<END>
+
+//[WORD2]の 知ってる 有名人 おしえて～<END>
+#JMP($6FFB1)
+#FIXEDLENGTH(34,0)
+Tell me a celebrity [WORD2] knows～<END>
 
 //人間に なったら…[LR]<END>
 #JMP($70019)
@@ -28655,6 +30371,11 @@ When I'm human…[LR]<END>
 #FIXEDLENGTH(9,0)
 Um…[LR]<END>
 
+//キライな 人って どんな人？<END>
+#JMP($71F78)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
+
 //えっと…[LR]<END>
 #JMP($72014)
 #FIXEDLENGTH(9,0)
@@ -28665,20 +30386,40 @@ Um…[LR]<END>
 #FIXEDLENGTH(13,0)
 Why…?[LR]<END>
 
+//キライな 人って どんな人？<END>
+#JMP($7212D)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
+
 //そうだよね…[LR]<END>
 #JMP($7221D)
 #FIXEDLENGTH(13,0)
 Right…[LR]<END>
+
+//キライな 人って どんな人？<END>
+#JMP($722FA)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
 
 //[WORD2]に？<END>
 #JMP($723A2)
 #FIXEDLENGTH(9,0)
 In [WORD2]?<END>
 
+//キライな 人って どんな人？<END>
+#JMP($7245F)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
+
 //そうだよね…[LR]<END>
 #JMP($7252A)
 #FIXEDLENGTH(13,0)
 Right…[LR]<END>
+
+//キライな 人って どんな人？<END>
+#JMP($72729)
+#FIXEDLENGTH(26,0)
+What people do you hate?<END>
 
 //そっか～[LR]<END>
 #JMP($72A1B)
@@ -28719,6 +30460,11 @@ Not allowed…?[LR]<END>
 #JMP($7309F)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
+
+//今 なんか したいコトある？<END>
+#JMP($730F7)
+#FIXEDLENGTH(26,0)
+Anything you wanna do now?<END>
 
 //でも…[LR]<END>
 #JMP($73190)
@@ -28789,6 +30535,11 @@ I see…[LR]<END>
 #JMP($74ECF)
 #FIXEDLENGTH(38,0)
 Tell me a TV show [WORD2] watches～<END>
+
+//[WORD2]の 知ってる 有名人 おしえて～<END>
+#JMP($74FB7)
+#FIXEDLENGTH(34,0)
+Tell me a celebrity [WORD2] knows～<END>
 
 //[WORD0]を？<END>
 #JMP($75222)
