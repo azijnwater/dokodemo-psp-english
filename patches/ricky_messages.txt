@@ -15541,35 +15541,1755 @@ invade![LR]<END>
 #FIXEDLENGTH(9,0)
 Hawawa～[LR]<END>
 
+//はやく かいけつ策を考えないと…[LR]<END>
+#JMP($2C1F3)
+#FIXEDLENGTH(32,0)
+Gotta find a fix[LR]
+quick…[LR]<END>
+
+//宇宙に行ったコトある[KERO]？<END>
+#JMP($2C227)
+#FIXEDLENGTH(25,0)
+Been to space?<END>
+
+//もし、行くコトになったら ゼヒいっしょに行こう[KERO]～♪[LR]<END>
+#JMP($2C281)
+#FIXEDLENGTH(53,0)
+If you ever go,[LR]
+let's go[LR]
+together～♪[LR]<END>
+
+//そう<$17><$19><$00>なァ…[LR]<END>
+#JMP($2C2C9)
+#FIXEDLENGTH(14,0)
+Let's see…[LR]<END>
+
+//宇宙に なんか持っていくとしたら [WORD1]は 何を持っていく<$17><$19><$00>か？<END>
+#JMP($2C2EA)
+#FIXEDLENGTH(61,0)
+If [WORD1] took somethin' to space, what'd it be?<END>
+
+//宇宙に持っていきたいモノ<$17><$19><$00>～<END>
+#JMP($2C354)
+#FIXEDLENGTH(29,0)
+Stuff to take to space～<END>
+
+//[KERO]！[LR][WORD3]<$17><$19><$00>か！[LR]<END>
+#JMP($2C38C)
+#FIXEDLENGTH(19,0)
+Kero![LR]
+[WORD3]<$17><$19><$00>![LR]<END>
+
+//なるほど…[LR]宇宙にはピッタリ<$17><$19><$00>ね～[LR]<END>
+#JMP($2C3AA)
+#FIXEDLENGTH(35,0)
+I see…[LR]
+Perfect for[LR]
+space～[LR]<END>
+
+//子どものころの 約束だった[KERO]ねェ～[LR]<END>
+#JMP($2C406)
+#FIXEDLENGTH(35,0)
+A promise from[LR]
+childhood～[LR]<END>
+
+//「ヌエ」って知ってる[KERO]？[LR]<END>
+#JMP($2C436)
+#FIXEDLENGTH(26,0)
+Know the "nue"?[LR]<END>
+
+//アタマが [WORD0]！[LR]<END>
+#JMP($2C478)
+#FIXEDLENGTH(17,0)
+Head of[LR]
+[WORD0]![LR]<END>
+
+//体が [WORD1]！[LR]<END>
+#JMP($2C4A9)
+#FIXEDLENGTH(13,0)
+Body:[WORD1]![LR]<END>
+
+//手足が [WORD1]！[LR]<END>
+#JMP($2C4D6)
+#FIXEDLENGTH(15,0)
+Limbs:[WORD1]![LR]<END>
+
+//しっぽが [WORD1]！[LR]という…[LR]<END>
+#JMP($2C505)
+#FIXEDLENGTH(26,0)
+Tail of[LR]
+[WORD1]![LR]
+it's…[LR]<END>
+
+//[WORD2]おそろしい ケモノだなッス!![LR]<END>
+#JMP($2C533)
+#FIXEDLENGTH(33,0)
+a [WORD2][LR]
+scary beast!![LR]<END>
+
+//日本に古くからいて 人々をおそれさせていたん<$17><$19><$00>！[LR]<END>
+#JMP($2C55F)
+#FIXEDLENGTH(49,0)
+It's been in[LR]
+Japan forever,[LR]
+scarin' folks![LR]<END>
+
+//その影響力は すごくて…[LR]<END>
+#JMP($2C5A3)
+#FIXEDLENGTH(24,0)
+Its power was[LR]
+huge…[LR]<END>
+
+//ヌエのせいで むかしの日本の都では…[LR]<END>
+#JMP($2C5C6)
+#FIXEDLENGTH(36,0)
+due to the nue,[LR]
+the old capital…[LR]<END>
+
+//よく、[WORD0]狩りが 流行したりしたらしい<$17><$19><$00>[LR]<END>
+#JMP($2C5F5)
+#FIXEDLENGTH(42,0)
+had [WORD0][LR]
+hunts all the[LR]
+rage, they say[LR]<END>
+
+//いやホント おそろしいケモノだなッス～!![LR]<END>
+#JMP($2C62A)
+#FIXEDLENGTH(40,0)
+Really, a scary[LR]
+beast～!![LR]<END>
+
+//「ろくろ首」は、ゆーめいなオバケだ[KERO]～！[LR]<END>
+#JMP($2C65F)
+#FIXEDLENGTH(42,0)
+"Rokurokubi" is[LR]
+a famous[LR]
+ghost～![LR]<END>
+
+//首がにゅ～っと伸びる人<$17><$19><$00>ねェ～[LR]<END>
+#JMP($2C694)
+#FIXEDLENGTH(32,0)
+Folks with[LR]
+stretchy necks[LR]<END>
+
+//でも、なんで伸びるんスかね？[LR]<END>
+#JMP($2C6C7)
+#FIXEDLENGTH(29,0)
+But why do they[LR]
+stretch?[LR]<END>
+
+//いきものというモノは…[LR]すべからく必要にせまられて、<END>
+#JMP($2C6EF)
+#FIXEDLENGTH(51,0)
+Livin' things…[LR]
+change out of[LR]
+necessity,<END>
+
+//そのカタチが変わって行くハズだ<$17><$19><$00>…[LR]<END>
+#JMP($2C72A)
+#FIXEDLENGTH(36,0)
+their shape[LR]
+should[LR]
+change<$17><$19><$00>…[LR]<END>
+
+//きっと「ろくろくび」にも…[LR]長くしなくてはならない理由が…？[LR]<END>
+#JMP($2C761)
+#FIXEDLENGTH(60,0)
+Surely[LR]
+"rokurokubi"[LR]
+too…[LR]
+has a reason to[LR]
+be long…?[LR]<END>
+
+//はっ！[LR]もしや!![LR]<END>
+#JMP($2C7A8)
+#FIXEDLENGTH(16,0)
+Ah![LR]
+Maybe!![LR]<END>
+
+//戸棚の上にある…[LR]<END>
+#JMP($2C7D8)
+#FIXEDLENGTH(17,0)
+Up on a shelf…[LR]<END>
+
+//[WORD0]を 食べるため!?[LR]<END>
+#JMP($2C7F4)
+#FIXEDLENGTH(21,0)
+to eat[LR]
+[WORD0]!?[LR]<END>
+
+//…そうにちがいないッス～!![LR]<END>
+#JMP($2C814)
+#FIXEDLENGTH(27,0)
+…That's gotta[LR]
+be it～!![LR]<END>
+
+//ちょっと、コワい話をする[KERO]…[LR]<END>
+#JMP($2C83C)
+#FIXEDLENGTH(30,0)
+I'll tell a scary[LR]
+story…[LR]<END>
+
+//[WORD0]カンケーのバイトに 行ってたんだ[KERO]…[LR]<END>
+#JMP($2C8BE)
+#FIXEDLENGTH(42,0)
+I had a[LR]
+part-time job[LR]
+with [WORD0]…[LR]<END>
+
+//ザンギョーで遅くなって さあ帰ろうって…[LR]<END>
+#JMP($2C8F3)
+#FIXEDLENGTH(40,0)
+worked late,[LR]
+time to go[LR]
+home…[LR]<END>
+
+//真夜中に１人っきりで エレベーターにのったっス…[LR]<END>
+#JMP($2C923)
+#FIXEDLENGTH(48,0)
+took the[LR]
+elevator alone[LR]
+at midnight…[LR]<END>
+
+//６階ぐらいに来た時に 急にトビラがガタガタいって…[LR]<END>
+#JMP($2C966)
+#FIXEDLENGTH(50,0)
+around floor 6[LR]
+the door[LR]
+rattled…[LR]<END>
+
+//エレベーターが動いてるのに トビラが少し開いたっス!![LR]<END>
+#JMP($2C9A3)
+#FIXEDLENGTH(52,0)
+the elevator[LR]
+moved, but the[LR]
+door opened a[LR]
+bit!![LR]<END>
+
+//おそるおそる スキマをのぞいてみると…[LR]<END>
+#JMP($2C9E2)
+#FIXEDLENGTH(38,0)
+I timidly peeked[LR]
+through the[LR]
+gap…[LR]<END>
+
+//血まみれの [WORD0]が…[LR]<END>
+#JMP($2CA28)
+#FIXEDLENGTH(21,0)
+a bloody[LR]
+[WORD0]…[LR]<END>
+
+//こっちを じっと見てた[KERO]～!![LR]<END>
+#JMP($2CA48)
+#FIXEDLENGTH(29,0)
+was starin' right[LR]
+at me～!![LR]<END>
+
+//１階についたとたんに いなくなってしまった[KERO]も…[LR]<END>
+#JMP($2CA78)
+#FIXEDLENGTH(49,0)
+It vanished as[LR]
+soon as we hit[LR]
+floor 1…[LR]<END>
+
+//あれは なんだったんだ[KERO]～!?[LR]<END>
+#JMP($2CAB4)
+#FIXEDLENGTH(29,0)
+What was[LR]
+that～!?[LR]<END>
+
+//[WORD0]は 人形って持ってる[KERO]？[LR]<END>
+#JMP($2CAED)
+#FIXEDLENGTH(30,0)
+Does [WORD0][LR]
+have dolls?[LR]<END>
+
+//まぁ、たぶんフツーの人形だと思うケド…[LR]<END>
+#JMP($2CB1E)
+#FIXEDLENGTH(39,0)
+Well, prob'ly[LR]
+normal dolls…[LR]<END>
+
+//世の中は広いんだなッス～[LR]<END>
+#JMP($2CB50)
+#FIXEDLENGTH(25,0)
+The world is[LR]
+big～[LR]<END>
+
+//なんと！ 自然に髪の毛が伸びる 人形があるらしい<$17><$19><$00>！[LR]<END>
+#JMP($2CB74)
+#FIXEDLENGTH(52,0)
+Get this! A doll[LR]
+whose hair[LR]
+grows on its[LR]
+own![LR]<END>
+
+//持ち主は もういなくて…[LR]お寺に おいてあるらしい<$17><$19><$00>…[LR]<END>
+#JMP($2CBBB)
+#FIXEDLENGTH(53,0)
+Its owner's[LR]
+gone…[LR]
+it's kept at a[LR]
+temple…[LR]<END>
+
 //でも…[LR]<END>
 #JMP($2CBFB)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//今でも髪の毛が 伸びつづけてるらしい[KERO]～[LR]<END>
+#JMP($2CC0D)
+#FIXEDLENGTH(41,0)
+The hair's still[LR]
+growin', they[LR]
+say～[LR]<END>
+
+//ぎにゃー!![LR]コワイ<$17><$19><$00>ー!![LR]<END>
+#JMP($2CC41)
+#FIXEDLENGTH(25,0)
+Ginyaa!![LR]
+Scary!![LR]<END>
+
+//しかも最近、人形の口が あいてきたとか聞いた[KERO]…！[LR]<END>
+#JMP($2CC6D)
+#FIXEDLENGTH(51,0)
+And lately its[LR]
+mouth started[LR]
+openin', I[LR]
+heard…![LR]<END>
+
+//ぎにゃー!![LR]コワイ<$17><$19><$00>ー!![LR]<END>
+#JMP($2CCAB)
+#FIXEDLENGTH(25,0)
+Ginyaa!![LR]
+Scary!![LR]<END>
+
+//さらに！ [WORD1]から 真っ赤な血が たれてきたらしい[KERO]!![LR]<END>
+#JMP($2CCE4)
+#FIXEDLENGTH(54,0)
+What's more![LR]
+Red blood drips[LR]
+from [WORD1]!![LR]<END>
+
+//ふんぎゃらー!![LR]コワイ<$17><$19><$00>ー!![LR]<END>
+#JMP($2CD25)
+#FIXEDLENGTH(29,0)
+Fungyaraa!![LR]
+Scary!![LR]<END>
+
+//「コックリさん」したコトある[KERO]？[LR]<END>
+#JMP($2CD56)
+#FIXEDLENGTH(34,0)
+Ever played[LR]
+"Kokkuri-san"?[LR]<END>
+
+//むかし結構、はやった<$17><$19><$00>なァ[LR]<END>
+#JMP($2CD83)
+#FIXEDLENGTH(28,0)
+It was big back[LR]
+then～[LR]<END>
+
+//[WORD0]の上で <END>
+#JMP($2CDE8)
+#FIXEDLENGTH(12,0)
+On [WORD0]<END>
+
+//[WORD0]をしながら コックリさんを呼んでいたッス…[LR]<END>
+#JMP($2CE0B)
+#FIXEDLENGTH(47,0)
+doin' [WORD0],[LR]
+we called[LR]
+Kokkuri-san…[LR]<END>
+
+//でも…[LR]イタズラに呼んでは たたられてしまう<$17><$19><$00>…[LR]<END>
+#JMP($2CE4D)
+#FIXEDLENGTH(48,0)
+But…[LR]
+call it for fun[LR]
+and you get[LR]
+cursed…[LR]<END>
+
+//さわらぬ神に たたりなし<$17><$19><$00>…[LR]<END>
+#JMP($2CE88)
+#FIXEDLENGTH(29,0)
+Let sleepin'[LR]
+gods lie…[LR]<END>
+
+//「座敷わらし」って知ってる[KERO]？[LR]<END>
+#JMP($2CEB2)
+#FIXEDLENGTH(32,0)
+Know[LR]
+"zashiki-warashi"?[LR]<END>
+
+//このオバケがいると その家は、繁栄するって言われてる[KERO]…[LR]<END>
+#JMP($2CEE5)
+#FIXEDLENGTH(57,0)
+If this spirit's in[LR]
+a house, it[LR]
+prospers, they[LR]
+say…[LR]<END>
+
+//[WORD0]の家には いる<$17><$19><$00>か？<END>
+#JMP($2CF31)
+#FIXEDLENGTH(25,0)
+Is one in [WORD0]'s house?<END>
+
+//[WORD0]がな<END>
+#JMP($2CF5B)
+#FIXEDLENGTH(9,0)
+[WORD0]<END>
+
+//いる<$17><$19><$00>か！[LR]<END>
+#JMP($2CF7B)
+#FIXEDLENGTH(12,0)
+There is![LR]<END>
+
+//それは すンばらしい<$17><$19><$00>！[LR]<END>
+#JMP($2CF92)
+#FIXEDLENGTH(25,0)
+That's[LR]
+wonderful![LR]<END>
+
+//ぜひ、毎日かんしゃの気持ちをこめて、<END>
+#JMP($2CFB6)
+#FIXEDLENGTH(36,0)
+Every day, with gratitude,<END>
+
+//[WORD2]を おそなえする<$17><$19><$00>よ！[LR]<END>
+#JMP($2CFF7)
+#FIXEDLENGTH(28,0)
+offer it[LR]
+[WORD2]![LR]<END>
+
+//家で オバケを 飼っている<END>
+#JMP($2D015)
+#FIXEDLENGTH(24,0)
+Keep a ghost at home<END>
+
+//でも、オバケもこういう風だと みんな歓迎ッス♪[LR]<END>
+#JMP($2D08B)
+#FIXEDLENGTH(46,0)
+But ghosts like[LR]
+that, everyone[LR]
+welcomes♪[LR]<END>
+
+//[WORD0]の ゆーめいな心霊スポットに、<END>
+#JMP($2D0F0)
+#FIXEDLENGTH(34,0)
+A famous haunted spot in [WORD0],<END>
+
+//トモダチの[WORD1]で いっしょに行ってきた[KERO]！[LR]<END>
+#JMP($2D11A)
+#FIXEDLENGTH(44,0)
+I went with my[LR]
+pal [WORD1]![LR]<END>
+
+//そこには あやしげな塔がたってて…[LR]<END>
+#JMP($2D159)
+#FIXEDLENGTH(34,0)
+There's a[LR]
+creepy tower[LR]
+there…[LR]<END>
+
+//そのまわりを [WORD2]回まわると、なんかが出るって言われてたん<$17><$19><$00>…[LR]<END>
+#JMP($2D194)
+#FIXEDLENGTH(64,0)
+go round it[LR]
+[WORD2] times[LR]
+and somethin'[LR]
+appears, they[LR]
+say…[LR]<END>
+
+//で、トモダチと いっしょに回りはじめて…[LR]<END>
+#JMP($2D1DF)
+#FIXEDLENGTH(40,0)
+So we started[LR]
+goin' round…[LR]<END>
+
+//あと１回で [WORD2]回って時に、急に寒気がしてきて…[LR]<END>
+#JMP($2D212)
+#FIXEDLENGTH(49,0)
+one more lap to[LR]
+[WORD2], I got[LR]
+chills…[LR]<END>
+
+//そして、回りおわった瞬間に!![LR]<END>
+#JMP($2D24E)
+#FIXEDLENGTH(29,0)
+And the moment[LR]
+we finished!![LR]<END>
+
+//上から血まみれの [WORD0]が ふってきた[KERO]～!![LR]<END>
+#JMP($2D293)
+#FIXEDLENGTH(43,0)
+a bloody[LR]
+[WORD0] fell[LR]
+from above～!![LR]<END>
+
+//[WORD1]とばしてすぐに、逃げ帰ったっス！[LR]<END>
+#JMP($2D2D1)
+#FIXEDLENGTH(38,0)
+Ran off[LR]
+[WORD1] fast![LR]<END>
+
+//お、おそろしかった[KERO]～!![LR]<END>
+#JMP($2D302)
+#FIXEDLENGTH(26,0)
+Th-that was[LR]
+scary～!![LR]<END>
+
+//もう二度と、あそこには行かない[KERO]～ッ!![LR]<END>
+#JMP($2D327)
+#FIXEDLENGTH(40,0)
+Never goin'[LR]
+there again～!![LR]<END>
+
+//「守護霊」って [WORD0]にはいる[KERO]？[LR]<END>
+#JMP($2D364)
+#FIXEDLENGTH(34,0)
+Has [WORD0][LR]
+got a guardian[LR]
+spirit?[LR]<END>
+
+//[WORD0]の ご先祖サマかも知れない[KERO]ね…[LR]<END>
+#JMP($2D3A1)
+#FIXEDLENGTH(38,0)
+Might be[LR]
+[WORD0]'s[LR]
+ancestor…[LR]<END>
+
+//！[LR]えんりょするコトないッス[LR]<END>
+#JMP($2D3EE)
+#FIXEDLENGTH(28,0)
+![LR]
+Don't hold back[LR]<END>
+
+//は！[LR]<END>
+#JMP($2D41D)
+#FIXEDLENGTH(5,0)
+Ha![LR]<END>
+
+//は！[LR]<END>
+#JMP($2D42D)
+#FIXEDLENGTH(5,0)
+Ha![LR]<END>
+
+//ハァ～っ!![LR]<END>
+#JMP($2D43D)
+#FIXEDLENGTH(11,0)
+Haaa!![LR]<END>
+
+//見える見える[KERO][LR]<END>
+#JMP($2D461)
+#FIXEDLENGTH(16,0)
+I see it![LR]<END>
+
+//[WORD1]系のかっこうで…[LR]<END>
+#JMP($2D4A6)
+#FIXEDLENGTH(22,0)
+Dressed[LR]
+[WORD1]-style…[LR]<END>
+
+//カオは [WORD2]みたいだ[KERO]…[LR]<END>
+#JMP($2D4C7)
+#FIXEDLENGTH(26,0)
+face like[LR]
+[WORD2]…[LR]<END>
 
 //あ！[LR]<END>
 #JMP($2D509)
 #FIXEDLENGTH(5,0)
 Ah![LR]<END>
 
+//今、[WORD1]食べた[KERO][LR]<END>
+#JMP($2D519)
+#FIXEDLENGTH(19,0)
+Just ate[LR]
+[WORD1][LR]<END>
+
+//は～[LR]<END>
+#JMP($2D537)
+#FIXEDLENGTH(5,0)
+Ha～[LR]<END>
+
+//[WORD0]は こんな人に 見守ってもらっている<$17><$19><$00>か～[LR]<END>
+#JMP($2D54F)
+#FIXEDLENGTH(47,0)
+So that's who[LR]
+watches over[LR]
+[WORD0]～[LR]<END>
+
+//最近 家の中で、色々と変なオトがする<$17><$19><$00>～[LR]<END>
+#JMP($2D58B)
+#FIXEDLENGTH(41,0)
+Lately there's[LR]
+weird sounds in[LR]
+the house[LR]<END>
+
+//パチッ<END>
+#JMP($2D5C7)
+#FIXEDLENGTH(6,0)
+Snap<END>
+
+//とか<END>
+#JMP($2D5D8)
+#FIXEDLENGTH(4,0)
+or<END>
+
+//ピキッ<END>
+#JMP($2D5E7)
+#FIXEDLENGTH(6,0)
+Crk<END>
+
 //とか…[LR]<END>
 #JMP($2D5F8)
 #FIXEDLENGTH(7,0)
 etc…[LR]<END>
+
+//こういうのを ラップ音というん<$17><$19><$00>な…[LR]<END>
+#JMP($2D60A)
+#FIXEDLENGTH(37,0)
+That's called[LR]
+rappin' sounds…[LR]<END>
+
+//なれると 「[VAR0]」みたいでイイカンジ<$17><$19><$00>[LR]<END>
+#JMP($2D64F)
+#FIXEDLENGTH(38,0)
+Once used to it,[LR]
+it's "[VAR0]",[LR]
+nice[LR]<END>
+
+//きっと家の中で、ゆうれいが [WORD0]してるんだ[KERO][LR]<END>
+#JMP($2D69D)
+#FIXEDLENGTH(46,0)
+A ghost must be[LR]
+[WORD0]-ing in[LR]
+the house[LR]<END>
+
+//………はぅ！[LR]<END>
+#JMP($2D6E8)
+#FIXEDLENGTH(13,0)
+………Hau![LR]<END>
+
+//そ、それは、コ、コワイッスー!![LR]<END>
+#JMP($2D700)
+#FIXEDLENGTH(31,0)
+Th-that's[LR]
+sc-scary!![LR]<END>
+
+//やぁ～超能力っていい[KERO]～[LR]<END>
+#JMP($2D72F)
+#FIXEDLENGTH(26,0)
+Psychic powers[LR]
+rock～[LR]<END>
+
+//手を使わずに モノをうごかしたりできる<$17><$19><$00>よ～[LR]<END>
+#JMP($2D754)
+#FIXEDLENGTH(45,0)
+You can move[LR]
+stuff without[LR]
+hands～[LR]<END>
+
+//[LR]マジシャンになる[KERO]！[LR]<END>
+#JMP($2D7A8)
+#FIXEDLENGTH(23,0)
+[LR]
+I'll be a[LR]
+magician![LR]<END>
+
+//タネもしかけもいらないから すごく楽<$17><$19><$00>な！[LR]<END>
+#JMP($2D7C1)
+#FIXEDLENGTH(43,0)
+No tricks[LR]
+needed, so easy![LR]<END>
+
+//テレビにも出て～[LR]<END>
+#JMP($2D7F7)
+#FIXEDLENGTH(17,0)
+On TV too～[LR]<END>
+
+//[WORD0]と 競演ッス～[LR]<END>
+#JMP($2D825)
+#FIXEDLENGTH(19,0)
+co-star with[LR]
+[WORD0][LR]<END>
+
+//サインもらってくる[KERO]？<END>
+#JMP($2D843)
+#FIXEDLENGTH(23,0)
+Want an autograph?<END>
+
+//まかせてくれ<$17><$19><$00>！[LR]<END>
+#JMP($2D87C)
+#FIXEDLENGTH(18,0)
+Leave it to me![LR]<END>
+
+//[WORD0]サインが ものすごく欲しい<END>
+#JMP($2D899)
+#FIXEDLENGTH(30,0)
+Badly want [WORD0]'s autograph<END>
+
+//えんりょなんか しなくていい<$17><$19><$00>よ…[LR]<END>
+#JMP($2D8C8)
+#FIXEDLENGTH(35,0)
+No need to be[LR]
+shy<$17><$19><$00>…[LR]<END>
+
+//[WORD2]の 好きなコトバ、ひとつおしえて<$17><$18><$00>～<END>
+#JMP($2D907)
+#FIXEDLENGTH(41,0)
+Tell me a word [WORD2] likes<$17><$18><$00>～<END>
+
+//ゆーめいな [WORD3]シンガーが 体験した話なんだ[KERO]も…[LR]<END>
+#JMP($2D972)
+#FIXEDLENGTH(51,0)
+A story a[LR]
+famous[LR]
+[WORD3] singer[LR]
+went through…[LR]<END>
+
+//[WORD3]には…[LR]<END>
+#JMP($2D9C5)
+#FIXEDLENGTH(12,0)
+In [WORD3]…[LR]<END>
+
+//「出る」って、ゆーめいな スタジオがあって…[LR]<END>
+#JMP($2D9D6)
+#FIXEDLENGTH(44,0)
+there's a studio[LR]
+famous for[LR]
+"visitors"…[LR]<END>
+
+//それとは知らずに そのシンガーは…[LR]<END>
+#JMP($2DA0D)
+#FIXEDLENGTH(34,0)
+Not knowin'[LR]
+that, the[LR]
+singer…[LR]<END>
+
+//そこでレコーディングしてたそうっス…[LR]<END>
+#JMP($2DA37)
+#FIXEDLENGTH(37,0)
+was recordin'[LR]
+there…[LR]<END>
+
+//で…[LR]<END>
+#JMP($2DA67)
+#FIXEDLENGTH(5,0)
+So…[LR]<END>
+
+//ふと、ヘッドホンから 声がきこえたような気がしたんだ[KERO]も…<END>
+#JMP($2DA6E)
+#FIXEDLENGTH(58,0)
+they thought they heard a voice in the headphones…<END>
+
+//気のせいだろうって 続けてた[KERO]…[LR]<END>
+#JMP($2DAB3)
+#FIXEDLENGTH(33,0)
+ignored it, kept[LR]
+on…[LR]<END>
+
+//したら、だんだん声が 近づいて来るっス！[LR]<END>
+#JMP($2DADF)
+#FIXEDLENGTH(40,0)
+then the voice[LR]
+got closer and[LR]
+closer![LR]<END>
+
+//聞きとれるくらいになったと[LR]<END>
+#JMP($2DB12)
+#FIXEDLENGTH(27,0)
+Just as it got[LR]
+clear[LR]<END>
+
+//思ったとたん！[LR]<END>
+#JMP($2DB38)
+#FIXEDLENGTH(15,0)
+right then![LR]<END>
+
+//「[VAR1]!!」[LR]<END>
+#JMP($2DB5A)
+#FIXEDLENGTH(10,0)
+"[VAR1]!!"[LR]<END>
+
+//って 大声できこえて…!![LR]<END>
+#JMP($2DB6F)
+#FIXEDLENGTH(24,0)
+a loud voice[LR]
+yelled…!![LR]<END>
+
+//そのシンガーは たおれてしまったそう<$17><$19><$00>[LR]<END>
+#JMP($2DB92)
+#FIXEDLENGTH(39,0)
+and the singer[LR]
+collapsed<$17><$19><$00>[LR]<END>
+
+//それ以来、そのシンガーは 二度と そのスタジオを利用してないそうっス～[LR]<END>
+#JMP($2DBC4)
+#FIXEDLENGTH(69,0)
+Since then,[LR]
+they've never[LR]
+used that studio[LR]
+again～[LR]<END>
+
+//びっくりギョーテンだ[KERO]！[LR]<END>
+#JMP($2DC16)
+#FIXEDLENGTH(26,0)
+What a shocker![LR]<END>
+
+//なんと！ ＵＦＯを呼ぶじゅもんを きいてしまったッス！[LR]<END>
+#JMP($2DC3B)
+#FIXEDLENGTH(53,0)
+Get this! I heard[LR]
+the spell to call[LR]
+UFOs![LR]<END>
+
+//ＮＡＳＡのトップシークレットなみ<$17><$19><$00>～[LR]<END>
+#JMP($2DC7B)
+#FIXEDLENGTH(38,0)
+Like NASA top[LR]
+secret～[LR]<END>
+
+//ココロしてきく<$17><$19><$00>よ!![LR]<END>
+#JMP($2DCBE)
+#FIXEDLENGTH(22,0)
+Listen close!![LR]<END>
+
+//………あれ？[LR]…たしかベントラー？[LR]<END>
+#JMP($2DCE7)
+#FIXEDLENGTH(34,0)
+………Huh?[LR]
+…was it[LR]
+Bentora?[LR]<END>
+
+//イヤ…[LR]こっちりゅ～ん…？[LR]<END>
+#JMP($2DD14)
+#FIXEDLENGTH(26,0)
+No…[LR]
+Kocchi ryu～n…?[LR]<END>
+
+//…はわわ！[LR]わすれてしまった[KERO]ー!?[LR]<END>
+#JMP($2DD4B)
+#FIXEDLENGTH(35,0)
+…Hawawa![LR]
+I forgot!?[LR]<END>
+
+//き、きっと宇宙人に…[LR]記憶を消されたに違いない<$17><$19><$00>!![LR]<END>
+#JMP($2DD79)
+#FIXEDLENGTH(51,0)
+Th-the aliens[LR]
+must've…[LR]
+erased my[LR]
+memory!![LR]<END>
+
+//き、きっと…[LR]<END>
+#JMP($2DDD4)
+#FIXEDLENGTH(13,0)
+They must…[LR]<END>
+
+//[WORD1]に あやしげなモノをうめこまれた<$17><$19><$00>!![LR]<END>
+#JMP($2DDEC)
+#FIXEDLENGTH(42,0)
+planted[LR]
+somethin' fishy[LR]
+in [WORD1]!![LR]<END>
+
+//[WORD0]も気をつけるッス～！[LR]<END>
+#JMP($2DE29)
+#FIXEDLENGTH(26,0)
+[WORD0], be[LR]
+careful too～![LR]<END>
+
+//やぁ～超能力っていい[KERO]～♥[LR]<END>
+#JMP($2DE50)
+#FIXEDLENGTH(28,0)
+Psychic powers[LR]
+rock～♥[LR]<END>
+
+//[WORD0]を念力で 浮かすコトが出来たり、<END>
+#JMP($2DE8C)
+#FIXEDLENGTH(36,0)
+Float [WORD0] with your mind,<END>
+
+//ふだん見えない カベの向こうとかが 見られるようになる[KERO]～[LR]<END>
+#JMP($2DEB8)
+#FIXEDLENGTH(58,0)
+see what's[LR]
+normally behind[LR]
+walls～[LR]<END>
+
+//でも、ちょっとギモンがある[KERO]…<END>
+#JMP($2DEFD)
+#FIXEDLENGTH(31,0)
+But I've got a question…<END>
+
+//カベが見えなくなったら あぶなくて 部屋の中も歩けない[KERO]～？[LR]<END>
+#JMP($2DF34)
+#FIXEDLENGTH(60,0)
+If walls[LR]
+vanished, it'd be[LR]
+unsafe to walk[LR]
+indoors～?[LR]<END>
+
+//そんなだから おふろ屋さんまでたどりつくのは 至難のワザッス！<END>
+#JMP($2DF7B)
+#FIXEDLENGTH(60,0)
+So gettin' to the bathhouse would be super hard!<END>
+
+//え!?[LR]<END>
+#JMP($2DFCF)
+#FIXEDLENGTH(5,0)
+Eh!?[LR]<END>
+
+//だ、だれも 女湯をのぞくなんて 言ってない<$17><$19><$00>ー！[LR]<END>
+#JMP($2DFDF)
+#FIXEDLENGTH(48,0)
+N-nobody said[LR]
+peekin' in the[LR]
+women's bath～![LR]<END>
+
+//やぁ～超能力っていい[KERO]～♥[LR]<END>
+#JMP($2E01C)
+#FIXEDLENGTH(28,0)
+Psychic powers[LR]
+rock～♥[LR]<END>
+
+//これからおこる 未来のコトが わかってしまうんだ[KERO]～[LR]<END>
+#JMP($2E043)
+#FIXEDLENGTH(52,0)
+You'd know[LR]
+what'll happen in[LR]
+the future～[LR]<END>
+
+//[WORD0]が大バクハツ！とかの 事故も未然にふせげるッス～[LR]<END>
+#JMP($2E09F)
+#FIXEDLENGTH(53,0)
+You could[LR]
+prevent[LR]
+disasters like[LR]
+[WORD0][LR]
+explodin'～[LR]<END>
+
+//でも、人生のたのしみが 半分になっちゃうカンジもする<$17><$19><$00>な…[LR]<END>
+#JMP($2E0DF)
+#FIXEDLENGTH(59,0)
+But it feels like[LR]
+it'd halve life's[LR]
+fun<$17><$19><$00>…[LR]<END>
+
+//あっ！<END>
+#JMP($2E12D)
+#FIXEDLENGTH(6,0)
+Ah!<END>
+
+//今気づいた！[LR]<END>
+#JMP($2E13E)
+#FIXEDLENGTH(13,0)
+I just saw![LR]<END>
 
 //よ！[LR]<END>
 #JMP($2E188)
 #FIXEDLENGTH(5,0)
 !![LR]<END>
 
+//でも、雨限定～みたいな…[LR]<END>
+#JMP($2E1D2)
+#FIXEDLENGTH(25,0)
+But only when it[LR]
+rains…[LR]<END>
+
+//なんかパっとしない<$17><$19><$00>なぁ…[LR]<END>
+#JMP($2E1FF)
+#FIXEDLENGTH(28,0)
+Kinda[LR]
+lame<$17><$19><$00>…[LR]<END>
+
+//ゾンビ映画を見た<$17><$19><$00>！[LR]<END>
+#JMP($2E228)
+#FIXEDLENGTH(22,0)
+Saw a zombie[LR]
+flick![LR]<END>
+
+//ウ～ウ～とかうなりながら…[LR]大勢でよって来る[KERO]…[LR]<END>
+#JMP($2E249)
+#FIXEDLENGTH(49,0)
+Groanin' "ooh,[LR]
+ooh"…[LR]
+a big crowd[LR]
+comes at you…[LR]<END>
+
+//独特のコワさがある<$17><$19><$00>ね！[LR]<END>
+#JMP($2E285)
+#FIXEDLENGTH(26,0)
+A unique kinda[LR]
+scary![LR]<END>
+
+//でも、途中から シナリオがおかしくなって…[LR]<END>
+#JMP($2E2AA)
+#FIXEDLENGTH(42,0)
+But halfway the[LR]
+plot got weird…[LR]<END>
+
+//ゾンビ達がそろって [WORD0]してた[KERO]～[LR]<END>
+#JMP($2E2F4)
+#FIXEDLENGTH(36,0)
+all the zombies[LR]
+were[LR]
+[WORD0]-ing～[LR]<END>
+
+//でも、あれはあれで おもしろかった<$17><$19><$00>♥[LR]<END>
+#JMP($2E323)
+#FIXEDLENGTH(39,0)
+But that was[LR]
+fun in its own[LR]
+way♥[LR]<END>
+
+//なんて映画だったッスかね～[LR]<END>
+#JMP($2E366)
+#FIXEDLENGTH(27,0)
+What was that[LR]
+movie called[LR]<END>
+
+//たしか…[LR]<END>
+#JMP($2E386)
+#FIXEDLENGTH(9,0)
+I think[LR]<END>
+
+//[WORD0]だったような気がする[KERO]！[LR]<END>
+#JMP($2E3A9)
+#FIXEDLENGTH(31,0)
+It was [WORD0],[LR]
+I think![LR]<END>
+
+//今度見てみるといい<$17><$19><$00>よ！[LR]<END>
+#JMP($2E3D3)
+#FIXEDLENGTH(26,0)
+Watch it[LR]
+sometime![LR]<END>
+
+//[WORD2]が おもしろいって思う、雑誌 おしえて[KERO]～<END>
+#JMP($2E409)
+#FIXEDLENGTH(46,0)
+Tell me a magazine [WORD2] finds fun～<END>
+
+//「[VAR1]」で 自分は宇宙人だって言ってる変な、<END>
+#JMP($2E47B)
+#FIXEDLENGTH(42,0)
+In "[VAR1]", a weirdo claimin' alien roots,<END>
+
+//[WORD3]が しょーかいされていた[KERO]～[LR]<END>
+#JMP($2E4A7)
+#FIXEDLENGTH(34,0)
+[WORD3] was[LR]
+featured～[LR]<END>
+
+//なんでも、Ｍ[WORD4]星雲からやって来た <END>
+#JMP($2E4FF)
+#FIXEDLENGTH(36,0)
+Apparently from the M[WORD4] Nebula,<END>
+
+//[WORD1]星人で…[LR]<END>
+#JMP($2E525)
+#FIXEDLENGTH(14,0)
+a [WORD1]ian…[LR]<END>
+
+//「この [WORD1]さえあれば、ちきゅうに勝てる!!」[LR]<END>
+#JMP($2E553)
+#FIXEDLENGTH(45,0)
+"With this[LR]
+[WORD1], I can[LR]
+beat Earth!!"[LR]<END>
+
+//って言ってるらしいっス…[LR]<END>
+#JMP($2E588)
+#FIXEDLENGTH(25,0)
+they said…[LR]<END>
+
+//でも、だれも[WORD1]を 見たコトがないから…[LR]<END>
+#JMP($2E5AC)
+#FIXEDLENGTH(41,0)
+But nobody's[LR]
+seen the[LR]
+[WORD1]…[LR]<END>
+
+//おもしろがってるだけで、相手にしていない[KERO]～[LR]<END>
+#JMP($2E5E0)
+#FIXEDLENGTH(46,0)
+so folks just[LR]
+laugh and ignore[LR]
+it～[LR]<END>
+
+//ま、そういう[WORD3]、時々いる[KERO]！[LR]<END>
+#JMP($2E619)
+#FIXEDLENGTH(33,0)
+Such [WORD3][LR]
+pop up![LR]<END>
+
 //カエルニュース！[LR]<END>
 #JMP($2E647)
 #FIXEDLENGTH(17,0)
 Frog News![LR]<END>
 
+//ウワサの心霊スポットじょーほうをゲット！[LR]<END>
+#JMP($2E663)
+#FIXEDLENGTH(41,0)
+Got rumored[LR]
+haunted spot[LR]
+info![LR]<END>
+
+//[WORD0]に あるんだ[KERO]も…[LR]<END>
+#JMP($2E6C1)
+#FIXEDLENGTH(24,0)
+It's in[LR]
+[WORD0]…[LR]<END>
+
+//むかしは [WORD1]だったトコロなん<$17><$19><$00>よ！[LR]<END>
+#JMP($2E6E4)
+#FIXEDLENGTH(38,0)
+used to be a[LR]
+[WORD1]![LR]<END>
+
+//[WORD1]っていうだけで、なんかこうゾクゾクする<$17><$19><$00>な…[LR]<END>
+#JMP($2E715)
+#FIXEDLENGTH(51,0)
+Just hearin'[LR]
+[WORD1] gives[LR]
+me chills…[LR]<END>
+
+//ココで写真をとると…[LR]<END>
+#JMP($2E785)
+#FIXEDLENGTH(21,0)
+Take a photo[LR]
+here…[LR]<END>
+
+//かならず…[LR]<END>
+#JMP($2E79F)
+#FIXEDLENGTH(11,0)
+always…[LR]<END>
+
+//[WORD0]にのった…[LR]<END>
+#JMP($2E7B5)
+#FIXEDLENGTH(16,0)
+ridin' [WORD0]…[LR]<END>
+
+//首の見えない、[WORD1]のような人影が 写っちゃうらしいッス!![LR]<END>
+#JMP($2E7D0)
+#FIXEDLENGTH(57,0)
+a headless[LR]
+figure like[LR]
+[WORD1] shows[LR]
+up!![LR]<END>
+
+//コワい<$17><$19><$00>～!![LR]<END>
+#JMP($2E814)
+#FIXEDLENGTH(14,0)
+Scary～!![LR]<END>
+
+//……はて？[LR]<END>
+#JMP($2E82D)
+#FIXEDLENGTH(11,0)
+……Hm?[LR]<END>
+
+//そーいえば…[LR]<END>
+#JMP($2E843)
+#FIXEDLENGTH(13,0)
+But wait…[LR]<END>
+
+//なんで首が見えないのに、[WORD1]ってわかるん<$17><$19><$00>かね？[LR]<END>
+#JMP($2E85B)
+#FIXEDLENGTH(51,0)
+how'd they know[LR]
+it's [WORD1][LR]
+with no head?[LR]<END>
+
+//そぅそぅ[LR]<END>
+#JMP($2E89B)
+#FIXEDLENGTH(9,0)
+Oh yeah[LR]<END>
+
+//夜、口ぶえをふくと…[LR]<END>
+#JMP($2E8AF)
+#FIXEDLENGTH(21,0)
+Whistle at[LR]
+night…[LR]<END>
+
+//[WORD0]が やって来るらしい[KERO]～[LR]<END>
+#JMP($2E8E4)
+#FIXEDLENGTH(30,0)
+and [WORD0][LR]
+comes, they[LR]
+say～[LR]<END>
+
+//不幸なコトがおこるって、むかしから言われてるん<$17><$19><$00>な！[LR]<END>
+#JMP($2E915)
+#FIXEDLENGTH(54,0)
+Bad luck[LR]
+happens,[LR]
+they've always[LR]
+said![LR]<END>
+
+//ついついやってみたくなる<$17><$19><$00>よ～！[LR]<END>
+#JMP($2E97D)
+#FIXEDLENGTH(34,0)
+Makes me wanna[LR]
+try～![LR]<END>
+
+//で、この前ふいてみたッス！[LR]………[LR]<END>
+#JMP($2E9AA)
+#FIXEDLENGTH(34,0)
+So I tried it[LR]
+lately![LR]
+………[LR]<END>
+
+//[WORD0]しか こなかった<$17><$19><$00>…[LR]<END>
+#JMP($2E9F4)
+#FIXEDLENGTH(26,0)
+Only [WORD0][LR]
+came…[LR]<END>
+
+//「かまいたち」って知ってる[KERO]？[LR]<END>
+#JMP($2EA1B)
+#FIXEDLENGTH(32,0)
+Know[LR]
+"kamaitachi"?[LR]<END>
+
+//突然！[LR]<END>
+#JMP($2EA5B)
+#FIXEDLENGTH(7,0)
+Bam![LR]<END>
+
+//[WORD0]が スパッと切れちゃうけど…[LR]<END>
+#JMP($2EA6D)
+#FIXEDLENGTH(33,0)
+[WORD0] gets[LR]
+sliced…[LR]<END>
+
+//どこからも 血は出ないという カイキなゲンショウのコト[KERO]！[LR]<END>
+#JMP($2EA99)
+#FIXEDLENGTH(58,0)
+but no blood[LR]
+comes out, a[LR]
+weird[LR]
+phenomenon![LR]<END>
+
+//むかしは～[LR]<END>
+#JMP($2EAE6)
+#FIXEDLENGTH(11,0)
+Long ago～[LR]<END>
+
+//[WORD0]のような 動物のしわざって 言われてた<$17><$19><$00>～[LR]<END>
+#JMP($2EB11)
+#FIXEDLENGTH(47,0)
+they blamed an[LR]
+animal like[LR]
+[WORD0]～[LR]<END>
+
+//でも 今は、空気が真空じょーたいになると <END>
+#JMP($2EB4B)
+#FIXEDLENGTH(40,0)
+But now we know it's air goin' vacuum<END>
+
+//おこるコトだと わかってるん<$17><$19><$00>よ～[LR]<END>
+#JMP($2EB7B)
+#FIXEDLENGTH(35,0)
+that causes it～[LR]<END>
+
+//だから…[LR]「かまいたち発生装置」とか、作るコトもできるッス～♥[LR]<END>
+#JMP($2EBA9)
+#FIXEDLENGTH(62,0)
+So…[LR]
+you could even[LR]
+make a[LR]
+"kamaitachi[LR]
+maker"～♥[LR]<END>
+
+//世界各地でＵＦＯが ちきゅうの<END>
+#JMP($2EBF4)
+#FIXEDLENGTH(29,0)
+UFOs all over the world<END>
+
+//[WORD0]を あつめているらしい[KERO]!![LR]<END>
+#JMP($2EC28)
+#FIXEDLENGTH(32,0)
+are collectin'[LR]
+Earth's[LR]
+[WORD0]!![LR]<END>
+
+//オソロシや～!![LR]<END>
+#JMP($2EC5F)
+#FIXEDLENGTH(15,0)
+How scary～!![LR]<END>
+
+//きっと、ちきゅうのコトを調べてるん<$17><$19><$00>～[LR]<END>
+#JMP($2EC79)
+#FIXEDLENGTH(40,0)
+They must be[LR]
+studyin' Earth～[LR]<END>
+
+//[WORD1]も 安心していられないッスよ～!?[LR]<END>
+#JMP($2ECE0)
+#FIXEDLENGTH(37,0)
+[WORD1] can't[LR]
+relax either～!?[LR]<END>
+
+//カイゾウされて 宇宙人の手先にされたら…！[LR]<END>
+#JMP($2ED0D)
+#FIXEDLENGTH(42,0)
+If you're turned[LR]
+into an alien[LR]
+minion…![LR]<END>
+
+//どうする？[LR]どうする？[LR]<END>
+#JMP($2ED61)
+#FIXEDLENGTH(22,0)
+What now?[LR]
+What now?[LR]<END>
+
+//今から体をきたえて たたかう準備をする<$17><$19><$00>か？[LR]<END>
+#JMP($2ED82)
+#FIXEDLENGTH(45,0)
+Train your body[LR]
+now to get[LR]
+ready to fight?[LR]<END>
+
+//そう<$17><$19><$00>か？[LR]<END>
+#JMP($2EDBB)
+#FIXEDLENGTH(12,0)
+I see?[LR]<END>
+
+//ひょっとしたら、楽しいべか？[LR]<END>
+#JMP($2EDD2)
+#FIXEDLENGTH(29,0)
+Maybe it'd be[LR]
+fun?[LR]<END>
+
+//カイゾウされて 宇宙人の手先になりたいと 思っている<END>
+#JMP($2EDF1)
+#FIXEDLENGTH(50,0)
+Want to be remodeled into an alien minion<END>
+
+//重大じょーほう[KERO]！[LR]<END>
+#JMP($2EE35)
+#FIXEDLENGTH(20,0)
+Big info![LR]<END>
+
+//宇宙人にカイゾウされた人は…[LR]<END>
+#JMP($2EE54)
+#FIXEDLENGTH(29,0)
+Folks remodeled[LR]
+by aliens…[LR]<END>
+
+//耳に穴があいているらしい[KERO]!![LR]<END>
+#JMP($2EE7C)
+#FIXEDLENGTH(30,0)
+have a hole in[LR]
+their ear!![LR]<END>
+
+//………ん？[LR]ち、ちがった！[LR]<END>
+#JMP($2EEA5)
+#FIXEDLENGTH(26,0)
+………Hm?[LR]
+N-no, wait![LR]<END>
+
+//耳の近くに 穴があいているらしい[KERO]！[LR]<END>
+#JMP($2EECA)
+#FIXEDLENGTH(37,0)
+A hole near the[LR]
+ear, they say![LR]<END>
+
+//[WORD0]のトモダチで そういう人がいたら…[LR]<END>
+#JMP($2EF0A)
+#FIXEDLENGTH(39,0)
+If [WORD0] has[LR]
+a friend like[LR]
+that…[LR]<END>
+
+//チューイせよ！[LR]チューイせよ！[LR]<END>
+#JMP($2EF3C)
+#FIXEDLENGTH(30,0)
+Watch out![LR]
+Watch out![LR]<END>
+
+//[WORD1]が あやしいッス！[LR]<END>
+#JMP($2EF9D)
+#FIXEDLENGTH(23,0)
+[WORD1] is[LR]
+suspicious![LR]<END>
+
+//あのコトバや ふるまいは…[LR]<END>
+#JMP($2EFBF)
+#FIXEDLENGTH(26,0)
+Those words[LR]
+and ways…[LR]<END>
+
+//[WORD2] ちきゅう人ばなれしている[KERO]!![LR]<END>
+#JMP($2EFED)
+#FIXEDLENGTH(36,0)
+are [WORD2][LR]
+un-Earthly!![LR]<END>
+
+//今度会ったら 聞いてみて[KERO]～♥[LR]<END>
+#JMP($2F01C)
+#FIXEDLENGTH(31,0)
+Ask 'em next[LR]
+time～♥[LR]<END>
+
+//はるかむかしの本には、暗号が隠されているらしいッス！[LR]<END>
+#JMP($2F048)
+#FIXEDLENGTH(53,0)
+Ancient books[LR]
+hide secret[LR]
+codes, they say![LR]<END>
+
+//それをカイドクすると…[LR]<END>
+#JMP($2F088)
+#FIXEDLENGTH(23,0)
+Crack 'em…[LR]<END>
+
+//これからおこるコトもわかるらしい<$17><$19><$00>～!![LR]<END>
+#JMP($2F0AA)
+#FIXEDLENGTH(40,0)
+and you'll know[LR]
+what's to[LR]
+come～!![LR]<END>
+
+//[WORD1]したコトも…[LR]<END>
+#JMP($2F126)
+#FIXEDLENGTH(18,0)
+Even [WORD1]…[LR]<END>
+
+//書いてあったん<$17><$19><$00>かねェ…[LR]<END>
+#JMP($2F140)
+#FIXEDLENGTH(26,0)
+is written[LR]
+there<$17><$19><$00>…[LR]<END>
+
+//とにかくスゴイ[KERO]！[LR]<END>
+#JMP($2F16D)
+#FIXEDLENGTH(20,0)
+Amazin' anyway![LR]<END>
+
 //よ～[LR]<END>
 #JMP($2F1B1)
 #FIXEDLENGTH(5,0)
 !～[LR]<END>
+
+//え？[LR]何を調べたかって？[LR]<END>
+#JMP($2F1C1)
+#FIXEDLENGTH(24,0)
+Huh?[LR]
+What I studied?[LR]<END>
+
+//電話帳<$17><$19><$00>よ！[LR]<END>
+#JMP($2F1E4)
+#FIXEDLENGTH(14,0)
+Phone book![LR]<END>
+
+//これだけ数字が書いてあれば…[LR]きっと、隠されている[KERO]!![LR]<END>
+#JMP($2F1FD)
+#FIXEDLENGTH(55,0)
+With this many[LR]
+numbers…[LR]
+it's gotta be[LR]
+hidden!![LR]<END>
+
+//最近、ゆーめいな予言の研究をしてる[KERO]…[LR]<END>
+#JMP($2F241)
+#FIXEDLENGTH(40,0)
+Lately I'm[LR]
+studyin' a[LR]
+famous[LR]
+prophecy…[LR]<END>
+
+//その予言によると…[LR]<END>
+#JMP($2F274)
+#FIXEDLENGTH(19,0)
+By that[LR]
+prophecy…[LR]<END>
+
+//「[VAR0]が その大いなる心で あつかましくも…[LR]<END>
+#JMP($2F2BC)
+#FIXEDLENGTH(42,0)
+"[VAR0], with its[LR]
+great heart,[LR]
+brazenly…[LR]<END>
+
+//[WORD1]を支配する…[LR]<END>
+#JMP($2F2EE)
+#FIXEDLENGTH(18,0)
+rules [WORD1]…[LR]<END>
+
+//その時、人々は横たわり…[LR]<END>
+#JMP($2F320)
+#FIXEDLENGTH(25,0)
+Then people lie[LR]
+down…[LR]<END>
+
+//[WORD1]は<END>
+#JMP($2F344)
+#FIXEDLENGTH(7,0)
+[WORD1]<END>
+
+//[WORD2]を 失うだろう」[LR]<END>
+#JMP($2F34D)
+#FIXEDLENGTH(21,0)
+will lose[LR]
+[WORD2]"[LR]<END>
+
+//…だそう<$17><$19><$00>～！[LR]<END>
+#JMP($2F36D)
+#FIXEDLENGTH(16,0)
+…it says～![LR]<END>
+
+//………[LR]…はて？[LR]<END>
+#JMP($2F390)
+#FIXEDLENGTH(16,0)
+………[LR]
+…Hm?[LR]<END>
+
+//どーゆうコトッスかね…？[LR]<END>
+#JMP($2F3AB)
+#FIXEDLENGTH(25,0)
+What's that[LR]
+mean…?[LR]<END>
+
+//[WORD1]の中で…[LR]<END>
+#JMP($2F3D7)
+#FIXEDLENGTH(14,0)
+In [WORD1]…[LR]<END>
+
+//寝ながら[WORD2]を 食べつくすってコト<$17><$19><$00>か…？[LR]<END>
+#JMP($2F3F0)
+#FIXEDLENGTH(44,0)
+eat up all[LR]
+[WORD2] while[LR]
+sleepin'…?[LR]<END>
+
+//………[LR]奥が深い<$17><$19><$00>…[LR]<END>
+#JMP($2F427)
+#FIXEDLENGTH(21,0)
+………[LR]
+So deep…[LR]<END>
+
+//ＵＦＯについてのじょーほうは、[LR]<END>
+#JMP($2F449)
+#FIXEDLENGTH(31,0)
+About UFO info,[LR]<END>
+
+//あんまりしゃべっちゃ ダメなんだ[KERO]～[LR]<END>
+#JMP($2F470)
+#FIXEDLENGTH(37,0)
+I can't say too[LR]
+much～[LR]<END>
+
+//ヤツらに気づかれたら おしまい[KERO]!![LR]<END>
+#JMP($2F4A8)
+#FIXEDLENGTH(35,0)
+If they notice,[LR]
+it's over!![LR]<END>
+
+//黒い服をきた…[LR]<END>
+#JMP($2F4DE)
+#FIXEDLENGTH(15,0)
+Black suits…[LR]<END>
+
+//一見、[WORD0]のような連中<$17><$19><$00>～[LR]<END>
+#JMP($2F50D)
+#FIXEDLENGTH(29,0)
+guys who look[LR]
+like [WORD0]～[LR]<END>
+
+//ＵＦＯの秘密を 守ろうとしているらしいッス！[LR]<END>
+#JMP($2F535)
+#FIXEDLENGTH(44,0)
+are guardin'[LR]
+UFO secrets![LR]<END>
+
+//たぶん、[WORD0]から来た スパイなん<$17><$19><$00>～[LR]<END>
+#JMP($2F581)
+#FIXEDLENGTH(38,0)
+Prob'ly spies[LR]
+from [WORD0]～[LR]<END>
+
+//確実に消されてしまう<$17><$19><$00>!![LR]<END>
+#JMP($2F5E8)
+#FIXEDLENGTH(26,0)
+You'll get[LR]
+erased!![LR]<END>
+
+//気をつける<$17><$19><$00>よ～!![LR]<END>
+#JMP($2F60D)
+#FIXEDLENGTH(20,0)
+Be careful～!![LR]<END>
+
+//ビッグニュース！[LR]<END>
+#JMP($2F62E)
+#FIXEDLENGTH(17,0)
+Big news![LR]<END>
+
+//広い太平洋のまん中に…<END>
+#JMP($2F64A)
+#FIXEDLENGTH(22,0)
+Mid-Pacific…<END>
+
+//むかしは大きな大陸があって…[LR]<END>
+#JMP($2F66B)
+#FIXEDLENGTH(29,0)
+there was a big[LR]
+continent…[LR]<END>
+
+//たくさんの [WORD0]が すむ町が あったらしい<$17><$19><$00>！[LR]<END>
+#JMP($2F6A5)
+#FIXEDLENGTH(46,0)
+with cities of[LR]
+[WORD0], they[LR]
+say![LR]<END>
+
+//その名も！[LR]「ムー大陸」!![LR]<END>
+#JMP($2F6DE)
+#FIXEDLENGTH(26,0)
+Its name![LR]
+"Mu"!![LR]<END>
+
+//でも…[LR]一夜にして、海の中に消えてしまったって話<$17><$19><$00>[LR]<END>
+#JMP($2F703)
+#FIXEDLENGTH(51,0)
+But…[LR]
+it vanished[LR]
+under the sea in[LR]
+one night[LR]<END>
+
+//スゴく栄えていたといっても…[LR]<END>
+#JMP($2F741)
+#FIXEDLENGTH(29,0)
+Even so[LR]
+prosperous…[LR]<END>
+
+//一夜で滅んでしまうん<$17><$19><$00>なあ…[LR]<END>
+#JMP($2F766)
+#FIXEDLENGTH(30,0)
+it fell in one[LR]
+night…[LR]<END>
+
+//人も またしかり…[KERO]…[LR]<END>
+#JMP($2F797)
+#FIXEDLENGTH(23,0)
+Same for[LR]
+people…[KERO]…[LR]<END>
+
+//さっきテレビで [WORD0]見てたら～[LR]<END>
+#JMP($2F7E2)
+#FIXEDLENGTH(31,0)
+Watchin'[LR]
+[WORD0] on[LR]
+TV～[LR]<END>
+
+//火星にも [WORD1]がいたらしいって 言ってた[KERO]～!![LR]<END>
+#JMP($2F80C)
+#FIXEDLENGTH(47,0)
+they said Mars[LR]
+had [WORD1][LR]
+too～!![LR]<END>
+
+//でも今は、いないらしい<$17><$19><$00>なァ～[LR]<END>
+#JMP($2F84E)
+#FIXEDLENGTH(32,0)
+But now there's[LR]
+none～[LR]<END>
+
+//なんか ちょっとザンネン[KERO]～[LR]<END>
+#JMP($2F879)
+#FIXEDLENGTH(29,0)
+Kinda a shame～[LR]<END>
+
+//もし、火星にも[WORD1]がいて 文明ができてれば…[LR]<END>
+#JMP($2F8A1)
+#FIXEDLENGTH(45,0)
+If Mars had[LR]
+[WORD1] and a[LR]
+civilization…[LR]<END>
+
+//きっと、エキサイティングだった<$17><$19><$00>よ！[LR]<END>
+#JMP($2F8D9)
+#FIXEDLENGTH(38,0)
+it'd surely be[LR]
+excitin'![LR]<END>
+
+//火星[WORD0]とか食べられたかも♪[LR]<END>
+#JMP($2F91F)
+#FIXEDLENGTH(30,0)
+Maybe eat[LR]
+Martian[LR]
+[WORD0]♪[LR]<END>
+
+//そぅそぅ！[LR]ＵＦＯって好き[KERO]？[LR]<END>
+#JMP($2F94A)
+#FIXEDLENGTH(31,0)
+Oh yeah![LR]
+Do you like[LR]
+UFOs?[LR]<END>
+
+//焼きうどんじゃない<$17><$19><$00>！[LR]<END>
+#JMP($2F974)
+#FIXEDLENGTH(24,0)
+Not yakiudon![LR]<END>
+
+//空とぶ円盤ッスよ～！[LR]<END>
+#JMP($2F98E)
+#FIXEDLENGTH(21,0)
+Flyin' saucers～![LR]<END>
+
+//[WORD0]の ヒミツそしきが…[LR]<END>
+#JMP($2F9CB)
+#FIXEDLENGTH(25,0)
+A [WORD0][LR]
+secret group…[LR]<END>
+
+//ＵＦＯを作るコトに 成功したらしい[KERO]！[LR]<END>
+#JMP($2F9EF)
+#FIXEDLENGTH(39,0)
+succeeded in[LR]
+makin' a UFO![LR]<END>
+
+//テレビで言ってた<$17><$19><$00>！[LR]<END>
+#JMP($2FA21)
+#FIXEDLENGTH(22,0)
+They said on TV![LR]<END>
+
+//やっぱり、丸いカタチで…[LR]<END>
+#JMP($2FA4A)
+#FIXEDLENGTH(25,0)
+Round, I bet…[LR]<END>
+
+//変な音を出しながら飛ぶのだろうか～[LR]<END>
+#JMP($2FA6E)
+#FIXEDLENGTH(35,0)
+flyin' with weird[LR]
+sounds～[LR]<END>
+
+//でも…[LR]メイド・イン・ちきゅうだし…[LR]<END>
+#JMP($2FA9C)
+#FIXEDLENGTH(36,0)
+But…[LR]
+made on Earth…[LR]<END>
+
+//大きくスポンサーの名前とか 入っているかもしれない[KERO]ねェ～[LR]<END>
+#JMP($2FACB)
+#FIXEDLENGTH(59,0)
+might have a big[LR]
+sponsor name on[LR]
+it～[LR]<END>
+
+//「錬金術」って知ってる[KERO]？[LR]<END>
+#JMP($2FB13)
+#FIXEDLENGTH(28,0)
+Know[LR]
+"alchemy"?[LR]<END>
+
+//そぅそぅ[LR]<END>
+#JMP($302B6)
+#FIXEDLENGTH(9,0)
+Oh yeah[LR]<END>
 
 //よ！[LR]<END>
 #JMP($30526)
@@ -15721,6 +17441,11 @@ I see～[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//「[VAR1]!!」[LR]<END>
+#JMP($391AB)
+#FIXEDLENGTH(10,0)
+"[VAR1]!!"[LR]<END>
+
 //いつも 使ってるモノを なんかひとつおしえて<$17><$18><$00>？<END>
 #JMP($396F0)
 #FIXEDLENGTH(47,0)
@@ -15841,10 +17566,21 @@ Jeez[LR]<END>
 #FIXEDLENGTH(13,0)
 Maybe…[LR]<END>
 
+//お、おそろしかった[KERO]～!![LR]<END>
+#JMP($3E177)
+#FIXEDLENGTH(26,0)
+Th-that was[LR]
+scary～!![LR]<END>
+
 //たとえば…[LR]<END>
 #JMP($3E54C)
 #FIXEDLENGTH(11,0)
 Like…[LR]<END>
+
+//で…[LR]<END>
+#JMP($3E915)
+#FIXEDLENGTH(5,0)
+So…[LR]<END>
 
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($3EE68)
@@ -15891,6 +17627,11 @@ But…[LR]<END>
 #JMP($409DC)
 #FIXEDLENGTH(7,0)
 Ah![LR]<END>
+
+//そう<$17><$19><$00>か？[LR]<END>
+#JMP($40A60)
+#FIXEDLENGTH(12,0)
+I see?[LR]<END>
 
 //う～ん…[LR]やみつき～♥[LR]<END>
 #JMP($4125B)
@@ -16052,6 +17793,11 @@ Well[LR]<END>
 #FIXEDLENGTH(5,0)
 ♪[LR]<END>
 
+//え!?[LR]<END>
+#JMP($4BE83)
+#FIXEDLENGTH(5,0)
+Eh!?[LR]<END>
+
 //なぬ～!?[LR]<END>
 #JMP($4C0B9)
 #FIXEDLENGTH(9,0)
@@ -16097,6 +17843,16 @@ Tell me somethin' you always use<$17><$18><$00>?<END>
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//たしか…[LR]<END>
+#JMP($4E9CB)
+#FIXEDLENGTH(9,0)
+I think[LR]<END>
+
+//たしか…[LR]<END>
+#JMP($4EAFE)
+#FIXEDLENGTH(9,0)
+I think[LR]<END>
+
 //も…[LR]<END>
 #JMP($4ED22)
 #FIXEDLENGTH(5,0)
@@ -16121,6 +17877,11 @@ Well[LR]<END>
 #JMP($4F838)
 #FIXEDLENGTH(11,0)
 Anyway…[LR]<END>
+
+//気をつける<$17><$19><$00>よ～!![LR]<END>
+#JMP($4FA81)
+#FIXEDLENGTH(20,0)
+Be careful～!![LR]<END>
 
 //も…[LR]<END>
 #JMP($4FB46)
@@ -16161,6 +17922,11 @@ Oh, yeah,[LR]<END>
 #JMP($51039)
 #FIXEDLENGTH(9,0)
 Maybe…[LR]<END>
+
+//で…[LR]<END>
+#JMP($51594)
+#FIXEDLENGTH(5,0)
+So…[LR]<END>
 
 //よ…[LR]<END>
 #JMP($51AA2)
@@ -16237,6 +18003,11 @@ but[LR]<END>
 #FIXEDLENGTH(9,0)
 Still…[LR]<END>
 
+//そう<$17><$19><$00>か？[LR]<END>
+#JMP($54D96)
+#FIXEDLENGTH(12,0)
+I see?[LR]<END>
+
 //も…[LR]<END>
 #JMP($54E31)
 #FIXEDLENGTH(5,0)
@@ -16271,6 +18042,11 @@ tales～[LR]<END>
 #FIXEDLENGTH(9,0)
 Hehehe…[LR]<END>
 
+//たしか…[LR]<END>
+#JMP($5620A)
+#FIXEDLENGTH(9,0)
+I think[LR]<END>
+
 //あ！[LR]<END>
 #JMP($5634F)
 #FIXEDLENGTH(5,0)
@@ -16300,6 +18076,11 @@ Hmmm…[LR]<END>
 #JMP($581D4)
 #FIXEDLENGTH(11,0)
 I see…[LR]<END>
+
+//え!?[LR]<END>
+#JMP($5836D)
+#FIXEDLENGTH(5,0)
+Eh!?[LR]<END>
 
 //そうか…[LR]<END>
 #JMP($5851C)
@@ -16446,6 +18227,11 @@ I see～[LR]<END>
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
 
+//え!?[LR]<END>
+#JMP($5CB4A)
+#FIXEDLENGTH(5,0)
+Eh!?[LR]<END>
+
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($5CD28)
 #FIXEDLENGTH(12,0)
@@ -16455,6 +18241,11 @@ I see…[LR]<END>
 #JMP($5CECF)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//そぅそぅ[LR]<END>
+#JMP($5D1F9)
+#FIXEDLENGTH(9,0)
+Oh yeah[LR]<END>
 
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($5D49C)
@@ -16545,6 +18336,13 @@ But…[LR]<END>
 #JMP($5F4E1)
 #FIXEDLENGTH(17,0)
 Frog News![LR]<END>
+
+//ウワサの心霊スポットじょーほうをゲット！[LR]<END>
+#JMP($5F4FD)
+#FIXEDLENGTH(41,0)
+Got rumored[LR]
+haunted spot[LR]
+info![LR]<END>
 
 //で、でも今度…[LR]<END>
 #JMP($5F67C)
