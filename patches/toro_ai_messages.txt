@@ -63620,20 +63620,1320 @@ Feels bad<END>
 #FIXEDLENGTH(12,0)
 Unhealthy<END>
 
+//ためにならない<END>
+#JMP($980C9)
+#FIXEDLENGTH(14,0)
+Useless<END>
+
+//コドモっぽい<END>
+#JMP($980D8)
+#FIXEDLENGTH(12,0)
+Childish<END>
+
+//よわい<END>
+#JMP($980E5)
+#FIXEDLENGTH(6,0)
+Weak<END>
+
+//小さい<END>
+#JMP($980EC)
+#FIXEDLENGTH(6,0)
+Small<END>
+
+//すごく好き<END>
+#JMP($980F3)
+#FIXEDLENGTH(10,0)
+Love it<END>
+
+//ちょっと好き<END>
+#JMP($980FE)
+#FIXEDLENGTH(12,0)
+Like a bit<END>
+
+//少しだけ好き<END>
+#JMP($9810B)
+#FIXEDLENGTH(12,0)
+Kinda like<END>
+
+//愛してる♥<END>
+#JMP($98118)
+#FIXEDLENGTH(10,0)
+I love♥<END>
+
+//片思い中♥<END>
+#JMP($98123)
+#FIXEDLENGTH(10,0)
+Crushin'♥<END>
+
+//実はライバル！<END>
+#JMP($9812E)
+#FIXEDLENGTH(14,0)
+Secret rival!<END>
+
 //ノーコメント<END>
 #JMP($9813D)
 #FIXEDLENGTH(12,0)
 No comment<END>
+
+//ダンナさま<END>
+#JMP($9814A)
+#FIXEDLENGTH(10,0)
+Husband<END>
+
+//奥さま<END>
+#JMP($98155)
+#FIXEDLENGTH(6,0)
+Wife<END>
+
+//前に会ってる人<END>
+#JMP($98169)
+#FIXEDLENGTH(14,0)
+Met before<END>
+
+//聞いていいよ<END>
+#JMP($98178)
+#FIXEDLENGTH(12,0)
+You can ask<END>
+
+//もう聞かないで…<END>
+#JMP($98185)
+#FIXEDLENGTH(16,0)
+Don't ask more…<END>
+
+//質問<END>
+#JMP($98196)
+#FIXEDLENGTH(4,0)
+Ask<END>
+
+//聞きたいコト<END>
+#JMP($9819B)
+#FIXEDLENGTH(12,0)
+A question<END>
+
+//へぇ<END>
+#JMP($981B1)
+#FIXEDLENGTH(4,0)
+Huh<END>
 
 //電話番号？<END>
 #JMP($981B6)
 #FIXEDLENGTH(10,0)
 Number?<END>
 
+//おしえて？<END>
+#JMP($981C1)
+#FIXEDLENGTH(10,0)
+Tell me?<END>
+
+//わかった<END>
+#JMP($981CC)
+#FIXEDLENGTH(8,0)
+Got it<END>
+
+//秘密だね<END>
+#JMP($981D5)
+#FIXEDLENGTH(8,0)
+Secret<END>
+
+//ねぇねぇ…<END>
+#JMP($981DE)
+#FIXEDLENGTH(10,0)
+Hey hey…<END>
+
+//あのね、あのね…<END>
+#JMP($981E9)
+#FIXEDLENGTH(16,0)
+Um, so, um…<END>
+
+//えっと、えっと…<END>
+#JMP($981FA)
+#FIXEDLENGTH(16,0)
+Uh, um…<END>
+
+//何？<END>
+#JMP($9820B)
+#FIXEDLENGTH(4,0)
+Wha<END>
+
+//知ってる<END>
+#JMP($98210)
+#FIXEDLENGTH(8,0)
+Know it<END>
+
+//知らない<END>
+#JMP($98219)
+#FIXEDLENGTH(8,0)
+Dunno<END>
+
+//胸キュンじゃない<END>
+#JMP($98222)
+#FIXEDLENGTH(16,0)
+Not swoony<END>
+
+//いらない<END>
+#JMP($98233)
+#FIXEDLENGTH(8,0)
+No need<END>
+
+//どう<END>
+#JMP($9823C)
+#FIXEDLENGTH(4,0)
+How<END>
+
+//イイ♥<END>
+#JMP($98241)
+#FIXEDLENGTH(6,0)
+Yes♥<END>
+
+//ダメダメ<END>
+#JMP($98248)
+#FIXEDLENGTH(8,0)
+No way<END>
+
+//まかせた<END>
+#JMP($98251)
+#FIXEDLENGTH(8,0)
+Up 2 u<END>
+
 //やっぱヤメ<END>
 #JMP($9825A)
 #FIXEDLENGTH(10,0)
 Never mind<END>
+
+//自由に入力する<END>
+#JMP($9826F)
+#FIXEDLENGTH(14,0)
+Type freely<END>
+
+//○○と<END>
+#JMP($9827E)
+#FIXEDLENGTH(6,0)
+○○ &<END>
+
+//ほにゃらら<END>
+#JMP($9828C)
+#FIXEDLENGTH(10,0)
+Whatsit<END>
+
+//ヒミツ♥<END>
+#JMP($98297)
+#FIXEDLENGTH(8,0)
+Secret♥<END>
+
+//もう おしえた<END>
+#JMP($982A0)
+#FIXEDLENGTH(13,0)
+Told ya<END>
+
+//有名人<END>
+#JMP($982AE)
+#FIXEDLENGTH(6,0)
+Celeb<END>
+
+//エッチなモノ<END>
+#JMP($982B5)
+#FIXEDLENGTH(12,0)
+Lewd stuff<END>
+
+//ポケピクーイズ<END>
+#JMP($982C2)
+#FIXEDLENGTH(14,0)
+Pokepi Quiz<END>
+
+//誕生日<END>
+#JMP($98304)
+#FIXEDLENGTH(6,0)
+B-day<END>
+
+//電話番号<END>
+#JMP($98312)
+#FIXEDLENGTH(8,0)
+Phone #<END>
+
+//血液型<END>
+#JMP($9831B)
+#FIXEDLENGTH(6,0)
+Blood<END>
+
+//Ａ型<END>
+#JMP($98322)
+#FIXEDLENGTH(4,0)
+A<END>
+
+//Ｂ型<END>
+#JMP($98327)
+#FIXEDLENGTH(4,0)
+B<END>
+
+//Ｏ型<END>
+#JMP($9832C)
+#FIXEDLENGTH(4,0)
+O<END>
+
+//トモダチでも 知り合いでもない その他の関係<END>
+#JMP($98336)
+#FIXEDLENGTH(42,0)
+Not a friend or acquaintance: other<END>
+
+//上の立場<END>
+#JMP($98361)
+#FIXEDLENGTH(8,0)
+Senior<END>
+
+//同じぐらい<END>
+#JMP($9836A)
+#FIXEDLENGTH(10,0)
+About same<END>
+
+//下の立場<END>
+#JMP($98375)
+#FIXEDLENGTH(8,0)
+Junior<END>
+
+//います<END>
+#JMP($9837E)
+#FIXEDLENGTH(6,0)
+Yes<END>
+
+//いません<END>
+#JMP($98385)
+#FIXEDLENGTH(8,0)
+No<END>
+
+//募集中♥<END>
+#JMP($9838E)
+#FIXEDLENGTH(8,0)
+Single♥<END>
+
+//いる<END>
+#JMP($98397)
+#FIXEDLENGTH(4,0)
+Yes<END>
+
+//いない<END>
+#JMP($9839C)
+#FIXEDLENGTH(6,0)
+No<END>
+
+//募集中<END>
+#JMP($983A3)
+#FIXEDLENGTH(6,0)
+Open<END>
+
+//よろこんで<END>
+#JMP($983AA)
+#FIXEDLENGTH(10,0)
+Gladly<END>
+
+//遠慮しときます<END>
+#JMP($983B5)
+#FIXEDLENGTH(14,0)
+I'll pass<END>
+
+//それじゃあ<END>
+#JMP($983C4)
+#FIXEDLENGTH(10,0)
+Well then<END>
+
+//おまかせ<END>
+#JMP($983D8)
+#FIXEDLENGTH(8,0)
+Up 2 u<END>
+
+//コトバを教える<END>
+#JMP($983E1)
+#FIXEDLENGTH(14,0)
+Teach a word<END>
+
+//恋人が いるか どうか<END>
+#JMP($983F0)
+#FIXEDLENGTH(20,0)
+Do you have a lover<END>
+
+//じゃあイイや<END>
+#JMP($98405)
+#FIXEDLENGTH(12,0)
+Never mind<END>
+
+//もう１回<END>
+#JMP($98412)
+#FIXEDLENGTH(8,0)
+Again<END>
+
+//誕生日を聞こう！<END>
+#JMP($9841B)
+#FIXEDLENGTH(16,0)
+Ask birthday!<END>
+
+//やっぱ聞かないで<END>
+#JMP($9842C)
+#FIXEDLENGTH(16,0)
+Don't ask, ok<END>
+
+//電話番号を聞こう！<END>
+#JMP($9843D)
+#FIXEDLENGTH(18,0)
+Ask phone number!<END>
+
+//恋人の有無を聞こう！<END>
+#JMP($98450)
+#FIXEDLENGTH(20,0)
+Ask if they're taken<END>
+
+//質問の用意おわり<END>
+#JMP($98465)
+#FIXEDLENGTH(16,0)
+Questions ready<END>
+
+//恋人の有無<END>
+#JMP($98476)
+#FIXEDLENGTH(10,0)
+Taken?<END>
+
+//○○って ××？<END>
+#JMP($98481)
+#FIXEDLENGTH(15,0)
+Is ○○ ××?<END>
+
+//○○と×× どっちが…？<END>
+#JMP($98491)
+#FIXEDLENGTH(23,0)
+○○ or ××, which…?<END>
+
+//初めての人<END>
+#JMP($984A9)
+#FIXEDLENGTH(10,0)
+Newcomer<END>
+
+//初めての人へ<END>
+#JMP($984B4)
+#FIXEDLENGTH(12,0)
+To newcomer<END>
+
+//ともだちノートから<END>
+#JMP($984C1)
+#FIXEDLENGTH(18,0)
+From friend list<END>
+
+//はじめての人だね<END>
+#JMP($984D4)
+#FIXEDLENGTH(16,0)
+A newcomer, huh<END>
+
+//どうだった？<END>
+#JMP($984E5)
+#FIXEDLENGTH(12,0)
+How was it?<END>
+
+//そっか<END>
+#JMP($984F2)
+#FIXEDLENGTH(6,0)
+I see<END>
+
+//イイよ<END>
+#JMP($984F9)
+#FIXEDLENGTH(6,0)
+Sure<END>
+
+//ご紹介ヤメ<END>
+#JMP($98500)
+#FIXEDLENGTH(10,0)
+Stop intro<END>
+
+//ご紹介 始める<END>
+#JMP($9850B)
+#FIXEDLENGTH(13,0)
+Start intro<END>
+
+//質問を用意する<END>
+#JMP($98519)
+#FIXEDLENGTH(14,0)
+Prep questions<END>
+
+//小学生<END>
+#JMP($98528)
+#FIXEDLENGTH(6,0)
+Elem.<END>
+
+//中学生<END>
+#JMP($9852F)
+#FIXEDLENGTH(6,0)
+Junior<END>
+
+//高校生<END>
+#JMP($98536)
+#FIXEDLENGTH(6,0)
+High<END>
+
+//大学生<END>
+#JMP($9853D)
+#FIXEDLENGTH(6,0)
+Uni.<END>
+
+//その他の学生<END>
+#JMP($98544)
+#FIXEDLENGTH(12,0)
+Other stud.<END>
+
+//自宅<END>
+#JMP($98551)
+#FIXEDLENGTH(4,0)
+Home<END>
+
+//その他の場所<END>
+#JMP($98556)
+#FIXEDLENGTH(12,0)
+Other place<END>
+
+//なんて会社<END>
+#JMP($98563)
+#FIXEDLENGTH(10,0)
+Firm name<END>
+
+//なんてお店<END>
+#JMP($9856E)
+#FIXEDLENGTH(10,0)
+Shop name<END>
+
+//どんな場所<END>
+#JMP($98579)
+#FIXEDLENGTH(10,0)
+What place<END>
+
+//もう結婚してる<END>
+#JMP($98584)
+#FIXEDLENGTH(14,0)
+Married<END>
+
+//まだしてない<END>
+#JMP($98593)
+#FIXEDLENGTH(12,0)
+Not yet<END>
+
+//学生です<END>
+#JMP($985A0)
+#FIXEDLENGTH(8,0)
+Student<END>
+
+//学生じゃないよ<END>
+#JMP($985A9)
+#FIXEDLENGTH(14,0)
+Not a student<END>
+
+//おさんぽ<END>
+#JMP($985B8)
+#FIXEDLENGTH(8,0)
+Stroll<END>
+
+//ひるね<END>
+#JMP($985C1)
+#FIXEDLENGTH(6,0)
+Nap<END>
+
+//しごと<END>
+#JMP($985C8)
+#FIXEDLENGTH(6,0)
+Work<END>
+
+//おしごと<END>
+#JMP($985CF)
+#FIXEDLENGTH(8,0)
+Work<END>
+
+//おはなし<END>
+#JMP($985D8)
+#FIXEDLENGTH(8,0)
+Chat<END>
+
+//仕事してる<END>
+#JMP($985E1)
+#FIXEDLENGTH(10,0)
+I work<END>
+
+//バイトなら<END>
+#JMP($985EC)
+#FIXEDLENGTH(10,0)
+Part-time<END>
+
+//特にしてない<END>
+#JMP($985F7)
+#FIXEDLENGTH(12,0)
+Nothin'<END>
+
+//たんけん<END>
+#JMP($98604)
+#FIXEDLENGTH(8,0)
+Explore<END>
+
+//もう入らないんだ…<END>
+#JMP($9860D)
+#FIXEDLENGTH(18,0)
+Won't fit more…<END>
+
+//もちもの満杯？<END>
+#JMP($98620)
+#FIXEDLENGTH(14,0)
+Bag full?<END>
+
+//日用雑貨<END>
+#JMP($9862F)
+#FIXEDLENGTH(8,0)
+Sundries<END>
+
+//閉店セール中<END>
+#JMP($98638)
+#FIXEDLENGTH(12,0)
+Closin' sale<END>
+
+//毎日激安<END>
+#JMP($98645)
+#FIXEDLENGTH(8,0)
+Cheap!<END>
+
+//$_WORD用雑貨<END>
+#JMP($9864E)
+#FIXEDLENGTH(12,0)
+$_WORD goods<END>
+
+//激安$_WORD<END>
+#JMP($9865B)
+#FIXEDLENGTH(10,0)
+$_WORD!<END>
+
+//ラクトアイス<END>
+#JMP($98666)
+#FIXEDLENGTH(12,0)
+Ice milk<END>
+
+//雷印<END>
+#JMP($98673)
+#FIXEDLENGTH(4,0)
+Bolt<END>
+
+//$_WORDアイス<END>
+#JMP($9867C)
+#FIXEDLENGTH(12,0)
+$_WORD ice<END>
+
+//$_WORD入荷<END>
+#JMP($98689)
+#FIXEDLENGTH(10,0)
+$_WORD in<END>
+
+//宅配便<END>
+#JMP($98694)
+#FIXEDLENGTH(6,0)
+Couri<END>
+
+//赤鯱便<END>
+#JMP($9869B)
+#FIXEDLENGTH(6,0)
+RedFsh<END>
+
+//メール便<END>
+#JMP($986A2)
+#FIXEDLENGTH(8,0)
+Mail Exp<END>
+
+//南奥多摩郵便局<END>
+#JMP($986B4)
+#FIXEDLENGTH(14,0)
+S.Okutama P.O.<END>
+
+//速見郵便局<END>
+#JMP($986C3)
+#FIXEDLENGTH(10,0)
+Hayami PO<END>
+
+//田舎郵便局<END>
+#JMP($986CE)
+#FIXEDLENGTH(10,0)
+Rural P.O.<END>
+
+//$_WORD郵便局<END>
+#JMP($986D9)
+#FIXEDLENGTH(12,0)
+$_WORD P.O.<END>
+
+//別格二輪教習所<END>
+#JMP($986EF)
+#FIXEDLENGTH(14,0)
+Elite Bikes<END>
+
+//極楽浄土総合病院<END>
+#JMP($986FE)
+#FIXEDLENGTH(16,0)
+Nirvana Hosp.<END>
+
+//クネギ食堂<END>
+#JMP($9870F)
+#FIXEDLENGTH(10,0)
+KunegiDin<END>
+
+//先客万来<END>
+#JMP($9871A)
+#FIXEDLENGTH(8,0)
+Welcome!<END>
+
+//海千山千<END>
+#JMP($98723)
+#FIXEDLENGTH(8,0)
+Old pros<END>
+
+//弱肉強食<END>
+#JMP($9872C)
+#FIXEDLENGTH(8,0)
+DogEatDg<END>
+
+//$_WORD万来<END>
+#JMP($98735)
+#FIXEDLENGTH(10,0)
+$_WORD Ok!<END>
+
+//かも鍋<END>
+#JMP($98740)
+#FIXEDLENGTH(6,0)
+DckPot<END>
+
+//鹿丼大盛<END>
+#JMP($98747)
+#FIXEDLENGTH(8,0)
+Big deer<END>
+
+//ジンギスカン<END>
+#JMP($98750)
+#FIXEDLENGTH(12,0)
+Genghis BBQ<END>
+
+//かも汁<END>
+#JMP($9875D)
+#FIXEDLENGTH(6,0)
+DckSup<END>
+
+//エスプレッソ<END>
+#JMP($98764)
+#FIXEDLENGTH(12,0)
+Espresso<END>
+
+//ダッカルビ<END>
+#JMP($98771)
+#FIXEDLENGTH(10,0)
+Dakgalbi<END>
+
+//大盛り$_WORD<END>
+#JMP($9877C)
+#FIXEDLENGTH(12,0)
+Large $_WORD<END>
+
+//激辛$_WORD<END>
+#JMP($98789)
+#FIXEDLENGTH(10,0)
+Hot $_WORD<END>
+
+//かも麺<END>
+#JMP($98794)
+#FIXEDLENGTH(6,0)
+DckNdl<END>
+
+//超究極絶世麺<END>
+#JMP($9879B)
+#FIXEDLENGTH(12,0)
+Ultra noodle<END>
+
+//ゴーヤチャンプル<END>
+#JMP($987A8)
+#FIXEDLENGTH(16,0)
+Goya champuru<END>
+
+//$_WORDうどん<END>
+#JMP($987B9)
+#FIXEDLENGTH(12,0)
+$_WORD udon<END>
+
+//かもパフェ<END>
+#JMP($987C6)
+#FIXEDLENGTH(10,0)
+Duck pfait<END>
+
+//超特大横綱ぱふぇ<END>
+#JMP($987D1)
+#FIXEDLENGTH(16,0)
+Sumo parfait<END>
+
+//すき焼き<END>
+#JMP($987E2)
+#FIXEDLENGTH(8,0)
+Sukiyaki<END>
+
+//鳥の$_WORD肉<END>
+#JMP($987EB)
+#FIXEDLENGTH(12,0)
+Chick $_WORD<END>
+
+//牛の$_WORD肉<END>
+#JMP($987F8)
+#FIXEDLENGTH(12,0)
+Beef $_WORD<END>
+
+//かもアイス<END>
+#JMP($98805)
+#FIXEDLENGTH(10,0)
+Duck ice<END>
+
+//かもネギ<END>
+#JMP($98810)
+#FIXEDLENGTH(8,0)
+DuckLeek<END>
+
+//もつ鍋<END>
+#JMP($98819)
+#FIXEDLENGTH(6,0)
+Offal<END>
+
+//$_WORD定食<END>
+#JMP($98820)
+#FIXEDLENGTH(10,0)
+$_WORD set<END>
+
+//冷やしかも鍋<END>
+#JMP($9882B)
+#FIXEDLENGTH(12,0)
+Cold duckpot<END>
+
+//乙女チック<END>
+#JMP($98838)
+#FIXEDLENGTH(10,0)
+Girly<END>
+
+//店長のヒミツ鍋<END>
+#JMP($98843)
+#FIXEDLENGTH(14,0)
+Boss's secret<END>
+
+//$_WORDの応援<END>
+#JMP($98852)
+#FIXEDLENGTH(12,0)
+Go $_WORD<END>
+
+//手作り$_WORD<END>
+#JMP($9885F)
+#FIXEDLENGTH(12,0)
+DIY $_WORD<END>
+
+//$_WORD放映<END>
+#JMP($9886C)
+#FIXEDLENGTH(10,0)
+$_WORD TV<END>
+
+//手作り弁当<END>
+#JMP($9887F)
+#FIXEDLENGTH(10,0)
+Bento box<END>
+
+//シェフのおまかせ<END>
+#JMP($9888A)
+#FIXEDLENGTH(16,0)
+Chef's choice<END>
+
+//レディースセット<END>
+#JMP($9889B)
+#FIXEDLENGTH(16,0)
+Ladies' set<END>
+
+//年中無休<END>
+#JMP($988AC)
+#FIXEDLENGTH(8,0)
+Open 365<END>
+
+//目指せ！ミリオン<END>
+#JMP($988B5)
+#FIXEDLENGTH(16,0)
+Aim! A million<END>
+
+//納期絶対死守<END>
+#JMP($988C6)
+#FIXEDLENGTH(12,0)
+Due dates!<END>
+
+//顧客管理<END>
+#JMP($988DC)
+#FIXEDLENGTH(8,0)
+Clients<END>
+
+//売上本数<END>
+#JMP($988E5)
+#FIXEDLENGTH(8,0)
+Sales<END>
+
+//発売日延期？<END>
+#JMP($988EE)
+#FIXEDLENGTH(12,0)
+Delay?<END>
+
+//$_WORD目標<END>
+#JMP($988FB)
+#FIXEDLENGTH(10,0)
+$_WORDGoal<END>
+
+//$_WORD管理<END>
+#JMP($98906)
+#FIXEDLENGTH(10,0)
+$_WORDMgmt<END>
+
+//事務用品<END>
+#JMP($98911)
+#FIXEDLENGTH(8,0)
+Supplies<END>
+
+//天地無用<END>
+#JMP($9891A)
+#FIXEDLENGTH(8,0)
+Top side<END>
+
+//犬猫運送<END>
+#JMP($98923)
+#FIXEDLENGTH(8,0)
+Dog&Cat<END>
+
+//$_WORD在中<END>
+#JMP($9892C)
+#FIXEDLENGTH(10,0)
+$_WORD in<END>
+
+//非常$_WORD<END>
+#JMP($98937)
+#FIXEDLENGTH(10,0)
+SOS $_WORD<END>
+
+//ボツネタ入<END>
+#JMP($98942)
+#FIXEDLENGTH(10,0)
+Junk ideas<END>
+
+//クレーム書類<END>
+#JMP($9894D)
+#FIXEDLENGTH(12,0)
+Complaints<END>
+
+//$_WORD用品<END>
+#JMP($9895A)
+#FIXEDLENGTH(10,0)
+$_WORDGear<END>
+
+//$_WORD危険<END>
+#JMP($98965)
+#FIXEDLENGTH(10,0)
+$_WORD!!<END>
+
+//火の用心<END>
+#JMP($98970)
+#FIXEDLENGTH(8,0)
+Fire!<END>
+
+//悪霊退散<END>
+#JMP($98979)
+#FIXEDLENGTH(8,0)
+Evil out<END>
+
+//給水制限<END>
+#JMP($98982)
+#FIXEDLENGTH(8,0)
+Low H2O<END>
+
+//$_WORD用心<END>
+#JMP($9898B)
+#FIXEDLENGTH(10,0)
+$_WORDWtch<END>
+
+//$_WORD注意<END>
+#JMP($98996)
+#FIXEDLENGTH(10,0)
+$_WORDNote<END>
+
+//整理整頓<END>
+#JMP($989A1)
+#FIXEDLENGTH(8,0)
+Tidy up<END>
+
+//ボトルキャップ<END>
+#JMP($989AA)
+#FIXEDLENGTH(14,0)
+Bottle caps<END>
+
+//ゴミ分け厳守<END>
+#JMP($989B9)
+#FIXEDLENGTH(12,0)
+Sort trash!<END>
+
+//$_WORDに協力を<END>
+#JMP($989C6)
+#FIXEDLENGTH(14,0)
+Help $_WORD<END>
+
+//$_WORDは分別！<END>
+#JMP($989D5)
+#FIXEDLENGTH(14,0)
+Sort $_WORD!<END>
+
+//ふちかみ<END>
+#JMP($989E4)
+#FIXEDLENGTH(8,0)
+Fuchikam<END>
+
+//あきこ<END>
+#JMP($989ED)
+#FIXEDLENGTH(6,0)
+Akiko<END>
+
+//お♥ね♥が♥い♥<END>
+#JMP($989F4)
+#FIXEDLENGTH(16,0)
+P♥l♥e♥a♥s♥e<END>
+
+//緑ヶ丘針灸治療院<END>
+#JMP($98A05)
+#FIXEDLENGTH(16,0)
+Midorigaoka Acu<END>
+
+//かも歯科<END>
+#JMP($98A16)
+#FIXEDLENGTH(8,0)
+Kamo Dnt<END>
+
+//南治商店<END>
+#JMP($98A1F)
+#FIXEDLENGTH(8,0)
+Nanji Sh<END>
+
+//$_WORD治療院<END>
+#JMP($98A28)
+#FIXEDLENGTH(12,0)
+$_WORDClinic<END>
+
+//$_WORD歯科<END>
+#JMP($98A35)
+#FIXEDLENGTH(10,0)
+$_WORDDent<END>
+
+//オイカワ時計<END>
+#JMP($98A40)
+#FIXEDLENGTH(12,0)
+Oikawa Watch<END>
+
+//ヤンバルクイナ<END>
+#JMP($98A4D)
+#FIXEDLENGTH(14,0)
+Okinawa rail<END>
+
+//ホリグチ電気<END>
+#JMP($98A5C)
+#FIXEDLENGTH(12,0)
+Horiguchi El<END>
+
+//$_WORD時計<END>
+#JMP($98A69)
+#FIXEDLENGTH(10,0)
+$_WORDWtch<END>
+
+//$_WORDメガネ<END>
+#JMP($98A74)
+#FIXEDLENGTH(12,0)
+$_WORD Specs<END>
+
+//小笠原整骨院<END>
+#JMP($98A81)
+#FIXEDLENGTH(12,0)
+Ogasawara Bn<END>
+
+//骨整骨院<END>
+#JMP($98A8E)
+#FIXEDLENGTH(8,0)
+BoneSet<END>
+
+//タサカクリニック<END>
+#JMP($98A97)
+#FIXEDLENGTH(16,0)
+Tasaka Clinic<END>
+
+//$_WORD整骨院<END>
+#JMP($98AA8)
+#FIXEDLENGTH(12,0)
+$_WORD Chiro<END>
+
+//$_WORD質店<END>
+#JMP($98AB5)
+#FIXEDLENGTH(10,0)
+$_WORDPawn<END>
+
+//オヤマデンキ<END>
+#JMP($98AC0)
+#FIXEDLENGTH(12,0)
+Oyama Denki<END>
+
+//やら歯科<END>
+#JMP($98ACD)
+#FIXEDLENGTH(8,0)
+Yara Dnt<END>
+
+//バーバー名越<END>
+#JMP($98AD6)
+#FIXEDLENGTH(12,0)
+Barber Nagoe<END>
+
+//$_WORD電器<END>
+#JMP($98AE3)
+#FIXEDLENGTH(10,0)
+$_WORDElec<END>
+
+//$_WORD買取<END>
+#JMP($98AEE)
+#FIXEDLENGTH(10,0)
+$_WORD buy<END>
+
+//湯船にタオルを<END>
+#JMP($98AF9)
+#FIXEDLENGTH(14,0)
+No towels in<END>
+
+//湯船に入浴剤を<END>
+#JMP($98B08)
+#FIXEDLENGTH(14,0)
+No bath salts<END>
+
+//湯船にリンスを<END>
+#JMP($98B17)
+#FIXEDLENGTH(14,0)
+No rinse in<END>
+
+//湯船に$_WORDを<END>
+#JMP($98B26)
+#FIXEDLENGTH(14,0)
+No $_WORD in<END>
+
+//入れないで下さい<END>
+#JMP($98B35)
+#FIXEDLENGTH(16,0)
+please<END>
+
+//お台場海浜公園<END>
+#JMP($98B46)
+#FIXEDLENGTH(14,0)
+Odaiba Park<END>
+
+//殿堂夢物語<END>
+#JMP($98B55)
+#FIXEDLENGTH(10,0)
+Dream Hall<END>
+
+//来夢来人<END>
+#JMP($98B60)
+#FIXEDLENGTH(8,0)
+Dreamers<END>
+
+//$_WORD公園<END>
+#JMP($98B69)
+#FIXEDLENGTH(10,0)
+$_WORDPark<END>
+
+//おっちょこちょい<END>
+#JMP($98B74)
+#FIXEDLENGTH(16,0)
+Scatterbrain<END>
+
+//サバノバビッチ<END>
+#JMP($98B85)
+#FIXEDLENGTH(14,0)
+Sabanobabich<END>
+
+//世捨て人<END>
+#JMP($98B94)
+#FIXEDLENGTH(8,0)
+Hermit<END>
+
+//省エネルック<END>
+#JMP($98B9D)
+#FIXEDLENGTH(12,0)
+Eco-look<END>
+
+//平成百合カモメ<END>
+#JMP($98BAA)
+#FIXEDLENGTH(14,0)
+Heisei Gulls<END>
+
+//坂本質店<END>
+#JMP($98BB9)
+#FIXEDLENGTH(8,0)
+Sakamoto<END>
+
+//フェレット<END>
+#JMP($98BC2)
+#FIXEDLENGTH(10,0)
+Ferret<END>
+
+//ジャンクパーツ<END>
+#JMP($98BCD)
+#FIXEDLENGTH(14,0)
+Junk parts<END>
+
+//狩人<END>
+#JMP($98BDC)
+#FIXEDLENGTH(4,0)
+Hntr<END>
+
+//あっちむいてホイ<END>
+#JMP($98BE1)
+#FIXEDLENGTH(16,0)
+Look that way!<END>
+
+//白百合男学院<END>
+#JMP($98BF2)
+#FIXEDLENGTH(12,0)
+Shirayuri B.<END>
+
+//ボェ～<END>
+#JMP($98BFF)
+#FIXEDLENGTH(6,0)
+Bweh～<END>
+
+//三段腹病院<END>
+#JMP($98C06)
+#FIXEDLENGTH(10,0)
+Gut Hosp.<END>
+
+//イダチ正宗眼科<END>
+#JMP($98C11)
+#FIXEDLENGTH(14,0)
+Masamune Eye<END>
+
+//ホテル青山一等地<END>
+#JMP($98C20)
+#FIXEDLENGTH(16,0)
+Hotel Aoyama<END>
+
+//$_WORD美容整形<END>
+#JMP($98C31)
+#FIXEDLENGTH(14,0)
+$_WORD Beauty<END>
+
+//$_WORDエステ<END>
+#JMP($98C40)
+#FIXEDLENGTH(12,0)
+$_WORD Spa<END>
+
+//あんきもぽん酢<END>
+#JMP($98C4D)
+#FIXEDLENGTH(14,0)
+Monkfish ponzu<END>
+
+//強雨本新発売！<END>
+#JMP($98C5C)
+#FIXEDLENGTH(14,0)
+New rain book!<END>
+
+//銘菓ぴよぴよ<END>
+#JMP($98C6B)
+#FIXEDLENGTH(12,0)
+Piyo Sweets<END>
+
+//産地直送$_WORD<END>
+#JMP($98C78)
+#FIXEDLENGTH(14,0)
+Farm $_WORD<END>
+
+//パチンコラッキー<END>
+#JMP($98C90)
+#FIXEDLENGTH(16,0)
+Pachinko Lucky<END>
+
+//ローンズ野猿<END>
+#JMP($98CA1)
+#FIXEDLENGTH(12,0)
+Nozaru Loans<END>
+
+//居酒屋わが青春<END>
+#JMP($98CAE)
+#FIXEDLENGTH(14,0)
+Pub My Youth<END>
+
+//パチンコ$_WORD<END>
+#JMP($98CBD)
+#FIXEDLENGTH(14,0)
+Pachi $_WORD<END>
+
+//$_WORDローン<END>
+#JMP($98CCC)
+#FIXEDLENGTH(12,0)
+$_WORD Loan<END>
+
+//$_WORDの会<END>
+#JMP($98CD9)
+#FIXEDLENGTH(10,0)
+$_WORDClub<END>
+
+//バイク買取<END>
+#JMP($98CE4)
+#FIXEDLENGTH(10,0)
+Bikes buy<END>
+
+//別格大好評！<END>
+#JMP($98CEF)
+#FIXEDLENGTH(12,0)
+Big hit!<END>
+
+//大創業祭開催中<END>
+#JMP($98CFC)
+#FIXEDLENGTH(14,0)
+Founding sale<END>
+
+//せいりせいとん<END>
+#JMP($98D0B)
+#FIXEDLENGTH(14,0)
+Keep it tidy<END>
+
+//清く正しく<END>
+#JMP($98D1A)
+#FIXEDLENGTH(10,0)
+Be good<END>
+
+//めざせ一等賞！<END>
+#JMP($98D25)
+#FIXEDLENGTH(14,0)
+Aim for 1st!<END>
+
+//日直<END>
+#JMP($98D34)
+#FIXEDLENGTH(4,0)
+Duty<END>
+
+//当番<END>
+#JMP($98D39)
+#FIXEDLENGTH(4,0)
+Turn<END>
+
+//委員<END>
+#JMP($98D3E)
+#FIXEDLENGTH(4,0)
+Rep<END>
+
+//まるやま<END>
+#JMP($98D4C)
+#FIXEDLENGTH(8,0)
+Maruyama<END>
+
+//なおし<END>
+#JMP($98D55)
+#FIXEDLENGTH(6,0)
+Naoshi<END>
+
+//にし<END>
+#JMP($98D5C)
+#FIXEDLENGTH(4,0)
+Nshi<END>
+
+//たさか<END>
+#JMP($98D61)
+#FIXEDLENGTH(6,0)
+Tasaka<END>
 
 //ちがうよ<END>
 #JMP($99745)
