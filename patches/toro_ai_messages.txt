@@ -71002,6 +71002,1684 @@ Prank?<END>
 #FIXEDLENGTH(12,0)
 What photo?<END>
 
+//最初に見た時？<END>
+#JMP($9C2B7)
+#FIXEDLENGTH(14,0)
+First look?<END>
+
+//次に見ると？<END>
+#JMP($9C2C6)
+#FIXEDLENGTH(12,0)
+Next look?<END>
+
+//未来の自分から？<END>
+#JMP($9C2D3)
+#FIXEDLENGTH(16,0)
+From future you?<END>
+
+//お返事？<END>
+#JMP($9C2E4)
+#FIXEDLENGTH(8,0)
+Reply?<END>
+
+//イタズラじゃないの？<END>
+#JMP($9C2ED)
+#FIXEDLENGTH(20,0)
+Isn't it a prank?<END>
+
+//今度は？<END>
+#JMP($9C302)
+#FIXEDLENGTH(8,0)
+Now?<END>
+
+//何て返事だったの？<END>
+#JMP($9C30B)
+#FIXEDLENGTH(18,0)
+What was the reply<END>
+
+// AI-UNSURE: typed-answer match word
+//くち<END>
+#JMP($9C31E)
+#FIXEDLENGTH(4,0)
+mout<END>
+
+// AI-UNSURE: typed-answer match word
+//クチ<END>
+#JMP($9C323)
+#FIXEDLENGTH(4,0)
+Mout<END>
+
+// AI-UNSURE: typed-answer match word
+//はな<END>
+#JMP($9C32B)
+#FIXEDLENGTH(4,0)
+nose<END>
+
+// AI-UNSURE: typed-answer match word
+//ハナ<END>
+#JMP($9C330)
+#FIXEDLENGTH(4,0)
+Nose<END>
+
+//鼻の穴<END>
+#JMP($9C338)
+#FIXEDLENGTH(6,0)
+Nostrl<END>
+
+//鼻から？<END>
+#JMP($9C33F)
+#FIXEDLENGTH(8,0)
+Nose?<END>
+
+//フラフラ<END>
+#JMP($9C348)
+#FIXEDLENGTH(8,0)
+Wobbly<END>
+
+//便利だね<END>
+#JMP($9C351)
+#FIXEDLENGTH(8,0)
+Handy!<END>
+
+//目の中？<END>
+#JMP($9C35A)
+#FIXEDLENGTH(8,0)
+In eye?<END>
+
+//ふわふわ？<END>
+#JMP($9C363)
+#FIXEDLENGTH(10,0)
+Floaty?<END>
+
+//飛び込む時？<END>
+#JMP($9C36E)
+#FIXEDLENGTH(12,0)
+Divin' in?<END>
+
+//なめくじ<END>
+#JMP($9C37B)
+#FIXEDLENGTH(8,0)
+Slug<END>
+
+//口の中に？<END>
+#JMP($9C384)
+#FIXEDLENGTH(10,0)
+In mouth?<END>
+
+//スリッパの中に？<END>
+#JMP($9C38F)
+#FIXEDLENGTH(16,0)
+In the slipper?<END>
+
+//エライね<END>
+#JMP($9C3A0)
+#FIXEDLENGTH(8,0)
+Good job<END>
+
+//鼻の穴に？<END>
+#JMP($9C3A9)
+#FIXEDLENGTH(10,0)
+Up a nose?<END>
+
+//なったと しても？<END>
+#JMP($9C3B4)
+#FIXEDLENGTH(17,0)
+Even if so?<END>
+
+//資格が ないのか…<END>
+#JMP($9C3C6)
+#FIXEDLENGTH(17,0)
+Not qualified…<END>
+
+//ひどいね…<END>
+#JMP($9C3D8)
+#FIXEDLENGTH(10,0)
+Mean…<END>
+
+//バレると？<END>
+#JMP($9C3E3)
+#FIXEDLENGTH(10,0)
+Found out?<END>
+
+//解剖されるのか…<END>
+#JMP($9C3EE)
+#FIXEDLENGTH(16,0)
+Dissected, huh…<END>
+
+//野生の？<END>
+#JMP($9C3FF)
+#FIXEDLENGTH(8,0)
+Wild?<END>
+
+//凶暴なのか？<END>
+#JMP($9C408)
+#FIXEDLENGTH(12,0)
+Fierce, huh?<END>
+
+//さすが野生…<END>
+#JMP($9C415)
+#FIXEDLENGTH(12,0)
+So wild…<END>
+
+//かまれるのか…<END>
+#JMP($9C422)
+#FIXEDLENGTH(14,0)
+Bitten, huh…<END>
+
+//怖いね…<END>
+#JMP($9C431)
+#FIXEDLENGTH(8,0)
+Scary…<END>
+
+//ヒミツの儀式<END>
+#JMP($9C43A)
+#FIXEDLENGTH(12,0)
+Secret rite<END>
+
+//秘密の地下室？<END>
+#JMP($9C447)
+#FIXEDLENGTH(14,0)
+Secret cellar?<END>
+
+//秘密 知っちゃったよ？<END>
+#JMP($9C456)
+#FIXEDLENGTH(21,0)
+I know the secret, ok<END>
+
+//くしゃみ？<END>
+#JMP($9C46C)
+#FIXEDLENGTH(10,0)
+Sneeze?<END>
+
+//危険なの？<END>
+#JMP($9C477)
+#FIXEDLENGTH(10,0)
+Risky?<END>
+
+//多いよ！<END>
+#JMP($9C482)
+#FIXEDLENGTH(8,0)
+So many!<END>
+
+//ぐるぐる…？<END>
+#JMP($9C48B)
+#FIXEDLENGTH(12,0)
+In circles?<END>
+
+//そうなんだ…<END>
+#JMP($9C498)
+#FIXEDLENGTH(12,0)
+I see…<END>
+
+//夜 遅くまで？<END>
+#JMP($9C4A5)
+#FIXEDLENGTH(13,0)
+Till late?<END>
+
+//ダメなの？<END>
+#JMP($9C4B3)
+#FIXEDLENGTH(10,0)
+Not ok?<END>
+
+//シクシク痛い？<END>
+#JMP($9C4BE)
+#FIXEDLENGTH(14,0)
+A dull ache?<END>
+
+//帰りが？<END>
+#JMP($9C4CD)
+#FIXEDLENGTH(8,0)
+Home?<END>
+
+//遅くなると？<END>
+#JMP($9C4D6)
+#FIXEDLENGTH(12,0)
+If late?<END>
+
+//うわ～っ…<END>
+#JMP($9C4E3)
+#FIXEDLENGTH(10,0)
+Whoa…<END>
+
+//何に？<END>
+#JMP($9C4EE)
+#FIXEDLENGTH(6,0)
+What?<END>
+
+//気をつけるの？<END>
+#JMP($9C4F5)
+#FIXEDLENGTH(14,0)
+Be careful?<END>
+
+//気をつける？<END>
+#JMP($9C504)
+#FIXEDLENGTH(12,0)
+Careful?<END>
+
+//何か見えるの？<END>
+#JMP($9C511)
+#FIXEDLENGTH(14,0)
+See anything?<END>
+
+//血まみれの<END>
+#JMP($9C520)
+#FIXEDLENGTH(10,0)
+Bloody<END>
+
+//水びたしの<END>
+#JMP($9C52B)
+#FIXEDLENGTH(10,0)
+Soaked<END>
+
+//体の透けてる<END>
+#JMP($9C536)
+#FIXEDLENGTH(12,0)
+See-through<END>
+
+//ひぃぃぃッ！<END>
+#JMP($9C543)
+#FIXEDLENGTH(12,0)
+Eeeek!<END>
+
+//な～んだ<END>
+#JMP($9C550)
+#FIXEDLENGTH(8,0)
+Oh, phew<END>
+
+//誰かって 誰の手？<END>
+#JMP($9C559)
+#FIXEDLENGTH(17,0)
+Whose hand, then?<END>
+
+//いったい誰の？<END>
+#JMP($9C56B)
+#FIXEDLENGTH(14,0)
+Whose, really?<END>
+
+//ひぃぃぃっ！<END>
+#JMP($9C57A)
+#FIXEDLENGTH(12,0)
+Eeeek!<END>
+
+//白いモノが？<END>
+#JMP($9C587)
+#FIXEDLENGTH(12,0)
+White stuff?<END>
+
+//４の数字？<END>
+#JMP($9C594)
+#FIXEDLENGTH(10,0)
+Number 4?<END>
+
+//部屋の番号？<END>
+#JMP($9C59F)
+#FIXEDLENGTH(12,0)
+Room number?<END>
+
+// AI-UNSURE: typed-answer match word
+//おおかみ<END>
+#JMP($9C5AC)
+#FIXEDLENGTH(8,0)
+wolf<END>
+
+// AI-UNSURE: typed-answer match word
+//狼男<END>
+#JMP($9C5B8)
+#FIXEDLENGTH(4,0)
+Wolf<END>
+
+//イタズラだよ<END>
+#JMP($9C5BD)
+#FIXEDLENGTH(12,0)
+It's a prank<END>
+
+//いびき？<END>
+#JMP($9C5CA)
+#FIXEDLENGTH(8,0)
+Snore?<END>
+
+//どんな声が？<END>
+#JMP($9C5D3)
+#FIXEDLENGTH(12,0)
+What voices?<END>
+
+//呪いのビデオ？<END>
+#JMP($9C5E0)
+#FIXEDLENGTH(14,0)
+Cursed video?<END>
+
+//宇宙人？<END>
+#JMP($9C5EF)
+#FIXEDLENGTH(8,0)
+Alien?<END>
+
+//何しに来てるの？<END>
+#JMP($9C5F8)
+#FIXEDLENGTH(16,0)
+Here to do what?<END>
+
+//守らないと！<END>
+#JMP($9C609)
+#FIXEDLENGTH(12,0)
+Gotta guard!<END>
+
+//ＵＦＯ<END>
+#JMP($9C616)
+#FIXEDLENGTH(6,0)
+UFO<END>
+
+//どんな宇宙人？<END>
+#JMP($9C61D)
+#FIXEDLENGTH(14,0)
+What aliens?<END>
+
+//もう過ぎたよ<END>
+#JMP($9C62C)
+#FIXEDLENGTH(12,0)
+It's passed<END>
+
+//1万年後<END>
+#JMP($9C639)
+#FIXEDLENGTH(7,0)
+10k yrs<END>
+
+//何で絶滅したの？<END>
+#JMP($9C641)
+#FIXEDLENGTH(16,0)
+Why extinct?<END>
+
+//超能力？<END>
+#JMP($9C652)
+#FIXEDLENGTH(8,0)
+Psychic?<END>
+
+//どんな力？<END>
+#JMP($9C65B)
+#FIXEDLENGTH(10,0)
+What power<END>
+
+//いなくなった？<END>
+#JMP($9C666)
+#FIXEDLENGTH(14,0)
+They vanished?<END>
+
+//あるかもね<END>
+#JMP($9C675)
+#FIXEDLENGTH(10,0)
+Maybe so<END>
+
+//どんな電車？<END>
+#JMP($9C680)
+#FIXEDLENGTH(12,0)
+What train?<END>
+
+//火より煙の方が？<END>
+#JMP($9C68D)
+#FIXEDLENGTH(16,0)
+Smoke over fire?<END>
+
+//怖いらしいね<END>
+#JMP($9C69E)
+#FIXEDLENGTH(12,0)
+Scary, huh<END>
+
+//吸わないように…<END>
+#JMP($9C6AB)
+#FIXEDLENGTH(16,0)
+Don't inhale…<END>
+
+//どうすればイイの？<END>
+#JMP($9C6BC)
+#FIXEDLENGTH(18,0)
+What should I do?<END>
+
+//黒い？<END>
+#JMP($9C6CF)
+#FIXEDLENGTH(6,0)
+Black?<END>
+
+//何だろうね？<END>
+#JMP($9C6D6)
+#FIXEDLENGTH(12,0)
+What is it?<END>
+
+//ＵＦＯの着陸跡？<END>
+#JMP($9C6E3)
+#FIXEDLENGTH(16,0)
+UFO landin' site<END>
+
+//オバケの方が怖い<END>
+#JMP($9C6F4)
+#FIXEDLENGTH(16,0)
+Ghosts scarier<END>
+
+//人間の方が怖い<END>
+#JMP($9C705)
+#FIXEDLENGTH(14,0)
+People scarier<END>
+
+//尻尾<END>
+#JMP($9C714)
+#FIXEDLENGTH(4,0)
+Tail<END>
+
+//そうなんだ？<END>
+#JMP($9C719)
+#FIXEDLENGTH(12,0)
+Is that so?<END>
+
+// AI-UNSURE: typed-answer match word
+//かわ<END>
+#JMP($9C726)
+#FIXEDLENGTH(4,0)
+skin<END>
+
+// AI-UNSURE: typed-answer match word
+//ひふ<END>
+#JMP($9C72E)
+#FIXEDLENGTH(4,0)
+skin<END>
+
+// AI-UNSURE: typed-answer match word
+//皮膚<END>
+#JMP($9C733)
+#FIXEDLENGTH(4,0)
+Skin<END>
+
+//ゆれたね<END>
+#JMP($9C743)
+#FIXEDLENGTH(8,0)
+It shook<END>
+
+//プロレス<END>
+#JMP($9C74C)
+#FIXEDLENGTH(8,0)
+Wrestle<END>
+
+//あったね<END>
+#JMP($9C755)
+#FIXEDLENGTH(8,0)
+It did<END>
+
+//あったかな？<END>
+#JMP($9C75E)
+#FIXEDLENGTH(12,0)
+Did it?<END>
+
+//聞こえたね<END>
+#JMP($9C76B)
+#FIXEDLENGTH(10,0)
+I heard it<END>
+
+//聞こえなかったよ<END>
+#JMP($9C776)
+#FIXEDLENGTH(16,0)
+Didn't hear it<END>
+
+//痛そう…<END>
+#JMP($9C787)
+#FIXEDLENGTH(8,0)
+Ouchy…<END>
+
+// AI-UNSURE: typed-answer match word
+//ようかい<END>
+#JMP($9C790)
+#FIXEDLENGTH(8,0)
+yokai<END>
+
+// AI-UNSURE: typed-answer match word
+//妖怪<END>
+#JMP($9C799)
+#FIXEDLENGTH(4,0)
+Ykai<END>
+
+//おまわりさん<END>
+#JMP($9C79E)
+#FIXEDLENGTH(12,0)
+Cop<END>
+
+// AI-UNSURE: typed-answer match word
+//にんぎょ<END>
+#JMP($9C7AB)
+#FIXEDLENGTH(8,0)
+mermaid<END>
+
+// AI-UNSURE: typed-answer match word
+//人魚<END>
+#JMP($9C7B4)
+#FIXEDLENGTH(4,0)
+Merm<END>
+
+//人魚？<END>
+#JMP($9C7B9)
+#FIXEDLENGTH(6,0)
+Merm?<END>
+
+//ヤな人魚だな…<END>
+#JMP($9C7C0)
+#FIXEDLENGTH(14,0)
+Mean mermaid…<END>
+
+//自分と同じ形の？<END>
+#JMP($9C7CF)
+#FIXEDLENGTH(16,0)
+Shaped like you?<END>
+
+//大爆発？<END>
+#JMP($9C7E0)
+#FIXEDLENGTH(8,0)
+Explode?<END>
+
+//そんな危険なんだ…<END>
+#JMP($9C7E9)
+#FIXEDLENGTH(18,0)
+That dangerous…<END>
+
+//白クマ<END>
+#JMP($9C7FC)
+#FIXEDLENGTH(6,0)
+Polar<END>
+
+//右？<END>
+#JMP($9C803)
+#FIXEDLENGTH(4,0)
+R?<END>
+
+//うしろ？<END>
+#JMP($9C808)
+#FIXEDLENGTH(8,0)
+Behind?<END>
+
+//へー<END>
+#JMP($9C811)
+#FIXEDLENGTH(4,0)
+Huh<END>
+
+//ほほぅ<END>
+#JMP($9C816)
+#FIXEDLENGTH(6,0)
+Hoho<END>
+
+//変な格好で？<END>
+#JMP($9C81D)
+#FIXEDLENGTH(12,0)
+Weird pose?<END>
+
+//シクシク痛むの？<END>
+#JMP($9C82A)
+#FIXEDLENGTH(16,0)
+A dull ache?<END>
+
+//公園のトイレ？<END>
+#JMP($9C83B)
+#FIXEDLENGTH(14,0)
+Park toilet?<END>
+
+// AI-UNSURE: typed-answer match word
+//ほね<END>
+#JMP($9C84A)
+#FIXEDLENGTH(4,0)
+bone<END>
+
+// AI-UNSURE: typed-answer match word
+//ホネ<END>
+#JMP($9C84F)
+#FIXEDLENGTH(4,0)
+Bone<END>
+
+//スカスカ？<END>
+#JMP($9C857)
+#FIXEDLENGTH(10,0)
+Hollow?<END>
+
+//あるかも…<END>
+#JMP($9C862)
+#FIXEDLENGTH(10,0)
+Maybe…<END>
+
+//無いかな…<END>
+#JMP($9C86D)
+#FIXEDLENGTH(10,0)
+Likely no<END>
+
+//多いな～<END>
+#JMP($9C878)
+#FIXEDLENGTH(8,0)
+A lot～<END>
+
+//少ないな～<END>
+#JMP($9C881)
+#FIXEDLENGTH(10,0)
+Not many～<END>
+
+//さわるクセ？<END>
+#JMP($9C88C)
+#FIXEDLENGTH(12,0)
+Touch habit?<END>
+
+//なんで？<END>
+#JMP($9C899)
+#FIXEDLENGTH(8,0)
+Why?<END>
+
+//日の出かぁ…<END>
+#JMP($9C8A2)
+#FIXEDLENGTH(12,0)
+Sunrise…<END>
+
+//見てぇ～<END>
+#JMP($9C8AF)
+#FIXEDLENGTH(8,0)
+Lemme c<END>
+
+//見ちゃダメ！<END>
+#JMP($9C8B8)
+#FIXEDLENGTH(12,0)
+Don't look!<END>
+
+//おでこ<END>
+#JMP($9C8C5)
+#FIXEDLENGTH(6,0)
+Brow<END>
+
+// AI-UNSURE: typed-answer match word
+//つめ<END>
+#JMP($9C8CC)
+#FIXEDLENGTH(4,0)
+nail<END>
+
+// AI-UNSURE: typed-answer match word
+//ツメ<END>
+#JMP($9C8D1)
+#FIXEDLENGTH(4,0)
+Nail<END>
+
+//キレイだね<END>
+#JMP($9C8D9)
+#FIXEDLENGTH(10,0)
+Pretty<END>
+
+//イイ話だね<END>
+#JMP($9C8E4)
+#FIXEDLENGTH(10,0)
+Nice story<END>
+
+//ヤな恩返しだな<END>
+#JMP($9C8EF)
+#FIXEDLENGTH(14,0)
+Nasty payback<END>
+
+//守るよ<END>
+#JMP($9C8FE)
+#FIXEDLENGTH(6,0)
+I will<END>
+
+//覗いちゃうかも<END>
+#JMP($9C905)
+#FIXEDLENGTH(14,0)
+Might peek<END>
+
+//中トロ<END>
+#JMP($9C914)
+#FIXEDLENGTH(6,0)
+Tuna<END>
+
+//木には ならないよ<END>
+#JMP($9C91B)
+#FIXEDLENGTH(17,0)
+Not a tree, no<END>
+
+// AI-UNSURE: typed-answer match word
+//いねむり<END>
+#JMP($9C92D)
+#FIXEDLENGTH(8,0)
+doze<END>
+
+// AI-UNSURE: typed-answer match word
+//居眠り<END>
+#JMP($9C936)
+#FIXEDLENGTH(6,0)
+Doze<END>
+
+//間に合わない時？<END>
+#JMP($9C93D)
+#FIXEDLENGTH(16,0)
+When late, huh?<END>
+
+//大変だよね<END>
+#JMP($9C94E)
+#FIXEDLENGTH(10,0)
+Rough, huh<END>
+
+//付けるだけで？<END>
+#JMP($9C959)
+#FIXEDLENGTH(14,0)
+Just wear it?<END>
+
+//レモン<END>
+#JMP($9C968)
+#FIXEDLENGTH(6,0)
+Lemon<END>
+
+//マイナスイオン？<END>
+#JMP($9C96F)
+#FIXEDLENGTH(16,0)
+Negative ions?<END>
+
+// AI-UNSURE: typed-answer match word
+//ふつかよい<END>
+#JMP($9C980)
+#FIXEDLENGTH(10,0)
+hangover<END>
+
+//んなコトないよ<END>
+#JMP($9C98B)
+#FIXEDLENGTH(14,0)
+No way, nope<END>
+
+//イイと思う<END>
+#JMP($9C99D)
+#FIXEDLENGTH(10,0)
+I think so<END>
+
+//困るかも…<END>
+#JMP($9C9A8)
+#FIXEDLENGTH(10,0)
+Could hurt<END>
+
+//ステキ♥<END>
+#JMP($9C9B3)
+#FIXEDLENGTH(8,0)
+Lovely♥<END>
+
+//ヤな妖精だな…<END>
+#JMP($9C9BC)
+#FIXEDLENGTH(14,0)
+Nasty fairy…<END>
+
+//花粉症？<END>
+#JMP($9C9CB)
+#FIXEDLENGTH(8,0)
+Pollen?<END>
+
+//シミ<END>
+#JMP($9C9D4)
+#FIXEDLENGTH(4,0)
+Spot<END>
+
+//しみ<END>
+#JMP($9C9D9)
+#FIXEDLENGTH(4,0)
+spot<END>
+
+//ソバカス<END>
+#JMP($9C9DE)
+#FIXEDLENGTH(8,0)
+Freckle<END>
+
+//気になるよね<END>
+#JMP($9C9E7)
+#FIXEDLENGTH(12,0)
+It bugs ya<END>
+
+//気にしない<END>
+#JMP($9C9F4)
+#FIXEDLENGTH(10,0)
+Don't mind<END>
+
+//ハブラシ<END>
+#JMP($9C9FF)
+#FIXEDLENGTH(8,0)
+Brush<END>
+
+//中国<END>
+#JMP($9CA08)
+#FIXEDLENGTH(4,0)
+CN<END>
+
+//おしりに？<END>
+#JMP($9CA0D)
+#FIXEDLENGTH(10,0)
+In bottom?<END>
+
+//どんな店？<END>
+#JMP($9CA18)
+#FIXEDLENGTH(10,0)
+What shop?<END>
+
+//コップ<END>
+#JMP($9CA23)
+#FIXEDLENGTH(6,0)
+Cup<END>
+
+//そうかもね…<END>
+#JMP($9CA2A)
+#FIXEDLENGTH(12,0)
+Maybe so…<END>
+
+//入っちゃダメだよ<END>
+#JMP($9CA37)
+#FIXEDLENGTH(16,0)
+Don't go in!<END>
+
+//いっしょに行く？<END>
+#JMP($9CA48)
+#FIXEDLENGTH(16,0)
+Wanna go along?<END>
+
+//行っちゃダメです<END>
+#JMP($9CA59)
+#FIXEDLENGTH(16,0)
+You mustn't go<END>
+
+//何があるの？<END>
+#JMP($9CA6A)
+#FIXEDLENGTH(12,0)
+What's there<END>
+
+//水着<END>
+#JMP($9CA77)
+#FIXEDLENGTH(4,0)
+Suit<END>
+
+//おまけ入り？<END>
+#JMP($9CA7C)
+#FIXEDLENGTH(12,0)
+With prize?<END>
+
+//微妙だな…<END>
+#JMP($9CA89)
+#FIXEDLENGTH(10,0)
+So-so…<END>
+
+//シークレットは？<END>
+#JMP($9CA94)
+#FIXEDLENGTH(16,0)
+The secret one?<END>
+
+//どんなお店？<END>
+#JMP($9CAA5)
+#FIXEDLENGTH(12,0)
+What shop?<END>
+
+//わぁ セクシー♥<END>
+#JMP($9CAB2)
+#FIXEDLENGTH(15,0)
+Wow, sexy♥<END>
+
+//わぁ エッチ♥<END>
+#JMP($9CAC2)
+#FIXEDLENGTH(13,0)
+Wow, lewd♥<END>
+
+//エッチ<END>
+#JMP($9CAD0)
+#FIXEDLENGTH(6,0)
+Lewd<END>
+
+//年下<END>
+#JMP($9CAD7)
+#FIXEDLENGTH(4,0)
+Yngr<END>
+
+//年上<END>
+#JMP($9CADC)
+#FIXEDLENGTH(4,0)
+Oldr<END>
+
+//え？ 誰と？<END>
+#JMP($9CAE1)
+#FIXEDLENGTH(11,0)
+With who?<END>
+
+//え？ 誰に？<END>
+#JMP($9CAED)
+#FIXEDLENGTH(11,0)
+Huh? Who?<END>
+
+//ダメだよ！<END>
+#JMP($9CAF9)
+#FIXEDLENGTH(10,0)
+No way!<END>
+
+//してほしいね<END>
+#JMP($9CB04)
+#FIXEDLENGTH(12,0)
+I'd like it<END>
+
+//してるかも<END>
+#JMP($9CB11)
+#FIXEDLENGTH(10,0)
+Maybe so<END>
+
+//部下<END>
+#JMP($9CB1C)
+#FIXEDLENGTH(4,0)
+Sub<END>
+
+//意外とホント<END>
+#JMP($9CB21)
+#FIXEDLENGTH(12,0)
+Weirdly true<END>
+
+//狙われてます<END>
+#JMP($9CB31)
+#FIXEDLENGTH(12,0)
+Targeted<END>
+
+//思ってる<END>
+#JMP($9CB3E)
+#FIXEDLENGTH(8,0)
+Think so<END>
+
+//全然思ってない<END>
+#JMP($9CB47)
+#FIXEDLENGTH(14,0)
+Not at all<END>
+
+//浮気もの～<END>
+#JMP($9CB56)
+#FIXEDLENGTH(10,0)
+Cheater～<END>
+
+//スゴイよ<END>
+#JMP($9CB61)
+#FIXEDLENGTH(8,0)
+Amazin'<END>
+
+//そうだよ<END>
+#JMP($9CB6A)
+#FIXEDLENGTH(8,0)
+It is<END>
+
+//見てみたい<END>
+#JMP($9CB73)
+#FIXEDLENGTH(10,0)
+Wanna see<END>
+
+//写真のモデル<END>
+#JMP($9CB7E)
+#FIXEDLENGTH(12,0)
+Photo model<END>
+
+//真剣に<END>
+#JMP($9CB8B)
+#FIXEDLENGTH(6,0)
+Hard<END>
+
+//楽しそうに<END>
+#JMP($9CB92)
+#FIXEDLENGTH(10,0)
+Happily<END>
+
+//恥ずかしそうに<END>
+#JMP($9CB9D)
+#FIXEDLENGTH(14,0)
+Shyly<END>
+
+//何してた？<END>
+#JMP($9CBAC)
+#FIXEDLENGTH(10,0)
+Doin' what<END>
+
+//そんな感じだ<END>
+#JMP($9CBB7)
+#FIXEDLENGTH(12,0)
+Sort of<END>
+
+//不景気だね<END>
+#JMP($9CBC4)
+#FIXEDLENGTH(10,0)
+Hard times<END>
+
+//イイなぁ～<END>
+#JMP($9CBCF)
+#FIXEDLENGTH(10,0)
+Lucky～<END>
+
+//小麦色の<END>
+#JMP($9CBDD)
+#FIXEDLENGTH(8,0)
+Tanned<END>
+
+//たくましい<END>
+#JMP($9CBE6)
+#FIXEDLENGTH(10,0)
+Sturdy<END>
+
+//見たいなぁ<END>
+#JMP($9CBF1)
+#FIXEDLENGTH(10,0)
+Wanna see<END>
+
+//エッチ♥<END>
+#JMP($9CBFC)
+#FIXEDLENGTH(8,0)
+Lewd♥<END>
+
+//掘っちゃダメだよ<END>
+#JMP($9CC05)
+#FIXEDLENGTH(16,0)
+Don't dig there<END>
+
+//それは怖い…<END>
+#JMP($9CC16)
+#FIXEDLENGTH(12,0)
+That's scary<END>
+
+//出ないと思うよ<END>
+#JMP($9CC23)
+#FIXEDLENGTH(14,0)
+Doubt it<END>
+
+//大変だぁ<END>
+#JMP($9CC32)
+#FIXEDLENGTH(8,0)
+Oh no～<END>
+
+//何でだろう？<END>
+#JMP($9CC3B)
+#FIXEDLENGTH(12,0)
+Why's that?<END>
+
+//へぇ すごい！<END>
+#JMP($9CC48)
+#FIXEDLENGTH(13,0)
+Wow, amazin'!<END>
+
+//おなか<END>
+#JMP($9CC56)
+#FIXEDLENGTH(6,0)
+Tummy<END>
+
+//バナナの皮<END>
+#JMP($9CC5D)
+#FIXEDLENGTH(10,0)
+Bananapeel<END>
+
+//変だね？<END>
+#JMP($9CC68)
+#FIXEDLENGTH(8,0)
+Weird?<END>
+
+//トイレ<END>
+#JMP($9CC74)
+#FIXEDLENGTH(6,0)
+Toilet<END>
+
+//お料理<END>
+#JMP($9CC7B)
+#FIXEDLENGTH(6,0)
+Cook<END>
+
+// AI-UNSURE: typed-answer match word
+//べんきょう<END>
+#JMP($9CC82)
+#FIXEDLENGTH(10,0)
+study<END>
+
+// AI-UNSURE: typed-answer match word
+//ベンキョウ<END>
+#JMP($9CC8D)
+#FIXEDLENGTH(10,0)
+Study<END>
+
+//ネコの集会？<END>
+#JMP($9CC98)
+#FIXEDLENGTH(12,0)
+Cat meetin'?<END>
+
+//どんな会議？<END>
+#JMP($9CCA5)
+#FIXEDLENGTH(12,0)
+What meetin'<END>
+
+//ザーって 画面？<END>
+#JMP($9CCB2)
+#FIXEDLENGTH(15,0)
+Static screen?<END>
+
+//見てると？<END>
+#JMP($9CCC2)
+#FIXEDLENGTH(10,0)
+Watchin'?<END>
+
+//降ってるよ<END>
+#JMP($9CCCD)
+#FIXEDLENGTH(10,0)
+Rainin'<END>
+
+//しょうがない…<END>
+#JMP($9CCD8)
+#FIXEDLENGTH(14,0)
+Can't help it<END>
+
+// AI-UNSURE: typed-answer match word
+//ひな<END>
+#JMP($9CCE7)
+#FIXEDLENGTH(4,0)
+hina<END>
+
+// AI-UNSURE: typed-answer match word
+//ヒナ<END>
+#JMP($9CCEC)
+#FIXEDLENGTH(4,0)
+Hina<END>
+
+//ありえないよ<END>
+#JMP($9CCF4)
+#FIXEDLENGTH(12,0)
+No way<END>
+
+//毎年のコトだねぇ<END>
+#JMP($9CD01)
+#FIXEDLENGTH(16,0)
+It's yearly, huh<END>
+
+// AI-UNSURE: typed-answer match word
+//きんにく<END>
+#JMP($9CD12)
+#FIXEDLENGTH(8,0)
+muscle<END>
+
+// AI-UNSURE: typed-answer match word
+//筋肉<END>
+#JMP($9CD1B)
+#FIXEDLENGTH(4,0)
+Musc<END>
+
+//電気の力？<END>
+#JMP($9CD20)
+#FIXEDLENGTH(10,0)
+Electric?<END>
+
+//イヤだなぁ<END>
+#JMP($9CD2B)
+#FIXEDLENGTH(10,0)
+I hate it<END>
+
+//何時間ぐらい？<END>
+#JMP($9CD36)
+#FIXEDLENGTH(14,0)
+How long?<END>
+
+//どうなった？<END>
+#JMP($9CD45)
+#FIXEDLENGTH(12,0)
+What then?<END>
+
+//いいかもね<END>
+#JMP($9CD52)
+#FIXEDLENGTH(10,0)
+Maybe good<END>
+
+//目を閉じるの？<END>
+#JMP($9CD5D)
+#FIXEDLENGTH(14,0)
+Eyes closed?<END>
+
+//見られるコトで？<END>
+#JMP($9CD6C)
+#FIXEDLENGTH(16,0)
+Bein' watched?<END>
+
+//やっぱ気にする<END>
+#JMP($9CD7D)
+#FIXEDLENGTH(14,0)
+I do mind<END>
+
+//それは気にする<END>
+#JMP($9CD8C)
+#FIXEDLENGTH(14,0)
+I'd mind that<END>
+
+//なんて<END>
+#JMP($9CD9B)
+#FIXEDLENGTH(6,0)
+Like<END>
+
+//恋？<END>
+#JMP($9CDA2)
+#FIXEDLENGTH(4,0)
+Lov?<END>
+
+//エッチな人♥<END>
+#JMP($9CDA7)
+#FIXEDLENGTH(12,0)
+Naughty♥<END>
+
+//言ってる<END>
+#JMP($9CDB4)
+#FIXEDLENGTH(8,0)
+Said it<END>
+
+//言ってない<END>
+#JMP($9CDBD)
+#FIXEDLENGTH(10,0)
+Didn't say<END>
+
+// AI-UNSURE: typed-answer match word
+//れんあい<END>
+#JMP($9CDC8)
+#FIXEDLENGTH(8,0)
+romance<END>
+
+// AI-UNSURE: typed-answer match word
+//恋愛<END>
+#JMP($9CDD1)
+#FIXEDLENGTH(4,0)
+Love<END>
+
+//必要<END>
+#JMP($9CDD6)
+#FIXEDLENGTH(4,0)
+Need<END>
+
+//必要じゃない<END>
+#JMP($9CDDB)
+#FIXEDLENGTH(12,0)
+Don't need<END>
+
+//なるほど～<END>
+#JMP($9CDE8)
+#FIXEDLENGTH(10,0)
+I see～<END>
+
+//恋の病？<END>
+#JMP($9CDF3)
+#FIXEDLENGTH(8,0)
+Lovesik?<END>
+
+//想像しながら？<END>
+#JMP($9CDFC)
+#FIXEDLENGTH(14,0)
+Picturin'?<END>
+
+//した♥<END>
+#JMP($9CE0B)
+#FIXEDLENGTH(6,0)
+Did♥<END>
+
+//したコトない<END>
+#JMP($9CE12)
+#FIXEDLENGTH(12,0)
+Never did<END>
+
+//恋かぁ♥<END>
+#JMP($9CE1F)
+#FIXEDLENGTH(8,0)
+Love♥<END>
+
+//ドキドキして？<END>
+#JMP($9CE28)
+#FIXEDLENGTH(14,0)
+Heart racin'?<END>
+
+//知ってるよ♥<END>
+#JMP($9CE37)
+#FIXEDLENGTH(12,0)
+I know♥<END>
+
+//ニキビないよ？<END>
+#JMP($9CE44)
+#FIXEDLENGTH(14,0)
+No pimples?<END>
+
+//ニキビ 痛たた…<END>
+#JMP($9CE53)
+#FIXEDLENGTH(15,0)
+Pimple, ouch…<END>
+
+//上手な人？<END>
+#JMP($9CE63)
+#FIXEDLENGTH(10,0)
+Good, huh?<END>
+
+//上手だと モテモテ？<END>
+#JMP($9CE6E)
+#FIXEDLENGTH(19,0)
+Good means popular?<END>
+
+//下手だと ガッカリ？<END>
+#JMP($9CE82)
+#FIXEDLENGTH(19,0)
+Bad means letdown?<END>
+
+//嫌われるの？<END>
+#JMP($9CE96)
+#FIXEDLENGTH(12,0)
+Disliked?<END>
+
+//片思い<END>
+#JMP($9CEA3)
+#FIXEDLENGTH(6,0)
+Crush<END>
+
+// AI-UNSURE: typed-answer match word
+//こい<END>
+#JMP($9CEAA)
+#FIXEDLENGTH(4,0)
+love<END>
+
+// AI-UNSURE: typed-answer match word
+//あい<END>
+#JMP($9CEB2)
+#FIXEDLENGTH(4,0)
+love<END>
+
+//恋愛の？<END>
+#JMP($9CEB7)
+#FIXEDLENGTH(8,0)
+Romance?<END>
+
+//お約束？<END>
+#JMP($9CEC0)
+#FIXEDLENGTH(8,0)
+A rule?<END>
+
+//ルール？<END>
+#JMP($9CEC9)
+#FIXEDLENGTH(8,0)
+Rules?<END>
+
+//しちゃった♥<END>
+#JMP($9CED2)
+#FIXEDLENGTH(12,0)
+Did it♥<END>
+
+//キス？<END>
+#JMP($9CEDF)
+#FIXEDLENGTH(6,0)
+Kiss?<END>
+
+//いろいろ？<END>
+#JMP($9CEE6)
+#FIXEDLENGTH(10,0)
+All kinds?<END>
+
+//前じゃダメ？<END>
+#JMP($9CEF1)
+#FIXEDLENGTH(12,0)
+Not before?<END>
+
+//なくならないよ<END>
+#JMP($9CEFE)
+#FIXEDLENGTH(14,0)
+It won't fade<END>
+
+//なくなるかも<END>
+#JMP($9CF0D)
+#FIXEDLENGTH(12,0)
+Might fade<END>
+
+// AI-UNSURE: typed-answer match word
+//こいびと<END>
+#JMP($9CF1A)
+#FIXEDLENGTH(8,0)
+lover<END>
+
+//なぁに？<END>
+#JMP($9CF23)
+#FIXEDLENGTH(8,0)
+What?<END>
+
+//愛と恋？<END>
+#JMP($9CF2C)
+#FIXEDLENGTH(8,0)
+Love?<END>
+
+//恋愛のＡＢＣ？<END>
+#JMP($9CF35)
+#FIXEDLENGTH(14,0)
+Romance ABC?<END>
+
+//ちわゲンカ？<END>
+#JMP($9CF44)
+#FIXEDLENGTH(12,0)
+Lovers spat?<END>
+
+//暗いよ<END>
+#JMP($9CF51)
+#FIXEDLENGTH(6,0)
+Dark<END>
+
+//怖いよ<END>
+#JMP($9CF58)
+#FIXEDLENGTH(6,0)
+Scary<END>
+
+//ホントの恋？<END>
+#JMP($9CF5F)
+#FIXEDLENGTH(12,0)
+True love?<END>
+
+//調べる方法？<END>
+#JMP($9CF6C)
+#FIXEDLENGTH(12,0)
+How to tell?<END>
+
+//恋人に？<END>
+#JMP($9CF79)
+#FIXEDLENGTH(8,0)
+A lover?<END>
+
+//何 くれるの？<END>
+#JMP($9CF82)
+#FIXEDLENGTH(13,0)
+Give what?<END>
+
+//あるね♥<END>
+#JMP($9CF90)
+#FIXEDLENGTH(8,0)
+Yes♥<END>
+
+//デートかぁ<END>
+#JMP($9CF99)
+#FIXEDLENGTH(10,0)
+A date<END>
+
+//映画かぁ<END>
+#JMP($9CFA4)
+#FIXEDLENGTH(8,0)
+A movie<END>
+
+//甘えたさんだ<END>
+#JMP($9CFAD)
+#FIXEDLENGTH(12,0)
+Cuddly one<END>
+
+//エッチさんだ<END>
+#JMP($9CFBA)
+#FIXEDLENGTH(12,0)
+Naughty one<END>
+
+//変だよ<END>
+#JMP($9CFC7)
+#FIXEDLENGTH(6,0)
+Weird<END>
+
+//したいね<END>
+#JMP($9CFCE)
+#FIXEDLENGTH(8,0)
+Wanna<END>
+
+//パンチ<END>
+#JMP($9CFD7)
+#FIXEDLENGTH(6,0)
+Punch<END>
+
+//守る？<END>
+#JMP($9CFDE)
+#FIXEDLENGTH(6,0)
+Guard?<END>
+
+//部屋？<END>
+#JMP($9CFE5)
+#FIXEDLENGTH(6,0)
+Room?<END>
+
+//しません！<END>
+#JMP($9CFEC)
+#FIXEDLENGTH(10,0)
+I won't!<END>
+
+//はずかし♥<END>
+#JMP($9CFF7)
+#FIXEDLENGTH(10,0)
+Shy♥<END>
+
+//はい<END>
+#JMP($9D002)
+#FIXEDLENGTH(4,0)
+Yes<END>
+
+//レンアイ<END>
+#JMP($9D007)
+#FIXEDLENGTH(8,0)
+Romance<END>
+
+//キスかぁ♥<END>
+#JMP($9D010)
+#FIXEDLENGTH(10,0)
+A kiss♥<END>
+
+//ま、好きにしな…<END>
+#JMP($9D01B)
+#FIXEDLENGTH(16,0)
+Do as you like<END>
+
+//結婚したい時？<END>
+#JMP($9D02C)
+#FIXEDLENGTH(14,0)
+Wanna wed?<END>
+
+//したくない時？<END>
+#JMP($9D03B)
+#FIXEDLENGTH(14,0)
+When not?<END>
+
+//家ねぇ<END>
+#JMP($9D04A)
+#FIXEDLENGTH(6,0)
+A home<END>
+
+//結婚しなくても出来るよ～<END>
+#JMP($9D051)
+#FIXEDLENGTH(24,0)
+You can do it unmarried<END>
+
+//おそろい♥<END>
+#JMP($9D06A)
+#FIXEDLENGTH(10,0)
+Matchin'♥<END>
+
+//ちょっとヤダ<END>
+#JMP($9D075)
+#FIXEDLENGTH(12,0)
+Bit much<END>
+
+//がんばれ♥<END>
+#JMP($9D082)
+#FIXEDLENGTH(10,0)
+Go go♥<END>
+
+//がんばりすぎ…<END>
+#JMP($9D08D)
+#FIXEDLENGTH(14,0)
+Overdoin' it…<END>
+
+// AI-UNSURE: typed-answer match word
+//かじ<END>
+#JMP($9D09C)
+#FIXEDLENGTH(4,0)
+chor<END>
+
+// AI-UNSURE: typed-answer match word
+//家事<END>
+#JMP($9D0A1)
+#FIXEDLENGTH(4,0)
+Chor<END>
+
+//家事の分担？<END>
+#JMP($9D0A6)
+#FIXEDLENGTH(12,0)
+Chores?<END>
+
+//おヨメさん<END>
+#JMP($9D0B3)
+#FIXEDLENGTH(10,0)
+A wife<END>
+
+//ってコトは？<END>
+#JMP($9D0BE)
+#FIXEDLENGTH(12,0)
+Meanin'?<END>
+
+//付きあってないよ<END>
+#JMP($9D0CB)
+#FIXEDLENGTH(16,0)
+We're not datin'<END>
+
+//やったぁ！<END>
+#JMP($9D0DC)
+#FIXEDLENGTH(10,0)
+Yay!<END>
+
+//えぇ～<END>
+#JMP($9D0E7)
+#FIXEDLENGTH(6,0)
+Ehh～<END>
+
+//海外<END>
+#JMP($9D0EE)
+#FIXEDLENGTH(4,0)
+Abrd<END>
+
+//バレたか…<END>
+#JMP($9D0F3)
+#FIXEDLENGTH(10,0)
+Busted…<END>
+
+//デマです<END>
+#JMP($9D0FE)
+#FIXEDLENGTH(8,0)
+Rumor<END>
+
+//カッコイイ<END>
+#JMP($9D107)
+#FIXEDLENGTH(10,0)
+Cool<END>
+
+//カワイイね<END>
+#JMP($9D112)
+#FIXEDLENGTH(10,0)
+Cute<END>
+
+//そうなんです…<END>
+#JMP($9D11D)
+#FIXEDLENGTH(14,0)
+That's right…<END>
+
+//結婚式？<END>
+#JMP($9D12C)
+#FIXEDLENGTH(8,0)
+Weddin'?<END>
+
+//あげるなら？<END>
+#JMP($9D135)
+#FIXEDLENGTH(12,0)
+If we wed?<END>
+
+//ま、好きにしな<END>
+#JMP($9D142)
+#FIXEDLENGTH(14,0)
+Do as you like<END>
+
+//ま、それもありかな<END>
+#JMP($9D151)
+#FIXEDLENGTH(18,0)
+That works too<END>
+
 //へぇ～<END>
 #JMP($9D8AB)
 #FIXEDLENGTH(6,0)
