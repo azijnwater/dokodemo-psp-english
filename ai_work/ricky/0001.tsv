@@ -1,0 +1,260 @@
+2F5	Idol [WORD1]
+328	Singer [WORD1]
+357	Comedian [WORD1]
+38B	Actor [WORD1]
+3BB	Athlete [WORD1]
+3DD	Celebrity [WORD1]
+494	[WORD1] (card swap)	?menu label: friend met via business card exchange
+4CB	[WORD1] (introduced)	?menu label: friend met via an introduction
+502	Spouse [WORD1]
+535	Family [WORD1]
+564	Lover [WORD1]
+593	Friend [WORD1]
+C2D	[WORD1]s name
+C54	About [WORD1]
+1294	"[VAR7]"
+29CA	Anyway, moving on♪	?shortened "never mind"
+29F2	Oh yeah♪[LR]
+2A32	Oh yeah…[LR]
+2A4B	Uhyaa!?[LR]
+2A64	Kero kero～♥
+3D39	What'll you teach me[KERO]?[LR]
+3D5F	What{DASU}?[LR]What'll you teach me[KERO]?[LR]
+3D8F	What're ya gonna teach me?[LR]
+3DCE	Teach me[KERO]～[LR]
+3DE9	Hey, tell me[KERO]?[LR]
+3E0D	I got kinda curious, kero…[LR]
+3E39	I wanna know somethin'…[LR]
+3E7C	Wanted you to tell me…[LR]
+3EA7	Meanie{DASU}…[LR]
+3EC8	I wanted to know…[LR]Too bad{DASU}…[LR]
+3F1A	I already know[LR][WORD1]{DASU}![LR]
+3F39	[WORD2][KERO]♪[LR]
+3F5F	Closer to world's strongest♪[LR]
+3F96	Thanks for[LR]teachin' me{DASU}～♪[LR]
+3FCA	Uh-huh, I gotta[LR]remember this good![LR]
+400B	Got it[KERO]![LR]Thanks a bunch{DASU}～[LR]
+4043	I'll learn it{DASU}～[LR]
+406F	Teach me more[KERO]～[LR]
+408F	Teach me somethin' else[KERO][LR]
+40B9	Mmm～[LR]Listen to me{C18}～[LR]
+40DF	Written "[VAR0]"…[LR]
+40FD	And read "[VAR1]", dasu?[LR]
+4123	Huh!?[LR]Then how's it read[KERO]?[LR]
+414C	Got it{DASU}![LR]Then tell me later[KERO]♪[LR]
+4180	Written "[VAR0]"…[LR]
+4194	Read "[VAR1]", dasu～[LR]
+41B7	Aww～[LR]Then tell me later[KERO]～[LR]
+41E0	[VAR0]-san,[LR]right, dasu?[LR]
+4202	Huh…[LR]What should I call you?[LR]
+4232	Hmmm…[LR]Dunno what to call you{DASU}…[LR]
+4269	For now, I'll[LR]call you [VAR0]-san…[LR]
+4297	[VAR0][VAR1], dasu?
+42B4	[VAR0],[LR]is it, dasu～[LR]
+42DB	How's [VAR0] compared to [WORD1]?
+432B	Wrong[KERO]～[LR]
+4339	[WORD3] is [WORD2]{DASU}～[LR]
+4364	That's not it…[LR]
+438A	[WORD0]…[LR]is it a [WORD2] related to [WORD1], dasu?
+43CA	I see…[LR]
+43E0	So [WORD0] and [WORD1] are related, dasu…[LR]
+4413	I see…[LR]
+4427	Not related, dasu…[LR]
+444C	Oh, right![LR]
+4466	The words you teach me…[LR]
+4485	I'll put it in my memo{DASU}
+44B6	If I ever get a readin' wrong～[LR]
+44EC	[WORD0], please fix it[KERO]～
+4518	If I can't read it…[LR]
+4539	No good for shiritori～[LR]
+4567	So, Master [WORD0]![LR]
+4585	I'm countin' on you[KERO]～![LR]
+45D0	Oh, yeah…[LR]
+45E2	From [WORD0]…[LR]
+4602	I got the word memo{DASU}!
+4633	Precious words [WORD0] left me[KERO]…[LR]
+466F	With this, [WORD1] will learn words too{DASU}!
+46AD	Just as much as [WORD0]～[LR]
+46F2	～![LR]
+4712	[WORD1]'s friend
+472A	Words [WORD0] taught me[KERO]～[LR]
+475A	[WORD0] said it was [WORD1][KERO]…[LR]
+4789	How about [WORD2]{DASU}?[LR]
+47B0	Oh, yeah…[LR]Dunno if you like [WORD0]{DASU}…[LR]
+47EB	I see…[LR]
+47F6	Not like, not hate{DASU}…[LR]
+4820	I see～[LR]
+482B	It's [WORD0][KERO]![LR]
+4852	It's [WORD0][KERO]…[LR]
+48F8	[VAR1]-san
+4944	[VAR6]-san
+494D	[VAR6]-chan
+4958	[VAR6]-kun
+4961	[VAR6]sama
+496A	[VAR6]-sei
+4EDE	[WORD2]…[LR]What person{DASU}?
+4F97	[WORD2]…[LR]One? Or lots?
+5230	[WORD2]…[LR]Which one[KERO]?
+5309	[WORD2]…[LR]What sort of person?
+53CB	[WORD1]…[LR]What person{DASU}?
+5508	[WORD1]…[LR]Someone famous[KERO]?
+5680	[WORD2]…[LR]What thing?
+5720	[WORD2]…[LR]Done alone?
+5A97	[WORD2]…[LR]Done to people?
+5BDF	[WORD2]…[LR]What kind of group?
+5CE2	[WORD2]…[LR]What shop, dasu?
+5D8D	-
+5EE1	[WORD2]…[LR]What place, dasu?
+5FED	[WORD2]…[LR]What kind of food?
+6390	[WORD2]…[LR]What show[KERO]?
+64E2	[WORD2]…[LR]Which one, dasu?
+66EB	[WORD2]…[LR]How's it used[KERO]?
+693D	[WORD2]…[LR]What greeting?
+6AE3	[WORD2]…[LR]What kind of word?
+6B88	[WORD2]…[LR]A vehicle?[LR]A robot?
+6C58	[WORD1]…[LR]What thing?
+6F0F	[WORD1]…[LR]Which one, dasu?
+72F2	[WORD2]…[LR]Man's job?[LR]Woman's job?
+732D	[WORD2]…[LR]About men?[LR]About women?
+7379	[WORD2]…[LR]Boy robot?[LR]Girl robot?
+73B8	[WORD2]…[LR]A man? A woman?[LR]
+76D7	Like [WORD2], dasu?
+7794	What's [WORD2], dasu?
+7C91	Do or get [WORD4]ed[KERO]?[LR]	?[WORD4] is a verb the player taught; English conjugation will be rough
+7CB1	Get [WORD4]ed{DASU}～[LR]
+7CCA	You [WORD4]{DASU}～[LR]
+7D09	It's [WORD4]{DASU}～[LR]
+7D5B	Do or get [WORD4], [WORD3]?[LR]
+7D7F	Get [WORD4], [WORD3]?[LR]
+7D9A	[WORD4] it, [WORD3]?[LR]
+7E63	-
+8CAF	-
+944F	Kero ke～ro♪
+9469	Kerokero♪[LR]
+9481	Keroro♪[LR]
+9497	Keroyo～n♪[LR]
+94BF	Kero ke～ro…
+94D9	Kerokero…[LR]
+94F1	Keroro…[LR]
+9530	Tell me a bit{DASU}![LR]
+9558	I got kinda curious[KERO]…[LR]
+9584	I wanna know somethin'[KERO]…[LR]
+95C1	Ke～royo～n![LR]
+95DD	Kerokero～♪[LR]
+95F7	Later![LR]
+960D	See ya![LR]
+9627	Thanks!![LR]	?ッシタ!! is clipped (ありがとうござい)ました, a sporty "thanks!"
+963D	Okay![LR]
+9653	See ya…[LR]
+966D	[KERO]yo～n♪[LR]
+969B	[WORD0][KERO]～♪[LR]
+96C5	I'm sad[KERO]…[LR]
+96E0	Lonely[KERO]…[LR]
+9709	Bye…[LR]
+971D	So long…[LR]
+974F	Keroro～n…[LR]
+9777	Nigyaa!![LR]
+978F	Makes me mad![LR]
+97AB	I'm so mad{DASU}![LR]
+97C8	Grr![LR]
+97FD	…Fine{DASU}…[LR]
+9816	Gero ge～ro![LR]
+9830	Forget it{DASU}![LR]
+9859	Lately…[LR]
+9864	On a cold, rainy day…[LR]
+98A4	Craving [WORD0]…[LR]On days like that…[LR]
+98F2	[WORD0] scar aches…[LR]On such days…[LR]
+993A	The shameful scar [WORD0] gave me aches…[LR]On days like that…[LR]
+999A	When I suddenly recall…[LR]the taste of hometown [WORD0]…[LR]
+99F3	On a day I suddenly remembered…[LR]my rival, [WORD0]…[LR]
+9A90	When [WORD0] cost 100 yen…[LR]
+9C10	Like…[LR]
+9C32	girl
+9C3C	boy
+9C4E	Smells like my [WORD0] days♪[LR]
+9CB0	The pheromone smell of a [WORD1] [WORD0]♪[LR]	?[WORD1]性 = gender word taught by player
+9D16	Smell of a tiny room w/ [WORD0]♪[LR]
+9D6F	Smell of tears [WORD0] shed♪[LR]
+9DC4	Smell of old [WORD0] towns♪[LR]
+9E17	A smell that feels like [WORD0] air♪[LR]
+9E76	Smell of love☆romance in [WORD0]♪[LR]
+9ECF	Smells like [WORD0] grown on Mars♪[LR]
+9F49	The smell of [WORD0]'s [WORD1]♪[LR]
+9FB7	[WORD1] said the same in [WORD0][KERO]…[LR]
+9FE7	If you get it, you get it～![LR]
+A03E	[WORD1] said the same in a [WORD0] interview[KERO]…[LR]
+A0AB	-
+A146	[WORD0]～![LR]Listen up a sec～?[LR]
+A17B	[WORD0]～![LR]Listen good{DASU}…[LR]
+A1A5	{HAA}[LR]Here's a useful story～♪[LR]
+A1D1	{HAA}[LR]A nice story{DASU}～![LR]
+A1F8	Oh, yeah～[LR]
+A20F	Do you know [WORD0][KERO]?[LR]
+A2AB	Chuss![LR]
+A2C3	Oissu![LR]
+A2DB	Ossu![LR]
+A367	I see…?[LR]
+A381	Uh-huh, I see now～♥[LR]
+A3A9	Hohhou～![LR]
+A3C3	Hmm…[LR]
+A40B	Tch…[LR]
+A421	Gero…[LR]
+A440	Oh! That's it[KERO]![LR]
+A461	Gabiin!![LR]
+A4C4	See ya, [WORD0]♪[LR]
+A54A	"The 7 [VAR1]"
+A578	"[VAR2] Guys [VAR1] Team"
+A59B	"Wild West [VAR1]"
+A5CD	"[VAR1] of [VAR2] 2101"
+A604	"[VAR1] Rage [VAR2]"
+A61D	"Manga [VAR1] Tales"
+A682	"[VAR2] Saw It![LR][VAR1] Murder![LR]3 Gals' Trip!"
+A6BB	"Hot Pursuit! [VAR1] 24hrs!"
+A6E2	"All-Star [VAR1] Championship!"
+A729	"Cross-[VAR2] [VAR1] Quiz!"
+A74F	"Sunday [VAR1] Suspense Dojo"
+A776	"Wipe In!![LR][VAR1]!!"
+A7B0	Cascade
+A7C9	Off the top rope
+A7EC	From the apron
+A811	Flying
+A82B	-
+A8E9	[VAR1][VAR2] Lariat
+A904	[VAR1][VAR2] Driver
+A91F	[VAR1][VAR2] Suplex
+A93E	[VAR1][VAR2] Scorpion
+A959	[VAR1][VAR2] Figure-4
+A976	[VAR1][VAR2] Manji
+A98E	[VAR1][VAR2]Lock
+B18F	Is that so～[LR][WORD0]…[LR]
+B1B2	Hm～?[LR][WORD0]…[LR]
+B504	No [VAR9]
+B50E	[WORD2] is [WORD5]?
+B60A	I asked before…[LR]
+B720	No comment
+B73B	Someone I love
+B754	My love
+B769	Kinda like
+B784	Like a bit
+B79F	Beloved
+B7B4	Crush
+B7C9	A rival
+B961	It's [WORD4][LR](Intro over)
+BA27	The "[VAR0] is ○○?"…[LR]
+BA40	Can you pick the ○○ part[KERO]～?
+BA72	Got it[KERO]～[LR]Next time I see [WORD2]…[LR]
+BA9E	Got it[KERO]～[LR]Later, [WORD2]…[LR]
+BAC6	[VAR0]…[LR][VAR1]?[LR]
+BADB	I'll ask that{DASU}～![LR]
+BAFB	I know[KERO]![LR]
+BB12	Since I'm here…[LR]
+BB25	Should I ask [WORD1] something about [WORD0]{DASU}～?
+BB5F	"Is ○○ ××?"[LR]
+BB78	That's what I'll ask!
+BB9D	Can I ask[LR]more, dasu?
+BC14	[WORD0] gave me a question[LR]for [WORD1]{C18}!
+BC5B	[WORD0] has a question[LR]for [WORD1], dasu!
+BC9D	[WORD0] seems to have somethin'[LR]to ask [WORD1]!
+BD0F	Oh, right![LR]
+BD25	Question for [WORD0]!
+BD6E	Question for [WORD0]!

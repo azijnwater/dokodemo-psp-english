@@ -26,3 +26,6 @@ insert/
 # Other files
 patches/param.txt
 textures/md5.txt
+
+# AI translation worklists (regenerate with scripts/ai/gen_patch.py worklist <char>)
+ai_work/*/worklist.tsv
