@@ -32,7 +32,7 @@ upstream translation team). Style rules: [STYLE_NOTES.md](STYLE_NOTES.md).
 | File | Patch | Strings found in KSC | Human JMPs | AI entries | AI-UNSURE | Skipped (non-text) | Still untranslated (unique) |
 |------|-------|---------------------:|-----------:|-----------:|----------:|-------------------:|----------------------------:|
 | KAERU.KSC (Ricky) | `patches/ricky_messages.txt` | 10,798 | 0 | 9,915 (+252 reused human) | 16 | 169 | 0 |
-| NEKO.KSC (Toro) | — | 14,497 | 844 | 0 | 0 | 0 | 12,326 |
+| NEKO.KSC (Toro) | `patches/toro_ai_messages.txt` | 14,497 | 844 | in progress (see `scripts/ai/stats.py`) | – | – | – |
 | ROBO.KSC (Suzuki) | — | 10,003 | 17 | 0 | 0 | 0 | 9,294 |
 | USAGI.KSC (Jun) | — | 10,629 | 13 | 0 | 0 | 0 | 9,762 |
 | INU.KSC (Pierre) | — | 11,522 | 29 | 0 | 0 | 0 | 10,418 |
