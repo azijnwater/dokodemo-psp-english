@@ -56175,6 +56175,11 @@ mornin'♥[LR]<END>
 #FIXEDLENGTH(13,0)
 By the way…[LR]<END>
 
+//昨日は よく 眠れた？<END>
+#JMP($82452)
+#FIXEDLENGTH(20,0)
+Did you sleep well?<END>
+
 //そっか～[LR]<END>
 #JMP($82481)
 #FIXEDLENGTH(9,0)
