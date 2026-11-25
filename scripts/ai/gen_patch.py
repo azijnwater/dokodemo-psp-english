@@ -138,6 +138,13 @@ def wrap(text):
 # Catchphrase codes (expanded by the game from a table, with no leading space).
 CODE_RE = r'(?:\[KERO\]|\[NYA\]|<\$17><\$1[789AB]><\$00>)'
 TIC_RE = r'(?:\[KERO\]|<\$17><\$19><\$00>)'   # Ricky's ケロ / ダス
+TICS = {
+    'ricky': TIC_RE,
+    'toro': r'(?:\[NYA\])',
+    'suzuki': r'(?:\[NYA\])',
+    'jun': r'(?:\[NYA\]|<\$17><\$18><\$00>)',
+    'pierre': r'(?:\[NYA\]|<\$17><\$18><\$00>)',
+}
 
 
 def space_codes(en):
@@ -152,12 +159,13 @@ def space_codes(en):
     return re.sub(CODE_RE, rep, en)
 
 
-def restore_tic(jp, en):
+def restore_tic(jp, en, char='ricky'):
     """If the Japanese uses Ricky's kero/dasu codes but the English kept none of
     them (nor a literal kero/dasu), put the last one back at the end of the
     final clause. The drop step removes it again if there is no room."""
-    codes = re.findall(TIC_RE, jp)
-    if not codes or re.search(TIC_RE, en) or re.search(r'(?i)(kero|dasu)', en):
+    tic = TICS.get(char, TIC_RE)
+    codes = re.findall(tic, jp)
+    if not codes or re.search(tic, en) or re.search(r'(?i)(kero|dasu|nya|meow)', en):
         return en
     m = re.search(r'([!?…～♪♥.,\s]|\[LR\])*$', en)
     cut = m.start() if m else len(en)
@@ -300,7 +308,7 @@ def build(char):
         if en == '-':
             nskip += 1
             continue
-        raw = space_codes(restore_tic(t, en))
+        raw = space_codes(restore_tic(t, en, char))
 
         def fit(text):
             text = wrap(text) if '[LR]' in t else text

@@ -1,0 +1,229 @@
+2F5	Idol [WORD1]
+328	Singer [WORD1]
+357	Comedian [WORD1]
+38B	Actor [WORD1]
+3BB	Athlete [WORD1]
+3DD	Celebrity [WORD1]
+494	[WORD1] (card swap)	?menu label: friend met via business card exchange
+4CB	[WORD1] (introduced)	?menu label: friend met via an introduction
+502	Spouse [WORD1]
+535	Family [WORD1]
+564	Lover [WORD1]
+593	Friend [WORD1]
+C54	About [WORD1]
+1294	"[VAR7]"
+405F	-
+49D8	[VAR1]-san
+4A24	[VAR6]-san
+4A2D	[VAR6]-chan
+4A38	[VAR6]-kun
+4A41	[VAR6]sama
+4A4A	[VAR6]-sei
+568A	-
+5A29	[WORD2]…[LR]What thing?
+5B65	[WORD2]…[LR]Done to people?
+5CAD	[WORD2]…[LR]What group?
+5DAD	[WORD2]…[LR]What shop?
+5FA6	[WORD2]…[LR]What place?
+684E	[WORD2]…[LR]Which?
+69DE	[WORD2]…[LR]What greeting?
+6B84	[WORD2]…[LR]What word?
+6C29	[WORD2]…[LR]A vehicle?[LR]A robot?
+6E10	[WORD1]…[LR]What thing?
+6FB0	[WORD1]…[LR]Which?
+738D	[WORD2]…[LR]Man's job?[LR]Woman's job?
+73C8	[WORD2]…[LR]About men?[LR]About women?
+7414	[WORD2]…[LR]Boy robot?[LR]Girl robot?
+7D24	Do or get [WORD4] [NYA]?[LR]
+7D44	You get [WORD4]～[LR]
+7D5C	You [WORD4]～[LR]
+7D99	It's [WORD4]～[LR]
+7DE8	Do or get [WORD4], [WORD3]?[LR]
+7E0C	Get [WORD4], [WORD3]?[LR]
+7E27	[WORD4] it, [WORD3]?[LR]
+7EF0	-
+9623	[WORD0], it's awful [NYA]![LR]
+96EF	You think so?[LR]
+9790	It's really awful, y'know～[LR]
+97C8	Help! Help!
+9814	Scary [NYA]～[LR]Scary [NYA]～
+9841	[WORD0], scary [NYA]～
+98BA	Now [WORD1]'s scary…[LR]
+98ED	[WORD1], so mean![LR]So mean![LR]
+9926	You're scared too?
+999A	Scary, huh?[LR]Scary, huh?
+9A72	[WORD0], I trust you![LR]
+9AD0	Phew![LR]
+9B9D	Weird [NYA]?[LR]Weird [NYA]?[LR]
+9C31	You asked before…[LR]
+9C7C	I've heard that one…[LR]
+9D89	[WORD1] isn't naughty…[LR]
+9DF5	Am I in the way?[LR]Can't I stay here～[LR]
+9E71	You'll…[LR]eat [WORD1]?[LR]
+9F13	[WORD1]…[LR]isn't trash, nya…[LR]
+9F95	'Cause [WORD1] isn't human yet～[LR]
+9FF9	[WORD1] isn't for sale, nya…[LR]
+A067	You…[LR]hate [WORD1], nya…[LR]
+ABFC	No [VAR9]
+AC06	[WORD2] is [WORD5]?
+AD02	I asked before…[LR]
+AE18	No comment
+AE33	Someone I love
+AE4C	My love
+AE61	Kinda like
+AE7C	Like a bit
+AE97	Beloved
+AEAC	Crush
+AEC1	A rival
+B059	It's [WORD4][LR](Intro over)
+B11F	The "Is [VAR0] ○○?"…[LR]
+B138	Pick the ○○ part [NYA]?
+B1BA	[VAR0]…[LR][VAR1]?[LR]
+B219	Let's ask [WORD1] somethin' about [WORD0]?
+B250	"Is ○○ ××?"[LR]
+B306	[WORD0] gave me a question[LR]for [WORD1] [NYA]!
+B34F	[WORD0] has a question[LR]for [WORD1] [NYA]!
+B390	[WORD0] wants to ask[LR][WORD1] somethin'![LR]
+B418	For [WORD0] [NYA]!
+B451	Question for [WORD0] [NYA]!
+B4E5	[VAR0]…[LR][VAR1]?
+B51D	Next time I see [WORD1]～[LR]
+B558	[WORD2][LR]I'll tell 'em![LR]
+B57D	[WORD0][LR]
+B58A	[VAR1]…[LR][VAR2]?[LR]
+B664	Why [NYA]…[LR]
+B67B	They said "[VAR0]"![LR]
+B6DB	[VAR1]/[LR]
+B72B	"[VAR0]" or[LR]"[VAR1]",[LR]which is more[LR][VAR2]?
+B773	[WORD0]…[LR]
+B77F	Team [VAR1] [NYA]～[LR]
+B79C	[WORD0] is Team [WORD1] [NYA]![LR]
+B7CF	"[VAR1]" or[LR]"[VAR2]",[LR]which is more[LR][WORD3]?[LR]
+B815	"[VAR4]," they said～
+B846	[WORD0]～[LR]
+B854	I asked [WORD1]…[LR]
+B870	"[VAR2]"![LR]
+B8ED	[WORD0]…[LR]
+B909	wanted [WORD2]'s number [NYA]～[LR]
+B9B8	[WORD0]…[LR]
+B9C6	asked me for a phone number [NYA]![LR]
+B9FD	[WORD0]'s card…[LR]
+BA10	is the number on it [NYA]～[LR]
+BA31	So excitin'～[LR]
+BA8D	I met [WORD0] [NYA]![LR]
+BAC0	Wanna be pals with [WORD1] [NYA]♥[LR]
+BB23	[WORD0]…[LR]
+BB67	Looked well [NYA][LR]
+BBB6	I watched the house [NYA]![LR]
+BCD0	I already know [WORD0]…[LR]
+BCEE	Teach me another name [NYA][LR]
+BDC9	Ask [WORD0]…[LR]
+BE13	Sorry, nya…[LR]
+BE32	My friend notes are[LR]all full～[LR]
+BE63	I can't do intros[LR]with new people [NYA]…[LR]
+BE94	Still okay?
+BEAE	With this intro～[LR]
+BEC2	I got [VAR0] new friends [NYA]!
+BEFE	And～[LR]
+BF32	I learned [VAR0] new words [NYA]!
+BF63	Bein' called "[VAR1]" [WORD0]…[LR]
+BF88	or "[VAR2]" [WORD0]…[LR]
+BFC4	Okay～[LR]I'll call you that [NYA]![LR]
+BFF1	Okay～[LR]I'll keep callin' you that [NYA]![LR]
+C020	I heard [WORD0]'s secret～
+C04A	[VAR0] secret?
+C064	[VAR1]![LR]
+C080	[WORD0] lately is～
+C09B	How's [VAR0]?
+C0B5	Kinda [VAR1] [NYA]![LR]
+C0E1	Oh, don't say [WORD0] told you!
+C13F	Tell me [WORD0]'s [WORD1]～[LR]
+C163	I see…[LR]It's a secret [NYA]…[LR]
+C18A	It's [WORD0]～
+C1B1	Alright![LR]I'll brag to [WORD0] later![LR]
+C1F0	Yay![LR]I'll tell [WORD0] later too![LR]
+C233	I bet [WORD0] will be happy if I tell [NYA]～![LR]
+C2A4	I see…[LR]Okay～[LR]
+C2FB	Yay![LR]Thank you～![LR]
+C324	Thanks for tellin' me [NYA]～[LR]
+C357	Oh, really, nya?[LR]
+C376	[VAR0]/[VAR1] [NYA]?[LR]
+C39E	[WORD0] and [WORD1] are what?
+C3D0	Thoughts on [WORD0] [NYA][LR]
+C3FD	How's [WORD0] next to [WORD1]?
+C42B	Does [WORD0] have a lover [NYA]?
+C450	Eh!?[LR]
+C460	No way [NYA]～[LR]
+C480	[WORD2] will be [WORD1]'s lover [NYA]![LR]
+C4AD	So [WORD0] and…[LR]
+C4C2	it's a love triangle [NYA]…[LR]
+C4EE	Oh well![LR]
+C50E	Then I'll tell [VAR0]～[LR]
+C535	I see…[LR]Too bad [NYA]…[LR]
+C559	Yay![LR]What'll you teach me～?[LR]
+C587	"[VAR1]"…[LR]
+C5A0	Thanks a lot～[LR]
+C5B4	[WORD0] is nice [NYA][LR]
+C5D1	The answer is…[LR]
+C5E3	I'll tell you at the next intro～[LR]
+C618	Tsk…[LR]
+C7A9	What'll we talk about?
+C7CD	Um, um…[LR]
+C836	Wait a sec…[LR]
+C850	Today's [WORD0]'s birthday [NYA]～[LR]
+C87A	♪Ta-da-daa[LR]
+C88D	Congrats [NYA]～[LR]
+C8B4	Keep bein' good pals with [WORD1] [NYA]♥[LR]
+C8EB	Then…[LR]
+C8FE	"[VAR0]"'s[LR]
+C90A	[WORD1]…[LR]Bye bye [NYA]～[LR]
+C933	Phew～[LR]Talkin' with [WORD0] was fun [NYA]♥[LR]
+C969	I heard [VAR0] before [NYA]![LR]
+C997	[WORD1][LR]is what I was told…[LR]
+C9B5	Ask again?
+C9D1	What to ask [WORD0]?
+C9FA	[VAR0] [NYA]?[LR]
+CA10	Count on me[LR]
+CA2C	Then what else…[LR]should I ask [NYA]?
+CA58	Things to ask someone new…[LR]
+CA7E	Got any?
+CA96	For [WORD0]…[LR]I can prep only one question [NYA]!
+CAD3	Ask who?
+CAEC	What's "[VAR0]"?
+CB14	Bingo～[LR]
+CB21	[WORD2] is "[VAR3]" [NYA]![LR]
+CB45	Wow～![LR]
+CB52	[WORD1] knows lots 'bout [WORD2] [NYA]～[LR]
+CB7E	Bzzt～ Wrong～[LR]
+CB9B	[WORD2] is…[LR]"[VAR3]" [NYA]～[LR]
+CBC5	Which of these 3 is the odd one out?
+CC28	It's [WORD1] [NYA]![LR]
+CC49	[WORD1] alone[LR]
+CC57	is [WORD2][LR]
+CC6C	The other two…[LR]
+CC80	are [WORD3] [NYA]![LR]
+CC9D	Oh, right![LR]
+CCB4	♪Ta-da-daa
+CCD7	Since [WORD0] became my friend～[LR]
+CD04	Now my friends…[LR]
+CD1C	number [VAR1] [NYA]![LR]
+CD3B	As a gift～[LR]
+CD4C	I got "[VAR2]" [NYA]![LR]
+CD7A	Is [WORD0] [WORD2]?
+CDEA	Is [WORD0] ○○?
+CDFC	Don't ask
+CE32	Which is [WORD0]
+CE82	Which is ○○
+CE95	Back
+CE9D	Never mind
+D00E	-
+D094	Never mind
+D0A1	OK
+D0AC	"Is [WORD4]
+D0B9	 [WORD5]?"
+D419	"[VAR10]"
+D697	[WORD11]/
+D735	Which one's[LR][WORD5]?"
+DBF1	[WORD3] is
+DC05	[WORD3]
+DC3A	"[VAR4]"
