@@ -176,9 +176,9 @@ for name in NEKO ROBO USAGI INU KAERU; do
 
   for patch_file in "patches/$patch"*.txt; do
     [ -f "$patch_file" ] || continue
-    # Dictionary patches (e.g. toro_dictionary.txt) write to the .DIC word list
+    # Dictionary patches (e.g. toro_dictionary.txt, toro_ai_dictionary.txt) write to the .DIC word list
     case "$patch_file" in
-      "patches/${patch}_dictionary.txt") target="insert/$name.DIC"; dic_found=yes ;;
+      "patches/${patch}"*dictionary*.txt) target="insert/$name.DIC"; dic_found=yes ;;
       *)                                 target="insert/$name.KSC"; ksc_found=yes ;;
     esac
     echo "Applying $patch_file to $target..."

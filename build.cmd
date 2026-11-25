@@ -144,7 +144,9 @@ for %%P in (
     rem Apply matching text patches
     for %%F in ("patches\!p!*.txt") do (
       if exist "%%~fF" (
-        if /I "%%~nF"=="!p!_dictionary" (
+        rem Any patch with "dictionary" in its name (toro_dictionary, toro_ai_dictionary) targets the .DIC
+        set "pname=%%~nF"
+        if /I not "!pname:dictionary=!"=="!pname!" (
           echo Patching insert\!q!.DIC with %%~nxF
           !atlas! "insert\!q!.DIC" "%%~fF"
         ) else (

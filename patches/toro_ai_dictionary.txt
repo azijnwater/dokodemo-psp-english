@@ -1,0 +1,1217 @@
+// Doko Demo Issyo PSP English Translation Project
+// GENERATED FILE - machine (AI) translation of dictionary words not covered by
+// patches/toro_dictionary.txt. Regenerate with: python scripts/ai/gen_dic.py build toro
+
+#SETTARGETFILE("insert/NEKO.DIC")
+#VAR(Table, TABLE)
+#ADDTBL("shiftjis.tbl", Table)
+#ACTIVETBL(Table)
+
+//ネコ (ねこ)
+#FIXEDLENGTH(4,0)
+#JMP($2DC)
+cat<END>
+#FIXEDLENGTH(4,0)
+#JMP($2E1)
+cat<END>
+
+//マンガ家 (まんがか)
+#FIXEDLENGTH(8,0)
+#JMP($336)
+mangaka<END>
+#FIXEDLENGTH(8,0)
+#JMP($33F)
+mangaka<END>
+
+//学校のセンセイ (がっこうのせんせい)
+#FIXEDLENGTH(14,0)
+#JMP($398)
+schoolteacher<END>
+#FIXEDLENGTH(18,0)
+#JMP($3A7)
+schoolteacher<END>
+
+//スパイ (すぱい)
+#FIXEDLENGTH(6,0)
+#JMP($40A)
+spy<END>
+#FIXEDLENGTH(6,0)
+#JMP($411)
+spy<END>
+
+//スシ職人 (すししょくにん)
+#FIXEDLENGTH(8,0)
+#JMP($468)
+itamae<END>
+#FIXEDLENGTH(14,0)
+#JMP($471)
+itamae<END>
+
+//ギャンブラー (ぎゃんぶらー)
+#FIXEDLENGTH(12,0)
+#JMP($4D0)
+gambler<END>
+#FIXEDLENGTH(12,0)
+#JMP($4DD)
+gambler<END>
+
+//グラビアアイドル (ぐらびああいどる)
+#FIXEDLENGTH(16,0)
+#JMP($53A)
+pin-up idol<END>
+#FIXEDLENGTH(16,0)
+#JMP($54B)
+pin-up idol<END>
+
+//モデル (もでる)
+#FIXEDLENGTH(6,0)
+#JMP($5AC)
+model<END>
+#FIXEDLENGTH(6,0)
+#JMP($5B3)
+model<END>
+
+//パイロット (ぱいろっと)
+#FIXEDLENGTH(10,0)
+#JMP($60A)
+pilot<END>
+#FIXEDLENGTH(10,0)
+#JMP($615)
+pilot<END>
+
+//まけいぬ (まけいぬ)
+#FIXEDLENGTH(8,0)
+#JMP($670)
+loser<END>
+#FIXEDLENGTH(8,0)
+#JMP($679)
+loser<END>
+
+//オニよめ (おによめ)
+#FIXEDLENGTH(8,0)
+#JMP($6D2)
+shrew<END>
+#FIXEDLENGTH(8,0)
+#JMP($6DB)
+shrew<END>
+
+//オタク (おたく)
+#FIXEDLENGTH(6,0)
+#JMP($734)
+otaku<END>
+#FIXEDLENGTH(6,0)
+#JMP($73B)
+otaku<END>
+
+//カメラこぞう (かめらこぞう)
+#FIXEDLENGTH(12,0)
+#JMP($792)
+shutterbug<END>
+#FIXEDLENGTH(12,0)
+#JMP($79F)
+shutterbug<END>
+
+//よっぱらい (よっぱらい)
+#FIXEDLENGTH(10,0)
+#JMP($7FC)
+drunkard<END>
+#FIXEDLENGTH(10,0)
+#JMP($807)
+drunkard<END>
+
+//かぶとむし (かぶとむし)
+#FIXEDLENGTH(10,0)
+#JMP($862)
+beetle<END>
+#FIXEDLENGTH(10,0)
+#JMP($86D)
+beetle<END>
+
+//かたつむり (かたつむり)
+#FIXEDLENGTH(10,0)
+#JMP($8C8)
+snail<END>
+#FIXEDLENGTH(10,0)
+#JMP($8D3)
+snail<END>
+
+//クジラ (くじら)
+#FIXEDLENGTH(6,0)
+#JMP($92E)
+whale<END>
+#FIXEDLENGTH(6,0)
+#JMP($935)
+whale<END>
+
+//ライオン (らいおん)
+#FIXEDLENGTH(8,0)
+#JMP($98C)
+lion<END>
+#FIXEDLENGTH(8,0)
+#JMP($995)
+lion<END>
+
+//うちゅう人 (うちゅうじん)
+#FIXEDLENGTH(10,0)
+#JMP($9EE)
+alien<END>
+#FIXEDLENGTH(12,0)
+#JMP($9F9)
+alien<END>
+
+//ミジンコ (みじんこ)
+#FIXEDLENGTH(8,0)
+#JMP($A56)
+daphnia<END>
+#FIXEDLENGTH(8,0)
+#JMP($A5F)
+daphnia<END>
+
+//ゴキブリ (ごきぶり)
+#FIXEDLENGTH(8,0)
+#JMP($AB8)
+roach<END>
+#FIXEDLENGTH(8,0)
+#JMP($AC1)
+roach<END>
+
+//シロアリ (しろあり)
+#FIXEDLENGTH(8,0)
+#JMP($B1A)
+termite<END>
+#FIXEDLENGTH(8,0)
+#JMP($B23)
+termite<END>
+
+//しゃこ (しゃこ)
+#FIXEDLENGTH(6,0)
+#JMP($B7C)
+shako<END>
+#FIXEDLENGTH(6,0)
+#JMP($B83)
+shako<END>
+
+//中トロ (ちゅうとろ)
+#FIXEDLENGTH(6,0)
+#JMP($C34)
+tuna<END>
+#FIXEDLENGTH(10,0)
+#JMP($C3B)
+tuna<END>
+
+//ウニ (うに)
+#FIXEDLENGTH(4,0)
+#JMP($C96)
+uni<END>
+#FIXEDLENGTH(4,0)
+#JMP($C9B)
+uni<END>
+
+//イクラ (いくら)
+#FIXEDLENGTH(6,0)
+#JMP($CF0)
+roe<END>
+#FIXEDLENGTH(6,0)
+#JMP($CF7)
+roe<END>
+
+//チョコパフェ (ちょこぱふぇ)
+#FIXEDLENGTH(12,0)
+#JMP($D4E)
+choc parfait<END>
+#FIXEDLENGTH(12,0)
+#JMP($D5B)
+choc parfait<END>
+
+//なっとうまき (なっとうまき)
+#FIXEDLENGTH(12,0)
+#JMP($DB8)
+natto roll<END>
+#FIXEDLENGTH(12,0)
+#JMP($DC5)
+natto roll<END>
+
+//プリン (ぷりん)
+#FIXEDLENGTH(6,0)
+#JMP($E22)
+flan<END>
+#FIXEDLENGTH(6,0)
+#JMP($E29)
+flan<END>
+
+//カツオのタタキ (かつおのたたき)
+#FIXEDLENGTH(14,0)
+#JMP($E80)
+seared bonito<END>
+#FIXEDLENGTH(14,0)
+#JMP($E8F)
+seared bonito<END>
+
+//マヨネーズ (まよねーず)
+#FIXEDLENGTH(10,0)
+#JMP($EEE)
+mayo<END>
+#FIXEDLENGTH(10,0)
+#JMP($EF9)
+mayo<END>
+
+//ワサビ (わさび)
+#FIXEDLENGTH(6,0)
+#JMP($F54)
+wasabi<END>
+#FIXEDLENGTH(6,0)
+#JMP($F5B)
+wasabi<END>
+
+//タマネギ (たまねぎ)
+#FIXEDLENGTH(8,0)
+#JMP($FB2)
+onion<END>
+#FIXEDLENGTH(8,0)
+#JMP($FBB)
+onion<END>
+
+//ミカンの皮 (みかんのかわ)
+#FIXEDLENGTH(10,0)
+#JMP($1014)
+peel<END>
+#FIXEDLENGTH(12,0)
+#JMP($101F)
+peel<END>
+
+//ニンニク (にんにく)
+#FIXEDLENGTH(8,0)
+#JMP($107C)
+garlic<END>
+#FIXEDLENGTH(8,0)
+#JMP($1085)
+garlic<END>
+
+//べにしょうが (べにしょうが)
+#FIXEDLENGTH(12,0)
+#JMP($10DE)
+red ginger<END>
+#FIXEDLENGTH(12,0)
+#JMP($10EB)
+red ginger<END>
+
+//らっきょう (らっきょう)
+#FIXEDLENGTH(10,0)
+#JMP($1148)
+rakkyo<END>
+#FIXEDLENGTH(10,0)
+#JMP($1153)
+rakkyo<END>
+
+//めんたいこ (めんたいこ)
+#FIXEDLENGTH(10,0)
+#JMP($11AE)
+mentaiko<END>
+#FIXEDLENGTH(10,0)
+#JMP($11B9)
+mentaiko<END>
+
+//ねりガラシ (ねりがらし)
+#FIXEDLENGTH(10,0)
+#JMP($1214)
+mustard<END>
+#FIXEDLENGTH(10,0)
+#JMP($121F)
+mustard<END>
+
+//とうがらし (とうがらし)
+#FIXEDLENGTH(10,0)
+#JMP($127A)
+chili<END>
+#FIXEDLENGTH(10,0)
+#JMP($1285)
+chili<END>
+
+//ところてん (ところてん)
+#FIXEDLENGTH(10,0)
+#JMP($12E0)
+tokoroten<END>
+#FIXEDLENGTH(10,0)
+#JMP($12EB)
+tokoroten<END>
+
+//みそ汁 (みそしる)
+#FIXEDLENGTH(6,0)
+#JMP($1346)
+miso<END>
+#FIXEDLENGTH(8,0)
+#JMP($134D)
+miso<END>
+
+//むぎ茶 (むぎちゃ)
+#FIXEDLENGTH(6,0)
+#JMP($13A6)
+tea<END>
+#FIXEDLENGTH(8,0)
+#JMP($13AD)
+tea<END>
+
+//オレンジジュース (おれんじじゅーす)
+#FIXEDLENGTH(16,0)
+#JMP($1406)
+orange juice<END>
+#FIXEDLENGTH(16,0)
+#JMP($1417)
+orange juice<END>
+
+//ホットミルク (ほっとみるく)
+#FIXEDLENGTH(12,0)
+#JMP($1478)
+hot milk<END>
+#FIXEDLENGTH(12,0)
+#JMP($1485)
+hot milk<END>
+
+//コーラ (こーら)
+#FIXEDLENGTH(6,0)
+#JMP($14E2)
+cola<END>
+#FIXEDLENGTH(6,0)
+#JMP($14E9)
+cola<END>
+
+//ウーロン茶 (うーろんちゃ)
+#FIXEDLENGTH(10,0)
+#JMP($1540)
+oolong<END>
+#FIXEDLENGTH(12,0)
+#JMP($154B)
+oolong<END>
+
+//しょうゆ (しょうゆ)
+#FIXEDLENGTH(8,0)
+#JMP($15A8)
+soy<END>
+#FIXEDLENGTH(8,0)
+#JMP($15B1)
+soy<END>
+
+//ソース (そーす)
+#FIXEDLENGTH(6,0)
+#JMP($160A)
+sauce<END>
+#FIXEDLENGTH(6,0)
+#JMP($1611)
+sauce<END>
+
+//しんかんせん (しんかんせん)
+#FIXEDLENGTH(12,0)
+#JMP($1668)
+bullet train<END>
+#FIXEDLENGTH(12,0)
+#JMP($1675)
+bullet train<END>
+
+//さんりんしゃ (さんりんしゃ)
+#FIXEDLENGTH(12,0)
+#JMP($16D2)
+tricycle<END>
+#FIXEDLENGTH(12,0)
+#JMP($16DF)
+tricycle<END>
+
+//かんらんしゃ (かんらんしゃ)
+#FIXEDLENGTH(12,0)
+#JMP($173C)
+ferris wheel<END>
+#FIXEDLENGTH(12,0)
+#JMP($1749)
+ferris wheel<END>
+
+//メリーゴーランド (めりーごーらんど)
+#FIXEDLENGTH(16,0)
+#JMP($17A6)
+merry-go-round<END>
+#FIXEDLENGTH(16,0)
+#JMP($17B7)
+merry-go-round<END>
+
+//パトカー (ぱとかー)
+#FIXEDLENGTH(8,0)
+#JMP($1818)
+cop car<END>
+#FIXEDLENGTH(8,0)
+#JMP($1821)
+cop car<END>
+
+//きゅうきゅう車 (きゅうきゅうしゃ)
+#FIXEDLENGTH(14,0)
+#JMP($187A)
+ambulance<END>
+#FIXEDLENGTH(16,0)
+#JMP($1889)
+ambulance<END>
+
+//ダンプカー (だんぷかー)
+#FIXEDLENGTH(10,0)
+#JMP($18EA)
+dump truck<END>
+#FIXEDLENGTH(10,0)
+#JMP($18F5)
+dump truck<END>
+
+//バキュームカー (ばきゅーむかー)
+#FIXEDLENGTH(14,0)
+#JMP($1950)
+vacuum truck<END>
+#FIXEDLENGTH(14,0)
+#JMP($195F)
+vacuum truck<END>
+
+//うばぐるま (うばぐるま)
+#FIXEDLENGTH(10,0)
+#JMP($19BE)
+stroller<END>
+#FIXEDLENGTH(10,0)
+#JMP($19C9)
+stroller<END>
+
+//ホクロ (ほくろ)
+#FIXEDLENGTH(6,0)
+#JMP($1AD2)
+mole<END>
+#FIXEDLENGTH(6,0)
+#JMP($1AD9)
+mole<END>
+
+//しっぽ (しっぽ)
+#FIXEDLENGTH(6,0)
+#JMP($1B30)
+tail<END>
+#FIXEDLENGTH(6,0)
+#JMP($1B37)
+tail<END>
+
+//さこつ (さこつ)
+#FIXEDLENGTH(6,0)
+#JMP($1B8E)
+collar<END>
+#FIXEDLENGTH(6,0)
+#JMP($1B95)
+collar<END>
+
+//せなか (せなか)
+#FIXEDLENGTH(6,0)
+#JMP($1BEC)
+back<END>
+#FIXEDLENGTH(6,0)
+#JMP($1BF3)
+back<END>
+
+//こし (こし)
+#FIXEDLENGTH(4,0)
+#JMP($1CAC)
+hips<END>
+#FIXEDLENGTH(4,0)
+#JMP($1CB1)
+hips<END>
+
+//おヘソ (おへそ)
+#FIXEDLENGTH(6,0)
+#JMP($1D06)
+navel<END>
+#FIXEDLENGTH(6,0)
+#JMP($1D0D)
+navel<END>
+
+//足くび (あしくび)
+#FIXEDLENGTH(6,0)
+#JMP($1D64)
+ankle<END>
+#FIXEDLENGTH(8,0)
+#JMP($1D6B)
+ankle<END>
+
+//水虫 (みずむし)
+#FIXEDLENGTH(4,0)
+#JMP($1DC4)
+itch<END>
+#FIXEDLENGTH(8,0)
+#JMP($1DC9)
+itch<END>
+
+//おなかイタ～イ (おなかいたーい)
+#FIXEDLENGTH(14,0)
+#JMP($1E22)
+tummyache<END>
+#FIXEDLENGTH(14,0)
+#JMP($1E31)
+tummyache<END>
+
+//花粉症 (かふんしょう)
+#FIXEDLENGTH(6,0)
+#JMP($1E90)
+pollen<END>
+#FIXEDLENGTH(12,0)
+#JMP($1E97)
+pollen<END>
+
+//二日酔い (ふつかよい)
+#FIXEDLENGTH(8,0)
+#JMP($1EF4)
+hangover<END>
+#FIXEDLENGTH(10,0)
+#JMP($1EFD)
+hangover<END>
+
+//恋わずらい (こいわずらい)
+#FIXEDLENGTH(10,0)
+#JMP($1F58)
+lovesick<END>
+#FIXEDLENGTH(12,0)
+#JMP($1F63)
+lovesick<END>
+
+//こんにちは (こんにちは)
+#FIXEDLENGTH(10,0)
+#JMP($1FC0)
+hello<END>
+#FIXEDLENGTH(10,0)
+#JMP($1FCB)
+hello<END>
+
+//さんぽ (さんぽ)
+#FIXEDLENGTH(6,0)
+#JMP($2088)
+stroll<END>
+#FIXEDLENGTH(6,0)
+#JMP($208F)
+stroll<END>
+
+//ひなたぼっこ (ひなたぼっこ)
+#FIXEDLENGTH(12,0)
+#JMP($20E6)
+sunbathing<END>
+#FIXEDLENGTH(12,0)
+#JMP($20F3)
+sunbathing<END>
+
+//かいすいよく (かいすいよく)
+#FIXEDLENGTH(12,0)
+#JMP($2150)
+beach trip<END>
+#FIXEDLENGTH(12,0)
+#JMP($215D)
+beach trip<END>
+
+//おひるね (おひるね)
+#FIXEDLENGTH(8,0)
+#JMP($21BA)
+nap<END>
+#FIXEDLENGTH(8,0)
+#JMP($21C3)
+nap<END>
+
+//ハッスル (はっする)
+#FIXEDLENGTH(8,0)
+#JMP($221C)
+hustle<END>
+#FIXEDLENGTH(8,0)
+#JMP($2225)
+hustle<END>
+
+//トランプうらない (とらんぷうらない)
+#FIXEDLENGTH(16,0)
+#JMP($227E)
+card readings<END>
+#FIXEDLENGTH(16,0)
+#JMP($228F)
+card readings<END>
+
+//ゲートボール (げーとぼーる)
+#FIXEDLENGTH(12,0)
+#JMP($22F0)
+gateball<END>
+#FIXEDLENGTH(12,0)
+#JMP($22FD)
+gateball<END>
+
+//スケボー (すけぼー)
+#FIXEDLENGTH(8,0)
+#JMP($235A)
+skating<END>
+#FIXEDLENGTH(8,0)
+#JMP($2363)
+skating<END>
+
+//カラオケ (からおけ)
+#FIXEDLENGTH(8,0)
+#JMP($23BC)
+karaoke<END>
+#FIXEDLENGTH(8,0)
+#JMP($23C5)
+karaoke<END>
+
+//ゲーム (げーむ)
+#FIXEDLENGTH(6,0)
+#JMP($241E)
+game<END>
+#FIXEDLENGTH(6,0)
+#JMP($2425)
+game<END>
+
+//マージャン (まーじゃん)
+#FIXEDLENGTH(10,0)
+#JMP($247C)
+mahjong<END>
+#FIXEDLENGTH(10,0)
+#JMP($2487)
+mahjong<END>
+
+//恋愛 (れんあい)
+#FIXEDLENGTH(4,0)
+#JMP($24E2)
+love<END>
+#FIXEDLENGTH(8,0)
+#JMP($24E7)
+love<END>
+
+//こうかん日記 (こうかんにっき)
+#FIXEDLENGTH(12,0)
+#JMP($2540)
+shared diary<END>
+#FIXEDLENGTH(14,0)
+#JMP($254D)
+shared diary<END>
+
+//デート (でーと)
+#FIXEDLENGTH(6,0)
+#JMP($2604)
+date<END>
+#FIXEDLENGTH(6,0)
+#JMP($260B)
+date<END>
+
+//おまじない (おまじない)
+#FIXEDLENGTH(10,0)
+#JMP($2662)
+charm<END>
+#FIXEDLENGTH(10,0)
+#JMP($266D)
+charm<END>
+
+//やくそく (やくそく)
+#FIXEDLENGTH(8,0)
+#JMP($26C8)
+promise<END>
+#FIXEDLENGTH(8,0)
+#JMP($26D1)
+promise<END>
+
+//マクラ投げ (まくらなげ)
+#FIXEDLENGTH(10,0)
+#JMP($272A)
+pillow war<END>
+#FIXEDLENGTH(10,0)
+#JMP($2735)
+pillow war<END>
+
+//プロレス (ぷろれす)
+#FIXEDLENGTH(8,0)
+#JMP($2790)
+wrestle<END>
+#FIXEDLENGTH(8,0)
+#JMP($2799)
+wrestle<END>
+
+//勉強 (べんきょう)
+#FIXEDLENGTH(4,0)
+#JMP($27F2)
+cram<END>
+#FIXEDLENGTH(10,0)
+#JMP($27F7)
+cram<END>
+
+//わすれモノ (わすれもの)
+#FIXEDLENGTH(10,0)
+#JMP($2852)
+lost item<END>
+#FIXEDLENGTH(10,0)
+#JMP($285D)
+lost item<END>
+
+//やきゅう (やきゅう)
+#FIXEDLENGTH(8,0)
+#JMP($28B8)
+baseball<END>
+#FIXEDLENGTH(8,0)
+#JMP($28C1)
+baseball<END>
+
+//どりょく (どりょく)
+#FIXEDLENGTH(8,0)
+#JMP($291A)
+effort<END>
+#FIXEDLENGTH(8,0)
+#JMP($2923)
+effort<END>
+
+//仕事 (しごと)
+#FIXEDLENGTH(4,0)
+#JMP($297C)
+work<END>
+#FIXEDLENGTH(6,0)
+#JMP($2981)
+work<END>
+
+//てつや (てつや)
+#FIXEDLENGTH(6,0)
+#JMP($29D8)
+vigil<END>
+#FIXEDLENGTH(6,0)
+#JMP($29DF)
+vigil<END>
+
+//ケンカ (けんか)
+#FIXEDLENGTH(6,0)
+#JMP($2A36)
+fight<END>
+#FIXEDLENGTH(6,0)
+#JMP($2A3D)
+fight<END>
+
+//部屋そうじ (へやそうじ)
+#FIXEDLENGTH(10,0)
+#JMP($2A94)
+room tidy<END>
+#FIXEDLENGTH(10,0)
+#JMP($2A9F)
+room tidy<END>
+
+//トイレそうじ (といれそうじ)
+#FIXEDLENGTH(12,0)
+#JMP($2AFA)
+toilet clean<END>
+#FIXEDLENGTH(12,0)
+#JMP($2B07)
+toilet clean<END>
+
+//おせんたく (おせんたく)
+#FIXEDLENGTH(10,0)
+#JMP($2B64)
+laundry<END>
+#FIXEDLENGTH(10,0)
+#JMP($2B6F)
+laundry<END>
+
+//はやおき (はやおき)
+#FIXEDLENGTH(8,0)
+#JMP($2BCA)
+up early<END>
+#FIXEDLENGTH(8,0)
+#JMP($2BD3)
+up early<END>
+
+//ながでんわ (ながでんわ)
+#FIXEDLENGTH(10,0)
+#JMP($2C2C)
+long chat<END>
+#FIXEDLENGTH(10,0)
+#JMP($2C37)
+long chat<END>
+
+//こくはく (こくはく)
+#FIXEDLENGTH(8,0)
+#JMP($2C92)
+confess<END>
+#FIXEDLENGTH(8,0)
+#JMP($2C9B)
+confess<END>
+
+//プレゼント (ぷれぜんと)
+#FIXEDLENGTH(10,0)
+#JMP($2D4C)
+present<END>
+#FIXEDLENGTH(10,0)
+#JMP($2D57)
+present<END>
+
+//かたおもい (かたおもい)
+#FIXEDLENGTH(10,0)
+#JMP($2DB2)
+crush<END>
+#FIXEDLENGTH(10,0)
+#JMP($2DBD)
+crush<END>
+
+//マッサージ (まっさーじ)
+#FIXEDLENGTH(10,0)
+#JMP($2E18)
+massage<END>
+#FIXEDLENGTH(10,0)
+#JMP($2E23)
+massage<END>
+
+//アタマなでなで (あたまなでなで)
+#FIXEDLENGTH(14,0)
+#JMP($2E7E)
+head pats<END>
+#FIXEDLENGTH(14,0)
+#JMP($2E8D)
+head pats<END>
+
+//キス (きす)
+#FIXEDLENGTH(4,0)
+#JMP($2EEC)
+kiss<END>
+#FIXEDLENGTH(4,0)
+#JMP($2EF1)
+kiss<END>
+
+//肩たたき (かたたたき)
+#FIXEDLENGTH(8,0)
+#JMP($2F46)
+back rub<END>
+#FIXEDLENGTH(10,0)
+#JMP($2F4F)
+back rub<END>
+
+//エステ (えすて)
+#FIXEDLENGTH(6,0)
+#JMP($2FAA)
+spa<END>
+#FIXEDLENGTH(6,0)
+#JMP($2FB1)
+spa<END>
+
+//ウワサ (うわさ)
+#FIXEDLENGTH(6,0)
+#JMP($3008)
+rumor<END>
+#FIXEDLENGTH(6,0)
+#JMP($300F)
+rumor<END>
+
+//うわき (うわき)
+#FIXEDLENGTH(6,0)
+#JMP($3066)
+affair<END>
+#FIXEDLENGTH(6,0)
+#JMP($306D)
+affair<END>
+
+//しっと (しっと)
+#FIXEDLENGTH(6,0)
+#JMP($30C4)
+envy<END>
+#FIXEDLENGTH(6,0)
+#JMP($30CB)
+envy<END>
+
+//うしのこくまいり (うしのこくまいり)
+#FIXEDLENGTH(16,0)
+#JMP($3122)
+curse ritual<END>
+#FIXEDLENGTH(16,0)
+#JMP($3133)
+curse ritual<END>
+
+//でこピン (でこぴん)
+#FIXEDLENGTH(8,0)
+#JMP($3194)
+flick<END>
+#FIXEDLENGTH(8,0)
+#JMP($319D)
+flick<END>
+
+//イタズラ (いたずら)
+#FIXEDLENGTH(8,0)
+#JMP($31F6)
+prank<END>
+#FIXEDLENGTH(8,0)
+#JMP($31FF)
+prank<END>
+
+//コドモ あつかい (こどもあつかい)
+#FIXEDLENGTH(15,0)
+#JMP($3258)
+babying<END>
+#FIXEDLENGTH(14,0)
+#JMP($3268)
+babying<END>
+
+//よぼう注射 (よぼうちゅうしゃ)
+#FIXEDLENGTH(10,0)
+#JMP($32C7)
+vaccine<END>
+#FIXEDLENGTH(16,0)
+#JMP($32D2)
+vaccine<END>
+
+//コンビニ (こんびに)
+#FIXEDLENGTH(8,0)
+#JMP($3333)
+konbini<END>
+#FIXEDLENGTH(8,0)
+#JMP($333C)
+konbini<END>
+
+//おスシ屋さん (おすしやさん)
+#FIXEDLENGTH(12,0)
+#JMP($3395)
+sushi bar<END>
+#FIXEDLENGTH(12,0)
+#JMP($33A2)
+sushi bar<END>
+
+//カラオケボックス (からおけぼっくす)
+#FIXEDLENGTH(16,0)
+#JMP($33FF)
+karaoke box<END>
+#FIXEDLENGTH(16,0)
+#JMP($3410)
+karaoke box<END>
+
+//交番 (こうばん)
+#FIXEDLENGTH(4,0)
+#JMP($3471)
+cops<END>
+#FIXEDLENGTH(8,0)
+#JMP($3476)
+cops<END>
+
+//図書館 (としょかん)
+#FIXEDLENGTH(6,0)
+#JMP($34CF)
+books<END>
+#FIXEDLENGTH(10,0)
+#JMP($34D6)
+books<END>
+
+//しょうぼうしょ (しょうぼうしょ)
+#FIXEDLENGTH(14,0)
+#JMP($3531)
+fire station<END>
+#FIXEDLENGTH(14,0)
+#JMP($3540)
+fire station<END>
+
+//ケイサツしょ (けいさつしょ)
+#FIXEDLENGTH(12,0)
+#JMP($359F)
+police st.<END>
+#FIXEDLENGTH(12,0)
+#JMP($35AC)
+police st.<END>
+
+//じんじゃ (じんじゃ)
+#FIXEDLENGTH(8,0)
+#JMP($3609)
+shrine<END>
+#FIXEDLENGTH(8,0)
+#JMP($3612)
+shrine<END>
+
+//すなば (すなば)
+#FIXEDLENGTH(6,0)
+#JMP($366B)
+sand<END>
+#FIXEDLENGTH(6,0)
+#JMP($3672)
+sand<END>
+
+//カプセルホテル (かぷせるほてる)
+#FIXEDLENGTH(14,0)
+#JMP($3845)
+capsule hotel<END>
+#FIXEDLENGTH(14,0)
+#JMP($3854)
+capsule hotel<END>
+
+//とうきょうタワー (とうきょうたわー)
+#FIXEDLENGTH(16,0)
+#JMP($38B3)
+Tokyo Tower<END>
+#FIXEDLENGTH(16,0)
+#JMP($38C4)
+Tokyo Tower<END>
+
+//ねぶた祭り (ねぶたまつり)
+#FIXEDLENGTH(10,0)
+#JMP($3925)
+Nebuta<END>
+#FIXEDLENGTH(12,0)
+#JMP($3930)
+Nebuta<END>
+
+//ハワイ (はわい)
+#FIXEDLENGTH(6,0)
+#JMP($398D)
+Hawaii<END>
+#FIXEDLENGTH(6,0)
+#JMP($3994)
+Hawaii<END>
+
+//アニメソング (あにめそんぐ)
+#FIXEDLENGTH(12,0)
+#JMP($39EB)
+anime song<END>
+#FIXEDLENGTH(12,0)
+#JMP($39F8)
+anime song<END>
+
+//えんか (えんか)
+#FIXEDLENGTH(6,0)
+#JMP($3A55)
+enka<END>
+#FIXEDLENGTH(6,0)
+#JMP($3A5C)
+enka<END>
+
+//ヨーデル (よーでる)
+#FIXEDLENGTH(8,0)
+#JMP($3AB3)
+yodel<END>
+#FIXEDLENGTH(8,0)
+#JMP($3ABC)
+yodel<END>
+
+//ヘビメタ (へびめた)
+#FIXEDLENGTH(8,0)
+#JMP($3B15)
+metal<END>
+#FIXEDLENGTH(8,0)
+#JMP($3B1E)
+metal<END>
+
+//フライパン (ふらいぱん)
+#FIXEDLENGTH(10,0)
+#JMP($3B77)
+frying pan<END>
+#FIXEDLENGTH(10,0)
+#JMP($3B82)
+frying pan<END>
+
+//バスタオル (ばすたおる)
+#FIXEDLENGTH(10,0)
+#JMP($3BDD)
+bath towel<END>
+#FIXEDLENGTH(10,0)
+#JMP($3BE8)
+bath towel<END>
+
+//マクラ (まくら)
+#FIXEDLENGTH(6,0)
+#JMP($3C43)
+pillow<END>
+#FIXEDLENGTH(6,0)
+#JMP($3C4A)
+pillow<END>
+
+//ガムテープ (がむてーぷ)
+#FIXEDLENGTH(10,0)
+#JMP($3CA1)
+duct tape<END>
+#FIXEDLENGTH(10,0)
+#JMP($3CAC)
+duct tape<END>
+
+//マスク (ますく)
+#FIXEDLENGTH(6,0)
+#JMP($3D07)
+mask<END>
+#FIXEDLENGTH(6,0)
+#JMP($3D0E)
+mask<END>
+
+//スリッパ (すりっぱ)
+#FIXEDLENGTH(8,0)
+#JMP($3D65)
+slippers<END>
+#FIXEDLENGTH(8,0)
+#JMP($3D6E)
+slippers<END>
+
+//イブニングドレス (いぶにんぐどれす)
+#FIXEDLENGTH(16,0)
+#JMP($3DC7)
+evening gown<END>
+#FIXEDLENGTH(16,0)
+#JMP($3DD8)
+evening gown<END>
+
+//ビデオ (びでお)
+#FIXEDLENGTH(6,0)
+#JMP($3E39)
+video<END>
+#FIXEDLENGTH(6,0)
+#JMP($3E40)
+video<END>
+
+//電子レンジ (でんしれんじ)
+#FIXEDLENGTH(10,0)
+#JMP($3E97)
+microwave<END>
+#FIXEDLENGTH(12,0)
+#JMP($3EA2)
+microwave<END>
+
+//ハブラシ (はぶらし)
+#FIXEDLENGTH(8,0)
+#JMP($3EFF)
+brush<END>
+#FIXEDLENGTH(8,0)
+#JMP($3F08)
+brush<END>
+
+//シャワーキャップ (しゃわーきゃっぷ)
+#FIXEDLENGTH(16,0)
+#JMP($3F61)
+shower cap<END>
+#FIXEDLENGTH(16,0)
+#JMP($3F72)
+shower cap<END>
+
+//リップクリーム (りっぷくりーむ)
+#FIXEDLENGTH(14,0)
+#JMP($3FD3)
+lip balm<END>
+#FIXEDLENGTH(14,0)
+#JMP($3FE2)
+lip balm<END>
+
+//ダンボール (だんぼーる)
+#FIXEDLENGTH(10,0)
+#JMP($4041)
+cardboard<END>
+#FIXEDLENGTH(10,0)
+#JMP($404C)
+cardboard<END>
+
+//パソコン (ぱそこん)
+#FIXEDLENGTH(8,0)
+#JMP($40A7)
+PC<END>
+#FIXEDLENGTH(8,0)
+#JMP($40B0)
+PC<END>
+
+//目ざまし時計 (めざましどけい)
+#FIXEDLENGTH(12,0)
+#JMP($4109)
+alarm clock<END>
+#FIXEDLENGTH(14,0)
+#JMP($4116)
+alarm clock<END>
+
+//せんたくばさみ (せんたくばさみ)
+#FIXEDLENGTH(14,0)
+#JMP($4175)
+clothespin<END>
+#FIXEDLENGTH(14,0)
+#JMP($4184)
+clothespin<END>
+
+//そろばん (そろばん)
+#FIXEDLENGTH(8,0)
+#JMP($41E3)
+abacus<END>
+#FIXEDLENGTH(8,0)
+#JMP($41EC)
+abacus<END>
+
