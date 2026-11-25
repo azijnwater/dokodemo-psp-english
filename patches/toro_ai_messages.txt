@@ -41784,75 +41784,397 @@ can I train[LR]
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
 
+//ガチガチの [WORD0]じゃ ケガしやすいもん[NYA]！[LR]<END>
+#JMP($64B03)
+#FIXEDLENGTH(43,0)
+Stiff [WORD0][LR]
+gets hurt easy[LR]
+[NYA]![LR]<END>
+
 //[WORD1]すれば…[LR]<END>
 #JMP($64B39)
 #FIXEDLENGTH(14,0)
 With [WORD1]…[LR]<END>
+
+//[WORD0]、やわらかくなるか[NYA]～[LR]<END>
+#JMP($64B49)
+#FIXEDLENGTH(29,0)
+Will [WORD0][LR]
+get soft [NYA]～[LR]<END>
+
+//[WORD2]の 体の中で 弱点って どこ？<END>
+#JMP($64B82)
+#FIXEDLENGTH(32,0)
+What's [WORD2]'s body's weak spot?<END>
+
+//[WORD1]は 守らないと ダメなの[NYA]…[LR]<END>
+#JMP($64BEA)
+#FIXEDLENGTH(33,0)
+Gotta protect[LR]
+[WORD1] [NYA]…[LR]<END>
+
+//[WORD3]とかが…[LR]<END>
+#JMP($64C16)
+#FIXEDLENGTH(14,0)
+[WORD3]…[LR]<END>
+
+//[WORD2]の [WORD1]を狙ってくるかも～[LR]<END>
+#JMP($64C2E)
+#FIXEDLENGTH(32,0)
+might target[LR]
+[WORD2]'s[LR]
+[WORD1]～[LR]<END>
+
+//そんな時は [WORD2]が 守ってあげる[NYA]！<END>
+#JMP($64C61)
+#FIXEDLENGTH(36,0)
+Then [WORD2] will protect you [NYA]!<END>
+
+//まかされた[NYA]！[LR]<END>
+#JMP($64CA0)
+#FIXEDLENGTH(16,0)
+Leave it to me![LR]<END>
+
+//ムリじゃないよ～[LR]<END>
+#JMP($64CC5)
+#FIXEDLENGTH(17,0)
+I can do it～[LR]<END>
+
+//たとえ [WORD3]だろうと～[LR]<END>
+#JMP($64CE8)
+#FIXEDLENGTH(23,0)
+Even if it's[LR]
+[WORD3]～[LR]<END>
+
+//[WORD2]の [WORD1]には 近づけさせないの[NYA]！[LR]<END>
+#JMP($64D09)
+#FIXEDLENGTH(40,0)
+they won't get[LR]
+near [WORD2]'s[LR]
+[WORD1] [NYA]![LR]<END>
+
+//人間は お日様の下で、体をこんがり焼いたりして 遊ぶんだよね～[LR]<END>
+#JMP($64D57)
+#FIXEDLENGTH(61,0)
+Humans play in[LR]
+the sun, toastin'[LR]
+their bodies,[LR]
+right～[LR]<END>
 
 //あ、そうそう[LR]<END>
 #JMP($64D9F)
 #FIXEDLENGTH(13,0)
 Ah, yes[LR]<END>
 
+//[WORD0]は 小麦色の方がイイ？[LR]白い方がイイ？<END>
+#JMP($64DAE)
+#FIXEDLENGTH(41,0)
+Is tanned[LR]
+[WORD0][LR]
+better?[LR]
+Or pale?<END>
+
 //なるほど～[LR]<END>
 #JMP($64DF2)
 #FIXEDLENGTH(11,0)
 I see～[LR]<END>
+
+//小麦色の [WORD0]な人を 目指そっと！[LR]<END>
+#JMP($64E08)
+#FIXEDLENGTH(34,0)
+I'll aim for[LR]
+tanned[LR]
+[WORD0]![LR]<END>
 
 //なるほど～[LR]<END>
 #JMP($64E36)
 #FIXEDLENGTH(11,0)
 I see～[LR]<END>
 
+//美白の [WORD0]な人を 目指そっと！[LR]<END>
+#JMP($64E4C)
+#FIXEDLENGTH(32,0)
+I'll aim for pale[LR]
+[WORD0]![LR]<END>
+
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($64E80)
 #FIXEDLENGTH(37,0)
 What human clothes are there?<END>
+
+//日焼けして [WORD1]の跡が 白く残ってると…[LR]<END>
+#JMP($64EED)
+#FIXEDLENGTH(40,0)
+A white[LR]
+[WORD1] tan[LR]
+line…[LR]<END>
+
+//ちょっと セクシーだよね♥<END>
+#JMP($64F17)
+#FIXEDLENGTH(25,0)
+is kinda sexy, right♥<END>
+
+//くっきり [WORD1]の跡が あると～[LR]<END>
+#JMP($64F4B)
+#FIXEDLENGTH(30,0)
+A crisp[LR]
+[WORD1] tan[LR]
+line～[LR]<END>
+
+//いつもの 10倍ぐらい [WORD2]がセクシーに 見えるよね！[LR]<END>
+#JMP($64F6B)
+#FIXEDLENGTH(51,0)
+makes [WORD2][LR]
+look 10x sexier[LR]
+than usual![LR]<END>
 
 //ありゃあ…[LR]<END>
 #JMP($64FAA)
 #FIXEDLENGTH(11,0)
 Oh my…[LR]<END>
 
+//くっきり [WORD1]の跡が あっても…[LR]<END>
+#JMP($64FC0)
+#FIXEDLENGTH(32,0)
+Even with a[LR]
+crisp [WORD1][LR]
+line…[LR]<END>
+
+//[WORD2]はセクシーに 見えないんだ[NYA]…[LR]<END>
+#JMP($64FE2)
+#FIXEDLENGTH(36,0)
+[WORD2][LR]
+doesn't look[LR]
+sexy [NYA]…[LR]<END>
+
+//本を読むなら 何て本が イイか[NYA]？<END>
+#JMP($6501A)
+#FIXEDLENGTH(33,0)
+What book should I read [NYA]?<END>
+
+//[WORD4]の 身近に いる人って だぁれ？<END>
+#JMP($65077)
+#FIXEDLENGTH(34,0)
+Who's close to [WORD4]?<END>
+
+//エッチな本とか…[LR]<END>
+#JMP($650DF)
+#FIXEDLENGTH(17,0)
+Naughty books…[LR]<END>
+
+//「[VAR1]」とか…[LR]<END>
+#JMP($650F2)
+#FIXEDLENGTH(14,0)
+"[VAR1]"…[LR]<END>
+
+//[WORD5]の下に かくすんだよね～[LR]<END>
+#JMP($6510B)
+#FIXEDLENGTH(29,0)
+get hid under[LR]
+[WORD5]～[LR]<END>
+
+//[WORD3]に見つかったら…[LR]<END>
+#JMP($65143)
+#FIXEDLENGTH(22,0)
+If [WORD3][LR]
+finds 'em…[LR]<END>
+
+//取り上げられちゃうの[NYA]♥[LR]<END>
+#JMP($6515B)
+#FIXEDLENGTH(26,0)
+they get taken[LR]
+away [NYA]♥[LR]<END>
+
+//かくさないと[NYA]！[LR]<END>
+#JMP($65180)
+#FIXEDLENGTH(18,0)
+Gotta hide 'em![LR]<END>
+
+//ダメにゃの？[LR]<END>
+#JMP($6519E)
+#FIXEDLENGTH(13,0)
+Not allowed?[LR]<END>
+
+//そっか…[LR]ひとりじめ ダメだよね…[LR]<END>
+#JMP($651B6)
+#FIXEDLENGTH(33,0)
+I see…[LR]
+No hoggin',[LR]
+right…[LR]<END>
+
+//[WORD3]とかにも 読めるように…[LR]<END>
+#JMP($651E2)
+#FIXEDLENGTH(29,0)
+So [WORD3] can[LR]
+read it too…[LR]<END>
+
+//よく見える場所に 置いとかなくっちゃ[NYA]！[LR]<END>
+#JMP($65201)
+#FIXEDLENGTH(41,0)
+put it where it's[LR]
+easy to see[LR]
+[NYA]![LR]<END>
+
 //[WORD0]にはね～[LR]<END>
 #JMP($65252)
 #FIXEDLENGTH(14,0)
 In [WORD0]～[LR]<END>
+
+//ツボが いっぱい 集まってるんだって！[LR]<END>
+#JMP($65262)
+#FIXEDLENGTH(37,0)
+Lots of[LR]
+pressure points![LR]<END>
 
 //だから…[LR]<END>
 #JMP($65292)
 #FIXEDLENGTH(9,0)
 So…[LR]<END>
 
+//[WORD0]を グイグイ 押せば 健康に なれるの[NYA]～<END>
+#JMP($6529D)
+#FIXEDLENGTH(44,0)
+Press [WORD0] hard and you get healthy [NYA]～<END>
+
+//[WORD0]、ちょっと 痛いけど…[LR]<END>
+#JMP($652E4)
+#FIXEDLENGTH(27,0)
+[WORD0] hurts[LR]
+a bit, but…[LR]<END>
+
+//でも キモチいいの[NYA]♥[LR]<END>
+#JMP($65301)
+#FIXEDLENGTH(23,0)
+feels good[LR]
+[NYA]♥[LR]<END>
+
+//ん、ちょっと 痛い[NYA]…[LR]<END>
+#JMP($65324)
+#FIXEDLENGTH(23,0)
+Mm, bit painful[LR]
+[NYA]…[LR]<END>
+
+//でも キモチいいの[NYA]～[LR]<END>
+#JMP($65346)
+#FIXEDLENGTH(23,0)
+but feels good[LR]
+[NYA]～[LR]<END>
+
 //[WORD2]が よく行く場所 って どこ？<END>
 #JMP($65379)
 #FIXEDLENGTH(32,0)
 Where does [WORD2] often go?<END>
+
+//夜中に [WORD1]に 行くと…[LR]<END>
+#JMP($653F4)
+#FIXEDLENGTH(24,0)
+[WORD1] at[LR]
+midnight…[LR]<END>
+
+//[WORD3]が いっぱい 止まってるの[NYA]～<END>
+#JMP($65417)
+#FIXEDLENGTH(34,0)
+lots of [WORD3] parked there [NYA]～<END>
 
 //[WORD3]が？<END>
 #JMP($6543B)
 #FIXEDLENGTH(9,0)
 [WORD3]?<END>
 
+//恋人同士が [WORD4] するために 集まってきてるんだって♥[LR]<END>
+#JMP($65453)
+#FIXEDLENGTH(53,0)
+Lovers gather[LR]
+there to[LR]
+[WORD4]♥[LR]<END>
+
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($6549C)
 #FIXEDLENGTH(37,0)
 What human clothes are there?<END>
+
+//[WORD1]が やぶけて…[LR]<END>
+#JMP($6551E)
+#FIXEDLENGTH(19,0)
+[WORD1] torn…[LR]<END>
+
+//[WORD2]が 丸見えの [WORD3]が いた[NYA]！[LR]<END>
+#JMP($65533)
+#FIXEDLENGTH(35,0)
+a [WORD3] with[LR]
+[WORD2] in[LR]
+plain view![LR]<END>
+
+//気がついて なかったのか[NYA]～？[LR]<END>
+#JMP($65561)
+#FIXEDLENGTH(31,0)
+They didn't[LR]
+notice [NYA]～?[LR]<END>
+
+//おしえてあげた方が よかったか[NYA]…<END>
+#JMP($65582)
+#FIXEDLENGTH(34,0)
+Shoulda told 'em [NYA]…<END>
 
 //そうだよね…[LR]<END>
 #JMP($655BF)
 #FIXEDLENGTH(13,0)
 Right…[LR]<END>
 
+//悪いコト しちゃった[NYA]…[LR]<END>
+#JMP($655D1)
+#FIXEDLENGTH(25,0)
+I did a bad thing[LR]
+[NYA]…[LR]<END>
+
+//なんだ～[LR]ファッションだったの[NYA]…[LR]<END>
+#JMP($655FD)
+#FIXEDLENGTH(35,0)
+Oh～[LR]
+It was fashion[LR]
+[NYA]…[LR]<END>
+
+//注意しなくて よかった～[LR]<END>
+#JMP($6562B)
+#FIXEDLENGTH(24,0)
+Glad I didn't[LR]
+say～[LR]<END>
+
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($65657)
 #FIXEDLENGTH(37,0)
 What human clothes are there?<END>
 
+//風の強い日は…[LR]<END>
+#JMP($656C4)
+#FIXEDLENGTH(15,0)
+Windy days…[LR]<END>
+
+//[WORD1]が 風でめくれるから 気をつけて[NYA]？<END>
+#JMP($656DE)
+#FIXEDLENGTH(40,0)
+wind flips [WORD1] up, careful [NYA]?<END>
+
+//[WORD2]が 見えちゃうと はずかしいもん[NYA]！[LR]<END>
+#JMP($65721)
+#FIXEDLENGTH(41,0)
+Showin'[LR]
+[WORD2] is[LR]
+embarrassin'[LR]
+[NYA]![LR]<END>
+
 //ちがうよ～[LR]<END>
 #JMP($65756)
 #FIXEDLENGTH(11,0)
 Different[LR]<END>
+
+//[WORD2]が 見えちゃうと 困るから 注意してるだけ[NYA]～[LR]<END>
+#JMP($65763)
+#FIXEDLENGTH(50,0)
+I'm just careful[LR]
+'cause showin'[LR]
+[WORD2] is[LR]
+bad～[LR]<END>
 
 //エッチじゃないの[NYA]…[LR]<END>
 #JMP($657A0)
@@ -41860,25 +42182,227 @@ Different[LR]<END>
 It's not[LR]
 naughty…[LR]<END>
 
+//体が やわらかいか 簡単にテストできるの[NYA]！[LR]<END>
+#JMP($657E3)
+#FIXEDLENGTH(44,0)
+An easy[LR]
+flexibility test[LR]
+[NYA]![LR]<END>
+
+//自分で自分の [WORD0]を ペロペロできたら…[LR]<END>
+#JMP($6581A)
+#FIXEDLENGTH(40,0)
+If you can lick[LR]
+your own[LR]
+[WORD0]…[LR]<END>
+
+//かなり若くて 体も やわらかい証拠なの[NYA]！[LR]<END>
+#JMP($6584A)
+#FIXEDLENGTH(42,0)
+it proves you're[LR]
+young and[LR]
+bendy [NYA]![LR]<END>
+
+//[WORD1]、できる？<END>
+#JMP($65887)
+#FIXEDLENGTH(15,0)
+Can [WORD1]?<END>
+
 //わー すごーい！[LR]<END>
 #JMP($658B1)
 #FIXEDLENGTH(16,0)
 Wow, amazin'![LR]<END>
+
+//[WORD1]、若さ100点[NYA]！[LR]<END>
+#JMP($658D4)
+#FIXEDLENGTH(22,0)
+[WORD1]: youth[LR]
+100 pts![LR]<END>
 
 //ありゃあ…[LR]<END>
 #JMP($658F9)
 #FIXEDLENGTH(11,0)
 Oh my…[LR]<END>
 
+//毎日 少しずつ 練習した方が イイよ～[LR]<END>
+#JMP($6590F)
+#FIXEDLENGTH(36,0)
+Practice bit by[LR]
+bit daily～[LR]<END>
+
+//そのうち [WORD0]、なめられるように なる[NYA]！[LR]<END>
+#JMP($65935)
+#FIXEDLENGTH(43,0)
+soon you can[LR]
+lick [WORD0][LR]
+[NYA]![LR]<END>
+
+//ひとりで するコト って なぁに？<END>
+#JMP($65974)
+#FIXEDLENGTH(31,0)
+What do you do alone?<END>
+
+//どんなに なかよしでも ラブラブでも…[LR]<END>
+#JMP($659C4)
+#FIXEDLENGTH(37,0)
+No matter how[LR]
+close or lovey…[LR]<END>
+
+//ひとりで [WORD1]してる姿は 見られたくない[NYA]…[LR]<END>
+#JMP($659F4)
+#FIXEDLENGTH(45,0)
+I don't want 'em[LR]
+to see me[LR]
+[WORD1] alone[LR]
+[NYA]…[LR]<END>
+
+//恥ずかしいよね♥<END>
+#JMP($65A23)
+#FIXEDLENGTH(16,0)
+Embarrassin'♥<END>
+
+//でもでも！[LR]<END>
+#JMP($65A4E)
+#FIXEDLENGTH(11,0)
+But but![LR]<END>
+
+//[WORD2]が見たい、って言うなら…[LR]<END>
+#JMP($65A63)
+#FIXEDLENGTH(30,0)
+If [WORD2][LR]
+wants to see…[LR]<END>
+
+//[WORD2]、 見られても平気なの[NYA]♥[LR]<END>
+#JMP($65A94)
+#FIXEDLENGTH(32,0)
+[WORD2][LR]
+doesn't mind[LR]
+bein' seen♥[LR]<END>
+
 //え～[LR]<END>
 #JMP($65AC0)
 #FIXEDLENGTH(5,0)
 Aww[LR]<END>
 
+//[WORD2]って いがいと大胆なんだ[NYA]～[LR]<END>
+#JMP($65ACF)
+#FIXEDLENGTH(34,0)
+[WORD2] is[LR]
+bolder than[LR]
+you'd think[LR]<END>
+
+//オトナが するコト って なぁに？<END>
+#JMP($65B05)
+#FIXEDLENGTH(31,0)
+What do grown-ups do?<END>
+
+//18才みまんの人は…[LR]<END>
+#JMP($65B55)
+#FIXEDLENGTH(19,0)
+Under 18…[LR]<END>
+
+//[WORD1]しちゃ ダメです[NYA]！<END>
+#JMP($65B6A)
+#FIXEDLENGTH(25,0)
+no [WORD1] allowed [NYA]!<END>
+
+//[WORD1]はオトナに なってからなの[NYA]～[LR]<END>
+#JMP($65B9B)
+#FIXEDLENGTH(36,0)
+[WORD1] is for[LR]
+grown-ups[LR]
+[NYA]～[LR]<END>
+
+//オトナが 使うモノ って なぁに？<END>
+#JMP($65BD3)
+#FIXEDLENGTH(31,0)
+What do grown-ups use?<END>
+
+//[WORD1]は コドモには 売ってもらえないの[NYA]…<END>
+#JMP($65C23)
+#FIXEDLENGTH(42,0)
+They won't sell [WORD1] to kids [NYA]…<END>
+
+//オトナばっかり…[LR]<END>
+#JMP($65C60)
+#FIXEDLENGTH(17,0)
+Grown-ups…[LR]<END>
+
+//[WORD1]を集めたり [WORD1]で遊んだり…[LR]<END>
+#JMP($65C73)
+#FIXEDLENGTH(34,0)
+collectin',[LR]
+playin'[LR]
+[WORD1]…[LR]<END>
+
+//オトナ買い ずるい[NYA]！[LR]<END>
+#JMP($65CA0)
+#FIXEDLENGTH(23,0)
+Grown-ups,[LR]
+unfair [NYA]![LR]<END>
+
+//[WORD3]の 知ってる [VAR0]の人 おしえて～<END>
+#JMP($65CDC)
+#FIXEDLENGTH(35,0)
+Tell me a [VAR0] [WORD3] knows～<END>
+
+//[WORD2]に [WORD4]を マッサージしてもらうと～[LR]<END>
+#JMP($65D45)
+#FIXEDLENGTH(41,0)
+Get [WORD2] to[LR]
+massage[LR]
+[WORD4]～[LR]<END>
+
+//[WORD4]が 大きくなるんだって！[LR]<END>
+#JMP($65D79)
+#FIXEDLENGTH(29,0)
+and [WORD4][LR]
+gets bigger![LR]<END>
+
+//やっぱり 人間に なるなら…[LR]<END>
+#JMP($65DA1)
+#FIXEDLENGTH(27,0)
+If I turn human…[LR]<END>
+
+//[WORD4]は 大きい方がイイ？<END>
+#JMP($65DBE)
+#FIXEDLENGTH(24,0)
+is bigger [WORD4] better?<END>
+
+//そっか！[LR]それじゃあ…[LR]<END>
+#JMP($65DF1)
+#FIXEDLENGTH(22,0)
+I see![LR]
+Then…[LR]<END>
+
+//[WORD2]に マッサージ お願いしないと[NYA]～[LR]<END>
+#JMP($65E09)
+#FIXEDLENGTH(39,0)
+gotta ask[LR]
+[WORD2] for a[LR]
+massage [NYA]～[LR]<END>
+
+//[WORD4]は 大きい方がイイと思う<END>
+#JMP($65E32)
+#FIXEDLENGTH(28,0)
+Thinks big [WORD4] is better<END>
+
 //ありゃ？[LR]<END>
 #JMP($65E5F)
 #FIXEDLENGTH(9,0)
 Huh?[LR]<END>
+
+//何だ…[LR][WORD4]は 小さくてもイイんだ…[LR]<END>
+#JMP($65E6A)
+#FIXEDLENGTH(36,0)
+Oh…[LR]
+Small [WORD4][LR]
+is fine…[LR]<END>
+
+//[WORD4]は 小さい方がイイと思う<END>
+#JMP($65E90)
+#FIXEDLENGTH(28,0)
+Thinks small [WORD4] is better<END>
 
 //人間の お洋服 って どんなのが あるの？<END>
 #JMP($65EC5)
@@ -41890,130 +42414,1038 @@ What human clothes are there?<END>
 #FIXEDLENGTH(18,0)
 When I'm human…[LR]<END>
 
+//[WORD1]を かっこよく 着こなしたい[NYA]～<END>
+#JMP($65F45)
+#FIXEDLENGTH(36,0)
+I wanna wear [WORD1] in style [NYA]～<END>
+
 //[WORD1]かぁ<END>
 #JMP($65F6B)
 #FIXEDLENGTH(9,0)
 [WORD1]～<END>
+
+//そのためには…[LR]<END>
+#JMP($65F83)
+#FIXEDLENGTH(15,0)
+For that…[LR]<END>
+
+//[WORD2]を 今から キレイに お手入れしないと[NYA]！[LR]<END>
+#JMP($65F94)
+#FIXEDLENGTH(46,0)
+I gotta keep[LR]
+[WORD2] nice[LR]
+from now [NYA]![LR]<END>
+
+//飲みモノと 言えば どんなのが あるの？<END>
+#JMP($65FD6)
+#FIXEDLENGTH(37,0)
+What kinds of drinks are there?<END>
+
+//[WORD1]を いっぱい 飲めば…[LR]<END>
+#JMP($6604F)
+#FIXEDLENGTH(26,0)
+Drink lots of[LR]
+[WORD1]…[LR]<END>
+
+//[WORD2]が 大きくなるんだって！[LR]<END>
+#JMP($66074)
+#FIXEDLENGTH(29,0)
+and [WORD2][LR]
+gets bigger![LR]<END>
+
+//毎日 [WORD1]を [VAR3]リットルぐらい 飲もうか[NYA]～[LR]<END>
+#JMP($6609C)
+#FIXEDLENGTH(45,0)
+Shall I drink[LR]
+[VAR3] liters of[LR]
+[WORD1] daily～[LR]<END>
+
+//[WORD4]よりも [WORD2]、大きくなるかも～[LR]<END>
+#JMP($660EC)
+#FIXEDLENGTH(36,0)
+[WORD2] might[LR]
+beat [WORD4]'s[LR]
+size～[LR]<END>
+
+//でも…[LR][WORD2]、大きくなりたい[NYA]…[LR]<END>
+#JMP($6611C)
+#FIXEDLENGTH(34,0)
+But…[LR]
+[WORD2] wants[LR]
+to grow [NYA]…[LR]<END>
 
 //「色っぽいセリフ」 って どんなの？<END>
 #JMP($66152)
 #FIXEDLENGTH(34,0)
 What's an alluring line?<END>
 
+//色じかけの 練習[NYA]！[LR]<END>
+#JMP($661B6)
+#FIXEDLENGTH(21,0)
+Charm practice[LR]
+[NYA]![LR]<END>
+
+//[WORD2]をチラっと させて♥[LR]<END>
+#JMP($661D6)
+#FIXEDLENGTH(25,0)
+Flash [WORD2][LR]
+a little♥[LR]<END>
+
+//「[VAR1]」<END>
+#JMP($661F1)
+#FIXEDLENGTH(7,0)
+"[VAR1]"<END>
+
+//えっへん！<END>
+#JMP($66213)
+#FIXEDLENGTH(10,0)
+Ahem!<END>
+
+//[WORD3]を メロメロにしてしまったの[NYA]！[LR]<END>
+#JMP($66230)
+#FIXEDLENGTH(38,0)
+I made [WORD3][LR]
+swoon [NYA]![LR]<END>
+
+//おかしい[NYA]…[LR]<END>
+#JMP($66266)
+#FIXEDLENGTH(14,0)
+Weird [NYA]…[LR]<END>
+
+//何で 笑われたのか[NYA]…[LR]<END>
+#JMP($66276)
+#FIXEDLENGTH(23,0)
+Why'd you laugh[LR]
+[NYA]…[LR]<END>
+
+//オトナが するコト って なぁに？<END>
+#JMP($662A8)
+#FIXEDLENGTH(31,0)
+What do grown-ups do?<END>
+
+//[WORD1]って コツをつかめば…[LR]<END>
+#JMP($66306)
+#FIXEDLENGTH(27,0)
+Get the[LR]
+[WORD1][LR]
+knack…[LR]<END>
+
+//パパパっと あっという間に できちゃうんだって～<END>
+#JMP($6632C)
+#FIXEDLENGTH(46,0)
+you can do it in a flash～<END>
+
 //[WORD1]を？<END>
 #JMP($6635C)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
+
+//１回 [VAR2]分で できるように なったら…[LR]<END>
+#JMP($66374)
+#FIXEDLENGTH(37,0)
+When you can[LR]
+do it in [VAR2][LR]
+min…[LR]<END>
+
+//一人前らしい[NYA]！[LR]<END>
+#JMP($6639B)
+#FIXEDLENGTH(18,0)
+you're a pro[LR]
+[NYA]![LR]<END>
+
+//オトナの 飲みモノ って なぁに？<END>
+#JMP($663C1)
+#FIXEDLENGTH(31,0)
+What's a grown-up drink?<END>
+
+//[WORD1]は 苦くて 飲めないけど…[LR]<END>
+#JMP($66411)
+#FIXEDLENGTH(30,0)
+[WORD1] is too[LR]
+bitter for me…[LR]<END>
+
+//オトナは あの苦さがイイ、って言うの[NYA]…<END>
+#JMP($6643A)
+#FIXEDLENGTH(40,0)
+grown-ups say the bitterness is good…<END>
 
 //フシギだ[NYA]～[LR]<END>
 #JMP($6647D)
 #FIXEDLENGTH(14,0)
 Strange [NYA]～[LR]<END>
 
+//[WORD1]は あの苦味が たまらない<END>
+#JMP($6648D)
+#FIXEDLENGTH(29,0)
+Loves [WORD1]'s bitterness<END>
+
+//あ、[WORD2]は [WORD3]と 同じ[NYA]～[LR]<END>
+#JMP($664CB)
+#FIXEDLENGTH(30,0)
+Oh, [WORD2] is[LR]
+like [WORD3][LR]
+[NYA]～[LR]<END>
+
+//[WORD1]は 苦くて とても 飲めない<END>
+#JMP($664EB)
+#FIXEDLENGTH(30,0)
+[WORD1] is too bitter to drink<END>
+
+//本を読むなら 何て本が イイか[NYA]？<END>
+#JMP($66522)
+#FIXEDLENGTH(33,0)
+What book should I read [NYA]?<END>
+
+//[WORD2]には…[LR]<END>
+#JMP($66589)
+#FIXEDLENGTH(12,0)
+At [WORD2]…[LR]<END>
+
+//古い「[VAR1]」が いっぱい 捨ててあるんだって～<END>
+#JMP($66597)
+#FIXEDLENGTH(43,0)
+lots of old "[VAR1]" get dumped～<END>
+
 //[WORD2]に？<END>
 #JMP($665C4)
 #FIXEDLENGTH(9,0)
 In [WORD2]?<END>
+
+//古い[WORD1]？<END>
+#JMP($665CF)
+#FIXEDLENGTH(11,0)
+Old [WORD1]?<END>
+
+//エッチな「[VAR1]」らしい[NYA]！[LR]<END>
+#JMP($665E5)
+#FIXEDLENGTH(27,0)
+A naughty[LR]
+"[VAR1]" [NYA]![LR]<END>
 
 //人間の お洋服 って どんなのが あるの？<END>
 #JMP($66614)
 #FIXEDLENGTH(38,0)
 What human clothes are there?<END>
 
+//[WORD2] 小さい [WORD1]が 今年の流行らしい[NYA]！<END>
+#JMP($66689)
+#FIXEDLENGTH(42,0)
+[WORD2] small [WORD1] is this year's trend!<END>
+
+//小さい [WORD1]？<END>
+#JMP($666B5)
+#FIXEDLENGTH(14,0)
+Small [WORD1]?<END>
+
 //でも…[LR]<END>
 #JMP($666D2)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//[WORD3]が見えちゃいそう[NYA]…[LR]<END>
+#JMP($666DB)
+#FIXEDLENGTH(27,0)
+[WORD3] might[LR]
+show [NYA]…[LR]<END>
+
+//そんな大胆な [WORD1]、恥ずかしい[NYA]～[LR]<END>
+#JMP($666F8)
+#FIXEDLENGTH(36,0)
+Such bold[LR]
+[WORD1],[LR]
+embarrassin'[LR]
+[NYA]～[LR]<END>
+
+//何でも いいから エッチだと思うモノ おしえて～？<END>
+#JMP($66730)
+#FIXEDLENGTH(47,0)
+Tell me anything you think is naughty～?<END>
+
+//国語のじしょを 調べて…[LR]<END>
+#JMP($66790)
+#FIXEDLENGTH(24,0)
+In a dictionary…[LR]<END>
+
+//「[VAR1]」に 赤線を引いといた[NYA]！[LR]<END>
+#JMP($667B3)
+#FIXEDLENGTH(32,0)
+I underlined[LR]
+"[VAR1]" in red[LR]
+[NYA]![LR]<END>
+
+//これが 正しい 勉強方法なの[NYA]～[LR]<END>
+#JMP($667F1)
+#FIXEDLENGTH(32,0)
+That's the right[LR]
+way to study～[LR]<END>
+
+//にゃんで～[LR]<END>
+#JMP($66820)
+#FIXEDLENGTH(11,0)
+Nyaa, why[LR]<END>
+
+//正しい 勉強方法じゃないの…？[LR]<END>
+#JMP($6682D)
+#FIXEDLENGTH(30,0)
+Isn't that how to[LR]
+study…?[LR]<END>
 
 //人間の お洋服 って どんなのが あるの？<END>
 #JMP($66866)
 #FIXEDLENGTH(38,0)
 What human clothes are there?<END>
 
+//[WORD2]する時は…[LR]<END>
+#JMP($668D4)
+#FIXEDLENGTH(16,0)
+To [WORD2]…[LR]<END>
+
+//汚れちゃうから [WORD1]は脱いだ方がイイか[NYA]？<END>
+#JMP($668E6)
+#FIXEDLENGTH(43,0)
+take off [WORD1] so it won't get dirty [NYA]?<END>
+
 //そっか～[LR]<END>
 #JMP($6692C)
 #FIXEDLENGTH(9,0)
 I see～[LR]<END>
+
+//[WORD2]の前には 忘れずに [WORD1]を脱がないと[NYA]！[LR]<END>
+#JMP($66937)
+#FIXEDLENGTH(46,0)
+Don't forget to[LR]
+take off[LR]
+[WORD1] before[LR]
+[WORD2]![LR]<END>
+
+//[WORD2]する時は [WORD1]を脱ぐべきだと思う<END>
+#JMP($66967)
+#FIXEDLENGTH(37,0)
+Thinks [WORD1] comes off for [WORD2]<END>
 
 //そっか…[LR]<END>
 #JMP($6699D)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
 
+//[WORD1]を 気にしなくても 平気なんだ[NYA]…[LR]<END>
+#JMP($669A8)
+#FIXEDLENGTH(39,0)
+No need to mind[LR]
+[WORD1] [NYA]…[LR]<END>
+
+//[WORD2]する時は [WORD1]を着けたままの方が イイと思う<END>
+#JMP($669D1)
+#FIXEDLENGTH(48,0)
+Thinks keep [WORD1] on for [WORD2]<END>
+
+//カワイイ お洋服 って どんなの？<END>
+#JMP($66A1A)
+#FIXEDLENGTH(31,0)
+What clothes are cute?<END>
+
+//セクシーな お洋服 って どんなの？<END>
+#JMP($66A6F)
+#FIXEDLENGTH(33,0)
+What clothes are sexy?<END>
+
+//[WORD4]する時は…[LR]<END>
+#JMP($66AE2)
+#FIXEDLENGTH(16,0)
+To [WORD4]…[LR]<END>
+
+//[WORD1]と [WORD3]、どっちの方が 似合うか[NYA]？<END>
+#JMP($66AF4)
+#FIXEDLENGTH(41,0)
+which suits better, [WORD1] or [WORD3] [NYA]?<END>
+
 //えー[LR]<END>
 #JMP($66B5F)
 #FIXEDLENGTH(5,0)
 Aww[LR]<END>
+
+//[WORD4]する時は ハダカの方がイイんだ～[LR]<END>
+#JMP($66B66)
+#FIXEDLENGTH(37,0)
+For [WORD4],[LR]
+naked's better～[LR]<END>
+
+//[WORD6]って けっこう大胆だ[NYA]♥[LR]<END>
+#JMP($66B9E)
+#FIXEDLENGTH(30,0)
+[WORD6] is[LR]
+pretty bold[LR]
+[NYA]♥[LR]<END>
+
+//そっか、[WORD5]だ[NYA][LR]<END>
+#JMP($66BCB)
+#FIXEDLENGTH(19,0)
+I see, [WORD5][LR]
+[NYA][LR]<END>
+
+//[WORD4]するには…[LR]<END>
+#JMP($66BE9)
+#FIXEDLENGTH(16,0)
+To [WORD4]…[LR]<END>
+
+//まずは 形からだよね！[LR]<END>
+#JMP($66BFB)
+#FIXEDLENGTH(22,0)
+start with the[LR]
+look![LR]<END>
+
+//[WORD5]、買わなくっちゃ！[LR]<END>
+#JMP($66C1C)
+#FIXEDLENGTH(24,0)
+Gotta buy[LR]
+[WORD5]![LR]<END>
+
+//[WORD0]模様の カワイイ [WORD1]が 売ってたから 買っちゃった♥<END>
+#JMP($66C74)
+#FIXEDLENGTH(56,0)
+They had cute [WORD0]-pattern [WORD1], I bought it♥<END>
+
+//買っちゃったケド…[LR]<END>
+#JMP($66CC7)
+#FIXEDLENGTH(19,0)
+I bought it, but…[LR]<END>
+
+//ネコだから まだ 身につけられない[NYA]…[LR]<END>
+#JMP($66CDC)
+#FIXEDLENGTH(38,0)
+as a cat I can't[LR]
+wear it yet[LR]
+[NYA]…[LR]<END>
+
+//忘れてた～[LR]つい 買っちゃったよ～[LR]<END>
+#JMP($66D12)
+#FIXEDLENGTH(33,0)
+Forgot～[LR]
+Bought it[LR]
+anyway～[LR]<END>
 
 //しょうがないから…[LR]<END>
 #JMP($66D3E)
 #FIXEDLENGTH(19,0)
 No choice…[LR]<END>
 
+//人間に なるまで しまっておくの[NYA]～[LR]<END>
+#JMP($66D53)
+#FIXEDLENGTH(36,0)
+I'll keep it till I'm[LR]
+human [NYA]～[LR]<END>
+
+//男物の [WORD0]と…[LR]<END>
+#JMP($66D9F)
+#FIXEDLENGTH(17,0)
+Men's [WORD0]…[LR]<END>
+
+//女物の [WORD0]…[LR]<END>
+#JMP($66DB2)
+#FIXEDLENGTH(15,0)
+ladies' [WORD0][LR]<END>
+
+//どっちを 買おうか 悩んじゃう[NYA]～<END>
+#JMP($66DCC)
+#FIXEDLENGTH(33,0)
+which to buy, I'm torn [NYA]～<END>
+
+//[VAR1]か～[LR]<END>
+#JMP($66E1C)
+#FIXEDLENGTH(8,0)
+[VAR1]～[LR]<END>
+
+//[WORD2]、 人間に なったら…[LR]<END>
+#JMP($66E31)
+#FIXEDLENGTH(26,0)
+When [WORD2][LR]
+is human…[LR]<END>
+
+//どれぐらいの 身長に なるのか[NYA]…[LR]<END>
+#JMP($66E4D)
+#FIXEDLENGTH(34,0)
+how tall will I be[LR]
+[NYA]…[LR]<END>
+
+//[VAR1]の 大きめな [WORD0] 買っとけば 平気か[NYA]？[LR]<END>
+#JMP($66E7A)
+#FIXEDLENGTH(44,0)
+Buy a big [VAR1][LR]
+[WORD0] and[LR]
+it's fine [NYA]?[LR]<END>
+
+//どうせ すぐに 大きくなるもん[NYA]！[LR]<END>
+#JMP($66EB1)
+#FIXEDLENGTH(34,0)
+I'll grow fast[LR]
+anyway [NYA]![LR]<END>
+
+//[WORD2][WORD0]と [WORD2][WORD1]…[LR]<END>
+#JMP($66F1B)
+#FIXEDLENGTH(26,0)
+[WORD2][LR]
+[WORD0],[LR]
+[WORD1]…[LR]<END>
+
+//ふたつ おそろいで選んだの[NYA]！[LR]<END>
+#JMP($66F40)
+#FIXEDLENGTH(31,0)
+I picked a[LR]
+matchin' pair[LR]
+[NYA]![LR]<END>
+
+//イイの[NYA]！[LR]<END>
+#JMP($66F7A)
+#FIXEDLENGTH(12,0)
+It's fine![LR]<END>
+
+//まだ 使えないケド…[LR]<END>
+#JMP($66F88)
+#FIXEDLENGTH(20,0)
+Can't use 'em[LR]
+yet…[LR]<END>
+
+//人間に なったら 身に付けるの♥[LR]<END>
+#JMP($66FA7)
+#FIXEDLENGTH(31,0)
+when I'm human[LR]
+I'll wear 'em♥[LR]<END>
+
+//それまでは 楽しみに見てるだけ[NYA]～[LR]<END>
+#JMP($66FC8)
+#FIXEDLENGTH(35,0)
+Till then I'll just[LR]
+look and smile[LR]<END>
+
+//ボン キュッ ボン！[LR]ってのが セクシーな人なんだって～[LR]<END>
+#JMP($67041)
+#FIXEDLENGTH(53,0)
+Bam, squeeze,[LR]
+bam![LR]
+that's a sexy[LR]
+person～[LR]<END>
+
+//[WORD0]が ボン！[LR]<END>
+#JMP($6708C)
+#FIXEDLENGTH(15,0)
+[WORD0] bam![LR]<END>
+
+//[WORD1]が キュッ！[LR]<END>
+#JMP($6709D)
+#FIXEDLENGTH(17,0)
+[WORD1][LR]
+squeeze![LR]<END>
+
+//[WORD2]が ボン！[LR]って感じか[NYA]～[LR]<END>
+#JMP($670B6)
+#FIXEDLENGTH(31,0)
+[WORD2] bam![LR]
+like that [NYA]～[LR]<END>
+
+//人間の体で カワイイ部分 って どこか[NYA]？<END>
+#JMP($670EC)
+#FIXEDLENGTH(40,0)
+What part of a human body is cute [NYA]?<END>
+
+//[WORD1]をキレイに しようと…[LR]<END>
+#JMP($67147)
+#FIXEDLENGTH(27,0)
+Tryin' to clean[LR]
+[WORD1]…[LR]<END>
+
+//ゴシゴシ 洗ったら…<END>
+#JMP($67164)
+#FIXEDLENGTH(19,0)
+I scrubbed hard…<END>
+
 //[WORD1]を？<END>
 #JMP($67179)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
+
+//ちょっと こすりすぎた[NYA]…[LR]<END>
+#JMP($67191)
+#FIXEDLENGTH(27,0)
+rubbed a bit too[LR]
+much…[LR]<END>
+
+//赤くなって ヒリヒリする[NYA]…<END>
+#JMP($671AE)
+#FIXEDLENGTH(28,0)
+it's red and stingin' [NYA]…<END>
+
+//[WORD0]に あせもが できちゃった…[LR]<END>
+#JMP($671F2)
+#FIXEDLENGTH(32,0)
+I got heat rash[LR]
+on [WORD0]…[LR]<END>
+
+//カユイけど かくと…[LR]<END>
+#JMP($6721D)
+#FIXEDLENGTH(20,0)
+Itchy, scratch…[LR]<END>
+
+//ヒリヒリに なっちゃう[NYA]…<END>
+#JMP($67233)
+#FIXEDLENGTH(26,0)
+and it stings [NYA]…<END>
+
+//ががが、ガマンしにゃいと～[LR]<END>
+#JMP($67268)
+#FIXEDLENGTH(27,0)
+M-m-must bear[LR]
+it～[LR]<END>
 
 //ダメなの[NYA]～[LR]<END>
 #JMP($6728F)
 #FIXEDLENGTH(14,0)
 No way [NYA]～[LR]<END>
 
+//[WORD0]が ヒリヒリする[NYA]～！[LR]<END>
+#JMP($6729F)
+#FIXEDLENGTH(28,0)
+[WORD0] stings[LR]
+[NYA]～![LR]<END>
+
 //[WORD2]が よく行く場所 おしえて～<END>
 #JMP($672DE)
 #FIXEDLENGTH(31,0)
 Tell me where [WORD2] often goes<END>
+
+//[WORD3]を 日焼けしようと思って…[LR]<END>
+#JMP($67343)
+#FIXEDLENGTH(31,0)
+Tryin' to tan[LR]
+[WORD3]…[LR]<END>
+
+//[WORD1]で ひなたぼっこ してみた[NYA]…<END>
+#JMP($67364)
+#FIXEDLENGTH(34,0)
+I sunbathed at [WORD1] [NYA]…<END>
 
 //[WORD1]で？<END>
 #JMP($67388)
 #FIXEDLENGTH(9,0)
 W/ [WORD1]?<END>
 
+//でも 黒くならないで…[LR]<END>
+#JMP($673A0)
+#FIXEDLENGTH(22,0)
+But no tan…[LR]<END>
+
+//ヒリヒリするだけ[NYA]～[LR]<END>
+#JMP($673B8)
+#FIXEDLENGTH(22,0)
+just stings[LR]
+[NYA]～[LR]<END>
+
+//[WORD2]は 日焼けできないのか[NYA]…[LR]<END>
+#JMP($673E1)
+#FIXEDLENGTH(32,0)
+[WORD2] can't[LR]
+tan [NYA]…[LR]<END>
+
+//やっぱ ネコだから…？[LR]<END>
+#JMP($67403)
+#FIXEDLENGTH(22,0)
+'Cause I'm a[LR]
+cat…?[LR]<END>
+
 //今 なんか したいコトある？<END>
 #JMP($6742D)
 #FIXEDLENGTH(26,0)
 Anything you wanna do now?<END>
+
+//男の人と 女の人が ふたりで [WORD1]をする時は…[LR]<END>
+#JMP($67478)
+#FIXEDLENGTH(45,0)
+When a man and[LR]
+woman [WORD1][LR]
+together…[LR]<END>
+
+//女の人が 先なの[NYA]！[LR]<END>
+#JMP($674A7)
+#FIXEDLENGTH(21,0)
+ladies first[LR]
+[NYA]![LR]<END>
+
+//レディファーストは [WORD1]のマナーなの[NYA]！[LR]<END>
+#JMP($674D4)
+#FIXEDLENGTH(42,0)
+Ladies first is[LR]
+[WORD1][LR]
+manners [NYA]![LR]<END>
 
 //今 なんか したいコトある？<END>
 #JMP($67515)
 #FIXEDLENGTH(26,0)
 Anything you wanna do now?<END>
 
+//[WORD1]を すると…[LR]<END>
+#JMP($67575)
+#FIXEDLENGTH(17,0)
+When you[LR]
+[WORD1]…[LR]<END>
+
+//アセを いっぱい かくから～[LR]カゼを 引かないように…<END>
+#JMP($67591)
+#FIXEDLENGTH(50,0)
+you sweat lots～[LR]
+so to not catch[LR]
+cold…<END>
+
+//替えの [WORD2]を 用意しないと[NYA]！[LR]<END>
+#JMP($675D6)
+#FIXEDLENGTH(33,0)
+have a spare[LR]
+[WORD2] ready[LR]
+[NYA]![LR]<END>
+
 //今 なんか したいコトある？<END>
 #JMP($6760E)
 #FIXEDLENGTH(26,0)
 Anything you wanna do now?<END>
+
+//[WORD1]して アセびっしょり かくと…[LR]<END>
+#JMP($6766E)
+#FIXEDLENGTH(34,0)
+[WORD1] and[LR]
+get soaked in[LR]
+sweat…[LR]<END>
+
+//[WORD2]が ベタベタして キモチ悪いの[NYA]～<END>
+#JMP($6769B)
+#FIXEDLENGTH(38,0)
+[WORD2] gets sticky and yucky [NYA]～<END>
+
+//だから シャワーがない場所で [WORD1]するのは あんまり 好きじゃないの[NYA][LR]<END>
+#JMP($676D4)
+#FIXEDLENGTH(69,0)
+So I don't like[LR]
+[WORD1] where[LR]
+there's no[LR]
+shower [NYA][LR]<END>
 
 //今 なんか したいコトある？<END>
 #JMP($6772D)
 #FIXEDLENGTH(26,0)
 Anything you wanna do now?<END>
 
+//[WORD1] やりすぎると…[LR]<END>
+#JMP($677A2)
+#FIXEDLENGTH(21,0)
+Too much[LR]
+[WORD1]…[LR]<END>
+
+//[WORD2]が ヒリヒリしちゃうの[NYA]…<END>
+#JMP($677C2)
+#FIXEDLENGTH(31,0)
+and [WORD2] stings [NYA]…<END>
+
 //[WORD2]が？<END>
 #JMP($677E3)
 #FIXEDLENGTH(9,0)
 [WORD2]?<END>
+
+//使ってる [WORD3]のサイズが 合わないのか[NYA]～[LR]<END>
+#JMP($677FB)
+#FIXEDLENGTH(43,0)
+Maybe the[LR]
+[WORD3] size[LR]
+doesn't fit[LR]
+[NYA]～[LR]<END>
+
+//こすれて [WORD2]が 赤くなっちゃう[NYA]…[LR]<END>
+#JMP($67828)
+#FIXEDLENGTH(37,0)
+rubbin' makes[LR]
+[WORD2] red[LR]
+[NYA]…[LR]<END>
 
 //「色っぽいセリフ」 って どんなの？<END>
 #JMP($67861)
 #FIXEDLENGTH(34,0)
 What's an alluring line?<END>
 
+//夜になると ご近所から…[LR]<END>
+#JMP($678B4)
+#FIXEDLENGTH(24,0)
+At night, next[LR]
+door…[LR]<END>
+
+//「[VAR1]」って 大きな声が 聞こえるの[NYA]～<END>
+#JMP($678D7)
+#FIXEDLENGTH(38,0)
+I hear a loud "[VAR1]" [NYA]～<END>
+
+//ケンカでも してるのか[NYA]？[LR]<END>
+#JMP($67915)
+#FIXEDLENGTH(27,0)
+Are they[LR]
+fightin' [NYA]?[LR]<END>
+
+//ちょっと 近所めいわくなの[NYA]…[LR]<END>
+#JMP($67932)
+#FIXEDLENGTH(31,0)
+Kinda bugs the[LR]
+neighbors[LR]
+[NYA]…[LR]<END>
+
+//「シークレット・[VAR0]」ってのが あるの[NYA]！<END>
+#JMP($67977)
+#FIXEDLENGTH(41,0)
+There's a "Secret [VAR0]" [NYA]!<END>
+
+//[WORD0]を大きく見せられるの[NYA]♥[LR]<END>
+#JMP($679B8)
+#FIXEDLENGTH(31,0)
+It makes[LR]
+[WORD0] look[LR]
+big [NYA]♥[LR]<END>
+
+//それがあれば ネコのままの…[LR]<END>
+#JMP($679E2)
+#FIXEDLENGTH(28,0)
+With that, even[LR]
+as a cat…[LR]<END>
+
+//ちっちゃな [WORD0]でも 恥ずかしくないの[NYA]～[LR]<END>
+#JMP($67A00)
+#FIXEDLENGTH(43,0)
+tiny [WORD0][LR]
+isn't[LR]
+embarrassin'[LR]
+[NYA]～[LR]<END>
+
 //人間の お洋服って どんなのが あるの？<END>
 #JMP($67A3F)
 #FIXEDLENGTH(37,0)
 What human clothes are there?<END>
+
+//[WORD2]が大きく見える [WORD1]が あるんだって～<END>
+#JMP($67AAA)
+#FIXEDLENGTH(42,0)
+There's [WORD1] that makes [WORD2] look big～<END>
 
 //[WORD2]が？<END>
 #JMP($67AD6)
 #FIXEDLENGTH(9,0)
 [WORD2]?<END>
 
+//しかも [WORD2] そっくりの 手ざわりなの[NYA]！[LR]<END>
+#JMP($67AEE)
+#FIXEDLENGTH(42,0)
+and it feels just[LR]
+like [WORD2][LR]
+[NYA]![LR]<END>
+
+//それがあれば ネコのままでも…[LR]<END>
+#JMP($67B23)
+#FIXEDLENGTH(30,0)
+With it, even as[LR]
+a cat…[LR]<END>
+
+//[WORD2]だけは 人間に なった気分が 味わえるかも～[LR]<END>
+#JMP($67B43)
+#FIXEDLENGTH(47,0)
+[WORD2] at[LR]
+least might feel[LR]
+human～[LR]<END>
+
+//されたら キモチの いいコトって なぁに？<END>
+#JMP($67B86)
+#FIXEDLENGTH(39,0)
+What feels good when done to you?<END>
+
+//[WORD1]されたら キモチがイイから…[LR]<END>
+#JMP($67C18)
+#FIXEDLENGTH(33,0)
+Gettin'[LR]
+[WORD1]-ed[LR]
+feels good…[LR]<END>
+
+//ふたりに いっぺんに [WORD1]されたら～[LR]<END>
+#JMP($67C44)
+#FIXEDLENGTH(36,0)
+if two [WORD1][LR]
+you at once～[LR]<END>
+
+//キモチよさも 2倍だよね♥<END>
+#JMP($67C6A)
+#FIXEDLENGTH(24,0)
+it feels twice as good♥<END>
+
+//ってコトは！[LR]<END>
+#JMP($67C9D)
+#FIXEDLENGTH(13,0)
+Which means![LR]<END>
+
+//2倍じゃないか[NYA]…？[LR]<END>
+#JMP($67CB9)
+#FIXEDLENGTH(21,0)
+Not twice[LR]
+[NYA]…?[LR]<END>
+
+//あ、じゃあ…[LR]<END>
+#JMP($67CD9)
+#FIXEDLENGTH(13,0)
+Oh, then…[LR]<END>
+
+//[WORD2]と [WORD3]の ふたり同時に [WORD1]されちゃったら～[LR]<END>
+#JMP($67CF4)
+#FIXEDLENGTH(51,0)
+if [WORD2] and[LR]
+[WORD3] both[LR]
+[WORD1] me at[LR]
+once～[LR]<END>
+
+//うにゃあ♥[LR]キモチよさ [VAR4]倍だ[NYA]！[LR]<END>
+#JMP($67D29)
+#FIXEDLENGTH(35,0)
+Unyaa♥[LR]
+[VAR4]x as good[LR]
+[NYA]![LR]<END>
+
+//好きな 有名人 おしえて～<END>
+#JMP($67D60)
+#FIXEDLENGTH(24,0)
+Tell me a fave celebrity<END>
+
+//[WORD1]が 写真集 出すらしいの[NYA]～<END>
+#JMP($67DBE)
+#FIXEDLENGTH(32,0)
+[WORD1] is releasin' a photo book<END>
+
 //[WORD1]が？<END>
 #JMP($67DE0)
 #FIXEDLENGTH(9,0)
 [WORD1]?<END>
+
+//[WORD2]を ギリギリまで 見せちゃったって！[LR]<END>
+#JMP($67DF8)
+#FIXEDLENGTH(40,0)
+showin'[LR]
+[WORD2] right[LR]
+to the edge![LR]<END>
+
+//うひゃあ♥[LR]<END>
+#JMP($67E2B)
+#FIXEDLENGTH(11,0)
+Whoa♥[LR]<END>
+
+//[WORD1]、すごーい！[LR]<END>
+#JMP($67E38)
+#FIXEDLENGTH(18,0)
+[WORD1],[LR]
+amazin'![LR]<END>
+
+//されたら キモチのいいコトって なぁに？<END>
+#JMP($67E5E)
+#FIXEDLENGTH(38,0)
+What feels good when done to you?<END>
+
+//[WORD4]の 好きな人、おしえて～<END>
+#JMP($67EC2)
+#FIXEDLENGTH(28,0)
+Tell me who [WORD4] likes～<END>
+
+//[WORD3]と 仲良さそうな人、おしえて～<END>
+#JMP($67F12)
+#FIXEDLENGTH(34,0)
+Tell me who's close with [WORD3]～<END>
+
+//[WORD3]と [WORD6]の ふたりだったら…[LR]<END>
+#JMP($67F6D)
+#FIXEDLENGTH(33,0)
+Of [WORD3][LR]
+and [WORD6]…[LR]<END>
+
+//[WORD3]の方が [WORD1]してあげる方で…[LR]<END>
+#JMP($67F99)
+#FIXEDLENGTH(34,0)
+[WORD3] does[LR]
+the[LR]
+[WORD1]-ing…[LR]<END>
+
+//[WORD6]の方が [WORD1]してもらう方だよね～<END>
+#JMP($67FBD)
+#FIXEDLENGTH(37,0)
+[WORD6] gets [WORD1]-ed, right～<END>
+
+//やっぱり そんな風に見えるよね！[LR]<END>
+#JMP($67FFD)
+#FIXEDLENGTH(32,0)
+They do look[LR]
+like that, right![LR]<END>
+
+//え～？[LR]逆か[NYA]～[LR]<END>
+#JMP($68029)
+#FIXEDLENGTH(17,0)
+Eh?[LR]
+Backwards[LR]<END>
+
+//[WORD1]するのは [WORD6]の方か[NYA]…[LR]<END>
+#JMP($68045)
+#FIXEDLENGTH(31,0)
+[WORD6] does[LR]
+the[LR]
+[WORD1]-ing[LR]
+[NYA]…[LR]<END>
+
+//好きな 有名人って だぁれ？<END>
+#JMP($68081)
+#FIXEDLENGTH(26,0)
+Who's your fave celebrity?<END>
+
+//テレビでね～[LR]<END>
+#JMP($680E3)
+#FIXEDLENGTH(13,0)
+On TV～[LR]<END>
+
+//「[VAR0]だらけの [VAR3]大会」っての やるんだって～<END>
+#JMP($680F2)
+#FIXEDLENGTH(44,0)
+"All-[VAR0] [VAR3] Contest" is on～<END>
+
+//[WORD3]大会？<END>
+#JMP($68120)
+#FIXEDLENGTH(11,0)
+Contest?<END>
+
+//[WORD2]が 司会でね～[LR]<END>
+#JMP($6813A)
+#FIXEDLENGTH(19,0)
+[WORD2] hosts～[LR]<END>
+
+//[VAR0]の人が たくさん 集まって [WORD3]するの[NYA]！[LR]<END>
+#JMP($6814F)
+#FIXEDLENGTH(45,0)
+lots of [VAR0]s[LR]
+gather and[LR]
+[WORD3] [NYA]![LR]<END>
+
+//うにゃ～[LR]見のがせない[NYA]～[LR]<END>
+#JMP($68187)
+#FIXEDLENGTH(27,0)
+Unyaa～[LR]
+Can't miss it～[LR]<END>
+
+//カワイイ人 おしえて～<END>
+#JMP($681B6)
+#FIXEDLENGTH(21,0)
+Tell me someone cute<END>
+
+//色っぽい人 おしえて～<END>
+#JMP($68201)
+#FIXEDLENGTH(21,0)
+Name someone sexy～<END>
+
+//理想の人間の姿を 考えてみた[NYA]！[LR]<END>
+#JMP($6829D)
+#FIXEDLENGTH(33,0)
+I pictured my[LR]
+ideal human[LR]
+form![LR]<END>
 
 //[WORD2]を？<END>
 #JMP($687E4)
@@ -42769,6 +44201,11 @@ Tell me a TV show [WORD2] watches～<END>
 #JMP($74FB7)
 #FIXEDLENGTH(34,0)
 Tell me a celebrity [WORD2] knows～<END>
+
+//テレビでね～[LR]<END>
+#JMP($75063)
+#FIXEDLENGTH(13,0)
+On TV～[LR]<END>
 
 //[WORD0]を？<END>
 #JMP($75222)
