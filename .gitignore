@@ -30,3 +30,6 @@ textures/md5.txt
 # AI translation worklists (regenerate with scripts/ai/gen_patch.py worklist <char>)
 ai_work/*/worklist.tsv
 __pycache__/
+
+# AI scratch (extracted game files, never commit)
+ai_scratch/

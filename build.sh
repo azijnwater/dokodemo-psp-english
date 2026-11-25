@@ -122,6 +122,11 @@ cp -f xmb/ICON1.PMF build/PSP_GAME/ICON1.PMF
 
 echo Writing patches/boot.txt to build/PSP_GAME/SYSDIR/BOOT.BIN...
 wine tools/Atlas/Atlas.exe build/PSP_GAME/SYSDIR/BOOT.BIN patches/boot.txt
+# AI-translated BOOT.BIN strings not covered by boot.txt (applied after it)
+if [ -f patches/boot_ai.txt ]; then
+  echo Writing patches/boot_ai.txt to build/PSP_GAME/SYSDIR/BOOT.BIN...
+  wine tools/Atlas/Atlas.exe build/PSP_GAME/SYSDIR/BOOT.BIN patches/boot_ai.txt
+fi
 
 # Delete EBOOT.BIN (encrypted boot) to make the game launch our modified BOOT.BIN.
 # Ignore an already missing EBOOT.BIN when reusing an existing build

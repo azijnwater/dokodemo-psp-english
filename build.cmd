@@ -91,6 +91,8 @@ Doko Demo Issyo PSP English Fan Translation (build %date% %time:~0,5%)^<END^>>pa
 :: Apply Atlas text patches to BOOT.BIN and .KSC files
 echo Patch game files
 %atlas% build\PSP_GAME\SYSDIR\BOOT.BIN patches\boot.txt > nul
+:: AI-translated BOOT.BIN strings not covered by boot.txt (applied after it)
+if exist patches\boot_ai.txt %atlas% build\PSP_GAME\SYSDIR\BOOT.BIN patches\boot_ai.txt > nul
 %atlas% build\PSP_GAME\PARAM.SFO patches\param.txt > nul
 
 :: Replace game artwork that appears on the XMB/PPSSPP menu

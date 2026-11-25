@@ -1,0 +1,57 @@
+# BOOT.BIN strings not covered by patches/boot.txt. OFF<TAB>English[<TAB>?unsure]
+D8B10	Toro
+D8B18	Suzuki
+D8B20	Jun
+D8B28	Pierre
+D8B34	Ricky
+D8B54	Aiko	?unknown use (default name list); romanised
+D8BE4	                                <$81><$9B>：Okay
+DBA68	%2d/%2d
+DD9D0	Connecting.[LR]Please wait a moment.	?ad-hoc/online message
+DDE34	Doko Demo Issyo Staff
+DDE50	Plan/Dev.
+DDE68	Game Design
+DDE90	Character Design
+DDEB0	Game Programming
+DDED8	加治 譲 (Land Ho!)
+DDEF4	林 雅人 (Land Ho!)
+DDF10	新井 朗 (Land Ho!)
+DDF2C	Dialog Script
+DDF5C	Script Programming
+DDF80	Graphics
+DDFBC	Animation
+DDFD8	Font Design
+DDFEC	Diary
+DE000	Assistant
+DE01C	Project Manager
+DE038	Photo Partners
+DE048	Igarashi Dental
+DE060	Onigunso JAMJAMJAM	?reading of オニグンソー
+DE08C	Arai Sushi HQ	?company name reading
+DE0A4	Hotel Tokyo Co.
+DE0CC	Konenji Temple	?reading of 光念寺
+DE0DC	Genghis BBQ ZIKO
+DE0F4	Daiei Seika Co.	?reading of 大栄製菓
+DE110	Tsuru-yu
+DE11C	Kenwa Hospital	?reading of 健和
+DE12C	Mukuge
+DE148	Rakuraku Studio
+DE15C	BGM
+DE188	Sound Effects
+DE19C	Sound System Program
+DE1C0	& Support
+DE1EC	Sound Management
+DE210	Package Coordination
+DE250	森 綾子 (SMC)
+DE260	Package/Manual Design
+DE284	Manual Editing
+DE2A0	QA Management
+DE2C0	QA Staff
+DE370	Promotion
+DE3A4	Marketing
+DE3D8	Special Thanks
+DE450	塚本 昌信 (Land Ho!)
+DE46C	Director
+DE488	Producer
+DE4B0	Executive Producer
+DE4E8	Supervisor

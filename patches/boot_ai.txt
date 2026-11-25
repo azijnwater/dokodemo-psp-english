@@ -1,0 +1,297 @@
+// Doko Demo Issyo PSP English Translation Project
+// GENERATED FILE - machine (AI) translation of BOOT.BIN text not covered by patches/boot.txt.
+// Regenerate with: python scripts/ai/gen_boot.py   (applied after boot.txt)
+
+#SETTARGETFILE("build/PSP_GAME/SYSDIR/BOOT.BIN")
+#VAR(Table, TABLE)
+#ADDTBL("shiftjis.tbl", Table)
+#ACTIVETBL(Table)
+
+//トロ
+#JMP($D8B10)
+#FIXEDLENGTH(4,0)
+Toro<END>
+
+//スズキ
+#JMP($D8B18)
+#FIXEDLENGTH(6,0)
+Suzuki<END>
+
+//ジュン
+#JMP($D8B20)
+#FIXEDLENGTH(6,0)
+Jun<END>
+
+//ピエール
+#JMP($D8B28)
+#FIXEDLENGTH(8,0)
+Pierre<END>
+
+//リッキー
+#JMP($D8B34)
+#FIXEDLENGTH(8,0)
+Ricky<END>
+
+// AI-UNSURE: unknown use (default name list); romanised
+//アイコ
+#JMP($D8B54)
+#FIXEDLENGTH(6,0)
+Aiko<END>
+
+//                                ○：確認
+#JMP($D8BE4)
+#FIXEDLENGTH(40,0)
+                                <$81><$9B>：Okay<END>
+
+//%2d月%2d日
+#JMP($DBA68)
+#FIXEDLENGTH(10,0)
+%2d/%2d<END>
+
+// AI-UNSURE: ad-hoc/online message
+//接続中です。
+しばらくお待ちください。
+#JMP($DD9D0)
+#FIXEDLENGTH(37,0)
+Connecting.[LR]Please wait a moment.<END>
+
+//どこでもいっしょ スタッフ
+#JMP($DDE34)
+#FIXEDLENGTH(25,0)
+Doko Demo Issyo Staff<END>
+
+//企画・開発
+#JMP($DDE50)
+#FIXEDLENGTH(10,0)
+Plan/Dev.<END>
+
+//ゲームデザイン
+#JMP($DDE68)
+#FIXEDLENGTH(14,0)
+Game Design<END>
+
+//キャラクターデザイン
+#JMP($DDE90)
+#FIXEDLENGTH(20,0)
+Character Design<END>
+
+//ゲーム・プログラム
+#JMP($DDEB0)
+#FIXEDLENGTH(18,0)
+Game Programming<END>
+
+//加治 譲（ランド・ホー！）
+#JMP($DDED8)
+#FIXEDLENGTH(25,0)
+加治 譲 (Land Ho!)<END>
+
+//林 雅人（ランド・ホー！）
+#JMP($DDEF4)
+#FIXEDLENGTH(25,0)
+林 雅人 (Land Ho!)<END>
+
+//新井 朗（ランド・ホー！）
+#JMP($DDF10)
+#FIXEDLENGTH(25,0)
+新井 朗 (Land Ho!)<END>
+
+//会話スクリプト
+#JMP($DDF2C)
+#FIXEDLENGTH(14,0)
+Dialog Script<END>
+
+//スクリプト・プログラム
+#JMP($DDF5C)
+#FIXEDLENGTH(22,0)
+Script Programming<END>
+
+//グラフィック
+#JMP($DDF80)
+#FIXEDLENGTH(12,0)
+Graphics<END>
+
+//アニメーション
+#JMP($DDFBC)
+#FIXEDLENGTH(14,0)
+Animation<END>
+
+//フォントデザイン
+#JMP($DDFD8)
+#FIXEDLENGTH(16,0)
+Font Design<END>
+
+//絵日記
+#JMP($DDFEC)
+#FIXEDLENGTH(6,0)
+Diary<END>
+
+//アシスタント
+#JMP($DE000)
+#FIXEDLENGTH(12,0)
+Assistant<END>
+
+//プロジェクト マネージャー
+#JMP($DE01C)
+#FIXEDLENGTH(25,0)
+Project Manager<END>
+
+//写真撮影 協力店
+#JMP($DE038)
+#FIXEDLENGTH(15,0)
+Photo Partners<END>
+
+//五十嵐歯科クリニック
+#JMP($DE048)
+#FIXEDLENGTH(20,0)
+Igarashi Dental<END>
+
+// AI-UNSURE: reading of オニグンソー
+//オニグンソーJAMJAMJAM
+#JMP($DE060)
+#FIXEDLENGTH(21,0)
+Onigunso JAMJAMJAM<END>
+
+// AI-UNSURE: company name reading
+//株式会社 あら井鮨総本店
+#JMP($DE08C)
+#FIXEDLENGTH(23,0)
+Arai Sushi HQ<END>
+
+//株式会社 ホテル東京
+#JMP($DE0A4)
+#FIXEDLENGTH(19,0)
+Hotel Tokyo Co.<END>
+
+// AI-UNSURE: reading of 光念寺
+//宗教法人 光念寺
+#JMP($DE0CC)
+#FIXEDLENGTH(15,0)
+Konenji Temple<END>
+
+//ジンギスカンの店 ZIKO
+#JMP($DE0DC)
+#FIXEDLENGTH(21,0)
+Genghis BBQ ZIKO<END>
+
+// AI-UNSURE: reading of 大栄製菓
+//大栄製菓株式会社
+#JMP($DE0F4)
+#FIXEDLENGTH(16,0)
+Daiei Seika Co.<END>
+
+//つるの湯
+#JMP($DE110)
+#FIXEDLENGTH(8,0)
+Tsuru-yu<END>
+
+// AI-UNSURE: reading of 健和
+//みさと健和病院
+#JMP($DE11C)
+#FIXEDLENGTH(14,0)
+Kenwa Hospital<END>
+
+//無窮花（ムクゲ）
+#JMP($DE12C)
+#FIXEDLENGTH(16,0)
+Mukuge<END>
+
+//らくらくスタジオ
+#JMP($DE148)
+#FIXEDLENGTH(16,0)
+Rakuraku Studio<END>
+
+//音楽
+#JMP($DE15C)
+#FIXEDLENGTH(4,0)
+BGM<END>
+
+//サウンドエフェクト
+#JMP($DE188)
+#FIXEDLENGTH(18,0)
+Sound Effects<END>
+
+//サウンドシステムプログラム
+#JMP($DE19C)
+#FIXEDLENGTH(26,0)
+Sound System Program<END>
+
+//＆サポート
+#JMP($DE1C0)
+#FIXEDLENGTH(10,0)
+& Support<END>
+
+//サウンドマネージメント
+#JMP($DE1EC)
+#FIXEDLENGTH(22,0)
+Sound Management<END>
+
+//パッケージコーディネート
+#JMP($DE210)
+#FIXEDLENGTH(24,0)
+Package Coordination<END>
+
+//森 綾子（SMC）
+#JMP($DE250)
+#FIXEDLENGTH(14,0)
+森 綾子 (SMC)<END>
+
+//パッケージ／解説書デザイン
+#JMP($DE260)
+#FIXEDLENGTH(26,0)
+Package/Manual Design<END>
+
+//解説書編集作成
+#JMP($DE284)
+#FIXEDLENGTH(14,0)
+Manual Editing<END>
+
+//QAマネージメント
+#JMP($DE2A0)
+#FIXEDLENGTH(16,0)
+QA Management<END>
+
+//QAスタッフ
+#JMP($DE2C0)
+#FIXEDLENGTH(10,0)
+QA Staff<END>
+
+//プロモーション
+#JMP($DE370)
+#FIXEDLENGTH(14,0)
+Promotion<END>
+
+//マーケティング
+#JMP($DE3A4)
+#FIXEDLENGTH(14,0)
+Marketing<END>
+
+//スペシャルサンクス
+#JMP($DE3D8)
+#FIXEDLENGTH(18,0)
+Special Thanks<END>
+
+//塚本 昌信（ランド・ホー！）
+#JMP($DE450)
+#FIXEDLENGTH(27,0)
+塚本 昌信 (Land Ho!)<END>
+
+//ディレクター
+#JMP($DE46C)
+#FIXEDLENGTH(12,0)
+Director<END>
+
+//プロデューサー
+#JMP($DE488)
+#FIXEDLENGTH(14,0)
+Producer<END>
+
+//エグゼクティブプロデューサー
+#JMP($DE4B0)
+#FIXEDLENGTH(28,0)
+Executive Producer<END>
+
+//スーパーバイザー
+#JMP($DE4E8)
+#FIXEDLENGTH(16,0)
+Supervisor<END>
+
