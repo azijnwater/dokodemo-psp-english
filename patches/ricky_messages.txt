@@ -41755,6 +41755,234 @@ That's what[LR]
 matters, I[LR]
 learned![LR]<END>
 
+//心と 技と 体…[LR]<END>
+#JMP($63C45)
+#FIXEDLENGTH(15,0)
+Mind, body![LR]<END>
+
+//これらが 一体になって 初めて、<END>
+#JMP($63C79)
+#FIXEDLENGTH(30,0)
+Only when they become one,<END>
+
+//強さというモノが 生まれると、悟るコトが できた[KERO]！[LR]<END>
+#JMP($63C99)
+#FIXEDLENGTH(52,0)
+is strength[LR]
+born, I realized![LR]<END>
+
+//[WORD0]の おかげ<$17><$19><$00>[LR]<END>
+#JMP($63CE0)
+#FIXEDLENGTH(18,0)
+Thanks to[LR]
+[WORD0][LR]<END>
+
+//前には、戦う時は必ず…[LR]<END>
+#JMP($63D05)
+#FIXEDLENGTH(23,0)
+I used to fight…[LR]<END>
+
+//不安でいっぱいだったんだ[KERO]も…[LR]<END>
+#JMP($63D21)
+#FIXEDLENGTH(32,0)
+I was full of[LR]
+worry…[LR]<END>
+
+//なぜか 今は 不思議と 落ち着いている<$17><$19><$00>…[LR]<END>
+#JMP($63D4C)
+#FIXEDLENGTH(41,0)
+but now I'm[LR]
+strangely calm…[LR]<END>
+
+//これが 強さなのだろうか…[LR]<END>
+#JMP($63D80)
+#FIXEDLENGTH(26,0)
+Is this strength…[LR]<END>
+
+//答えは…[LR]<END>
+#JMP($63DA5)
+#FIXEDLENGTH(9,0)
+Answer…[LR]<END>
+
+//「ＵＦＡ 世界大会」で わかると思う[KERO]！[LR]<END>
+#JMP($63DB3)
+#FIXEDLENGTH(40,0)
+I'll find at the[LR]
+"UFA World[LR]
+Cup"![LR]<END>
+
+//今度の旅は…長く…[LR]<END>
+#JMP($63DFB)
+#FIXEDLENGTH(19,0)
+This trip…long…[LR]<END>
+
+//とても 長くなりそう<$17><$19><$00>…[LR]<END>
+#JMP($63E10)
+#FIXEDLENGTH(25,0)
+will be very[LR]
+long…[LR]<END>
+
+//もしかすると、もう二度と…[LR]<END>
+#JMP($63E34)
+#FIXEDLENGTH(27,0)
+Maybe, never[LR]
+again…[LR]<END>
+
+//いや…きっと…[LR]<END>
+#JMP($63E5A)
+#FIXEDLENGTH(15,0)
+No…surely…[LR]<END>
+
+//きっと、生きていれば 世界のどこかで また会える[KERO]！[LR]<END>
+#JMP($63E74)
+#FIXEDLENGTH(52,0)
+if we live, we'll[LR]
+meet again[LR]
+somewhere![LR]<END>
+
+//今度 会うときは「ＵＦＡチャンピオン」の ベルトを巻いて…[LR]<END>
+#JMP($63EB3)
+#FIXEDLENGTH(57,0)
+Next time,[LR]
+wearin' the[LR]
+"UFA Champion"[LR]
+belt…[LR]<END>
+
+//必ず [WORD0]に会う<$17><$19><$00>よ！[LR]<END>
+#JMP($63EFF)
+#FIXEDLENGTH(24,0)
+I'll come see[LR]
+[WORD0]![LR]<END>
+
+//だから [WORD0]…[LR]<END>
+#JMP($63F2A)
+#FIXEDLENGTH(15,0)
+So, [WORD0]…[LR]<END>
+
+//約束する[KERO]…[LR]<END>
+#JMP($63F3B)
+#FIXEDLENGTH(14,0)
+I promise…[LR]<END>
+
+//[WORD0]にも、これから…[LR]<END>
+#JMP($63F5C)
+#FIXEDLENGTH(22,0)
+[WORD0], from[LR]
+now on…[LR]<END>
+
+//苦しいコト、つらいコト、悲しいコト…[LR]<END>
+#JMP($63F74)
+#FIXEDLENGTH(37,0)
+pain, hardship,[LR]
+sadness…[LR]<END>
+
+//いろんな困難が まっているかも しれない…[LR]<END>
+#JMP($63F9E)
+#FIXEDLENGTH(41,0)
+all kinds of[LR]
+trouble may[LR]
+await…[LR]<END>
+
+//ガンバって欲しい[KERO]！[LR]<END>
+#JMP($63FFF)
+#FIXEDLENGTH(22,0)
+Do your best![LR]<END>
+
+//なあに、[WORD0]なら乗り越えられる<$17><$19><$00>よ！[LR]<END>
+#JMP($64028)
+#FIXEDLENGTH(39,0)
+Aw, [WORD0][LR]
+can get past it![LR]<END>
+
+//ツラくて悲しくて…[LR]<END>
+#JMP($64069)
+#FIXEDLENGTH(19,0)
+Hard and sad…[LR]<END>
+
+//苦しくてたまらない時…[LR]<END>
+#JMP($6407E)
+#FIXEDLENGTH(23,0)
+when it's[LR]
+unbearable…[LR]<END>
+
+//そんな時は [WORD0]の顔を 思い出す[KERO]よ！[LR]<END>
+#JMP($640A8)
+#FIXEDLENGTH(39,0)
+I'll think of[LR]
+[WORD0]'s face![LR]<END>
+
+//[WORD0]の[LR]<END>
+#JMP($640DC)
+#FIXEDLENGTH(8,0)
+[WORD0]'s[LR]<END>
+
+//笑った顔…[LR]<END>
+#JMP($640EC)
+#FIXEDLENGTH(11,0)
+smilin'…[LR]<END>
+
+//怒った顔…[LR]<END>
+#JMP($64102)
+#FIXEDLENGTH(11,0)
+angry…[LR]<END>
+
+//泣いた顔…[LR]<END>
+#JMP($64118)
+#FIXEDLENGTH(11,0)
+cryin'…[LR]<END>
+
+//を 思い出したなら…[LR]<END>
+#JMP($6412E)
+#FIXEDLENGTH(20,0)
+if I remember…[LR]<END>
+
+//どんなコトでも 打ち勝てる…[LR]<END>
+#JMP($6414D)
+#FIXEDLENGTH(28,0)
+I can overcome[LR]
+anything…[LR]<END>
+
+//そんな気が する<$17><$19><$00>よ[LR]<END>
+#JMP($64174)
+#FIXEDLENGTH(21,0)
+I feel like that[LR]<END>
+
+//どこでもいっしょ[KERO]！[LR]<END>
+#JMP($641C6)
+#FIXEDLENGTH(22,0)
+Doko Demo[LR]
+Issyo![LR]<END>
+
+//じゃあ、そろそろ行く<$17><$19><$00>…[LR]<END>
+#JMP($641F0)
+#FIXEDLENGTH(26,0)
+Well, time to go…[LR]<END>
+
+//それでは…[LR]<END>
+#JMP($64215)
+#FIXEDLENGTH(11,0)
+So then…[LR]<END>
+
+//短い間だった[KERO]も…[LR]<END>
+#JMP($64222)
+#FIXEDLENGTH(20,0)
+It was short…[LR]<END>
+
+//お世話に なった<$17><$19><$00>！[LR]<END>
+#JMP($64241)
+#FIXEDLENGTH(21,0)
+thanks for all![LR]<END>
+
+//元気でな！[LR]<END>
+#JMP($64261)
+#FIXEDLENGTH(11,0)
+Take care![LR]<END>
+
+//ありがとう!![LR]<END>
+#JMP($64283)
+#FIXEDLENGTH(13,0)
+Thank you!![LR]<END>
+
 //だケロも…[LR]<END>
 #JMP($662EC)
 #FIXEDLENGTH(11,0)

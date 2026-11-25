@@ -147,6 +147,14 @@ def covered(char):
     return s
 
 
+LABEL = re.compile(r'[^\[\]<>$ ]*_\d+[a-z]?')
+
+
+def is_label(t):
+    """Internal script labels such as 'におい_43b' or '入力_34' are never shown."""
+    return bool(LABEL.fullmatch(t))
+
+
 def strings(char):
     ksc = CHARS[char][0]
     return kscparse.extract(os.path.join(ROOT, 'extract', ksc + '.KSC'))
@@ -157,7 +165,7 @@ def worklist(char):
     seen = {}
     rows = []
     for off, ln, t in strings(char):
-        if off in cov:
+        if off in cov or is_label(t):
             continue
         if t in seen:
             seen[t][1] += 1

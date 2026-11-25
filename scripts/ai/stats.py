@@ -14,7 +14,7 @@ for char in g.CHARS:
     done = skip = unsure = 0
     left = set()
     for o, l, t in strs:
-        if o in cov:
+        if o in cov or g.is_label(t):
             continue
         if t in texts:
             en, un, _ = texts[t]
