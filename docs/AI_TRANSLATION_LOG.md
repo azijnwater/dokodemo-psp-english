@@ -87,8 +87,8 @@ Suzuki (ROBO), Jun (USAGI) and Pierre (INU) are parked until the user has played
 | 1 | NEKO.KSC (all Toro dialogue, diary/outing/room-item/menu strings) | **done**: 0 untranslated |
 | 2 | NEKO.DIC (Toro's dictionary) | **done**: 151 of 160 words (9 left in Japanese) |
 | 3 | BOOT.BIN system text | **done** for real menu/system text (56 strings); keyboards and staff names deliberately left |
-| 4 | Other DATA.BP text | pending |
-| 5 | GUI textures with Japanese | pending (report only) |
+| 4 | Other DATA.BP text | **surveyed**: no other script text; nothing to patch |
+| 5 | GUI textures with Japanese | **reported** (2 groups left for a human) |
 
 ### Phase 1 notes (NEKO.KSC)
 - 185 entries are marked `// AI-UNSURE` in `patches/toro_ai_messages.txt`. Most are
@@ -152,3 +152,40 @@ Suzuki (ROBO), Jun (USAGI) and Pierre (INU) are parked until the user has played
     sets, not text; not patched.
 - Typed-answer match words in NEKO.KSC (phase 1) should now work: the default keypad
   types English letters.
+
+### Phase 4 notes (other DATA.BP text)
+- DATA.BP (from the ISO, gitignored `ai_scratch/`) was unpacked with
+  `toolsparpar_cosmo.com -x`: 731 BPMs. Families: `F*` fonts (68), `W*/E*/D*/S*`
+  (≈490, each a single GIM: picture-diary photos/drawings and event pictures per Pokepi,
+  `_N` = Toro), `BG_*` backgrounds and room-item 3D models, `*CG` character models,
+  `KS*` (KSC/DIC, already handled) and the GUI archives (DATA, TITLE, OPTION, ENIKKI,
+  ENIKKI_O, MKOTOBA, MTOMO, MOCHI, MEISHI, PRESENT, SHIRITORI, TSUUSHIN, QUICK).
+- Every non-image file in those archives was scanned for Shift-JIS text:
+  - GUI layout files (`*.CB2A`) and models (`*.DVS/*.DAK/*.ASC`): no text, only noise.
+  - `DATA/GUI/DIC/NJ*.A`, `CUSTOM.A`: the software keyboard's kana→kanji conversion
+    dictionary (IME). Conversion candidates, not displayed game text; left alone.
+  - `DATA/FONT/FONT.XFT`: the font.
+  - `SBOARD.BPM` only holds a dummy texture: town signboard text comes from NEKO.KSC
+    (translated in phase 1).
+- Result: in a Toro save, all script text lives in NEKO.KSC, NEKO.DIC and BOOT.BIN.
+  Item, gift, shiritori and name-card *text* is in NEKO.KSC (done); what's left
+  is in textures (phase 5). No build-script changes were needed for phase 4.
+- The diary/event pictures are real photos and drawings. Some photos contain incidental
+  Japanese signs, which are scenery, not UI text.
+
+### Phase 5 notes (GUI textures, report only)
+All 781 GUI GIMs from the archives above were converted to PNG and compared against the
+198 already-translated textures in `textures/GUI/`. Of the 583 not yet replaced, almost
+all are frames, bars, icons or already-English (abc/ABC keypad keys, "Yes/No",
+"Option", "COUNTDOWN", name-card labels). **Still Japanese and visible in normal Toro
+play:**
+
+| Texture (DATA.BP path) | Contents | Notes |
+|---|---|---|
+| `GUI/TITLE/ALERT.GIM` | CERO "rating pending" + "this software may differ from the retail version…" boot warning | Shown at boot. Plain white text on black, easy to remake. |
+| `GUI/KOTOBA_MEMO/TABMENU1.GIM`–`TABMENU10.GIM` | Kana index tabs あ か さ た な は ま や ら わ of the word memo (ABC tab TABMENU11 is already English) | Words are still filed under their Japanese index kana (the .DIC index field was not changed), so these tabs still match the data. Changing them needs a decision on sorting English words. |
+
+Not counted as text: tiny item icons in `GUI/MOCHIMONO` (`I_*.GIM`, e.g. a poster or shop
+sign drawn on an icon).
+No new images were made: these need someone who can match the existing translated
+textures' style.
