@@ -3394,10 +3394,44 @@ I see…[LR]<END>
 Livin' without[LR]
 workin'…[LR]<END>
 
+//もしや…[WORD0]…[LR]<END>
+#JMP($1233D)
+#FIXEDLENGTH(16,0)
+Maybe…[WORD0]…[LR]<END>
+
+//…狩りの名人？[LR]<END>
+#JMP($12358)
+#FIXEDLENGTH(15,0)
+…a top hunter?<END>
+
+//今度、オラに [WORD2]の捕り方でも教えてくれ[KERO]～♪[LR]<END>
+#JMP($12376)
+#FIXEDLENGTH(48,0)
+Teach me how[LR]
+to catch[LR]
+[WORD2][LR]
+sometime～♪[LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($123B1)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
+
+//[WORD0]は 働いてる<$17><$19><$00>か～[LR]<END>
+#JMP($123CA)
+#FIXEDLENGTH(24,0)
+So [WORD0][LR]
+works<$17><$19><$00>～[LR]<END>
+
+//ところで…[LR]<END>
+#JMP($12401)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
+
+//[WORD4]はツライ<$17><$19><$00>か？<END>
+#JMP($12435)
+#FIXEDLENGTH(20,0)
+[WORD4] is rough?<END>
 
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($1246B)
@@ -3409,20 +3443,1752 @@ I see…[LR]<END>
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
 
+//何にせよ 人間は お仕事しなきゃ、食っていけない…[LR]<END>
+#JMP($1249A)
+#FIXEDLENGTH(49,0)
+Anyway, humans[LR]
+gotta work or[LR]
+they can't eat…[LR]<END>
+
+//その点 カエルの方が シアワセな 人生かもしれない<$17><$19><$00>な～[LR]<END>
+#JMP($124D6)
+#FIXEDLENGTH(55,0)
+Maybe frogs[LR]
+have the[LR]
+happier[LR]
+life<$17><$19><$00>～[LR]<END>
+
+//[WORD0]が 住んでる場所って…[LR]<END>
+#JMP($12529)
+#FIXEDLENGTH(27,0)
+Where [WORD0][LR]
+lives…[LR]<END>
+
+//何て 地名だ[KERO]？<END>
+#JMP($1254F)
+#FIXEDLENGTH(16,0)
+What's it named?<END>
+
+//[WORD0]は 空気が おいしいトコロ<$17><$19><$00>か？<END>
+#JMP($1256A)
+#FIXEDLENGTH(36,0)
+Does [WORD0] have fresh air<$17><$19><$00>?<END>
+
+//そう<$17><$19><$00>か♪[LR]<END>
+#JMP($125B0)
+#FIXEDLENGTH(12,0)
+I see♪[LR]<END>
+
+//[WORD2]が いいトコロに 住んでいて <$17><$1B><$00> ありがたいッス♪[LR]<END>
+#JMP($125F8)
+#FIXEDLENGTH(53,0)
+Glad [WORD2][LR]
+lives in a nice[LR]
+place <$17><$1B><$00>♪[LR]<END>
+
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($12639)
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
+
+//[WORD0]もすっかり、都会に なっちまったん<$17><$19><$00>なァ…[LR]<END>
+#JMP($12650)
+#FIXEDLENGTH(48,0)
+[WORD0] sure[LR]
+turned into a[LR]
+big city<$17><$19><$00>…[LR]<END>
+
+//１０年前は そんなでは なかった<$17><$19><$00>よ…[LR]<END>
+#JMP($1268B)
+#FIXEDLENGTH(38,0)
+It wasn't like[LR]
+that 10 years[LR]
+ago…[LR]<END>
+
+//[WORD1]の 通ってる 学校<END>
+#JMP($1276A)
+#FIXEDLENGTH(21,0)
+[WORD1]'s school<END>
+
+//[WORD1]が 働いてる 会社<END>
+#JMP($1281B)
+#FIXEDLENGTH(21,0)
+[WORD1]'s company<END>
+
+//[WORD2]の 住んでる地名 おしえて？<END>
+#JMP($12880)
+#FIXEDLENGTH(31,0)
+Where does [WORD2] live?<END>
+
+//ただいま[KERO]～[LR]<END>
+#JMP($128C7)
+#FIXEDLENGTH(14,0)
+I'm back～[LR]<END>
+
+//ここが、[LR]「[VAR0]」 <$17><$19><$00>か～？[LR]<END>
+#JMP($128E3)
+#FIXEDLENGTH(27,0)
+So this is[LR]
+"[VAR0]"<$17><$19><$00>～?[LR]<END>
+
+//[WORD0]、 だ[KERO]～♪[LR]<END>
+#JMP($1290C)
+#FIXEDLENGTH(18,0)
+[WORD0][KERO]～♪[LR]<END>
+
+//なんて [WORD1]な [WORD0]だ[KERO]～♪[LR]<END>
+#JMP($12932)
+#FIXEDLENGTH(30,0)
+What a[LR]
+[WORD1][LR]
+[WORD0][KERO]～♪[LR]<END>
+
+//あ、そぅそぅ！[LR]<END>
+#JMP($1295B)
+#FIXEDLENGTH(15,0)
+Oh, right![LR]<END>
+
+//[WORD0]に来たからには、[WORD1]の勉強をしないといけない<$17><$19><$00>な！[LR]<END>
+#JMP($12975)
+#FIXEDLENGTH(58,0)
+Now I'm in[LR]
+[WORD0], I[LR]
+gotta study[LR]
+[WORD1]![LR]<END>
+
+//[WORD1]に カンケーあるコトバ、おしえて[KERO]～？[LR]<END>
+#JMP($129BA)
+#FIXEDLENGTH(44,0)
+Teach me words[LR]
+about[LR]
+[WORD1]～?[LR]<END>
+
+//こ、これは！[LR]<END>
+#JMP($129F1)
+#FIXEDLENGTH(13,0)
+Wh-whoa![LR]<END>
+
+//おぉ～[LR]いいモノ もらった[KERO]～♪[LR]<END>
+#JMP($12A0F)
+#FIXEDLENGTH(32,0)
+Ooh～[LR]
+I got a nice[LR]
+thing～♪[LR]<END>
+
+//もったいないダス…[LR]<END>
+#JMP($12A3D)
+#FIXEDLENGTH(19,0)
+Too good for[LR]
+me…[LR]<END>
+
+//ん？[LR]<END>
+#JMP($12A5E)
+#FIXEDLENGTH(5,0)
+Hm?[LR]<END>
+
+//誰か 呼んだ[KERO]？<END>
+#JMP($12A65)
+#FIXEDLENGTH(16,0)
+Somebody call?<END>
+
+//おはなしの 途中ですが…[LR]<END>
+#JMP($12A83)
+#FIXEDLENGTH(24,0)
+Sorry to butt[LR]
+in…[LR]<END>
+
+//おや、クロネコさん<$17><$19><$00>か～[LR]<END>
+#JMP($12AA9)
+#FIXEDLENGTH(26,0)
+Oh, Mr.[LR]
+Kuroneko<$17><$19><$00>～[LR]<END>
+
+//毎度！[LR]<END>
+#JMP($12AD1)
+#FIXEDLENGTH(7,0)
+Hiya![LR]<END>
+
+//クロネコ 土産屋ですみャ～[LR]<END>
+#JMP($12ADA)
+#FIXEDLENGTH(26,0)
+Kuroneko[LR]
+Souvenirs, mya～[LR]<END>
+
+//いいモノが あるんですが…[LR]<END>
+#JMP($12AF9)
+#FIXEDLENGTH(26,0)
+I've got good[LR]
+stuff…[LR]<END>
+
+//[WORD0]に来た おみやげに…[LR]<END>
+#JMP($12B18)
+#FIXEDLENGTH(25,0)
+A souvenir of[LR]
+[WORD0]…[LR]<END>
+
+//おひとつ どうですみャ？[LR]<END>
+#JMP($12B33)
+#FIXEDLENGTH(24,0)
+How 'bout one,[LR]
+mya?[LR]<END>
+
+//[WORD0]の おみやげ<$17><$19><$00>か！[LR]<END>
+#JMP($12B56)
+#FIXEDLENGTH(24,0)
+[WORD0][LR]
+souvenir<$17><$19><$00>![LR]<END>
+
+//それはいい[KERO]～♪[LR]<END>
+#JMP($12B70)
+#FIXEDLENGTH(18,0)
+Sounds good～♪[LR]<END>
+
+//うーむ…[LR]<END>
+#JMP($12B8D)
+#FIXEDLENGTH(9,0)
+Hmmm…[LR]<END>
+
+//どっちに する<$17><$19><$00>かねェ～？<END>
+#JMP($12B98)
+#FIXEDLENGTH(26,0)
+Which one<$17><$19><$00>～?<END>
+
+//毎度 どうも～[LR]<END>
+#JMP($12BB7)
+#FIXEDLENGTH(14,0)
+Thank you～[LR]<END>
+
+//じゃあ これ…[LR]<END>
+#JMP($12BCA)
+#FIXEDLENGTH(14,0)
+So this one…[LR]<END>
+
+//部屋に 届けとくみャ～<END>
+#JMP($12BDA)
+#FIXEDLENGTH(21,0)
+I'll send it, mya～<END>
+
+//さっそく お部屋に かえって、中身を 見る<$17><$19><$00>～！[LR]<END>
+#JMP($12C01)
+#FIXEDLENGTH(47,0)
+I'll go back to[LR]
+my room and[LR]
+look[LR]
+inside<$17><$19><$00>～![LR]<END>
+
+//ひとり連想ゲーム<$17><$19><$00>！[LR]<END>
+#JMP($12C3F)
+#FIXEDLENGTH(22,0)
+Solo word[LR]
+game<$17><$19><$00>![LR]<END>
+
+//「[VAR0]」に カンケー あるもの～[LR]<END>
+#JMP($12C5A)
+#FIXEDLENGTH(30,0)
+Things about[LR]
+"[VAR0]"～[LR]<END>
+
+//「[VAR0]」[LR]<END>
+#JMP($12C83)
+#FIXEDLENGTH(8,0)
+"[VAR0]"[LR]<END>
+
+//以上！[LR]<END>
+#JMP($12CA4)
+#FIXEDLENGTH(7,0)
+Done![LR]<END>
+
+//おしまい<$17><$19><$00>～！[LR]<END>
+#JMP($12CB6)
+#FIXEDLENGTH(16,0)
+The end<$17><$19><$00>～![LR]<END>
+
+//[WORD1]、[WORD0]に だんだん くわしくなってきた[KERO]よ～[LR]<END>
+#JMP($12CD9)
+#FIXEDLENGTH(50,0)
+[WORD1], I'm[LR]
+learnin' lots[LR]
+'bout [WORD0]～[LR]<END>
+
+//[WORD0]に 来たからには…[LR]<END>
+#JMP($12D16)
+#FIXEDLENGTH(23,0)
+Now in[LR]
+[WORD0]…[LR]<END>
+
+//[WORD1]のコト 勉強しないといかん<$17><$19><$00>な！[LR]<END>
+#JMP($12D2F)
+#FIXEDLENGTH(38,0)
+I gotta study[LR]
+about [WORD1]![LR]<END>
+
+//ん？[LR]<END>
+#JMP($12D60)
+#FIXEDLENGTH(5,0)
+Hm?[LR]<END>
+
+//[WORD0]に カンケー あるのが [WORD1]？[LR]<END>
+#JMP($12D67)
+#FIXEDLENGTH(34,0)
+Related to[LR]
+[WORD0] is[LR]
+[WORD1]?[LR]<END>
+
+//よく 考えたら 同じコトバ<$17><$19><$00>な…[LR]<END>
+#JMP($12D8B)
+#FIXEDLENGTH(32,0)
+Come to think,[LR]
+same[LR]
+word<$17><$19><$00>…[LR]<END>
+
+//というワケで～[LR]<END>
+#JMP($12DBD)
+#FIXEDLENGTH(15,0)
+And so～[LR]<END>
+
+//突然<$17><$19><$00>が～[LR]<END>
+#JMP($12DD2)
+#FIXEDLENGTH(12,0)
+Sorry but～[LR]<END>
+
+//[WORD1] 行ってくる[KERO]～[LR]<END>
+#JMP($12DF1)
+#FIXEDLENGTH(22,0)
+Off to[LR]
+[WORD1]～[LR]<END>
+
+//おでかけ してくる[KERO]～[LR]<END>
+#JMP($12E0D)
+#FIXEDLENGTH(23,0)
+I'm goin' out～[LR]<END>
+
+//あ、もう ひとつ おしえてくれダス！[LR]<END>
+#JMP($12E2F)
+#FIXEDLENGTH(35,0)
+Ah, teach me[LR]
+one more, dasu![LR]<END>
+
+//そういや…[LR]<END>
+#JMP($12E5D)
+#FIXEDLENGTH(11,0)
+Say…[LR]<END>
+
+//新しい おみやげが 欲しくなって きたダスなぁ…[LR]<END>
+#JMP($12E6D)
+#FIXEDLENGTH(46,0)
+I'm startin' to[LR]
+want a new[LR]
+souvenir…[LR]<END>
+
+//でも もちもの いっぱいで…[LR]<END>
+#JMP($12EA9)
+#FIXEDLENGTH(27,0)
+But my stuff's[LR]
+full…[LR]<END>
+
+//これ以上は 部屋に 入らないケロ…<END>
+#JMP($12EC6)
+#FIXEDLENGTH(32,0)
+No more fits in my room, kero…<END>
+
+//そろそろ いらないのは 捨てた方が イイと思うダスよ！[LR]<END>
+#JMP($12EF9)
+#FIXEDLENGTH(52,0)
+Time to toss[LR]
+what you don't[LR]
+need, I think,[LR]
+dasu![LR]<END>
 
 //あ！[LR]<END>
 #JMP($12F3B)
 #FIXEDLENGTH(5,0)
 Ah![LR]<END>
 
+//これ以上 お部屋に モノを 増やせないケロ！<END>
+#JMP($12F4B)
+#FIXEDLENGTH(41,0)
+Can't put more stuff in the room!<END>
+
+//新しい おみやげを 手に入れるには…[LR]<END>
+#JMP($12F87)
+#FIXEDLENGTH(35,0)
+To get a new[LR]
+souvenir…[LR]<END>
+
+//どれか いらないのを 捨てないと ダメダスなぁ…[LR]<END>
+#JMP($12FB5)
+#FIXEDLENGTH(46,0)
+gotta toss[LR]
+somethin' you[LR]
+don't need…[LR]<END>
+
+//[WORD4] おしえて[KERO]～<END>
+#JMP($134C9)
+#FIXEDLENGTH(19,0)
+Teach me [WORD4]～<END>
+
+//[WORD2]に カンケーある コトバ おしえてくれダス！<END>
+#JMP($13A7C)
+#FIXEDLENGTH(46,0)
+Teach me words about [WORD2], dasu!<END>
+
+//まだ あまり コトバ覚えてないので…[LR]<END>
+#JMP($13CBA)
+#FIXEDLENGTH(35,0)
+I don't know[LR]
+many words[LR]
+yet…[LR]<END>
+
+//もう少し 勉強してから じゃないと…[LR]<END>
+#JMP($13CE8)
+#FIXEDLENGTH(35,0)
+I gotta study[LR]
+more first…[LR]<END>
+
+//おでかけ できない[KERO]～[LR]<END>
+#JMP($13D0D)
+#FIXEDLENGTH(23,0)
+or I can't go[LR]
+out～[LR]<END>
+
+//すまない<$17><$19><$00>…[LR]<END>
+#JMP($13D2F)
+#FIXEDLENGTH(14,0)
+Sorry<$17><$19><$00>…[LR]<END>
+
+//どこに 行くダスか？<END>
+#JMP($13D4B)
+#FIXEDLENGTH(19,0)
+Where to, dasu?<END>
+
+// AI-UNSURE: [VAR1] is probably a verb like 行って
+//[WORD0]に [VAR1]くる[KERO]～[LR]<END>
+#JMP($13D69)
+#FIXEDLENGTH(21,0)
+Gonna [VAR1][LR]
+[WORD0]～[LR]<END>
+
+//そうだ！[LR][WORD0]に 行ってみるダス！[LR]<END>
+#JMP($13D89)
+#FIXEDLENGTH(34,0)
+I know![LR]
+I'll go to[LR]
+[WORD0], dasu![LR]<END>
+
+//[WORD12]の会社<END>
+#JMP($13E24)
+#FIXEDLENGTH(11,0)
+[WORD12] work<END>
+
+//[WORD12]の学校<END>
+#JMP($13E53)
+#FIXEDLENGTH(11,0)
+[WORD12] class<END>
+
+//[WORD0]ってのは <$17><$1B><$00>[LR]<END>
+#JMP($14461)
+#FIXEDLENGTH(18,0)
+[WORD0] is[LR]
+<$17><$1B><$00>[LR]<END>
+
+//行ってみたいトコって、どこかある<$17><$18><$00>？<END>
+#JMP($14488)
+#FIXEDLENGTH(37,0)
+Any place you wanna go<$17><$18><$00>?<END>
+
+//[WORD1]ってのは<$17><$1B><$00>[LR]<END>
+#JMP($144DA)
+#FIXEDLENGTH(17,0)
+[WORD1][LR]
+is<$17><$1B><$00>[LR]<END>
+
+//都会だなァ～ と思う[KERO]？[LR]<END>
+#JMP($144F6)
+#FIXEDLENGTH(25,0)
+a big city, you[LR]
+think?[LR]<END>
+
+//それとも…[LR]田舎だなァ～ と思う[KERO]？<END>
+#JMP($14514)
+#FIXEDLENGTH(35,0)
+Or…[LR]
+the countryside,[LR]
+you think?<END>
+
+//[WORD1]は 日本一の都市だと 思っている<END>
+#JMP($14553)
+#FIXEDLENGTH(35,0)
+[WORD1] is Japan's top city<END>
+
+//そー<$17><$19><$00>なァ～[LR]<END>
+#JMP($14590)
+#FIXEDLENGTH(14,0)
+Is that so～[LR]<END>
+
+//[WORD1] みたいに ハイカラなトコロは なかった[KERO]よ…[LR]<END>
+#JMP($145D4)
+#FIXEDLENGTH(50,0)
+No place as[LR]
+fancy as[LR]
+[WORD1] back[LR]
+home…[LR]<END>
+
+//[WORD1]は 日本一田舎だと 思っている<END>
+#JMP($1460C)
+#FIXEDLENGTH(33,0)
+[WORD1] is Japan's most rural<END>
+
+//[WORD1]が 田舎ッスか？[LR]<END>
+#JMP($14648)
+#FIXEDLENGTH(21,0)
+[WORD1] is[LR]
+rural?[LR]<END>
+
+//大都会って カンジなんす[KERO]なァ…[LR]<END>
+#JMP($146A2)
+#FIXEDLENGTH(33,0)
+Feels like a real[LR]
+big city…[LR]<END>
+
+//[WORD0]のラッシュがスゴイ[KERO]～！[LR]<END>
+#JMP($146EF)
+#FIXEDLENGTH(31,0)
+[WORD0] rush[LR]
+is crazy[KERO]～![LR]<END>
+
+//あれは うんざり[KERO]～！[LR]<END>
+#JMP($14751)
+#FIXEDLENGTH(23,0)
+I'm fed up with[LR]
+it～![LR]<END>
+
+//人間は よくあんな [WORD0]に 乗ってられる[KERO]ね…[LR]<END>
+#JMP($14773)
+#FIXEDLENGTH(46,0)
+How do humans[LR]
+ride [WORD0][LR]
+like that[KERO]…[LR]<END>
+
+//人が多い[KERO]～！[LR]<END>
+#JMP($147B8)
+#FIXEDLENGTH(16,0)
+So crowded～![LR]<END>
+
+//人が 多いってコトは <$17><$1B><$00>[LR]色んな人が いるってコトで…[LR]<END>
+#JMP($147D3)
+#FIXEDLENGTH(52,0)
+Lots of people[LR]
+<$17><$1B><$00>[LR]
+means all kinds[LR]
+of people…[LR]<END>
+
+//外国の人<END>
+#JMP($14844)
+#FIXEDLENGTH(8,0)
+Foreign<END>
+
+//ものすごくキレイな人<END>
+#JMP($14859)
+#FIXEDLENGTH(20,0)
+Super pretty people<END>
+
+//どエラいカッコの人<END>
+#JMP($1487A)
+#FIXEDLENGTH(18,0)
+Wild outfits<END>
+
+//も、たくさんなんだ[KERO]～[LR]<END>
+#JMP($14896)
+#FIXEDLENGTH(24,0)
+there's lots of[LR]
+'em～[LR]<END>
+
+//あれは<$17><$1B><$00> たまげるんだなッス～!![LR]<END>
+#JMP($148B9)
+#FIXEDLENGTH(33,0)
+It's<$17><$1B><$00> a real[LR]
+shocker!![LR]<END>
+
+//自然がない[KERO]～！[LR]<END>
+#JMP($148EB)
+#FIXEDLENGTH(18,0)
+No nature～![LR]<END>
+
+//夜は 星が見えねェし～？[LR]空気は ガスくさいし…[LR]<END>
+#JMP($14910)
+#FIXEDLENGTH(46,0)
+No stars at[LR]
+night～?[LR]
+The air smells of[LR]
+gas…[LR]<END>
+
+//水も マズい[KERO]！[LR]<END>
+#JMP($14943)
+#FIXEDLENGTH(17,0)
+Water's bad![LR]<END>
+
+//あれでは<$17><$1B><$00>[LR][WORD0]も ウマさ半減<$17><$19><$00>～！[LR]<END>
+#JMP($14974)
+#FIXEDLENGTH(38,0)
+Then<$17><$1B><$00>[LR]
+[WORD0] tastes[LR]
+half as good～![LR]<END>
+
+//でも、きれいな水で カップめん つくってりゃ…結局おなじか…[LR]<END>
+#JMP($149A5)
+#FIXEDLENGTH(59,0)
+But cup noodles[LR]
+made with clean[LR]
+water… same[LR]
+thing…[LR]<END>
+
+//つーか、ジャンクフード キライじゃないんだ[KERO]も…[LR]<END>
+#JMP($149EB)
+#FIXEDLENGTH(49,0)
+Well, I don't hate[LR]
+junk food, kero…[LR]<END>
+
+//つーか、好き…♥[LR]<END>
+#JMP($14A27)
+#FIXEDLENGTH(17,0)
+I love it…♥[LR]<END>
+
+//ノラ[WORD0]が、いない<$17><$19><$00>ねェ～！[LR]<END>
+#JMP($14A64)
+#FIXEDLENGTH(31,0)
+No stray[LR]
+[WORD0]<$17><$19><$00>～![LR]<END>
+
+//都会の[LR]７不思議…[LR]その１ッス…[LR]<END>
+#JMP($14A8E)
+#FIXEDLENGTH(31,0)
+City's[LR]
+7 Wonders…[LR]
+No. 1…[LR]<END>
+
+//ひょっとして…[LR]都会の[WORD0]は…[LR]<END>
+#JMP($14AB8)
+#FIXEDLENGTH(31,0)
+Could it be…[LR]
+the city[LR]
+[WORD0]…[LR]<END>
+
+//みんな ペットになったん<$17><$19><$00>かねェ～[LR]<END>
+#JMP($14AE2)
+#FIXEDLENGTH(35,0)
+all became[LR]
+pets<$17><$19><$00>～[LR]<END>
+
+//買いモノで こまるコトが…[LR]まずないん<$17><$19><$00>～♥[LR]<END>
+#JMP($14B1C)
+#FIXEDLENGTH(44,0)
+Shoppin' is…[LR]
+never a[LR]
+problem<$17><$19><$00>～♥[LR]<END>
+
+//とりあえず 大きいお店に行けば、<END>
+#JMP($14B85)
+#FIXEDLENGTH(31,0)
+Just go to a big store,<END>
+
+//[WORD0]でも [WORD1]でも、<END>
+#JMP($14BA6)
+#FIXEDLENGTH(21,0)
+[WORD0] or [WORD1],<END>
+
+//大体 何でも あるからねェ…[LR]<END>
+#JMP($14BBD)
+#FIXEDLENGTH(27,0)
+they've got it[LR]
+all…[LR]<END>
+
+//田舎じゃあ…[LR]アンタホレ…[LR]<END>
+#JMP($14BE3)
+#FIXEDLENGTH(26,0)
+In the sticks…[LR]
+ya know…[LR]<END>
+
+//とりよせナイかぎり、まンず手に入るコトは ない[KERO]？[LR]<END>
+#JMP($14C08)
+#FIXEDLENGTH(51,0)
+unless you order[LR]
+it, you'll never[LR]
+get it, kero?[LR]<END>
+
+//[WORD2]便利[KERO]～♥[LR]<END>
+#JMP($14C4F)
+#FIXEDLENGTH(17,0)
+[WORD2]![LR]
+Handy♥[LR]<END>
+
+//駅前とかに、いじょーな数の<END>
+#JMP($14C77)
+#FIXEDLENGTH(26,0)
+By stations, tons<END>
+
+//[WORD0]が いるん<$17><$19><$00>～[LR]<END>
+#JMP($14CA8)
+#FIXEDLENGTH(20,0)
+of[LR]
+[WORD0]<$17><$19><$00>～[LR]<END>
+
+//あれは [WORD1]たまげる[KERO]～[LR]<END>
+#JMP($14CD0)
+#FIXEDLENGTH(26,0)
+That's a[LR]
+[WORD1][LR]
+shock～[LR]<END>
+
+//これが…[LR]都会の[LR]７不思議…[LR]その３<$17><$19><$00>なァ…[LR]<END>
+#JMP($14CF5)
+#FIXEDLENGTH(43,0)
+This is…[LR]
+City's[LR]
+7 Wonders…[LR]
+No. 3<$17><$19><$00>…[LR]<END>
+
+//田舎の方が…[LR]<END>
+#JMP($14D2D)
+#FIXEDLENGTH(13,0)
+The sticks…[LR]<END>
+
+//１日が 長いねェ～！[LR]<END>
+#JMP($14D45)
+#FIXEDLENGTH(20,0)
+days are long～![LR]<END>
+
+//都会の人は [WORD0]でも [WORD1]でも、[LR]<END>
+#JMP($14D8E)
+#FIXEDLENGTH(33,0)
+City folks,[LR]
+[WORD0] or[LR]
+[WORD1],[LR]<END>
+
+//みんな セカセカ動いているから…[LR]<END>
+#JMP($14DB7)
+#FIXEDLENGTH(32,0)
+all rush around,[LR]
+so…[LR]<END>
+
+//そーカンジるんだなッス…[LR]<END>
+#JMP($14DE2)
+#FIXEDLENGTH(25,0)
+that's how it[LR]
+feels…[LR]<END>
+
+//それにしても…[LR]<END>
+#JMP($14E0E)
+#FIXEDLENGTH(15,0)
+Still…[LR]<END>
+
+//都会に、住んでいる人は…[LR]<END>
+#JMP($14E28)
+#FIXEDLENGTH(25,0)
+city people…[LR]<END>
+
+//なんでまァ～[LR]あんなに、はや足で 歩くん<$17><$19><$00>かねェ…[LR]<END>
+#JMP($14E4C)
+#FIXEDLENGTH(50,0)
+why on earth…[LR]
+do they walk so[LR]
+fast<$17><$19><$00>…[LR]<END>
+
+//都会の[LR]７不思議…[LR]その４<$17><$19><$00>な…[LR]<END>
+#JMP($14E89)
+#FIXEDLENGTH(32,0)
+City's[LR]
+7 Wonders…[LR]
+No. 4<$17><$19><$00>…[LR]<END>
+
+//[WORD0]がコワいねェ～！[LR]<END>
+#JMP($14ECF)
+#FIXEDLENGTH(22,0)
+[WORD0] is[LR]
+scary～![LR]<END>
+
+//なんで、都会に住む [WORD0]は…[LR]こんなにキョーボーに なるん<$17><$19><$00>かねェ…[LR]<END>
+#JMP($14EF8)
+#FIXEDLENGTH(68,0)
+Why do city[LR]
+[WORD0]…[LR]
+get so[LR]
+fierce<$17><$19><$00>…[LR]<END>
+
+//都会の[LR]７不思議…[LR]その５<$17><$19><$00>なァ～[LR]<END>
+#JMP($14F47)
+#FIXEDLENGTH(34,0)
+City's[LR]
+7 Wonders…[LR]
+No. 5<$17><$19><$00>～[LR]<END>
+
+//それにしても…[LR]<END>
+#JMP($14F74)
+#FIXEDLENGTH(15,0)
+Still…[LR]<END>
+
+//[WORD1]の、[WORD0]は<$17><$1B><$00> もっとノンビリと しているッス…[LR]<END>
+#JMP($14FA3)
+#FIXEDLENGTH(52,0)
+[WORD1]'s[LR]
+[WORD0]<$17><$1B><$00>[LR]
+is way more[LR]
+laid-back…[LR]<END>
+
+//ホントに [WORD0]の体つきが リッパ<$17><$19><$00>なァ～[LR]<END>
+#JMP($15003)
+#FIXEDLENGTH(41,0)
+[WORD0] here[LR]
+are so[LR]
+well-built<$17><$19><$00>～[LR]<END>
+
+//[WORD1]の [WORD0]は…[LR]<END>
+#JMP($15054)
+#FIXEDLENGTH(18,0)
+[WORD1]'s[LR]
+[WORD0]…[LR]<END>
+
+//もうひとまわり、小っちゃかった気がする<$17><$19><$00>…[LR]<END>
+#JMP($1506B)
+#FIXEDLENGTH(44,0)
+seemed a size[LR]
+smaller<$17><$19><$00>…[LR]<END>
+
+//これも…[LR]<END>
+#JMP($150A2)
+#FIXEDLENGTH(9,0)
+Also…[LR]<END>
+
+//都会の[LR]７不思議…[LR]その６<$17><$19><$00>ねェ…[LR]<END>
+#JMP($150B0)
+#FIXEDLENGTH(34,0)
+City's[LR]
+7 Wonders…[LR]
+No. 6<$17><$19><$00>…[LR]<END>
+
+//一度 [WORD0]とかから 出る決心をした人<END>
+#JMP($150F4)
+#FIXEDLENGTH(35,0)
+Folks who decided to leave [WORD0]<END>
+
+//というのは…[LR]<END>
+#JMP($15119)
+#FIXEDLENGTH(13,0)
+well…[LR]<END>
+
+//引越しの時 いさぎよいねェ…[LR]<END>
+#JMP($15131)
+#FIXEDLENGTH(28,0)
+move out[LR]
+without[LR]
+regrets…[LR]<END>
+
+//生まれも、育ちも、[WORD1]な人は…[LR]<END>
+#JMP($1516D)
+#FIXEDLENGTH(32,0)
+Folks born in[LR]
+[WORD1]…[LR]<END>
+
+//逆に、なかなか そこから はなれたがらない[KERO]も…[LR]<END>
+#JMP($15198)
+#FIXEDLENGTH(48,0)
+don't wanna[LR]
+leave it, kero…[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($1521D)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD2]が「ハァ、田舎だぁ…」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($1528F)
+#FIXEDLENGTH(56,0)
+Where does [WORD2] think is "the sticks"<$17><$19><$00>?<END>
+
+//[WORD1]の 家ってのは <$17><$1B><$00>、スゴイ[KERO]～！[LR]<END>
+#JMP($152FC)
+#FIXEDLENGTH(38,0)
+Houses in[LR]
+[WORD1] <$17><$1B><$00>[LR]
+are amazin'～![LR]<END>
+
+//一軒一軒、宝箱みたいに ちゃんとカギが かかってるん<$17><$19><$00>よ～！[LR]<END>
+#JMP($1532D)
+#FIXEDLENGTH(60,0)
+Each one's[LR]
+locked up tight[LR]
+like a treasure[LR]
+chest<$17><$19><$00>～![LR]<END>
+
+//その点、[WORD4]だと 隣の[WORD5]が、[LR]<END>
+#JMP($15389)
+#FIXEDLENGTH(32,0)
+But in [WORD4],[LR]
+next-door[LR]
+[WORD5],[LR]<END>
+
+//「おーい、[WORD2]ちゃん いるー？」[LR]<END>
+#JMP($153B9)
+#FIXEDLENGTH(33,0)
+"Hey,[LR]
+[WORD2]-chan,[LR]
+you home?"[LR]<END>
+
+//って、言いながら ガラガラって開けて入って来るんだ[KERO]も…[LR]<END>
+#JMP($153E5)
+#FIXEDLENGTH(57,0)
+then slides the[LR]
+door open and[LR]
+walks in, kero…[LR]<END>
+
+//そういう [WORD5]も、[WORD1]には いない<$17><$19><$00>ねェ…[LR]<END>
+#JMP($15429)
+#FIXEDLENGTH(44,0)
+No [WORD5] like[LR]
+that in[LR]
+[WORD1]<$17><$19><$00>…[LR]<END>
+
+//ちょっと さみしい[KERO]～[LR]<END>
+#JMP($15469)
+#FIXEDLENGTH(23,0)
+Kinda lonely～[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($1549C)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD2]が「ハァ、田舎だぁ…」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($1550E)
+#FIXEDLENGTH(56,0)
+Where does [WORD2] think is "the sticks"<$17><$19><$00>?<END>
+
+//やっぱり、[WORD1]では 宴会って 少ないん<$17><$19><$00>かねぇ？[LR]<END>
+#JMP($1557B)
+#FIXEDLENGTH(49,0)
+Are parties rare[LR]
+in[LR]
+[WORD1]<$17><$19><$00>?[LR]<END>
+
+//[WORD4]では、となりの人とか [WORD5]の人とか 周りの人をたくさん呼んで、よく 宴会したモンだ[KERO]も…[LR]<END>
+#JMP($155D4)
+#FIXEDLENGTH(93,0)
+In [WORD4],[LR]
+we'd invite[LR]
+neighbors,[LR]
+[WORD5] folks,[LR]
+everyone, and[LR]
+party lots,[LR]
+kero…[LR]<END>
+
+//パァーっと！ にぎやかに <END>
+#JMP($1563C)
+#FIXEDLENGTH(24,0)
+Wild and lively!<END>
+
+//[WORD6]食べたり [WORD7]飲んだりしながら…[LR]<END>
+#JMP($15695)
+#FIXEDLENGTH(38,0)
+Eatin' [WORD6],[LR]
+drinkin'[LR]
+[WORD7]…[LR]<END>
+
+//一晩中 [WORD8]するのは とっても楽しい<$17><$19><$00>よ～♪[LR]<END>
+#JMP($156C6)
+#FIXEDLENGTH(45,0)
+[WORD8] all[LR]
+night is a[LR]
+blast<$17><$19><$00>～♪[LR]<END>
+
+//[WORD2]も 一度やってみると いい[KERO]～♪[LR]<END>
+#JMP($15706)
+#FIXEDLENGTH(37,0)
+[WORD2], try it[LR]
+once～♪[LR]<END>
+
+//おすすめ<$17><$19><$00>！<END>
+#JMP($15736)
+#FIXEDLENGTH(13,0)
+Recommended!<END>
+
+//[WORD2]が「ここは大都会だ！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($1575F)
+#FIXEDLENGTH(56,0)
+Where does [WORD2] think is a big city<$17><$19><$00>?<END>
+
+//[WORD1]でも、<END>
+#JMP($157CE)
+#FIXEDLENGTH(11,0)
+In [WORD1],<END>
+
+//魚が いっぱい釣れた時は、やっぱり 市場に 売りに行くん<$17><$19><$00>か？[LR]<END>
+#JMP($157DB)
+#FIXEDLENGTH(61,0)
+when you catch[LR]
+lots of fish, do[LR]
+you sell 'em at[LR]
+market<$17><$19><$00>?[LR]<END>
+
+//えっ!?[LR]<END>
+#JMP($15833)
+#FIXEDLENGTH(7,0)
+Huh!?[LR]<END>
+
+//じゃ、じゃぁ…[LR]<END>
+#JMP($15845)
+#FIXEDLENGTH(15,0)
+Th-then…[LR]<END>
+
+//二尾釣ったら 全部 食べちまってもイイん<$17><$19><$00>か!?[LR]<END>
+#JMP($1585F)
+#FIXEDLENGTH(46,0)
+If you catch[LR]
+two, you can[LR]
+eat both<$17><$19><$00>!?[LR]<END>
+
+//うーん、なんてゼータクなんだ[KERO]～♥[LR]<END>
+#JMP($15898)
+#FIXEDLENGTH(36,0)
+Hmm, what[LR]
+luxury[KERO]～♥[LR]<END>
+
+//まるで [WORD3]のよう<$17><$19><$00>～♥[LR]<END>
+#JMP($158D9)
+#FIXEDLENGTH(26,0)
+Just like[LR]
+[WORD3]<$17><$19><$00>～♥[LR]<END>
+
+//やっぱ そう<$17><$19><$00>な～♪[LR]<END>
+#JMP($158FF)
+#FIXEDLENGTH(21,0)
+Thought so～♪[LR]<END>
+
+//フツー、２尾釣ったら １尾は売らないと…[LR]<END>
+#JMP($1591F)
+#FIXEDLENGTH(40,0)
+Usually, catch 2,[LR]
+sell 1…[LR]<END>
+
+//でないと、[WORD4]が 買えない[KERO]な～[LR]<END>
+#JMP($15967)
+#FIXEDLENGTH(34,0)
+or you can't buy[LR]
+[WORD4]～[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($159A5)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD1]の方は、なんつーか <$17><$1B><$00>[LR]<END>
+#JMP($15A08)
+#FIXEDLENGTH(28,0)
+[WORD1] is[LR]
+kinda <$17><$1B><$00>[LR]<END>
+
+//ジメジメしている[KERO]～[LR]<END>
+#JMP($15A29)
+#FIXEDLENGTH(22,0)
+damp and[LR]
+muggy～[LR]<END>
+
+//やっぱり、夏も この調子で ジメジメしているん<$17><$19><$00>かねェ…？<END>
+#JMP($15A4A)
+#FIXEDLENGTH(57,0)
+Is it this muggy in summer too<$17><$19><$00>…?<END>
+
+//はわわ～！[LR]<END>
+#JMP($15AC8)
+#FIXEDLENGTH(11,0)
+Hawawa～![LR]<END>
+
+//それじゃあ、<END>
+#JMP($15ADE)
+#FIXEDLENGTH(12,0)
+Then,<END>
+
+//せんぷうき を たくさん回さないと、<END>
+#JMP($15AEC)
+#FIXEDLENGTH(34,0)
+unless you run lots of fans,<END>
+
+//洗濯した [WORD3]や [WORD4]が乾かない[KERO]～！[LR]<END>
+#JMP($15B16)
+#FIXEDLENGTH(40,0)
+washed[LR]
+[WORD3] and[LR]
+[WORD4] won't[LR]
+dry～![LR]<END>
+
+//うんうん、そう<$17><$19><$00>な♪[LR]<END>
+#JMP($15B4A)
+#FIXEDLENGTH(22,0)
+Yup, that's[LR]
+right♪[LR]<END>
+
+//やっぱ、夏は「カラッ」と、してないと～！[LR]<END>
+#JMP($15B68)
+#FIXEDLENGTH(41,0)
+Summer's gotta[LR]
+be nice and[LR]
+dry～![LR]<END>
+
+//洗濯モノの [WORD3]や [WORD4]も、あっと言う間に 乾く[KERO]～[LR]<END>
+#JMP($15B9C)
+#FIXEDLENGTH(53,0)
+Washed[LR]
+[WORD3] and[LR]
+[WORD4] dry in[LR]
+no time～[LR]<END>
+
+//ガツンとした 日差しあってこその、夏なん<$17><$19><$00>！[LR]<END>
+#JMP($15BDC)
+#FIXEDLENGTH(45,0)
+Summer's all[LR]
+about strong[LR]
+sunshine<$17><$19><$00>![LR]<END>
+
+//って、でも…[LR]<END>
+#JMP($15C14)
+#FIXEDLENGTH(13,0)
+Though…[LR]<END>
+
 //も…[LR]<END>
 #JMP($15C4C)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($15C6D)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD2]が「ハァ、田舎だぁ.…」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($15CDF)
+#FIXEDLENGTH(57,0)
+Where does [WORD2] think is "the sticks"<$17><$19><$00>?<END>
+
+//しかし、[WORD1]の車ってのは、なかなか ビュンビュン走れなくて ツラそう<$17><$19><$00>な～！[LR]<END>
+#JMP($15D6B)
+#FIXEDLENGTH(77,0)
+But cars in[LR]
+[WORD1] can't[LR]
+really zoom,[LR]
+looks[LR]
+tough<$17><$19><$00>～![LR]<END>
+
+//走っては止まって、止まっては走って…[LR]<END>
+#JMP($15DC3)
+#FIXEDLENGTH(37,0)
+Go, stop, stop,[LR]
+go…[LR]<END>
+
+//ずいぶん ノロノロしてるんだ[KERO]～[LR]<END>
+#JMP($15DF3)
+#FIXEDLENGTH(33,0)
+They're real[LR]
+slow[KERO]～[LR]<END>
+
+//その点！[LR]<END>
+#JMP($15E1F)
+#FIXEDLENGTH(9,0)
+But![LR]<END>
+
+//[WORD4]では、車は みんな スイスイ進む[KERO]♪[LR]<END>
+#JMP($15E2A)
+#FIXEDLENGTH(41,0)
+In [WORD4],[LR]
+cars all zip[LR]
+along[KERO]♪[LR]<END>
+
+//しかし…[LR]<END>
+#JMP($15E5E)
+#FIXEDLENGTH(9,0)
+But…[LR]<END>
+
+//なんだか [WORD1]の車は、赤や青やで…[LR]<END>
+#JMP($15E6C)
+#FIXEDLENGTH(35,0)
+[WORD1] cars,[LR]
+with red and[LR]
+blue…[LR]<END>
+
+//まるで [WORD5]に 操られてるみたいで…[LR]<END>
+#JMP($15E9A)
+#FIXEDLENGTH(36,0)
+like they're[LR]
+controlled by[LR]
+[WORD5]…[LR]<END>
+
+//ちょっと 不気味<$17><$19><$00>～[LR]<END>
+#JMP($15EC9)
+#FIXEDLENGTH(21,0)
+A bit[LR]
+creepy<$17><$19><$00>～[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($15EFA)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD2]が「ハァ、田舎だぁ…」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($15F6C)
+#FIXEDLENGTH(56,0)
+Where does [WORD2] think is "the sticks"<$17><$19><$00>?<END>
+
+//[WORD1]の車ってのは…[LR]<END>
+#JMP($15FEE)
+#FIXEDLENGTH(20,0)
+Cars in[LR]
+[WORD1]…[LR]<END>
+
+//何台も 何台も、ずーっと数珠つなぎに なってるコトが多い<$17><$19><$00>…[LR]<END>
+#JMP($16007)
+#FIXEDLENGTH(60,0)
+are often lined[LR]
+up like beads,[LR]
+on and on<$17><$19><$00>…[LR]<END>
+
+//なんか [WORD5]の呪いにでも かかってるん<$17><$19><$00>かねぇ？[LR]<END>
+#JMP($1604E)
+#FIXEDLENGTH(49,0)
+Are they under[LR]
+a [WORD5][LR]
+curse<$17><$19><$00>?[LR]<END>
+
+//その点、[WORD4]だと 車は いっつも１台で スイスイ走ってた[KERO]も…[LR]<END>
+#JMP($16087)
+#FIXEDLENGTH(62,0)
+But in [WORD4],[LR]
+cars always[LR]
+zipped along[LR]
+one at a time…[LR]<END>
+
+//[WORD2]が 住んでる場所って、どこ<$17><$19><$00>か？<END>
+#JMP($160E1)
+#FIXEDLENGTH(37,0)
+Where does [WORD2] live<$17><$19><$00>?<END>
+
+//[WORD1]には、裏山って ある[KERO]？[LR]<END>
+#JMP($1615D)
+#FIXEDLENGTH(30,0)
+Got a back hill[LR]
+in [WORD1]?[LR]<END>
+
+//[WORD1]の裏山で 野宿したことがある<END>
+#JMP($16190)
+#FIXEDLENGTH(32,0)
+Camped on [WORD1]'s back hill<END>
+
+//あ～、よかった<$17><$19><$00>～[LR]<END>
+#JMP($161BD)
+#FIXEDLENGTH(20,0)
+Ahh, good<$17><$19><$00>～[LR]<END>
+
+//ひと安心だ[KERO]♪[LR]<END>
+#JMP($161D3)
+#FIXEDLENGTH(16,0)
+What a relief♪[LR]<END>
+
+//やっぱ 裏山が無いと、ひみつ基地が つくれない<$17><$19><$00>からねェ～♥[LR]<END>
+#JMP($161EE)
+#FIXEDLENGTH(60,0)
+No back hill[LR]
+means no secret[LR]
+base<$17><$19><$00>～♥[LR]<END>
+
+//でないと…[LR]<END>
+#JMP($16235)
+#FIXEDLENGTH(11,0)
+Or else…[LR]<END>
+
+//宝物の[WORD3]や、ひみつの[WORD4]を かくす場所がなくて 困ってしまう[KERO]～♪[LR]<END>
+#JMP($16245)
+#FIXEDLENGTH(70,0)
+No place to hide[LR]
+treasure[LR]
+[WORD3] or[LR]
+secret[LR]
+[WORD4], what[LR]
+a pain[KERO]～♪[LR]<END>
+
+//な、ないん<$17><$19><$00>か…？[LR]<END>
+#JMP($16297)
+#FIXEDLENGTH(20,0)
+Th-there's[LR]
+none…?[LR]<END>
+
+//じゃあ、ひみつ基地は、どこにつくればいい[KERO]？[LR]<END>
+#JMP($162B6)
+#FIXEDLENGTH(46,0)
+Then where do I[LR]
+make a secret[LR]
+base[KERO]?[LR]<END>
+
+//宝物の[WORD3]や、ひみつの[WORD4]は、どこに隠せばイイん<$17><$19><$00>か…！[LR]<END>
+#JMP($162EC)
+#FIXEDLENGTH(60,0)
+Where do I hide[LR]
+treasure[LR]
+[WORD3] and[LR]
+secret[LR]
+[WORD4]<$17><$19><$00>…![LR]<END>
+
+//はわわ～！[LR]<END>
+#JMP($16333)
+#FIXEDLENGTH(11,0)
+Hawawa～![LR]<END>
+
+//[WORD1]は 隠しゴトの 出来ない 土地なんだ[KERO]～！[LR]<END>
+#JMP($16343)
+#FIXEDLENGTH(46,0)
+[WORD1] is a[LR]
+land with no[LR]
+secrets[KERO]～![LR]<END>
+
+//プライバシーが ないなんて…[LR]<END>
+#JMP($1637C)
+#FIXEDLENGTH(28,0)
+No privacy at[LR]
+all…[LR]<END>
+
+//とてつもなく おそろしい<$17><$19><$00>～!![LR]<END>
+#JMP($1639D)
+#FIXEDLENGTH(31,0)
+That's[LR]
+terrifyin'<$17><$19><$00>～!![LR]<END>
+
+//[WORD2]が 住んでる場所って、どこ<$17><$19><$00>か？<END>
+#JMP($163DF)
+#FIXEDLENGTH(37,0)
+Where does [WORD2] live<$17><$19><$00>?<END>
+
+//[WORD1]では、移動のパン屋さんは やって来る<$17><$19><$00>か？[LR]<END>
+#JMP($16446)
+#FIXEDLENGTH(48,0)
+Do bread vans[LR]
+come to[LR]
+[WORD1]<$17><$19><$00>?[LR]<END>
+
+//そう<$17><$19><$00>か～♪[LR]<END>
+#JMP($16491)
+#FIXEDLENGTH(14,0)
+I see～♪[LR]<END>
+
+//でも、<END>
+#JMP($164A4)
+#FIXEDLENGTH(6,0)
+But,<END>
+
+//「見つけた[KERO]～♥」<END>
+#JMP($164B2)
+#FIXEDLENGTH(19,0)
+"Found it[KERO]～♥"<END>
+
+//って、ウキウキしながら 行ってみても…[LR]<END>
+#JMP($164C7)
+#FIXEDLENGTH(38,0)
+I go all excited,[LR]
+but…[LR]<END>
+
+//お目当ての [WORD3]入りのパンは 売り切れだったり するんだなッス…[LR]<END>
+#JMP($164F8)
+#FIXEDLENGTH(63,0)
+the [WORD3][LR]
+bread I want is[LR]
+sold out…[LR]<END>
+
+//ええっ!?[LR]<END>
+#JMP($16543)
+#FIXEDLENGTH(9,0)
+Whaa!?[LR]<END>
+
+//来ない<$17><$19><$00>か…[LR]<END>
+#JMP($16557)
+#FIXEDLENGTH(14,0)
+None<$17><$19><$00>…[LR]<END>
+
+//じゃあ、どうやって [WORD3]入りのパンを 入手すればイイんだ[KERO]…[LR]<END>
+#JMP($16570)
+#FIXEDLENGTH(61,0)
+Then how do I[LR]
+get [WORD3][LR]
+bread[KERO]…[LR]<END>
+
+//パンも まともに買えないとは…[LR]<END>
+#JMP($165B8)
+#FIXEDLENGTH(30,0)
+Can't even buy[LR]
+bread…[LR]<END>
+
+//[WORD1]は 大変なところ<$17><$19><$00>な～[LR]<END>
+#JMP($165E1)
+#FIXEDLENGTH(28,0)
+[WORD1] is a[LR]
+tough[LR]
+place<$17><$19><$00>～[LR]<END>
+
+//[WORD2]が住んでる場所って、どこ<$17><$19><$00>か？<END>
+#JMP($16619)
+#FIXEDLENGTH(36,0)
+Where does [WORD2] live<$17><$19><$00>?<END>
+
+//[WORD2]が 地元以外で「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($16679)
+#FIXEDLENGTH(65,0)
+Outside home, where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD2]が 地元以外で「ハァ、田舎だぁ…」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($166FE)
+#FIXEDLENGTH(67,0)
+Outside home, where does [WORD2] think is "the sticks"<$17><$19><$00>?<END>
+
+//ふと、思ったん<$17><$19><$00>が…[LR]<END>
+#JMP($16776)
+#FIXEDLENGTH(22,0)
+I just[LR]
+thought<$17><$19><$00>…[LR]<END>
+
+//[WORD4]では、空が 縦に広がってる<$17><$19><$00>な～[LR]<END>
+#JMP($16797)
+#FIXEDLENGTH(38,0)
+In [WORD4], the[LR]
+sky goes up[LR]
+tall<$17><$19><$00>～[LR]<END>
+
+//まっすぐ 伸びてるような カンジだ[KERO]…[LR]<END>
+#JMP($167C8)
+#FIXEDLENGTH(38,0)
+Feels like it[LR]
+goes straight[LR]
+up…[LR]<END>
+
+//ちなみに、[WORD6]の空は 横に広がってるん<$17><$19><$00>～[LR]<END>
+#JMP($167F9)
+#FIXEDLENGTH(44,0)
+But [WORD6]'s[LR]
+sky spreads[LR]
+sideways<$17><$19><$00>～[LR]<END>
+
+//横に ひろーく 広がっていくカンジだ[KERO]…[LR]<END>
+#JMP($16830)
+#FIXEDLENGTH(40,0)
+Feels like it[LR]
+spreads out[LR]
+wide[KERO]…[LR]<END>
+
+//ちなみに、[WORD1]の空は [WORD2]から見て どっちだと思う<$17><$19><$00>か？[LR]<END>
+#JMP($1686B)
+#FIXEDLENGTH(58,0)
+By the way, how[LR]
+does [WORD2][LR]
+see [WORD1]'s[LR]
+sky<$17><$19><$00>?[LR]<END>
+
+//じゃあ、[WORD1]の空は 高く高く のぼってる[KERO]～♪[LR]<END>
+#JMP($168C0)
+#FIXEDLENGTH(47,0)
+Then [WORD1]'s[LR]
+sky climbs high,[LR]
+high[KERO]～♪[LR]<END>
+
+//今度、いっしょに見てみる<$17><$19><$00>～[LR]<END>
+#JMP($168FA)
+#FIXEDLENGTH(30,0)
+Let's look[LR]
+together～[LR]<END>
+
+//じゃあ、[WORD1]の空は 夜になると 天の川も見えそう<$17><$19><$00>なぁ～[LR]<END>
+#JMP($16924)
+#FIXEDLENGTH(57,0)
+Then you can[LR]
+prob'ly see the[LR]
+Milky Way in[LR]
+[WORD1]<$17><$19><$00>～[LR]<END>
+
+//今度、いっしょに見てみる[KERO]～[LR]<END>
+#JMP($16968)
+#FIXEDLENGTH(30,0)
+Let's look[LR]
+together～[LR]<END>
+
+//[WORD2]が「大都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($169A2)
+#FIXEDLENGTH(56,0)
+Where does [WORD2] think is a big city<$17><$19><$00>?<END>
+
+//が…[LR]<END>
+#JMP($16A56)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
+//[WORD1]って、ミョーに ケーサツが多くない<$17><$19><$00>か？[LR]<END>
+#JMP($16A66)
+#FIXEDLENGTH(46,0)
+Aren't there[LR]
+lots of cops in[LR]
+[WORD1]<$17><$19><$00>?[LR]<END>
+
+//[WORD3]で [WORD4]してると…[LR]<END>
+#JMP($16AA7)
+#FIXEDLENGTH(24,0)
+[WORD4]-ing at[LR]
+[WORD3]…[LR]<END>
+
+//こっちを「じーっ」と見てたり…[LR]<END>
+#JMP($16AC4)
+#FIXEDLENGTH(31,0)
+they stare right[LR]
+at me…[LR]<END>
+
+//ふと気づくと [WORD5]の家の前に立ってたり…[LR]<END>
+#JMP($16AEE)
+#FIXEDLENGTH(41,0)
+or stand outside[LR]
+[WORD5]'s[LR]
+house…[LR]<END>
+
+//あ、イヤ、<END>
+#JMP($16B7C)
+#FIXEDLENGTH(10,0)
+Uh, no,<END>
+
+//よ!?[LR]<END>
+#JMP($16BB1)
+#FIXEDLENGTH(5,0)
+!?[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($16BD2)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD1]って、なんでこんなに 道路の工事が 多いん<$17><$19><$00>かねぇ？[LR]<END>
+#JMP($16C35)
+#FIXEDLENGTH(57,0)
+Why's [WORD1][LR]
+got so much[LR]
+roadwork<$17><$19><$00>?[LR]<END>
+
+//ずーっと 走りたいのに、すぐ工事…[LR]<END>
+#JMP($16C79)
+#FIXEDLENGTH(34,0)
+I wanna drive,[LR]
+but roadwork…[LR]<END>
+
+//まーっすぐ 走りたいのに、すぐ工事…[LR]<END>
+#JMP($16CA6)
+#FIXEDLENGTH(36,0)
+I wanna go[LR]
+straight, but[LR]
+roadwork…[LR]<END>
+
+//まったく、やってらんない[KERO]～[LR]<END>
+#JMP($16CD5)
+#FIXEDLENGTH(30,0)
+Jeez, can't[LR]
+stand it～[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($16D0F)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD1]の暮らしって コワイ<$17><$19><$00>なぁ～[LR]<END>
+#JMP($16DB1)
+#FIXEDLENGTH(34,0)
+Life in [WORD1][LR]
+is scary<$17><$19><$00>～[LR]<END>
+
+//[WORD3]とか 見てると…[LR]<END>
+#JMP($16DDE)
+#FIXEDLENGTH(21,0)
+Watchin'[LR]
+[WORD3]…[LR]<END>
+
+//「となりに [WORD4]が 住んでたなんて、全然知らなかった…」<END>
+#JMP($16DF5)
+#FIXEDLENGTH(55,0)
+"I had no idea [WORD4] lived next door…"<END>
+
+//とか、よく言ってる[KERO]よ…[LR]<END>
+#JMP($16E2E)
+#FIXEDLENGTH(26,0)
+they often say[LR]
+that…[LR]<END>
+
+//フツー[LR]<END>
+#JMP($16E53)
+#FIXEDLENGTH(7,0)
+Usual[LR]<END>
+
+//あいさつするのも…[LR]<END>
+#JMP($16E65)
+#FIXEDLENGTH(19,0)
+sayin' hello…[LR]<END>
+
+//晩ご飯もらうのも…[LR]<END>
+#JMP($16E7D)
+#FIXEDLENGTH(19,0)
+gettin' dinner…[LR]<END>
+
+//いっしょに[WORD5]するのも…[LR]<END>
+#JMP($16E95)
+#FIXEDLENGTH(26,0)
+or [WORD5][LR]
+together…[LR]<END>
+
+//最初は おとなりさん なんじゃない[KERO]？[LR]<END>
+#JMP($16EBA)
+#FIXEDLENGTH(38,0)
+starts with the[LR]
+neighbors,[LR]
+right?[LR]<END>
+
+//が…[LR]<END>
+#JMP($16F02)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($16F23)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD2]が「ハァ、田舎だぁ…」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($16F95)
+#FIXEDLENGTH(56,0)
+Where does [WORD2] think is "the sticks"<$17><$19><$00>?<END>
+
+//そういえば、[WORD2]は知ってた<$17><$19><$00>か？[LR]<END>
+#JMP($1701F)
+#FIXEDLENGTH(35,0)
+Say, did[LR]
+[WORD2][LR]
+know<$17><$19><$00>?[LR]<END>
+
+//[WORD1]の人って、[WORD5]に ソースかけて 食べてるん<$17><$19><$00>よ～！[LR]<END>
+#JMP($1705D)
+#FIXEDLENGTH(56,0)
+[WORD1] folks[LR]
+put sauce on[LR]
+[WORD5]<$17><$19><$00>～![LR]<END>
+
+//まったく、信じられない[KERO]…[LR]<END>
+#JMP($170A0)
+#FIXEDLENGTH(28,0)
+I can't believe[LR]
+it[KERO]…[LR]<END>
+
+//[WORD4]では、[WORD5]には しょうゆ と決まっていたもん<$17><$19><$00>が…[LR]<END>
+#JMP($170C7)
+#FIXEDLENGTH(56,0)
+In [WORD4],[LR]
+[WORD5] always[LR]
+got soy sauce,[LR]
+but…[LR]<END>
+
+//…でも[LR]<END>
+#JMP($1710A)
+#FIXEDLENGTH(7,0)
+…but[LR]<END>
+
+//あんがい イケルかも しれない<$17><$19><$00>な…[LR]<END>
+#JMP($17113)
+#FIXEDLENGTH(36,0)
+might be pretty[LR]
+good<$17><$19><$00>…[LR]<END>
+
+//ガーン！[LR]<END>
+#JMP($17143)
+#FIXEDLENGTH(9,0)
+Gaan![LR]<END>
+
+//なんと！[LR]<END>
+#JMP($17157)
+#FIXEDLENGTH(9,0)
+What![LR]<END>
+
+//知ってた<$17><$19><$00>か!?[LR]<END>
+#JMP($17165)
+#FIXEDLENGTH(16,0)
+You knew<$17><$19><$00>!?[LR]<END>
+
+//[WORD2]は スゴイ[KERO]…[LR]<END>
+#JMP($17188)
+#FIXEDLENGTH(20,0)
+[WORD2] is[LR]
+amazin'…[LR]<END>
+
+//意外と あなどれない<$17><$19><$00>な…[LR]<END>
+#JMP($171A1)
+#FIXEDLENGTH(27,0)
+Not bad at[LR]
+all<$17><$19><$00>…[LR]<END>
+
+//[WORD2]が「都会だなぁ～！」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($171D8)
+#FIXEDLENGTH(54,0)
+Where does [WORD2] think is "such a city!"<$17><$19><$00>?<END>
+
+//[WORD2]が「ハァ、田舎だぁ…」って思う場所って、どこ<$17><$19><$00>か？<END>
+#JMP($1724A)
+#FIXEDLENGTH(56,0)
+Where does [WORD2] think is "the sticks"<$17><$19><$00>?<END>
+
+//[WORD1]って…[LR]<END>
+#JMP($172CC)
+#FIXEDLENGTH(12,0)
+[WORD1]…[LR]<END>
+
+//[WORD5]とか 買って お釣りくれる時に、<END>
+#JMP($172DD)
+#FIXEDLENGTH(35,0)
+when buyin' [WORD5], with change,<END>
+
+//一言ナイ<$17><$19><$00>よなぁ～[LR]<END>
+#JMP($17308)
+#FIXEDLENGTH(20,0)
+nobody says a[LR]
+thing<END>
+
+//[WORD4]の方だと、<END>
+#JMP($1732F)
+#FIXEDLENGTH(15,0)
+In [WORD4],<END>
+
+//「はーい、[WORD2]ちゃん、50万円～！」<END>
+#JMP($17351)
+#FIXEDLENGTH(35,0)
+"Here, [WORD2]-chan, 500,000 yen～!"<END>
+
+//って 渡してくれたもん<$17><$19><$00>が…[LR]<END>
+#JMP($1737F)
+#FIXEDLENGTH(29,0)
+they'd say,[LR]
+handin' it…[LR]<END>
+
+//ま、といっても <END>
+#JMP($173A7)
+#FIXEDLENGTH(15,0)
+Though, well,<END>
+
+//渡してくれるのは 50万円じゃなくて50円だ[KERO]も…[LR]<END>
+#JMP($173B8)
+#FIXEDLENGTH(47,0)
+it ain't 500,000,[LR]
+it's 50 yen,[LR]
+kero…[LR]<END>
+
+//今まで…[LR]<END>
+#JMP($1741E)
+#FIXEDLENGTH(9,0)
+So far…[LR]<END>
+
+//いろんなトコロを 旅してきた[KERO]も…[LR]<END>
+#JMP($1742C)
+#FIXEDLENGTH(35,0)
+I've traveled all[LR]
+over…[LR]<END>
 
 //そういえば…[LR]<END>
 #JMP($17B79)
@@ -3464,6 +5230,11 @@ too[LR]<END>
 #FIXEDLENGTH(13,0)
 Oh, yeah～[LR]<END>
 
+//が…[LR]<END>
+#JMP($1A83F)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
 //そういえば～[LR]<END>
 #JMP($1B4EB)
 #FIXEDLENGTH(13,0)
@@ -3489,6 +5260,16 @@ I see～[LR]<END>
 #FIXEDLENGTH(10,0)
 [WORD0]…[LR]<END>
 
+//ええっ!?[LR]<END>
+#JMP($201DE)
+#FIXEDLENGTH(9,0)
+Whaa!?[LR]<END>
+
+//ええっ!?[LR]<END>
+#JMP($2025C)
+#FIXEDLENGTH(9,0)
+Whaa!?[LR]<END>
+
 //も…[LR]<END>
 #JMP($21559)
 #FIXEDLENGTH(5,0)
@@ -3498,6 +5279,11 @@ too[LR]<END>
 #JMP($247EA)
 #FIXEDLENGTH(10,0)
 [WORD0]…[LR]<END>
+
+//ところで…[LR]<END>
+#JMP($26AF2)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
 
 //あ！[LR]<END>
 #JMP($27CFC)
@@ -3524,6 +5310,11 @@ too[LR]<END>
 #FIXEDLENGTH(13,0)
 Oh, yeah…[LR]<END>
 
+//なんと！[LR]<END>
+#JMP($2AE22)
+#FIXEDLENGTH(9,0)
+What![LR]<END>
+
 //も…[LR]<END>
 #JMP($2B04B)
 #FIXEDLENGTH(5,0)
@@ -3539,10 +5330,30 @@ too[LR]<END>
 #FIXEDLENGTH(5,0)
 Ah![LR]<END>
 
+//が…[LR]<END>
+#JMP($309FE)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
+//が…[LR]<END>
+#JMP($30B80)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
+//ところで…[LR]<END>
+#JMP($31539)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
+
 //も…[LR]<END>
 #JMP($3208C)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
+
+//うーむ…[LR]<END>
+#JMP($33AB6)
+#FIXEDLENGTH(9,0)
+Hmmm…[LR]<END>
 
 //～！[LR]<END>
 #JMP($34842)
@@ -3574,6 +5385,11 @@ Keroro…[LR]<END>
 #FIXEDLENGTH(5,0)
 ～![LR]<END>
 
+//うーむ…[LR]<END>
+#JMP($38356)
+#FIXEDLENGTH(9,0)
+Hmmm…[LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($38B5C)
 #FIXEDLENGTH(12,0)
@@ -3584,6 +5400,11 @@ I see～[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//が…[LR]<END>
+#JMP($39B81)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
 //あ！[LR]<END>
 #JMP($39EB6)
 #FIXEDLENGTH(5,0)
@@ -3593,6 +5414,11 @@ Ah![LR]<END>
 #JMP($3A35B)
 #FIXEDLENGTH(9,0)
 Lately…[LR]<END>
+
+//[WORD0]でも [WORD1]でも、<END>
+#JMP($3B41F)
+#FIXEDLENGTH(21,0)
+[WORD0] or [WORD1],<END>
 
 //あ！[LR]<END>
 #JMP($3BC38)
@@ -3613,6 +5439,16 @@ I see～[LR]<END>
 #JMP($3C8C5)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
+
+//うーむ…[LR]<END>
+#JMP($3CB67)
+#FIXEDLENGTH(9,0)
+Hmmm…[LR]<END>
+
+//ところで…[LR]<END>
+#JMP($3D374)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
 
 //なるほど…[LR]<END>
 #JMP($3D515)
@@ -3644,6 +5480,16 @@ I see…[LR]<END>
 #FIXEDLENGTH(11,0)
 I see…[LR]<END>
 
+//ところで…[LR]<END>
+#JMP($41B85)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
+
+//ところで…[LR]<END>
+#JMP($41D92)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
+
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($41DF0)
 #FIXEDLENGTH(12,0)
@@ -3654,10 +5500,22 @@ I see…[LR]<END>
 #FIXEDLENGTH(7,0)
 Hmm…[LR]<END>
 
+//そう<$17><$19><$00>か♪[LR]<END>
+#JMP($439D5)
+#FIXEDLENGTH(12,0)
+I see♪[LR]<END>
+
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($43A6B)
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
+
+//１０年前は そんなでは なかった<$17><$19><$00>よ…[LR]<END>
+#JMP($43ABD)
+#FIXEDLENGTH(38,0)
+It wasn't like[LR]
+that 10 years[LR]
+ago…[LR]<END>
 
 //そっか…[LR]<END>
 #JMP($43D9F)
@@ -3684,15 +5542,30 @@ I see…[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//はわわ～！[LR]<END>
+#JMP($49250)
+#FIXEDLENGTH(11,0)
+Hawawa～![LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($4A265)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
 
+//えっ!?[LR]<END>
+#JMP($4A535)
+#FIXEDLENGTH(7,0)
+Huh!?[LR]<END>
+
 //そういえば…[LR]<END>
 #JMP($4B85C)
 #FIXEDLENGTH(13,0)
 Oh, yeah…[LR]<END>
+
+//えっ!?[LR]<END>
+#JMP($4BA41)
+#FIXEDLENGTH(7,0)
+Huh!?[LR]<END>
 
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($4CD93)
@@ -3714,6 +5587,11 @@ too[LR]<END>
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//が…[LR]<END>
+#JMP($4DB80)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
 //も…[LR]<END>
 #JMP($4E862)
 #FIXEDLENGTH(5,0)
@@ -3724,6 +5602,11 @@ too[LR]<END>
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//ところで…[LR]<END>
+#JMP($4F838)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
+
 //も…[LR]<END>
 #JMP($4FB46)
 #FIXEDLENGTH(5,0)
@@ -3733,6 +5616,11 @@ too[LR]<END>
 #JMP($5000B)
 #FIXEDLENGTH(5,0)
 ～![LR]<END>
+
+//なんと！[LR]<END>
+#JMP($50575)
+#FIXEDLENGTH(9,0)
+What![LR]<END>
 
 //も…[LR]<END>
 #JMP($5067C)
@@ -3758,6 +5646,11 @@ Oh, yeah,[LR]<END>
 #JMP($51B6C)
 #FIXEDLENGTH(13,0)
 Oh, yeah…[LR]<END>
+
+//なんと！[LR]<END>
+#JMP($52B8C)
+#FIXEDLENGTH(9,0)
+What![LR]<END>
 
 //も…[LR]<END>
 #JMP($53095)
@@ -3789,20 +5682,51 @@ Oh, yeah…[LR]<END>
 #FIXEDLENGTH(11,0)
 Oh yeah…[LR]<END>
 
+//が…[LR]<END>
+#JMP($537FC)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
 //そうそう…[LR]<END>
 #JMP($53886)
 #FIXEDLENGTH(11,0)
 Oh yeah…[LR]<END>
+
+//が…[LR]<END>
+#JMP($53EEF)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
+//「[VAR0]」[LR]<END>
+#JMP($54987)
+#FIXEDLENGTH(8,0)
+"[VAR0]"[LR]<END>
 
 //も…[LR]<END>
 #JMP($54E31)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//[WORD0]のラッシュがスゴイ[KERO]～！[LR]<END>
+#JMP($5558E)
+#FIXEDLENGTH(31,0)
+[WORD0] rush[LR]
+is crazy[KERO]～![LR]<END>
+
 //あ！[LR]<END>
 #JMP($5634F)
 #FIXEDLENGTH(5,0)
 Ah![LR]<END>
+
+//うーむ…[LR]<END>
+#JMP($57CD4)
+#FIXEDLENGTH(9,0)
+Hmmm…[LR]<END>
+
+//うーむ…[LR]<END>
+#JMP($57EDA)
+#FIXEDLENGTH(9,0)
+Hmmm…[LR]<END>
 
 //なるほど…[LR]<END>
 #JMP($581D4)
@@ -3839,10 +5763,25 @@ I see…[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//が…[LR]<END>
+#JMP($59D5E)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($5A7ED)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
+
+//が…[LR]<END>
+#JMP($5AC13)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
+
+//そう<$17><$19><$00>か～♪[LR]<END>
+#JMP($5B5D1)
+#FIXEDLENGTH(14,0)
+I see～♪[LR]<END>
 
 //そういえば…[LR]<END>
 #JMP($5B751)
@@ -3879,10 +5818,20 @@ Oh, yeah…[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//そう<$17><$19><$00>か～♪[LR]<END>
+#JMP($5BCAB)
+#FIXEDLENGTH(14,0)
+I see～♪[LR]<END>
+
 //そういえば…[LR]<END>
 #JMP($5BD56)
 #FIXEDLENGTH(13,0)
 Oh, yeah…[LR]<END>
+
+//うーむ…[LR]<END>
+#JMP($5BF9A)
+#FIXEDLENGTH(9,0)
+Hmmm…[LR]<END>
 
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($5C865)
@@ -3924,6 +5873,11 @@ I see…[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//ん？[LR]<END>
+#JMP($5D913)
+#FIXEDLENGTH(5,0)
+Hm?[LR]<END>
+
 //そっか…[LR]<END>
 #JMP($5DA69)
 #FIXEDLENGTH(9,0)
@@ -3949,15 +5903,35 @@ I see～[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//それにしても…[LR]<END>
+#JMP($5E555)
+#FIXEDLENGTH(15,0)
+Still…[LR]<END>
+
 //[WORD0]って…[LR]<END>
 #JMP($5E569)
 #FIXEDLENGTH(12,0)
 [WORD0]…[LR]<END>
 
+//えっ!?[LR]<END>
+#JMP($5E686)
+#FIXEDLENGTH(7,0)
+Huh!?[LR]<END>
+
+//ところで…[LR]<END>
+#JMP($5ED67)
+#FIXEDLENGTH(11,0)
+Anyway…[LR]<END>
+
 //なるほど…[LR]<END>
 #JMP($5EE04)
 #FIXEDLENGTH(11,0)
 I see…[LR]<END>
+
+//はわわ～！[LR]<END>
+#JMP($60525)
+#FIXEDLENGTH(11,0)
+Hawawa～![LR]<END>
 
 //そういえば…[LR]<END>
 #JMP($62964)
@@ -3988,6 +5962,11 @@ Ossu![LR]<END>
 #JMP($63633)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
+
+//が…[LR]<END>
+#JMP($63772)
+#FIXEDLENGTH(5,0)
+but[LR]<END>
 
 //ケロロ…[LR]<END>
 #JMP($639A9)
@@ -4039,6 +6018,11 @@ No comment<END>
 #JMP($762CE)
 #FIXEDLENGTH(10,0)
 Never mind<END>
+
+//外国の人<END>
+#JMP($77563)
+#FIXEDLENGTH(8,0)
+Foreign<END>
 
 //大好きな人<END>
 #JMP($78A41)
