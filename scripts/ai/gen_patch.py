@@ -166,6 +166,44 @@ def restore_tic(jp, en):
     return en[:cut] + ' ' + codes[-1] + en[cut:]
 
 
+def human_pairs():
+    """Japanese -> English pairs from the human-written patch files, so identical
+    strings in other characters' files reuse the human translation."""
+    pairs = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, 'patches', '*.txt'))):
+        b = os.path.basename(f)
+        if b.startswith('ricky_') or '_ai_' in b or b in ('boot.txt', 'param.txt'):
+            continue
+        lines = open(f, encoding='utf-8').read().splitlines()
+        jp = None
+        injmp = False
+        buf = []
+        for line in lines:
+            st = line.strip()
+            if st.startswith('//'):
+                c = st[2:].split(' -- ')[0].strip()
+                if c.endswith('<END>'):
+                    jp = c[:-5]
+                elif re.search('[぀-ヿ一-鿿]', c):
+                    jp = c
+                continue
+            if st.startswith('#JMP'):
+                injmp = True
+                buf = []
+                continue
+            if st.startswith('#') or not st:
+                continue
+            if injmp:
+                buf.append(st)
+                if st.endswith('<END>'):
+                    en = ''.join(buf)[:-5]
+                    if jp and jp not in pairs:
+                        pairs[jp] = en
+                    injmp = False
+                    jp = None
+    return pairs
+
+
 def covered(char):
     s = set()
     for f in sorted(glob.glob(os.path.join(ROOT, 'patches', '%s*.txt' % char))):
@@ -193,10 +231,11 @@ def strings(char):
 
 def worklist(char):
     cov = covered(char)
+    hp = human_pairs()
     seen = {}
     rows = []
     for off, ln, t in strings(char):
-        if off in cov or is_label(t):
+        if off in cov or is_label(t) or t in hp:
             continue
         if t in seen:
             seen[t][1] += 1
@@ -246,6 +285,9 @@ def build(char):
         if off not in byoff:
             print('%s: offset %X is not a known string start' % (src, off)); errors += 1; continue
         bytext[byoff[off][1]] = (en, unsure, src)
+    for jp, en in human_pairs().items():
+        if jp not in bytext:
+            bytext[jp] = (en, None, 'human:' + jp[:12])
     out = [HEADER.format(ksc=ksc, name=name, char=char)]
     n = 0
     nun = 0
@@ -276,6 +318,8 @@ def build(char):
             if raw2 != raw:
                 raw = raw2
                 en, blen, bad = fit(raw)
+        if (bad or blen > ln) and src.startswith('human:'):
+            continue  # reused human translation that does not fit here: leave it
         if bad or blen > ln:
             if src not in reported:
                 reported.add(src)
