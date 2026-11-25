@@ -6,6 +6,20 @@
 
 <h4 align="center">A work-in-progress <a href="https://en.wikipedia.org/wiki/Fan_translation_of_video_games">English translation</a> <a href="https://en.wikipedia.org/wiki/Patch_(computing)">patch</a> for <a href="https://www.ign.com/games/doko-demo-issyo-psp">Doko Demo Issyo</a> on the PlayStation Portable.</h4>
 
+> [!CAUTION]
+> ## ⚠️ AI disclaimer: this is an unofficial, AI-translated fork
+>
+> This repository is a **fork** of the fan translation project by [pumpkinhasapatch](https://github.com/pumpkinhasapatch) and contributors: **https://github.com/pumpkinhasapatch/dokodemo-psp-english**.
+>
+> The translations this fork adds on top of the original project (on the `ai-translation` branch) were **produced by an AI model (Claude), not by human translators**. They have **not** been reviewed by the original translation team or by fluent Japanese speakers, and they may contain mistakes, awkward wording or lines that don't match the original's meaning or tone. Lines the AI was unsure about are marked `// AI-UNSURE` in the patch files.
+>
+> - **This fork is not affiliated with or endorsed by the original project.** Please don't report problems with this fork to the original translators.
+> - **The real, human-made translation lives upstream.** If you want to help translate Doko Demo Issyo, please **contribute to the original project** instead: [open an issue or pull request there](https://github.com/pumpkinhasapatch/dokodemo-psp-english), join their [Discord server](https://pumpkin.moe/discord) or [support pumpkinhasapatch on Ko-fi](https://ko-fi.com/pumpkinhasapatch).
+> - Bug fixes made in this fork that aren't AI translation are offered back to the original project as pull requests.
+>
+> All credit for the original translation work, build system, textures and documentation goes to the people listed in [Credits](#credits).
+
+
 <p align="center">
   <a href="#installation">Installation</a> -
   <a href="#building">Building</a> -
