@@ -28966,6 +28966,11 @@ Hawawa～![LR]<END>
 See stuff like[LR]
 that…[LR]<END>
 
+//食欲 なくなるッス！[LR]<END>
+#JMP($49283)
+#FIXEDLENGTH(20,0)
+no appetite![LR]<END>
+
 //ホラー映画は あんまり見ない[KERO]？[LR]<END>
 #JMP($492A9)
 #FIXEDLENGTH(33,0)
@@ -29343,35 +29348,700 @@ tasty[LR]
 specialties like[LR]
 [WORD7]![LR]<END>
 
+//[WORD0]には 名物がない[KERO]？[LR]<END>
+#JMP($4A152)
+#FIXEDLENGTH(26,0)
+[WORD0] has no[LR]
+specialty?[LR]<END>
+
 //つまらない[KERO]…[LR]<END>
 #JMP($4A177)
 #FIXEDLENGTH(16,0)
 Boring…[LR]<END>
+
+//[WORD0]の 体の中で！[LR]<END>
+#JMP($4A1A6)
+#FIXEDLENGTH(19,0)
+In [WORD0]'s[LR]
+body![LR]<END>
+
+//いちばん筋肉が ついてそうなのは ドコ<$17><$19><$00>か？<END>
+#JMP($4A1BB)
+#FIXEDLENGTH(43,0)
+Where's the most muscle, you think?<END>
+
+//[WORD0]の 体の中で いちばん 筋肉があるトコだ[KERO]～<END>
+#JMP($4A21B)
+#FIXEDLENGTH(47,0)
+Where [WORD0] has the most muscle～<END>
 
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($4A265)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
 
+//知ってる<$17><$19><$00>か？[LR]<END>
+#JMP($4A27C)
+#FIXEDLENGTH(16,0)
+Know what?[LR]<END>
+
+//[WORD3]に ついている筋肉は…[LR]<END>
+#JMP($4A28E)
+#FIXEDLENGTH(27,0)
+The muscle on[LR]
+[WORD3]…[LR]<END>
+
+//[WORD4]をするのに、じゅーような 筋肉なんだ[KERO]！[LR]<END>
+#JMP($4A2CB)
+#FIXEDLENGTH(46,0)
+is crucial for[LR]
+doin' [WORD4]![LR]<END>
+
+//通称、「[VAR4]筋」って 言うん<$17><$19><$00>よ！[LR]<END>
+#JMP($4A30C)
+#FIXEDLENGTH(34,0)
+They call it the[LR]
+"[VAR4] muscle"![LR]<END>
+
+//[WORD4]の やりすぎで、[WORD3]に すっごい 筋肉が ついている<END>
+#JMP($4A330)
+#FIXEDLENGTH(54,0)
+Too much [WORD4] gave my [WORD3] huge muscles<END>
+
+//筋肉ない<$17><$19><$00>か？[LR]<END>
+#JMP($4A377)
+#FIXEDLENGTH(16,0)
+No muscle?[LR]<END>
+
+//<$17><$1B><$00> そう<$17><$19><$00>か…[LR]<END>
+#JMP($4A392)
+#FIXEDLENGTH(16,0)
+<$17><$1B><$00> I see…[LR]<END>
+
+//もっと、きたえなきゃ いかん<$17><$19><$00>よ！[LR]<END>
+#JMP($4A3AD)
+#FIXEDLENGTH(35,0)
+You gotta train[LR]
+more![LR]<END>
+
+//<$17><$1B><$00> 歴史のハナシでもする<$17><$19><$00>～[LR]<END>
+#JMP($4A3DD)
+#FIXEDLENGTH(30,0)
+<$17><$1B><$00> Let's talk[LR]
+history～[LR]<END>
+
 //そう<$17><$19><$00>なァ～[LR]<END>
 #JMP($4A406)
 #FIXEDLENGTH(14,0)
 Let's see～[LR]<END>
+
+//[WORD0]～！[LR]おしえてほしい[KERO]！[LR]<END>
+#JMP($4A42A)
+#FIXEDLENGTH(30,0)
+[WORD0]～![LR]
+Teach me![LR]<END>
+
+//[WORD1]から[LR]「青春時代」[LR]っちゅーコトバを 聞いたんだ[KERO]も…[LR]<END>
+#JMP($4A468)
+#FIXEDLENGTH(58,0)
+From [WORD1][LR]
+I heard the word[LR]
+"youth days"…[LR]<END>
 
 //よ～[LR]<END>
 #JMP($4A4D9)
 #FIXEDLENGTH(5,0)
 !～[LR]<END>
 
+//一体、何年代のコトなんだ[KERO]？<END>
+#JMP($4A4E9)
+#FIXEDLENGTH(29,0)
+What decade is that?<END>
+
 //えっ!?[LR]<END>
 #JMP($4A535)
 #FIXEDLENGTH(7,0)
 Huh!?[LR]<END>
 
+//年代のコトじゃ なかった[KERO]!?[LR]<END>
+#JMP($4A547)
+#FIXEDLENGTH(29,0)
+It's not a[LR]
+decade!?[LR]<END>
+
+//<$17><$1B><$00>[LR]こいつは 早とちりだったなッス～[LR]<END>
+#JMP($4A56F)
+#FIXEDLENGTH(36,0)
+<$17><$1B><$00>[LR]
+I jumped the[LR]
+gun～[LR]<END>
+
+//うむ…[LR]<END>
+#JMP($4A5A5)
+#FIXEDLENGTH(7,0)
+Hmm…[LR]<END>
+
+//１９５０年代と言えば…？<END>
+#JMP($4A5AE)
+#FIXEDLENGTH(24,0)
+The 1950s means…?<END>
+
+//みゆき族<END>
+#JMP($4A5EA)
+#FIXEDLENGTH(8,0)
+Miyuki<END>
+
+//たいよう族<END>
+#JMP($4A603)
+#FIXEDLENGTH(10,0)
+Sun Tribe<END>
+
+//ふむ？[LR][WORD1]ダスか…？[LR]<END>
+#JMP($4A639)
+#FIXEDLENGTH(23,0)
+Hm?[LR]
+[WORD1],[LR]
+dasu…?[LR]<END>
+
+//うむ…[LR]<END>
+#JMP($4A6A0)
+#FIXEDLENGTH(7,0)
+Hmm…[LR]<END>
+
+//やっぱ、１９６０年代と言えば…？<END>
+#JMP($4A6A9)
+#FIXEDLENGTH(32,0)
+And the 1960s means…?<END>
+
+//ヒッピー族<END>
+#JMP($4A6F1)
+#FIXEDLENGTH(10,0)
+Hippies<END>
+
+//ツイスト<END>
+#JMP($4A70C)
+#FIXEDLENGTH(8,0)
+Twist<END>
+
+//ゲバゲバビー<END>
+#JMP($4A742)
+#FIXEDLENGTH(12,0)
+Geba-geba<END>
+
+//[WORD1]ッスか…？[LR]<END>
+#JMP($4A75F)
+#FIXEDLENGTH(16,0)
+[WORD1]…?[LR]<END>
+
+//うむ…[LR]<END>
+#JMP($4A782)
+#FIXEDLENGTH(7,0)
+Hmm…[LR]<END>
+
+//やっぱ、１９７０年代と言えば…？<END>
+#JMP($4A78B)
+#FIXEDLENGTH(32,0)
+And the 1970s means…?<END>
+
+//アンノン族<END>
+#JMP($4A7D3)
+#FIXEDLENGTH(10,0)
+An-non<END>
+
+//まどぎわ族<END>
+#JMP($4A7EE)
+#FIXEDLENGTH(10,0)
+Deadwood<END>
+
+//オイルショック<END>
+#JMP($4A809)
+#FIXEDLENGTH(14,0)
+Oil shock<END>
+
+//省エネ<END>
+#JMP($4A828)
+#FIXEDLENGTH(6,0)
+Eco<END>
+
+//[WORD1]ッスか…？[LR]<END>
+#JMP($4A83F)
+#FIXEDLENGTH(16,0)
+[WORD1]…?[LR]<END>
+
+//うむ…[LR]<END>
+#JMP($4A862)
+#FIXEDLENGTH(7,0)
+Hmm…[LR]<END>
+
+//やっぱ、１９８０年代と言えば…？<END>
+#JMP($4A86B)
+#FIXEDLENGTH(32,0)
+And the 1980s means…?<END>
+
+//なめねこブーム<END>
+#JMP($4A8B3)
+#FIXEDLENGTH(14,0)
+Nameneko<END>
+
+//ぶりっ子<END>
+#JMP($4A8ED)
+#FIXEDLENGTH(8,0)
+Cutesy<END>
+
+//カウチポテト<END>
+#JMP($4A906)
+#FIXEDLENGTH(12,0)
+Couch potato<END>
+
+//そう<$17><$19><$00>なァ～[LR]<$17><$1B><$00> やっぱり [WORD1]ッスねェ♪[LR]<END>
+#JMP($4A923)
+#FIXEDLENGTH(43,0)
+Right～[LR]
+<$17><$1B><$00> [WORD1],[LR]
+for sure♪[LR]<END>
+
+//今となっては「[VAR1]」？[LR]なにソレ？[LR]<END>
+#JMP($4A961)
+#FIXEDLENGTH(33,0)
+Now it's[LR]
+"[VAR1]"?[LR]
+What's that?[LR]<END>
+
+//みたいに 言われがちだ[KERO]も…[LR]<END>
+#JMP($4A984)
+#FIXEDLENGTH(29,0)
+folks tend to[LR]
+say…[LR]<END>
+
+//それぞれの世代を 反映していて…<END>
+#JMP($4A9AC)
+#FIXEDLENGTH(31,0)
+each reflects its generation…<END>
+
+//<$17><$1B><$00> なんとなく[LR]切なくなっちゃう[LR]<$17><$19><$00>なァ～[LR]<END>
+#JMP($4A9D3)
+#FIXEDLENGTH(42,0)
+<$17><$1B><$00> somehow[LR]
+it makes me[LR]
+wistful～[LR]<END>
+
+//「縄文時代」って知ってる[KERO]？[LR]<END>
+#JMP($4AA23)
+#FIXEDLENGTH(30,0)
+Know the[LR]
+"Jomon period"?[LR]<END>
+
+//なにやら 土をこねて…[LR]あやしげな [WORD0]のような カタチのモノを、<END>
+#JMP($4AA4C)
+#FIXEDLENGTH(63,0)
+Folks kneaded[LR]
+clay…[LR]
+into weird[LR]
+shapes like[LR]
+[WORD0],<END>
+
+//造ってたらしい<$17><$19><$00>～[LR]<END>
+#JMP($4AA8D)
+#FIXEDLENGTH(20,0)
+they made, it[LR]
+seems[LR]<END>
+
+//どうも 気に入らない [WORD0]を 思いうかべては…[LR]<END>
+#JMP($4AAEB)
+#FIXEDLENGTH(45,0)
+Picturin' a[LR]
+[WORD0] they[LR]
+disliked…[LR]<END>
+
+//壊して スッキリするために 造ってたらしい[KERO]～[LR]<END>
+#JMP($4AB23)
+#FIXEDLENGTH(46,0)
+they made 'em[LR]
+to smash and[LR]
+feel better～[LR]<END>
+
+//<$17><$1B><$00>[LR]今も むかしも…[LR]気苦労って たえないモノなん<$17><$19><$00>ねェ～[LR]<END>
+#JMP($4AB5C)
+#FIXEDLENGTH(57,0)
+<$17><$1B><$00>[LR]
+Then and now…[LR]
+worries never[LR]
+end～[LR]<END>
+
+//日本人が 地面に 水をはって…[LR]<END>
+#JMP($4ABBB)
+#FIXEDLENGTH(29,0)
+Japanese[LR]
+floodin' fields…[LR]<END>
+
+//[WORD0]を 育てるようになったのは～[LR]弥生時代から らしい[KERO]！[LR]<END>
+#JMP($4ABE3)
+#FIXEDLENGTH(58,0)
+to grow[LR]
+[WORD0]～[LR]
+started in the[LR]
+Yayoi period![LR]<END>
+
+//これが田んぼの はじまりらしい<$17><$19><$00>よ～！[LR]<END>
+#JMP($4AC28)
+#FIXEDLENGTH(39,0)
+That's how rice[LR]
+paddies began～![LR]<END>
+
+//田んぼの おかげで…[LR]<END>
+#JMP($4AC7B)
+#FIXEDLENGTH(20,0)
+Thanks to[LR]
+paddies…[LR]<END>
+
+//さぞかし 暮らしやすくなったと 思ったにちがいない<$17><$19><$00>～[LR]<END>
+#JMP($4AC9A)
+#FIXEDLENGTH(54,0)
+life must've[LR]
+gotten much[LR]
+easier～[LR]<END>
+
+//「邪馬台国」って どこにあったか 知ってる[KERO]？[LR]<END>
+#JMP($4ACE1)
+#FIXEDLENGTH(46,0)
+Know where[LR]
+"Yamatai" was?[LR]<END>
+
 //なんか…[LR]<END>
 #JMP($4AD22)
 #FIXEDLENGTH(9,0)
 Hmm…[LR]<END>
+
+//北九州<END>
+#JMP($4AD3E)
+#FIXEDLENGTH(6,0)
+Kyushu<END>
+
+//瀬戸内海<END>
+#JMP($4AD51)
+#FIXEDLENGTH(8,0)
+Inland<END>
+
+//よしのがり<END>
+#JMP($4AD66)
+#FIXEDLENGTH(10,0)
+Yoshino<END>
+
+//阿蘇山周辺<END>
+#JMP($4AD7D)
+#FIXEDLENGTH(10,0)
+Mt. Aso<END>
+
+//に、あったとか 色んな説が あるみたいだ[KERO]も…[LR]<END>
+#JMP($4AD91)
+#FIXEDLENGTH(46,0)
+there's all kinds[LR]
+of theories…[LR]<END>
+
+//[WORD0]に あったと ニラんでいる[KERO]!![LR]<END>
+#JMP($4AE06)
+#FIXEDLENGTH(35,0)
+I bet it was in[LR]
+[WORD0]!![LR]<END>
+
+//これでも 色々 研究してる<$17><$19><$00>よ～？[LR]<END>
+#JMP($4AE3C)
+#FIXEDLENGTH(34,0)
+I study this[LR]
+stuff, ya know～?[LR]<END>
+
+//…それにしても <$17><$1B><$00>[LR]<END>
+#JMP($4AE69)
+#FIXEDLENGTH(19,0)
+…Still<$17><$1B><$00>[LR]<END>
+
+//一度でイイから 女王サマに 会ってみたかった[KERO]～♥[LR]<END>
+#JMP($4AE7E)
+#FIXEDLENGTH(50,0)
+I'd love to meet[LR]
+the queen[LR]
+once～♥[LR]<END>
+
+//[WORD2]がほしい 電化製品を おしえて[KERO]？<END>
+#JMP($4AECC)
+#FIXEDLENGTH(38,0)
+What appliance does [WORD2] want?<END>
+
+//文明の進歩は <$17><$1B><$00> すさまじい[KERO]なァ～[LR]<END>
+#JMP($4AF1F)
+#FIXEDLENGTH(37,0)
+Progress is<$17><$1B><$00>[LR]
+insane～[LR]<END>
+
+//今みたいに [WORD1]が どこにでもあるような時代じゃ なかった[KERO]よ…[LR]<END>
+#JMP($4AF72)
+#FIXEDLENGTH(64,0)
+It wasn't a time[LR]
+with [WORD1][LR]
+everywhere…[LR]<END>
+
+//でも！[LR]<END>
+#JMP($4AFBD)
+#FIXEDLENGTH(7,0)
+But![LR]<END>
+
+//あたらしければイイってモンでも ない<$17><$19><$00>！[LR]<END>
+#JMP($4AFCF)
+#FIXEDLENGTH(41,0)
+New ain't always[LR]
+better![LR]<END>
+
+//古きよき時代ってのも 大切！[LR]<END>
+#JMP($4B003)
+#FIXEDLENGTH(28,0)
+Old times matter[LR]
+too![LR]<END>
+
+//なァ～[LR]<END>
+#JMP($4B064)
+#FIXEDLENGTH(7,0)
+～[LR]<END>
+
+//「縄文時代」とか…[LR]<END>
+#JMP($4B076)
+#FIXEDLENGTH(19,0)
+"Jomon period"…[LR]<END>
+
+//「弥生時代」とか…[LR]<END>
+#JMP($4B08E)
+#FIXEDLENGTH(19,0)
+"Yayoi period"…[LR]<END>
+
+//「[VAR3]時代」とか…[LR]<END>
+#JMP($4B0BB)
+#FIXEDLENGTH(18,0)
+"[VAR3] period"…[LR]<END>
+
+//<$17><$1B><$00> ワクワクする[KERO]♪[LR]<END>
+#JMP($4B0D8)
+#FIXEDLENGTH(22,0)
+<$17><$1B><$00> Excitin'♪[LR]<END>
+
+//か？<END>
+#JMP($4B122)
+#FIXEDLENGTH(4,0)
+?<END>
+
+//わかったッス！[LR]もう言わない[KERO]！[LR]<END>
+#JMP($4B14C)
+#FIXEDLENGTH(33,0)
+Got it![LR]
+I won't say more![LR]<END>
+
+//いつごろの ハナシが いい[KERO]？<END>
+#JMP($4B17F)
+#FIXEDLENGTH(29,0)
+Which era's stories?<END>
+
+//せっかく 思い出モードになったのに!![LR]<END>
+#JMP($4B1CF)
+#FIXEDLENGTH(36,0)
+Just when I got[LR]
+nostalgic!![LR]<END>
+
+//１９５０年代と言えば～[LR]<END>
+#JMP($4B20C)
+#FIXEDLENGTH(23,0)
+The 1950s[LR]
+means～[LR]<END>
+
+//みゆき族<END>
+#JMP($4B239)
+#FIXEDLENGTH(8,0)
+Miyuki<END>
+
+//たいよう族<END>
+#JMP($4B252)
+#FIXEDLENGTH(10,0)
+Sun Tribe<END>
+
+//[WORD2]<$17><$19><$00>なァ♪[LR]<END>
+#JMP($4B288)
+#FIXEDLENGTH(15,0)
+[WORD2]♪[LR]<END>
+
+//このころは まだ…[LR]<END>
+#JMP($4B2A2)
+#FIXEDLENGTH(18,0)
+Back then still…[LR]<END>
+
+//やっぱ！[LR]１９６０年代と言えば～[LR]<END>
+#JMP($4B300)
+#FIXEDLENGTH(32,0)
+Yep![LR]
+The 1960s[LR]
+means～[LR]<END>
+
+//巨人 大砲 卵焼き<END>
+#JMP($4B336)
+#FIXEDLENGTH(16,0)
+Giants,Taiho,egg<END>
+
+//無責任時代<END>
+#JMP($4B357)
+#FIXEDLENGTH(10,0)
+Carefree<END>
+
+//ツイスト<END>
+#JMP($4B372)
+#FIXEDLENGTH(8,0)
+Twist<END>
+
+//東京オリンピック<END>
+#JMP($4B38B)
+#FIXEDLENGTH(16,0)
+Tokyo Olympics<END>
+
+//[WORD2]<$17><$19><$00>よ♪[LR]<END>
+#JMP($4B3C9)
+#FIXEDLENGTH(13,0)
+[WORD2]♪[LR]<END>
+
+//やっぱ！[LR]１９７０年代と言えば～[LR]<END>
+#JMP($4B41B)
+#FIXEDLENGTH(32,0)
+Yep![LR]
+The 1970s[LR]
+means～[LR]<END>
+
+//万博<END>
+#JMP($4B451)
+#FIXEDLENGTH(4,0)
+Expo<END>
+
+//太陽の塔<END>
+#JMP($4B466)
+#FIXEDLENGTH(8,0)
+Sun twr<END>
+
+//無気力 無関心 無責任<END>
+#JMP($4B47F)
+#FIXEDLENGTH(20,0)
+Apathy era<END>
+
+//光化学スモッグ<END>
+#JMP($4B4A4)
+#FIXEDLENGTH(14,0)
+Smog alerts<END>
+
+//オイルショック<END>
+#JMP($4B4C3)
+#FIXEDLENGTH(14,0)
+Oil shock<END>
+
+//紅茶きのこ<END>
+#JMP($4B4ED)
+#FIXEDLENGTH(10,0)
+Kombucha<END>
+
+//ホームラン７５６本<END>
+#JMP($4B508)
+#FIXEDLENGTH(18,0)
+756 homers<END>
+
+//窓際族<END>
+#JMP($4B52B)
+#FIXEDLENGTH(6,0)
+Idlers<END>
+
+//なんちゃっておじさん<END>
+#JMP($4B55D)
+#FIXEDLENGTH(20,0)
+Nanchatte Ojisan<END>
+
+//それから～[LR][WORD4]<$17><$19><$00>♪[LR]<END>
+#JMP($4B58F)
+#FIXEDLENGTH(22,0)
+And then～[LR]
+[WORD4]♪[LR]<END>
+
+//今でも 目に うかぶ[KERO]！[LR]<END>
+#JMP($4B5B0)
+#FIXEDLENGTH(24,0)
+I can still see it![LR]<END>
+
+//やっぱ！[LR]１９８０年代と言えば～[LR]<END>
+#JMP($4B5DB)
+#FIXEDLENGTH(32,0)
+Yep![LR]
+The 1980s[LR]
+means～[LR]<END>
+
+//コンピュータゲーム<END>
+#JMP($4B611)
+#FIXEDLENGTH(18,0)
+Computer games<END>
+
+//ぶりっ子<END>
+#JMP($4B634)
+#FIXEDLENGTH(8,0)
+Cutesy<END>
+
+//漫才ブーム<END>
+#JMP($4B64D)
+#FIXEDLENGTH(10,0)
+Manzai<END>
+
+//なめねこブーム<END>
+#JMP($4B668)
+#FIXEDLENGTH(14,0)
+Nameneko<END>
+
+//たけの子族<END>
+#JMP($4B687)
+#FIXEDLENGTH(10,0)
+Takenoko<END>
+
+//バブル絶頂期<END>
+#JMP($4B6AD)
+#FIXEDLENGTH(12,0)
+Bubble peak<END>
+
+//カウチポテト族<END>
+#JMP($4B6CA)
+#FIXEDLENGTH(14,0)
+Couch potatoes<END>
+
+//サンキューセット<END>
+#JMP($4B6E9)
+#FIXEDLENGTH(16,0)
+Thank-you set<END>
+
+//バンドブーム<END>
+#JMP($4B70A)
+#FIXEDLENGTH(12,0)
+Band boom<END>
+
+//DCブランド<END>
+#JMP($4B727)
+#FIXEDLENGTH(10,0)
+DC brands<END>
+
+//そう<$17><$19><$00>ねェ～[LR]やっぱり [WORD3][KERO]～♪[LR]<END>
+#JMP($4B742)
+#FIXEDLENGTH(36,0)
+Yeah～[LR]
+[WORD3] for[LR]
+sure～♪[LR]<END>
+
+//[WORD4]なんてのも、あったッス♪[LR]<END>
+#JMP($4B771)
+#FIXEDLENGTH(30,0)
+There was[LR]
+[WORD4] too♪[LR]<END>
+
+//イヤァ～[LR]ちょっと昔を 思い出して せつなくなっちまった[KERO]…[LR]<END>
+#JMP($4B7C3)
+#FIXEDLENGTH(59,0)
+Man～[LR]
+rememberin' old[LR]
+times made me[LR]
+wistful…[LR]<END>
 
 //よ…[LR]<END>
 #JMP($4B837)
@@ -29383,10 +30053,135 @@ Hmm…[LR]<END>
 #FIXEDLENGTH(13,0)
 Oh, yeah…[LR]<END>
 
+//あの時 恋焦がれた、[LR]<END>
+#JMP($4B874)
+#FIXEDLENGTH(20,0)
+My old crush,[LR]<END>
+
+//[WORD2]は 今、どこで、どうしているんだ[KERO]…[LR]<END>
+#JMP($4B88A)
+#FIXEDLENGTH(42,0)
+[WORD2], where[LR]
+are they now…[LR]<END>
+
+//うっ、すまない<$17><$19><$00>…[LR]<END>
+#JMP($4B8BF)
+#FIXEDLENGTH(20,0)
+Ugh, sorry…[LR]<END>
+
+//しばらく ひとりにしておいて[KERO]…[LR]<END>
+#JMP($4B8D8)
+#FIXEDLENGTH(33,0)
+Leave me alone[LR]
+a while…[LR]<END>
+
+//「イイ国つくろう 鎌倉幕府」って[LR]<$17><$1B><$00>[LR]<END>
+#JMP($4B911)
+#FIXEDLENGTH(36,0)
+"Iikuni tsukurou[LR]
+Kamakura"[LR]
+<$17><$1B><$00>[LR]<END>
+
+//イイ スローガン<$17><$19><$00>ねぇ～！[LR]<END>
+#JMP($4B93A)
+#FIXEDLENGTH(27,0)
+Nice slogan～![LR]<END>
+
+//そのころの 将軍のやる気が 目にうかぶよう<$17><$19><$00>…[LR]<END>
+#JMP($4B960)
+#FIXEDLENGTH(46,0)
+I can picture[LR]
+the shogun's[LR]
+drive…[LR]<END>
+
+//それにくらべて 今の [WORD0]の だらしなさといったら もう…<END>
+#JMP($4B9AE)
+#FIXEDLENGTH(55,0)
+Compared to that, how sloppy [WORD0] is now…<END>
+
+//少しは 見ならってほしい<$17><$19><$00>ねェ～!![LR]<END>
+#JMP($4BA0B)
+#FIXEDLENGTH(35,0)
+They should[LR]
+learn a bit～!![LR]<END>
+
 //えっ!?[LR]<END>
 #JMP($4BA41)
 #FIXEDLENGTH(7,0)
 Huh!?[LR]<END>
+
+//…スローガンじゃ なかった<$17><$19><$00>か!?[LR]<END>
+#JMP($4BA56)
+#FIXEDLENGTH(33,0)
+…Not a slogan!?[LR]<END>
+
+//「1192年 鎌倉幕府成立」…？[LR]<END>
+#JMP($4BA82)
+#FIXEDLENGTH(28,0)
+"1192:[LR]
+Kamakura"…?[LR]<END>
+
+//たんなる ゴロ合わせ…？[LR]<END>
+#JMP($4BAA3)
+#FIXEDLENGTH(24,0)
+Just a[LR]
+mnemonic…?[LR]<END>
+
+//…こいつは <$17><$1B><$00>[LR]<END>
+#JMP($4BAD2)
+#FIXEDLENGTH(15,0)
+…This<$17><$1B><$00>[LR]<END>
+
+//いっぱい 食わされた[KERO]～[LR]<END>
+#JMP($4BAE9)
+#FIXEDLENGTH(25,0)
+really fooled[LR]
+me～[LR]<END>
+
+//縄文時代には タテに穴を ほったトコに 屋根をつけて、<END>
+#JMP($4BB13)
+#FIXEDLENGTH(51,0)
+In the Jomon period, they dug a pit and roofed it,<END>
+
+//家を たてたらしい[KERO]！[LR]<END>
+#JMP($4BB48)
+#FIXEDLENGTH(23,0)
+to build houses![LR]<END>
+
+//これを！[LR]「タテあな式住居」って 言うんだなッス～[LR]<END>
+#JMP($4BB6A)
+#FIXEDLENGTH(49,0)
+That's called[LR]
+a "pit dwelling"～[LR]<END>
+
+//しかし まぁ そんな家だと…[LR]<END>
+#JMP($4BBA6)
+#FIXEDLENGTH(27,0)
+But a house like[LR]
+that…[LR]<END>
+
+//雨がふった時 床が 水びたしになって、<END>
+#JMP($4BBCC)
+#FIXEDLENGTH(36,0)
+when it rains, the floor floods,<END>
+
+//[WORD0]も [WORD1]も、<END>
+#JMP($4BC22)
+#FIXEDLENGTH(17,0)
+[WORD0] and [WORD1],<END>
+
+//エラいコトに なるんじゃない<$17><$19><$00>か…？[LR]<END>
+#JMP($4BC35)
+#FIXEDLENGTH(37,0)
+would be a mess,[LR]
+right…?[LR]<END>
+
+//なんで わざわざ そんなコトしてたのか 知りたい[KERO]～!![LR]<END>
+#JMP($4BC6D)
+#FIXEDLENGTH(53,0)
+I wanna know[LR]
+why they[LR]
+bothered～!![LR]<END>
 
 //ま！[LR]<END>
 #JMP($4BCAD)
@@ -29398,60 +30193,902 @@ Well[LR]<END>
 #FIXEDLENGTH(5,0)
 ♪[LR]<END>
 
+//「弥生時代」って…[LR]弥生サンが 大かつやくしてた 時代[KERO]？<END>
+#JMP($4BD10)
+#FIXEDLENGTH(56,0)
+"Yayoi period"…[LR]
+the era Ms.[LR]
+Yayoi was a big[LR]
+hit?<END>
+
+//きっと、弥生サンは [WORD1]して 大かつやくだったん<$17><$19><$00>なぁ～[LR]<END>
+#JMP($4BDB6)
+#FIXEDLENGTH(57,0)
+Ms. Yayoi[LR]
+must've been a[LR]
+big hit[LR]
+[WORD1]-ing～[LR]<END>
+
+//おやまァ！[LR]<END>
+#JMP($4BE02)
+#FIXEDLENGTH(11,0)
+Oh my![LR]<END>
+
+//ちがうん<$17><$19><$00>か…[LR]<END>
+#JMP($4BE18)
+#FIXEDLENGTH(16,0)
+Not so…[LR]<END>
+
+//よく わかってない[KERO]…[LR]<END>
+#JMP($4BE59)
+#FIXEDLENGTH(23,0)
+Nobody knows…[LR]<END>
+
 //え!?[LR]<END>
 #JMP($4BE83)
 #FIXEDLENGTH(5,0)
 Eh!?[LR]<END>
+
+//そうなん<$17><$19><$00>かッ!?[LR]<END>
+#JMP($4BE93)
+#FIXEDLENGTH(18,0)
+Is that so!?[LR]<END>
+
+//…知らなかった<$17><$19><$00>～！[LR]<END>
+#JMP($4BEB0)
+#FIXEDLENGTH(22,0)
+…Didn't know～![LR]<END>
+
+//[WORD2]って モノ知り<$17><$19><$00>ねェ～!![LR]<END>
+#JMP($4BED0)
+#FIXEDLENGTH(30,0)
+[WORD2] knows[LR]
+lots～!![LR]<END>
+
+//そー<$17><$19><$00>か～[LR]ヒミコが 弥生サンだった<$17><$19><$00>か…[LR]<END>
+#JMP($4BEF9)
+#FIXEDLENGTH(43,0)
+I see～[LR]
+Himiko was Ms.[LR]
+Yayoi…[LR]<END>
+
+//さいしょに 日本国を まとめたって言われてるのが～[LR]<END>
+#JMP($4BF3D)
+#FIXEDLENGTH(49,0)
+The first to[LR]
+unite Japan,[LR]
+they say～[LR]<END>
+
+//「大和ちょーてい」なんだ[KERO]も…[LR]<END>
+#JMP($4BF76)
+#FIXEDLENGTH(32,0)
+was "Yamato[LR]
+court"…[LR]<END>
+
+//その起源は ナゾが いっぱいなんだ[KERO]～[LR]<END>
+#JMP($4BFA1)
+#FIXEDLENGTH(38,0)
+its origins are[LR]
+full of mystery～[LR]<END>
+
+//神話と リンクしていて～[LR]ひじょーに キョーミが わくんだなッス！[LR]<END>
+#JMP($4BFDA)
+#FIXEDLENGTH(63,0)
+Linked to[LR]
+myths～[LR]
+it's super[LR]
+interestin'![LR]<END>
+
+//<$17><$1B><$00>[LR]ヤマタノオロチって…[LR]<END>
+#JMP($4C024)
+#FIXEDLENGTH(25,0)
+<$17><$1B><$00>[LR]
+Yamata no[LR]
+Orochi…[LR]<END>
+
+//アタマが ８つもある [WORD0]だったって ホント[KERO]～？<END>
+#JMP($4C05D)
+#FIXEDLENGTH(49,0)
+was a [WORD0] with 8 heads, really～?<END>
 
 //なぬ～!?[LR]<END>
 #JMP($4C0B9)
 #FIXEDLENGTH(9,0)
 Wha～!?[LR]<END>
 
+//やっぱりホントなん<$17><$19><$00>ねェ～!![LR]<END>
+#JMP($4C0CD)
+#FIXEDLENGTH(30,0)
+So it's true～!![LR]<END>
+
+//イヤァ～[LR]ロマンだ[KERO]…♥[LR]<END>
+#JMP($4C0F6)
+#FIXEDLENGTH(25,0)
+Man～[LR]
+Romance…♥[LR]<END>
+
 //ン？[LR]<END>
 #JMP($4C122)
 #FIXEDLENGTH(5,0)
 Hm?[LR]<END>
+
+//ちがう<$17><$19><$00>か…？[LR]<END>
+#JMP($4C132)
+#FIXEDLENGTH(16,0)
+Not so…?[LR]<END>
+
+//おかしい<$17><$19><$00>ねェ…[LR]もう一度 調べなおす[KERO]…[LR]<END>
+#JMP($4C147)
+#FIXEDLENGTH(43,0)
+Strange…[LR]
+I'll look it up[LR]
+again…[LR]<END>
+
+//エッヘン！[LR]<END>
+#JMP($4C185)
+#FIXEDLENGTH(11,0)
+Ahem![LR]<END>
+
+//そうらしい<$17><$19><$00>！[LR]タメに なった<$17><$19><$00>か？[LR]<END>
+#JMP($4C19B)
+#FIXEDLENGTH(37,0)
+So it seems![LR]
+Learn[LR]
+somethin'?[LR]<END>
 
 //知らない<$17><$19><$00>か？[LR]<END>
 #JMP($4C1D3)
 #FIXEDLENGTH(16,0)
 Don't know it?[LR]<END>
 
+//ダメだ[KERO]～ そんなコトでは～！[LR]<END>
+#JMP($4C1E5)
+#FIXEDLENGTH(31,0)
+No good～ like[LR]
+that～![LR]<END>
+
+//[WORD2]も 歴史を勉強するといい<$17><$19><$00>!![LR]<END>
+#JMP($4C217)
+#FIXEDLENGTH(34,0)
+[WORD2], study[LR]
+history!![LR]<END>
+
+//おもしろい<$17><$19><$00>よ～♥[LR]<END>
+#JMP($4C23B)
+#FIXEDLENGTH(20,0)
+It's fun～♥[LR]<END>
+
+//飛鳥時代は…[LR]もののべ氏や…[LR]そが氏といった…[LR]<END>
+#JMP($4C268)
+#FIXEDLENGTH(45,0)
+The Asuka[LR]
+period…[LR]
+Mononobe…[LR]
+Soga clans…[LR]<END>
+
+//「豪族」とよばれる人達が 強かった時代なんだ[KERO]！[LR]<END>
+#JMP($4C2A0)
+#FIXEDLENGTH(49,0)
+was when[LR]
+"clans" like that[LR]
+were strong![LR]<END>
+
+//イルカ<END>
+#JMP($4C2FC)
+#FIXEDLENGTH(6,0)
+Iruka<END>
+
+//そが氏で ゆーめいなのは…[LR]「そがの[VAR0]」…[LR]<END>
+#JMP($4C30B)
+#FIXEDLENGTH(42,0)
+Famous Soga[LR]
+was…[LR]
+"Soga no[LR]
+[VAR0]"…[LR]<END>
+
+//はるか 昔にも～[LR][WORD0]なのに…[LR]<END>
+#JMP($4C348)
+#FIXEDLENGTH(30,0)
+Long ago～[LR]
+as [WORD0]…[LR]<END>
+
+//人間界で 権力をふるうまでに なったヤツが いる<$17><$19><$00>よ!![LR]<END>
+#JMP($4C371)
+#FIXEDLENGTH(53,0)
+one rose to[LR]
+power in the[LR]
+human world!![LR]<END>
+
+//「聖徳太子」は 人間では なかったっていう ウワサがある[KERO]も…[LR]<END>
+#JMP($4C3E1)
+#FIXEDLENGTH(61,0)
+There's a rumor[LR]
+Prince Shotoku[LR]
+wasn't human…[LR]<END>
+
+//ホントだべか…？<END>
+#JMP($4C429)
+#FIXEDLENGTH(16,0)
+Is it true…?<END>
+
+//[WORD1]～!![LR]ロマンが 足りない[KERO]～！[LR]<END>
+#JMP($4C468)
+#FIXEDLENGTH(35,0)
+[WORD1]～!![LR]
+Not enough[LR]
+romance～![LR]<END>
+
+//こーゆーのは～[LR]<END>
+#JMP($4C496)
+#FIXEDLENGTH(15,0)
+Stuff like it[LR]<END>
+
+//「ホントだべか～？」[LR]「ウソだべか～？」って やってるウチが、<END>
+#JMP($4C4B0)
+#FIXEDLENGTH(60,0)
+"Is it true～?"[LR]
+"Is it a lie～?"[LR]
+while wonderin',<END>
+
+//イチバンたのしい<$17><$19><$00>よ～!?[LR]<END>
+#JMP($4C4F4)
+#FIXEDLENGTH(26,0)
+is the most[LR]
+fun～!?[LR]<END>
+
+//もっとアソビ心が ないと!![LR]<END>
+#JMP($4C519)
+#FIXEDLENGTH(26,0)
+Need more[LR]
+playfulness!![LR]<END>
+
+//やっぱし!?[LR]やっぱそう<$17><$19><$00>よねェ～!![LR]<END>
+#JMP($4C545)
+#FIXEDLENGTH(35,0)
+Right!?[LR]
+Thought so～!![LR]<END>
+
+//７人の話を 同時に 聞けたって話が あるような人だから…[LR]<END>
+#JMP($4C57B)
+#FIXEDLENGTH(54,0)
+A guy who could[LR]
+hear 7 folks at[LR]
+once…[LR]<END>
+
+//おそらくホント<$17><$19><$00>よ…[LR]<END>
+#JMP($4C5B6)
+#FIXEDLENGTH(22,0)
+it's prob'ly[LR]
+true…[LR]<END>
+
+//ハッ！[LR]だとしたら…!![LR]<END>
+#JMP($4C5D7)
+#FIXEDLENGTH(22,0)
+Ah![LR]
+If so…!![LR]<END>
+
+//ひょっとして～[LR]<END>
+#JMP($4C5F8)
+#FIXEDLENGTH(15,0)
+Could it be～[LR]<END>
+
+//カエル大明神<END>
+#JMP($4C632)
+#FIXEDLENGTH(12,0)
+Frog deity<END>
+
+//[WORD2]の化身だったんでは ない<$17><$19><$00>か!?[LR]<END>
+#JMP($4C641)
+#FIXEDLENGTH(36,0)
+he was[LR]
+[WORD2] in[LR]
+disguise!?[LR]<END>
+
+//むかしは 貴族の間で～[LR]「けまり」という あそびが 流行ってたんだ[KERO]～[LR]<END>
+#JMP($4C69E)
+#FIXEDLENGTH(68,0)
+Long ago,[LR]
+nobles～[LR]
+loved a game[LR]
+called "kemari"～[LR]<END>
+
+//今でいうトコロの サッカーのリフティング みたいなモノだなッス！[LR]<END>
+#JMP($4C6ED)
+#FIXEDLENGTH(63,0)
+Like[LR]
+keepy-uppy in[LR]
+soccer today![LR]<END>
+
+//ちょっとちがうのは～[LR]<END>
+#JMP($4C74C)
+#FIXEDLENGTH(21,0)
+The difference～[LR]<END>
+
+//足のかわりに…[LR][WORD0]を 使ってたって トコロなんだ[KERO]♪[LR]<END>
+#JMP($4C763)
+#FIXEDLENGTH(54,0)
+instead of feet…[LR]
+they used[LR]
+[WORD0]♪[LR]<END>
+
+//そのころの貴族って <$17><$1B><$00>[LR]器用な人達だったん<$17><$19><$00>ねェ～[LR]<END>
+#JMP($4C7A4)
+#FIXEDLENGTH(51,0)
+Nobles back[LR]
+then<$17><$1B><$00>[LR]
+were so skilled～[LR]<END>
+
+//うぐいす<END>
+#JMP($4C808)
+#FIXEDLENGTH(8,0)
+Warbler<END>
+
+//「なくよ [WORD0] 平安京…」[LR]<END>
+#JMP($4C819)
+#FIXEDLENGTH(26,0)
+"Nakuyo[LR]
+[WORD0],[LR]
+Heian…"[LR]<END>
+
+//ステキな キャッチ[LR]フレーズだ[KERO]～♥[LR]<END>
+#JMP($4C83E)
+#FIXEDLENGTH(36,0)
+Lovely catch[LR]
+phrase～♥[LR]<END>
+
+//きらびやかで のどかなカンジが 伝わってくる[KERO]～[LR]<END>
+#JMP($4C86D)
+#FIXEDLENGTH(48,0)
+I can feel the[LR]
+splendor and[LR]
+calm～[LR]<END>
+
+//どこの観光局が 考えたか 分からない[LR][KERO]も…[LR]<END>
+#JMP($4C8A8)
+#FIXEDLENGTH(43,0)
+Dunno which[LR]
+tourist board[LR]
+made it[LR]
+…[LR]<END>
+
+//[WORD1]行きたくなった<$17><$19><$00>！[LR]<END>
+#JMP($4C8E7)
+#FIXEDLENGTH(25,0)
+I [WORD1][LR]
+wanna go![LR]<END>
+
+//…で[LR]平安京って ところは～[LR]<END>
+#JMP($4C90B)
+#FIXEDLENGTH(27,0)
+…So[LR]
+Heian-kyo～[LR]<END>
+
+//ウリになるほど たくさん [WORD0]が いる場所なん<$17><$19><$00>か？<END>
+#JMP($4C931)
+#FIXEDLENGTH(51,0)
+has so many [WORD0] it's a sellin' point?<END>
+
+//いい<$17><$19><$00>なァ～ <$17><$1B><$00>♥[LR]日本の心ッスねェ～[LR]<END>
+#JMP($4C986)
+#FIXEDLENGTH(39,0)
+Nice～ <$17><$1B><$00>♥[LR]
+The heart of[LR]
+Japan～[LR]<END>
+
+//おや？[LR]平安京が できたのが ７９４年？[LR]<END>
+#JMP($4C9B9)
+#FIXEDLENGTH(38,0)
+Huh?[LR]
+Heian-kyo was[LR]
+built in 794?[LR]<END>
+
+//たんなるゴロ合わせ…？[LR]<END>
+#JMP($4C9E4)
+#FIXEDLENGTH(23,0)
+Just a[LR]
+mnemonic…?[LR]<END>
+
+//「７９４」で…[LR]「なくよ」…？[LR]<END>
+#JMP($4CA00)
+#FIXEDLENGTH(30,0)
+"794"…[LR]
+"nakuyo"…?[LR]<END>
+
+//…こいつはまた[LR]失礼しました…[LR]<END>
+#JMP($4CA29)
+#FIXEDLENGTH(30,0)
+…My mistake[LR]
+again…[LR]<END>
+
+//スゴいコトを 知った[KERO]!![LR]<END>
+#JMP($4CA58)
+#FIXEDLENGTH(25,0)
+Learned a big[LR]
+thing!![LR]<END>
+
+//日本にも…[LR]「けんとうし」が いたん<$17><$19><$00>!![LR]<END>
+#JMP($4CA7C)
+#FIXEDLENGTH(40,0)
+Japan had…[LR]
+"kentoushi"[LR]
+too!![LR]<END>
+
+// AI-UNSURE: pun: 遣唐使 (envoys to Tang) misheard as 拳闘士/剣闘士 (gladiators)
+//これはファンタジー[KERO]!![LR]<END>
+#JMP($4CAB7)
+#FIXEDLENGTH(24,0)
+That's fantasy!![LR]<END>
+
+//「あべのなかまろ」って人が スゴく活躍したらしい[KERO]～[LR]<END>
+#JMP($4CAD1)
+#FIXEDLENGTH(53,0)
+Abe no[LR]
+Nakamaro was a[LR]
+big star～[LR]<END>
+
+//放射能<END>
+#JMP($4CB3D)
+#FIXEDLENGTH(6,0)
+nukes<END>
+
+//マグマ<END>
+#JMP($4CB50)
+#FIXEDLENGTH(6,0)
+magma<END>
+
+//を吐く<END>
+#JMP($4CB60)
+#FIXEDLENGTH(6,0)
+spat<END>
+
+//[WORD0]と たたかったりした<$17><$19><$00>ね！[LR]<END>
+#JMP($4CB7D)
+#FIXEDLENGTH(32,0)
+he fought[LR]
+[WORD0]![LR]<END>
+
+//むかしの 日本の貴族は 歌が大好きだった[KERO]♪[LR]<END>
+#JMP($4CBD3)
+#FIXEDLENGTH(44,0)
+Old nobles loved[LR]
+poems♪[LR]<END>
+
+//「万葉集」って本に いっぱい 歌がのってるらしいッス！[LR]<END>
+#JMP($4CC12)
+#FIXEDLENGTH(53,0)
+A book called[LR]
+"Man'yoshu" is[LR]
+full of 'em![LR]<END>
+
+//どんな 歌がのっているかは 知らない[KERO]も…[LR]<END>
+#JMP($4CC52)
+#FIXEDLENGTH(42,0)
+Dunno what[LR]
+poems are in it…[LR]<END>
+
+//」が 聞きたいッス～♪[LR]<END>
+#JMP($4CCC0)
+#FIXEDLENGTH(22,0)
+" I wanna hear～[LR]<END>
+
+//[WORD1]なら どんな曲が 聞きたい<$17><$19><$00>か？<END>
+#JMP($4CCE9)
+#FIXEDLENGTH(36,0)
+What song would [WORD1] wanna hear?<END>
+
+//[WORD1] が ききたい 曲の タイトル <$17><$19><$00> ～<END>
+#JMP($4CD47)
+#FIXEDLENGTH(38,0)
+A song [WORD1] wants to hear～<END>
+
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($4CD93)
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
+
+//[WORD1]には、「万葉集」なんて…[LR]<END>
+#JMP($4CDB2)
+#FIXEDLENGTH(30,0)
+For [WORD1],[LR]
+"Man'yoshu"…[LR]<END>
+
+//高貴なハナシは むずかしかった<$17><$19><$00>な…[LR]<END>
+#JMP($4CDD5)
+#FIXEDLENGTH(37,0)
+such a noble[LR]
+topic was too[LR]
+hard…[LR]<END>
+
+//おやや？[LR]曲じゃない？[LR]<END>
+#JMP($4CE0C)
+#FIXEDLENGTH(22,0)
+Huh?[LR]
+Not songs?[LR]<END>
+
+//「万葉集」って 歌が のってるんじゃないん<$17><$19><$00>か？[LR]<END>
+#JMP($4CE24)
+#FIXEDLENGTH(48,0)
+Isn't[LR]
+"Man'yoshu" full[LR]
+of songs?[LR]<END>
+
+//いったい どーゆーコトだ[KERO]～？[LR]<END>
+#JMP($4CE5F)
+#FIXEDLENGTH(31,0)
+What's that[LR]
+mean～?[LR]<END>
+
+//もう一度 調べてみる[KERO]…[LR]<END>
+#JMP($4CE86)
+#FIXEDLENGTH(25,0)
+I'll look it up[LR]
+again…[LR]<END>
+
+//「[VAR4]」<$17><$19><$00>か…[LR]<$17><$1B><$00> 「[VAR4]」は いい<$17><$19><$00>なァ～[LR]<END>
+#JMP($4CEB5)
+#FIXEDLENGTH(43,0)
+"[VAR4]"…[LR]
+<$17><$1B><$00> "[VAR4]" is[LR]
+nice～[LR]<END>
+
+//「[VAR5]少年少女合唱団」で 「[VAR4]」を大合唱したコトある<$17><$19><$00>よ！[LR]<END>
+#JMP($4CF23)
+#FIXEDLENGTH(59,0)
+I once sang[LR]
+"[VAR4]" in the[LR]
+"[VAR5] Kids[LR]
+Choir"![LR]<END>
+
+//平安時代って…[LR]<END>
+#JMP($4CF6F)
+#FIXEDLENGTH(15,0)
+Heian era…[LR]<END>
+
+//名前のとおり 平和で おちついた時代だと 思ってたら…[LR]<END>
+#JMP($4CF80)
+#FIXEDLENGTH(52,0)
+I thought it was[LR]
+peaceful and[LR]
+calm, like the[LR]
+name…[LR]<END>
+
+//大まちがいだった[LR][KERO]!![LR]<END>
+#JMP($4CFBF)
+#FIXEDLENGTH(23,0)
+totally wrong[LR]
+!![LR]<END>
+
+//じつは…[LR]ふじわら氏って 人達が…[LR]<END>
+#JMP($4CFE1)
+#FIXEDLENGTH(33,0)
+Actually…[LR]
+the Fujiwara[LR]
+clan…[LR]<END>
+
+// AI-UNSURE: pun: 摂関 (regency) heard as 折檻 (corporal punishment)
+//「せっかん政治」っちゅーモンを 行っていたらしい[KERO]!![LR]<END>
+#JMP($4D00D)
+#FIXEDLENGTH(53,0)
+did "sekkan[LR]
+politics"!![LR]<END>
+
+//きっと 言うコトを[LR]きかないと…[LR]<END>
+#JMP($4D04D)
+#FIXEDLENGTH(31,0)
+Surely if you[LR]
+didn't obey…[LR]<END>
+
+//すぐに [WORD0]で [WORD1]を ペンペンされたに ちがいない<$17><$19><$00>!![LR]<END>
+#JMP($4D0A1)
+#FIXEDLENGTH(56,0)
+you'd get[LR]
+[WORD1][LR]
+spanked with[LR]
+[WORD0]!![LR]<END>
+
+//お、おそろしい時代[KERO]～!![LR]<END>
+#JMP($4D0E4)
+#FIXEDLENGTH(26,0)
+A sc-scary[LR]
+era～!![LR]<END>
 
 //うーん…[LR]<END>
 #JMP($4D109)
 #FIXEDLENGTH(9,0)
 Hmm…[LR]<END>
 
+//せっかんは イカン<$17><$19><$00>～[LR]体罰反対!![LR]<END>
+#JMP($4D11D)
+#FIXEDLENGTH(34,0)
+Punishment's[LR]
+bad～[LR]
+No spankin'!![LR]<END>
+
+//「源氏物語」って 知ってる[KERO]？[LR]<END>
+#JMP($4D157)
+#FIXEDLENGTH(31,0)
+Know "The Tale[LR]
+of Genji"?[LR]<END>
+
 //も…[LR]<END>
 #JMP($4D19F)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
+
+//どうやら メインキャラクターの[LR]「げんじ」が 光り輝くらしい<$17><$19><$00>！[LR]<END>
+#JMP($4D1AF)
+#FIXEDLENGTH(63,0)
+Seems the main[LR]
+character[LR]
+"Genji" shines[LR]
+bright![LR]<END>
+
+//シャイニングげんじ[KERO]～!![LR]<END>
+#JMP($4D1F9)
+#FIXEDLENGTH(26,0)
+Shining Genji～!![LR]<END>
+
+//きっと [WORD0]を みがきあげた人の話に ちがいない<$17><$19><$00>～!![LR]<END>
+#JMP($4D233)
+#FIXEDLENGTH(54,0)
+Must be about[LR]
+someone who[LR]
+polished[LR]
+[WORD0]～!![LR]<END>
+
+//<$17><$1B><$00>♥[LR]今から 読むのが 楽しみ[KERO]～♥[LR]<END>
+#JMP($4D274)
+#FIXEDLENGTH(36,0)
+<$17><$1B><$00>♥[LR]
+Can't wait to[LR]
+read it～♥[LR]<END>
+
+//「ひよどり越」って知ってる[KERO]？[LR]<END>
+#JMP($4D2A9)
+#FIXEDLENGTH(32,0)
+Know[LR]
+"Hiyodori-goe"?[LR]<END>
+
+//なんでも…[LR]「源義経」って人が…[LR]<END>
+#JMP($4D2DC)
+#FIXEDLENGTH(32,0)
+They say…[LR]
+Yoshitsune…[LR]<END>
+
+//[WORD0]に のったまま～[LR]<END>
+#JMP($4D33F)
+#FIXEDLENGTH(21,0)
+still ridin'[LR]
+[WORD0]～[LR]<END>
+
+//ムリヤリ！[LR]<END>
+#JMP($4D35F)
+#FIXEDLENGTH(11,0)
+by force![LR]<END>
+
+//断崖絶壁を かけおりた場所らしい[KERO]！[LR]<END>
+#JMP($4D375)
+#FIXEDLENGTH(37,0)
+charged down a[LR]
+sheer cliff[LR]
+there![LR]<END>
 
 //も…[LR]<END>
 #JMP($4D3E9)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//無謀なコトするヤツは いつの世にも いるモン<$17><$19><$00>ね～[LR]<END>
+#JMP($4D3F9)
+#FIXEDLENGTH(50,0)
+Every age has[LR]
+reckless folks～[LR]<END>
+
 //イヤ～[LR]<END>
 #JMP($4D438)
 #FIXEDLENGTH(7,0)
 Man～[LR]<END>
+
+//スゴイヤツも いたモンだなッス～!![LR]<END>
+#JMP($4D441)
+#FIXEDLENGTH(34,0)
+What an amazin'[LR]
+guy～!![LR]<END>
+
+//なんでも…[LR]「武蔵坊弁慶」って人は…[LR]<END>
+#JMP($4D46E)
+#FIXEDLENGTH(36,0)
+They say…[LR]
+"Musashibo[LR]
+Benkei"…[LR]<END>
+
+//とんできた [WORD0]を…[LR]体中に うけても 最後まで！[LR]<END>
+#JMP($4D4CA)
+#FIXEDLENGTH(48,0)
+took flyin'[LR]
+[WORD0]…[LR]
+all over, to the[LR]
+end!![LR]<END>
+
+//倒れなかったらしい<$17><$19><$00>!![LR]<END>
+#JMP($4D505)
+#FIXEDLENGTH(24,0)
+didn't fall!![LR]<END>
+
+//<$17><$1B><$00>[LR][WORD1] がんじょーな人だ[KERO]～！[LR]<END>
+#JMP($4D539)
+#FIXEDLENGTH(34,0)
+<$17><$1B><$00>[LR]
+A [WORD1][LR]
+tough guy～![LR]<END>
+
+//「仁王立ち」[LR]<END>
+#JMP($4D566)
+#FIXEDLENGTH(13,0)
+"Nio stance"[LR]<END>
+
+//って 言うらしい<$17><$19><$00>よ！[LR]<END>
+#JMP($4D575)
+#FIXEDLENGTH(23,0)
+they call it![LR]<END>
+
+//むぅ…[LR]<END>
+#JMP($4D59F)
+#FIXEDLENGTH(7,0)
+Mmm…[LR]<END>
+
+//ちょっと聞く[KERO]も～[LR]<END>
+#JMP($4D5EA)
+#FIXEDLENGTH(20,0)
+Let me ask～[LR]<END>
+
+//そう言ってくれると 思ってた<$17><$19><$00>♪[LR]<END>
+#JMP($4D695)
+#FIXEDLENGTH(33,0)
+Knew you'd say[LR]
+that♪[LR]<END>
+
+//まさに、これが～[LR]<END>
+#JMP($4D6C1)
+#FIXEDLENGTH(17,0)
+Exactly this～[LR]<END>
+
+//「ご恩と 奉公」って言うヤツ<$17><$19><$00>ね！[LR]<END>
+#JMP($4D6D4)
+#FIXEDLENGTH(35,0)
+is "favor and[LR]
+service"![LR]<END>
+
+//…で、何を くれる<$17><$19><$00>か…？<END>
+#JMP($4D702)
+#FIXEDLENGTH(26,0)
+…So what'll you give me?<END>
+
+//[WORD0]の「ご恩」に [WORD5]が もらえる<$17><$19><$00>か！[LR]<END>
+#JMP($4D78F)
+#FIXEDLENGTH(42,0)
+For [WORD0]'s[LR]
+"favor" I get[LR]
+[WORD5]![LR]<END>
+
+//ありがたい[KERO]～！[LR]<END>
+#JMP($4D7BE)
+#FIXEDLENGTH(18,0)
+Thank you～![LR]<END>
+
+//<$17><$1B><$00>♥[LR]持つべきモノは、あるじ<$17><$19><$00>なァ～[LR]<END>
+#JMP($4D7DB)
+#FIXEDLENGTH(38,0)
+<$17><$1B><$00>♥[LR]
+Gotta have a[LR]
+good lord～[LR]<END>
+
+//口さきだけッスか？[LR]<END>
+#JMP($4D80C)
+#FIXEDLENGTH(19,0)
+Just talk?[LR]<END>
+
+//「ご恩」とやらを 手にして みたかった[KERO]…[LR]<END>
+#JMP($4D82A)
+#FIXEDLENGTH(42,0)
+I wanted to get[LR]
+this "favor"…[LR]<END>
+
+//<$17><$1B><$00>[LR]ダメだなッス～!![LR]<END>
+#JMP($4D867)
+#FIXEDLENGTH(21,0)
+<$17><$1B><$00>[LR]
+No good～!![LR]<END>
+
+//そんなコトじゃあ 御家人達は ついてこない<$17><$19><$00>よ!?[LR]<END>
+#JMP($4D887)
+#FIXEDLENGTH(48,0)
+Vassals won't[LR]
+follow you like[LR]
+that!?[LR]<END>
+
+//「ご恩と 奉公」って 知らない[KERO]～？[LR]<END>
+#JMP($4D8C2)
+#FIXEDLENGTH(36,0)
+Don't know[LR]
+"favor and[LR]
+service"～?[LR]<END>
+
+//「徳政令」って知ってる[KERO]？[LR]<END>
+#JMP($4D8FE)
+#FIXEDLENGTH(28,0)
+Know[LR]
+"tokuseirei"?[LR]<END>
 
 //も…[LR]<END>
 #JMP($4D951)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//コイツが 出て来ると～[LR]<END>
+#JMP($4D961)
+#FIXEDLENGTH(22,0)
+When it shows[LR]
+up～[LR]<END>
+
+//借りてるモノが 全部なくなってしまう らしいんだ[KERO]～!![LR]<END>
+#JMP($4D979)
+#FIXEDLENGTH(54,0)
+all your[LR]
+borrowed stuff[LR]
+disappears～!![LR]<END>
+
+//どんなヤツだか 知らない[KERO]も…[LR]きっと 悪いヤツに ちがいない<$17><$19><$00>!![LR]<END>
+#JMP($4D9BA)
+#FIXEDLENGTH(65,0)
+Dunno who it is…[LR]
+but surely a bad[LR]
+guy!![LR]<END>
+
+//としょかんの本<END>
+#JMP($4DA84)
+#FIXEDLENGTH(14,0)
+Library books<END>
+
+//[WORD0]も ねらわれてる かもしれない[KERO]～[LR]<END>
+#JMP($4DA9D)
+#FIXEDLENGTH(39,0)
+[WORD0] might[LR]
+be targeted[LR]
+too～[LR]<END>
+
+//<$17><$1B><$00> おそろしい…[LR]早く かえしに 行っとく<$17><$19><$00>！[LR]<END>
+#JMP($4DACF)
+#FIXEDLENGTH(45,0)
+<$17><$1B><$00> Scary…[LR]
+I'll go return[LR]
+stuff fast![LR]<END>
+
+// AI-UNSURE: pun: 徒然草 (Essays in Idleness), 草 = grass
+//「徒然草」ってどんなクサなのか 知ってる[KERO]？[LR]<END>
+#JMP($4DB0D)
+#FIXEDLENGTH(45,0)
+Know what kinda[LR]
+grass[LR]
+"Tsurezuregusa"[LR]
+is?[LR]<END>
+
 //が…[LR]<END>
 #JMP($4DB80)
 #FIXEDLENGTH(5,0)
 but[LR]<END>
+
+//そんなクサの話…[LR]きいたコトなければ 見たコトもない<$17><$19><$00>！[LR]<END>
+#JMP($4DB90)
+#FIXEDLENGTH(56,0)
+Grass like that…[LR]
+never heard of[LR]
+or seen it![LR]<END>
+
+//名前から考えるに…[LR]<END>
+#JMP($4DBD3)
+#FIXEDLENGTH(19,0)
+From the name…[LR]<END>
 
 //いつも 使ってるモノを なんかひとつおしえて<$17><$18><$00>？<END>
 #JMP($4E01C)
@@ -30416,6 +32053,81 @@ Karate<END>
 #JMP($792DB)
 #FIXEDLENGTH(10,0)
 Judo<END>
+
+//みゆき族<END>
+#JMP($79564)
+#FIXEDLENGTH(8,0)
+Miyuki<END>
+
+//たいよう族<END>
+#JMP($7956D)
+#FIXEDLENGTH(10,0)
+Sun Tribe<END>
+
+//ヒッピー族<END>
+#JMP($79583)
+#FIXEDLENGTH(10,0)
+Hippies<END>
+
+//ツイスト<END>
+#JMP($7958E)
+#FIXEDLENGTH(8,0)
+Twist<END>
+
+//ゲバゲバビー<END>
+#JMP($795A4)
+#FIXEDLENGTH(12,0)
+Geba-geba<END>
+
+//アンノン族<END>
+#JMP($795B1)
+#FIXEDLENGTH(10,0)
+An-non<END>
+
+//まどぎわ族<END>
+#JMP($795BC)
+#FIXEDLENGTH(10,0)
+Deadwood<END>
+
+//オイルショック<END>
+#JMP($795C7)
+#FIXEDLENGTH(14,0)
+Oil shock<END>
+
+//省エネ<END>
+#JMP($795D6)
+#FIXEDLENGTH(6,0)
+Eco<END>
+
+//なめねこブーム<END>
+#JMP($795DD)
+#FIXEDLENGTH(14,0)
+Nameneko<END>
+
+//ぶりっ子<END>
+#JMP($795F7)
+#FIXEDLENGTH(8,0)
+Cutesy<END>
+
+//カウチポテト<END>
+#JMP($79600)
+#FIXEDLENGTH(12,0)
+Couch potato<END>
+
+//イルカ<END>
+#JMP($796D5)
+#FIXEDLENGTH(6,0)
+Iruka<END>
+
+//カエル大明神<END>
+#JMP($796E1)
+#FIXEDLENGTH(12,0)
+Frog deity<END>
+
+//うぐいす<END>
+#JMP($796EE)
+#FIXEDLENGTH(8,0)
+Warbler<END>
 
 //フライパン<END>
 #JMP($79920)
