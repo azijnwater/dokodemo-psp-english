@@ -64935,10 +64935,1385 @@ Nshi<END>
 #FIXEDLENGTH(6,0)
 Tasaka<END>
 
+//ねいたん<END>
+#JMP($98D68)
+#FIXEDLENGTH(8,0)
+Neitan<END>
+
+//せいの<END>
+#JMP($98D71)
+#FIXEDLENGTH(6,0)
+Seino<END>
+
+//外で元気良く遊ぶ<END>
+#JMP($98D78)
+#FIXEDLENGTH(16,0)
+Play outside!<END>
+
+//ふえは２本まで<END>
+#JMP($98D89)
+#FIXEDLENGTH(14,0)
+2 recorders!<END>
+
+//とにかくがんばる<END>
+#JMP($98D98)
+#FIXEDLENGTH(16,0)
+Just try hard<END>
+
+//元気良く$_WORD<END>
+#JMP($98DA9)
+#FIXEDLENGTH(14,0)
+Lively $_WORD<END>
+
+//一日一$_WORD<END>
+#JMP($98DB8)
+#FIXEDLENGTH(12,0)
+$_WORD/day<END>
+
+//$_WORDしない！<END>
+#JMP($98DC5)
+#FIXEDLENGTH(14,0)
+No $_WORD!<END>
+
+//運動会まで３日<END>
+#JMP($98DD4)
+#FIXEDLENGTH(14,0)
+3 days to meet<END>
+
+//本日休校日<END>
+#JMP($98DE3)
+#FIXEDLENGTH(10,0)
+No school<END>
+
+//読書週間<END>
+#JMP($98DEE)
+#FIXEDLENGTH(8,0)
+Reading!<END>
+
+//創立10周年<END>
+#JMP($98DF7)
+#FIXEDLENGTH(10,0)
+10th year<END>
+
+//桜の花園<END>
+#JMP($98E02)
+#FIXEDLENGTH(8,0)
+Sakura!<END>
+
+//オアシス運動<END>
+#JMP($98E0B)
+#FIXEDLENGTH(12,0)
+Oasis drive<END>
+
+//$_WORD10周年<END>
+#JMP($98E18)
+#FIXEDLENGTH(12,0)
+$_WORD 10yr<END>
+
+//$_WORD百回目<END>
+#JMP($98E25)
+#FIXEDLENGTH(12,0)
+$_WORD #100<END>
+
+//祝テコンドー部<END>
+#JMP($98E32)
+#FIXEDLENGTH(14,0)
+Go Taekwondo<END>
+
+//用務員のおじさん<END>
+#JMP($98E41)
+#FIXEDLENGTH(16,0)
+Our janitor guy<END>
+
+//祝山田太郎君<END>
+#JMP($98E52)
+#FIXEDLENGTH(12,0)
+Yay Yamada!<END>
+
+//祝$_WORD部<END>
+#JMP($98E5F)
+#FIXEDLENGTH(10,0)
+Go $_WORD!<END>
+
+//全国大会出場<END>
+#JMP($98E6A)
+#FIXEDLENGTH(12,0)
+To nationals<END>
+
+//絶賛登校中<END>
+#JMP($98E77)
+#FIXEDLENGTH(10,0)
+In session<END>
+
+//オリンピック出場<END>
+#JMP($98E82)
+#FIXEDLENGTH(16,0)
+To the Olympics<END>
+
+//$_WORD大会出場<END>
+#JMP($98E93)
+#FIXEDLENGTH(14,0)
+$_WORD meet!<END>
+
+//$_WORD大会優勝<END>
+#JMP($98EA2)
+#FIXEDLENGTH(14,0)
+$_WORD champ!<END>
+
+//$_WORD制覇<END>
+#JMP($98EB1)
+#FIXEDLENGTH(10,0)
+$_WORD win<END>
+
+//宇宙大王<END>
+#JMP($98EBC)
+#FIXEDLENGTH(8,0)
+SpaceKng<END>
+
+//闇の覇者<END>
+#JMP($98EC5)
+#FIXEDLENGTH(8,0)
+DarkLord<END>
+
+//愛の狩人<END>
+#JMP($98ECE)
+#FIXEDLENGTH(8,0)
+LoveHntr<END>
+
+//激安セール<END>
+#JMP($98ED7)
+#FIXEDLENGTH(10,0)
+Big sale!<END>
+
+//絶賛発売中！<END>
+#JMP($98EE2)
+#FIXEDLENGTH(12,0)
+On sale now!<END>
+
+//３千円ポッキリ<END>
+#JMP($98EEF)
+#FIXEDLENGTH(14,0)
+Just ¥3,000<END>
+
+//中古$_WORD<END>
+#JMP($98EFE)
+#FIXEDLENGTH(10,0)
+Used$_WORD<END>
+
+//$_WORD８割引<END>
+#JMP($98F09)
+#FIXEDLENGTH(12,0)
+$_WORD 80%<END>
+
+//$_WORD女学院<END>
+#JMP($98F16)
+#FIXEDLENGTH(12,0)
+$_WORD Girls<END>
+
+//丸山精肉店<END>
+#JMP($98F23)
+#FIXEDLENGTH(10,0)
+Maruyama M<END>
+
+//自家用<END>
+#JMP($98F2E)
+#FIXEDLENGTH(6,0)
+Privat<END>
+
+//リサイクル加治<END>
+#JMP($98F35)
+#FIXEDLENGTH(14,0)
+Kaji Recycle<END>
+
+//$_WORD精肉店<END>
+#JMP($98F44)
+#FIXEDLENGTH(12,0)
+$_WORD Meat<END>
+
+//$_WORD不動産<END>
+#JMP($98F51)
+#FIXEDLENGTH(12,0)
+$_WORD Prop<END>
+
+//$_WORD車検場<END>
+#JMP($98F5E)
+#FIXEDLENGTH(12,0)
+$_WORD Insp<END>
+
+//桐田商事<END>
+#JMP($98F6B)
+#FIXEDLENGTH(8,0)
+Kirita<END>
+
+//冥土ビル<END>
+#JMP($98F74)
+#FIXEDLENGTH(8,0)
+HadesBld<END>
+
+//柴田タクシー<END>
+#JMP($98F7D)
+#FIXEDLENGTH(12,0)
+Shibata Taxi<END>
+
+//$_WORD商事<END>
+#JMP($98F8A)
+#FIXEDLENGTH(10,0)
+$_WORD Co.<END>
+
+//グランドオープン<END>
+#JMP($98F95)
+#FIXEDLENGTH(16,0)
+Grand openin'!<END>
+
+//ファイナルセール<END>
+#JMP($98FA6)
+#FIXEDLENGTH(16,0)
+Final sale!<END>
+
+//交通安全週間<END>
+#JMP($98FB7)
+#FIXEDLENGTH(12,0)
+Safety week<END>
+
+//$_WORD最大級<END>
+#JMP($98FC4)
+#FIXEDLENGTH(12,0)
+$_WORD max!<END>
+
+//大創業祭<END>
+#JMP($98FD1)
+#FIXEDLENGTH(8,0)
+Big Fest<END>
+
+//夢の大殿堂<END>
+#JMP($98FDA)
+#FIXEDLENGTH(10,0)
+Dream Hall<END>
+
+//激安！激安！<END>
+#JMP($98FE5)
+#FIXEDLENGTH(12,0)
+Cheap!Cheap!<END>
+
+//大$_WORD祭<END>
+#JMP($98FF2)
+#FIXEDLENGTH(10,0)
+$_WORDFest<END>
+
+//わたあめ<END>
+#JMP($98FFD)
+#FIXEDLENGTH(8,0)
+CottonCd<END>
+
+//超駄菓子<END>
+#JMP($99006)
+#FIXEDLENGTH(8,0)
+Snacks!<END>
+
+//クロネコあめ<END>
+#JMP($9900F)
+#FIXEDLENGTH(12,0)
+Kuroneko ame<END>
+
+//建立二十周年<END>
+#JMP($99025)
+#FIXEDLENGTH(12,0)
+20th annvsry<END>
+
+//晴れ時々曇り<END>
+#JMP($99032)
+#FIXEDLENGTH(12,0)
+Sun, cloudy<END>
+
+//おみくじ<END>
+#JMP($9903F)
+#FIXEDLENGTH(8,0)
+Fortune<END>
+
+//$_WORD二十周年<END>
+#JMP($99048)
+#FIXEDLENGTH(14,0)
+$_WORD 20yr!<END>
+
+//家内安全<END>
+#JMP($99057)
+#FIXEDLENGTH(8,0)
+HomeSafe<END>
+
+//労全律多<END>
+#JMP($99060)
+#FIXEDLENGTH(8,0)
+Rozenri<END>
+
+//合格祈願<END>
+#JMP($99069)
+#FIXEDLENGTH(8,0)
+PassExam<END>
+
+//$_WORD祈願<END>
+#JMP($99072)
+#FIXEDLENGTH(10,0)
+$_WORDPray<END>
+
+//$_WORD交通安全<END>
+#JMP($9907D)
+#FIXEDLENGTH(14,0)
+$_WORD Safety<END>
+
+//学業成就<END>
+#JMP($9908C)
+#FIXEDLENGTH(8,0)
+Studies<END>
+
+//意味不明<END>
+#JMP($99095)
+#FIXEDLENGTH(8,0)
+Huh?<END>
+
+//安産祈願<END>
+#JMP($9909E)
+#FIXEDLENGTH(8,0)
+EasyBirt<END>
+
+//$_WORD成就<END>
+#JMP($990A7)
+#FIXEDLENGTH(10,0)
+$_WORDWish<END>
+
+//指差し確認<END>
+#JMP($990B2)
+#FIXEDLENGTH(10,0)
+Point&chk<END>
+
+//天上点呼<END>
+#JMP($990BD)
+#FIXEDLENGTH(8,0)
+Sky call<END>
+
+//注意一秒ケガ一生<END>
+#JMP($990C6)
+#FIXEDLENGTH(16,0)
+1 slip, lifelong<END>
+
+//$_WORDは事故の元<END>
+#JMP($990D7)
+#FIXEDLENGTH(16,0)
+$_WORD = crash<END>
+
+//混ぜるな危険<END>
+#JMP($990E8)
+#FIXEDLENGTH(12,0)
+Don't mix!<END>
+
+//企業秘密<END>
+#JMP($990F5)
+#FIXEDLENGTH(8,0)
+Secret!<END>
+
+//上乗るな！<END>
+#JMP($990FE)
+#FIXEDLENGTH(10,0)
+No sittin'<END>
+
+//$_WORD化合物<END>
+#JMP($99109)
+#FIXEDLENGTH(12,0)
+$_WORD comp.<END>
+
+//いちご栽培中<END>
+#JMP($99116)
+#FIXEDLENGTH(12,0)
+Berry farm<END>
+
+//冬虫夏草培養中<END>
+#JMP($99123)
+#FIXEDLENGTH(14,0)
+Cordyceps lab<END>
+
+//エサをやらないで<END>
+#JMP($99132)
+#FIXEDLENGTH(16,0)
+Do not feed<END>
+
+//$_WORD栽培中<END>
+#JMP($99143)
+#FIXEDLENGTH(12,0)
+$_WORD farm<END>
+
+//$_WORDするな！<END>
+#JMP($99150)
+#FIXEDLENGTH(14,0)
+No $_WORD!<END>
+
+//たまがわ号<END>
+#JMP($9915F)
+#FIXEDLENGTH(10,0)
+Tamagawa<END>
+
+//燃男赤虎号<END>
+#JMP($9916A)
+#FIXEDLENGTH(10,0)
+RedTiger<END>
+
+//村内最速<END>
+#JMP($99175)
+#FIXEDLENGTH(8,0)
+Fastest!<END>
+
+//完全無農薬野菜<END>
+#JMP($99187)
+#FIXEDLENGTH(14,0)
+Organic veg!<END>
+
+//クマ注意<END>
+#JMP($99196)
+#FIXEDLENGTH(8,0)
+Bears!<END>
+
+//野菜売ってマス<END>
+#JMP($9919F)
+#FIXEDLENGTH(14,0)
+Veggies here<END>
+
+//緑黄色$_WORD<END>
+#JMP($991AE)
+#FIXEDLENGTH(12,0)
+Green $_WORD<END>
+
+//たけのこ族展<END>
+#JMP($991BB)
+#FIXEDLENGTH(12,0)
+Takenoko!<END>
+
+//世界の猫娘展<END>
+#JMP($991C8)
+#FIXEDLENGTH(12,0)
+Cat girls!<END>
+
+//王女様の秘宝展<END>
+#JMP($991D5)
+#FIXEDLENGTH(14,0)
+Princess loot!<END>
+
+//マタタビ<END>
+#JMP($991ED)
+#FIXEDLENGTH(8,0)
+Catnip<END>
+
+//ランバダ<END>
+#JMP($991F6)
+#FIXEDLENGTH(8,0)
+Lambada<END>
+
+//閉店<END>
+#JMP($991FF)
+#FIXEDLENGTH(4,0)
+Shut<END>
+
+//きもだめしフェア<END>
+#JMP($99204)
+#FIXEDLENGTH(16,0)
+Spooky fair!<END>
+
+//学食フェア<END>
+#JMP($99215)
+#FIXEDLENGTH(10,0)
+Cafe fair<END>
+
+//ブランドまつり<END>
+#JMP($99220)
+#FIXEDLENGTH(14,0)
+Brand fest!<END>
+
+//$_WORDフェア<END>
+#JMP($9922F)
+#FIXEDLENGTH(12,0)
+$_WORD Fair<END>
+
+//まる飲みバーガー<END>
+#JMP($99245)
+#FIXEDLENGTH(16,0)
+Gulp Burger<END>
+
+//ホット フード<END>
+#JMP($99256)
+#FIXEDLENGTH(13,0)
+Hot food<END>
+
+//うまいぞキッチン<END>
+#JMP($99264)
+#FIXEDLENGTH(16,0)
+Yummy Kitchen<END>
+
+//$_WORDバーガー<END>
+#JMP($99275)
+#FIXEDLENGTH(14,0)
+$_WORDBurger<END>
+
+//ラブリー$_WORD<END>
+#JMP($99284)
+#FIXEDLENGTH(14,0)
+Lovely$_WORD<END>
+
+//とんこつラーメン<END>
+#JMP($99293)
+#FIXEDLENGTH(16,0)
+Tonkotsu ramen<END>
+
+//リグロンあります<END>
+#JMP($992A4)
+#FIXEDLENGTH(16,0)
+Regrown here<END>
+
+//うまいぞー<END>
+#JMP($992B5)
+#FIXEDLENGTH(10,0)
+Yummy!<END>
+
+//たまのこし<END>
+#JMP($992C0)
+#FIXEDLENGTH(10,0)
+Gold dig<END>
+
+//満員御礼<END>
+#JMP($992CB)
+#FIXEDLENGTH(8,0)
+Packed!<END>
+
+//出玉絶好調<END>
+#JMP($992D4)
+#FIXEDLENGTH(10,0)
+Hot slots<END>
+
+//ＣＲ$_WORD<END>
+#JMP($992DF)
+#FIXEDLENGTH(10,0)
+CR$_WORD<END>
+
+//さぬきうどん<END>
+#JMP($992EA)
+#FIXEDLENGTH(12,0)
+Sanuki udon<END>
+
+//カツオそば<END>
+#JMP($992F7)
+#FIXEDLENGTH(10,0)
+Fish soba<END>
+
+//熟女パブ<END>
+#JMP($99302)
+#FIXEDLENGTH(8,0)
+MILF pub<END>
+
+//おかしなマスター<END>
+#JMP($9930B)
+#FIXEDLENGTH(16,0)
+Wacky Master<END>
+
+//ウォー軒<END>
+#JMP($9931C)
+#FIXEDLENGTH(8,0)
+War-ken<END>
+
+//会員制$_WORD<END>
+#JMP($99325)
+#FIXEDLENGTH(12,0)
+VIP $_WORD<END>
+
+//立ち入り禁止<END>
+#JMP($99332)
+#FIXEDLENGTH(12,0)
+Keep out<END>
+
+//入店禁止<END>
+#JMP($9933F)
+#FIXEDLENGTH(8,0)
+No entry<END>
+
+//土砂崩れ注意<END>
+#JMP($99348)
+#FIXEDLENGTH(12,0)
+Landslides!<END>
+
+//$_WORD禁止<END>
+#JMP($99355)
+#FIXEDLENGTH(10,0)
+No $_WORD<END>
+
+//精神鍛錬<END>
+#JMP($99360)
+#FIXEDLENGTH(8,0)
+Mind gym<END>
+
+//切磋琢磨<END>
+#JMP($99369)
+#FIXEDLENGTH(8,0)
+Push on!<END>
+
+//頑固一徹<END>
+#JMP($99372)
+#FIXEDLENGTH(8,0)
+Stubborn<END>
+
+//$_WORD鍛錬<END>
+#JMP($9937B)
+#FIXEDLENGTH(10,0)
+$_WORDGym<END>
+
+//諸行無常<END>
+#JMP($99386)
+#FIXEDLENGTH(8,0)
+Fleeting<END>
+
+//傍若無人<END>
+#JMP($9938F)
+#FIXEDLENGTH(8,0)
+Rude!<END>
+
+//明日にかけろ<END>
+#JMP($99398)
+#FIXEDLENGTH(12,0)
+Run to dawn<END>
+
+//$_WORD無常<END>
+#JMP($993A5)
+#FIXEDLENGTH(10,0)
+$_WORDGone<END>
+
+//$_WORD退散<END>
+#JMP($993B0)
+#FIXEDLENGTH(10,0)
+$_WORDOut!<END>
+
+//天然水<END>
+#JMP($993BB)
+#FIXEDLENGTH(6,0)
+Spring<END>
+
+//やまん婆注意<END>
+#JMP($993C2)
+#FIXEDLENGTH(12,0)
+Beware hag<END>
+
+//世界制覇<END>
+#JMP($993CF)
+#FIXEDLENGTH(8,0)
+World #1<END>
+
+//天然$_WORD<END>
+#JMP($993D8)
+#FIXEDLENGTH(10,0)
+Wild$_WORD<END>
+
+//事故ゼロ宣言<END>
+#JMP($993E3)
+#FIXEDLENGTH(12,0)
+Zero crashes<END>
+
+//一日一膳<END>
+#JMP($993F0)
+#FIXEDLENGTH(8,0)
+1 meal<END>
+
+//飲んだら休め<END>
+#JMP($993F9)
+#FIXEDLENGTH(12,0)
+Drank? Rest<END>
+
+//$_WORDゼロ宣言<END>
+#JMP($99406)
+#FIXEDLENGTH(14,0)
+Zero $_WORD!<END>
+
+//猫ブリーダー<END>
+#JMP($99415)
+#FIXEDLENGTH(12,0)
+Cat breeder<END>
+
+//さすらいの旅人<END>
+#JMP($99422)
+#FIXEDLENGTH(14,0)
+Wanderin' soul<END>
+
+//夢追い人<END>
+#JMP($99431)
+#FIXEDLENGTH(8,0)
+Dreamer<END>
+
+//$_WORDファン<END>
+#JMP($9943A)
+#FIXEDLENGTH(12,0)
+$_WORD fan<END>
+
+//小さい つづら<END>
+#JMP($99447)
+#FIXEDLENGTH(13,0)
+Small box<END>
+
+//大きい つづら<END>
+#JMP($99455)
+#FIXEDLENGTH(13,0)
+Big box<END>
+
+//ひと～つ<END>
+#JMP($99463)
+#FIXEDLENGTH(8,0)
+One～<END>
+
+//ふた～つ<END>
+#JMP($9946C)
+#FIXEDLENGTH(8,0)
+Two～<END>
+
+//みっつ<END>
+#JMP($99475)
+#FIXEDLENGTH(6,0)
+Three<END>
+
+//よっつ<END>
+#JMP($9947C)
+#FIXEDLENGTH(6,0)
+Four<END>
+
+//いつつ<END>
+#JMP($99483)
+#FIXEDLENGTH(6,0)
+Five<END>
+
+//むっつ<END>
+#JMP($9948A)
+#FIXEDLENGTH(6,0)
+Six<END>
+
+//ななつ<END>
+#JMP($99491)
+#FIXEDLENGTH(6,0)
+Seven<END>
+
+//やっつ<END>
+#JMP($99498)
+#FIXEDLENGTH(6,0)
+Eight<END>
+
+//ここのつ<END>
+#JMP($9949F)
+#FIXEDLENGTH(8,0)
+Nine<END>
+
+//とお<END>
+#JMP($994A8)
+#FIXEDLENGTH(4,0)
+Ten<END>
+
+//乗って<END>
+#JMP($994AD)
+#FIXEDLENGTH(6,0)
+Ride<END>
+
+//行って<END>
+#JMP($994B4)
+#FIXEDLENGTH(6,0)
+Go<END>
+
+//食べて<END>
+#JMP($994BB)
+#FIXEDLENGTH(6,0)
+Eat<END>
+
+//食べる<END>
+#JMP($994C2)
+#FIXEDLENGTH(6,0)
+Eat<END>
+
+//飲んで<END>
+#JMP($994C9)
+#FIXEDLENGTH(6,0)
+Drink<END>
+
+//飲む<END>
+#JMP($994D0)
+#FIXEDLENGTH(4,0)
+Sip<END>
+
+//してもらった<END>
+#JMP($994D5)
+#FIXEDLENGTH(12,0)
+Got done<END>
+
+//されてない<END>
+#JMP($994E2)
+#FIXEDLENGTH(10,0)
+Not done<END>
+
+//した<END>
+#JMP($994ED)
+#FIXEDLENGTH(4,0)
+Did<END>
+
+//してない<END>
+#JMP($994F2)
+#FIXEDLENGTH(8,0)
+Didn't<END>
+
+//ある<END>
+#JMP($994FB)
+#FIXEDLENGTH(4,0)
+Yes<END>
+
+//コンビニ<END>
+#JMP($99505)
+#FIXEDLENGTH(8,0)
+Konbini<END>
+
+//デート<END>
+#JMP($9950E)
+#FIXEDLENGTH(6,0)
+Date<END>
+
+//でーと<END>
+#JMP($99515)
+#FIXEDLENGTH(6,0)
+date<END>
+
+//まだ<END>
+#JMP($9951C)
+#FIXEDLENGTH(4,0)
+Not<END>
+
+//ファーストキス？<END>
+#JMP($99521)
+#FIXEDLENGTH(16,0)
+First kiss?<END>
+
+//そう答えたっけ<END>
+#JMP($99532)
+#FIXEDLENGTH(14,0)
+Did I say so<END>
+
+//まだだよ<END>
+#JMP($99541)
+#FIXEDLENGTH(8,0)
+Not yet<END>
+
+//しちゃった<END>
+#JMP($9954A)
+#FIXEDLENGTH(10,0)
+I did it<END>
+
+//失恋？<END>
+#JMP($99555)
+#FIXEDLENGTH(6,0)
+Dumpd?<END>
+
+//失恋の練習？<END>
+#JMP($9955C)
+#FIXEDLENGTH(12,0)
+Heartbreak?<END>
+
+//どんなの？<END>
+#JMP($99569)
+#FIXEDLENGTH(10,0)
+Like what?<END>
+
+//モデルさん<END>
+#JMP($99574)
+#FIXEDLENGTH(10,0)
+A model<END>
+
+//恋人？<END>
+#JMP($9957F)
+#FIXEDLENGTH(6,0)
+Lover?<END>
+
+//買った<END>
+#JMP($99586)
+#FIXEDLENGTH(6,0)
+Bought<END>
+
+//何も買ってない<END>
+#JMP($9958D)
+#FIXEDLENGTH(14,0)
+Bought nothin'<END>
+
+//お気に入り<END>
+#JMP($9959C)
+#FIXEDLENGTH(10,0)
+Fave<END>
+
+//後悔してる…<END>
+#JMP($995A7)
+#FIXEDLENGTH(12,0)
+I regret…<END>
+
+//抱かれたい<END>
+#JMP($995B4)
+#FIXEDLENGTH(10,0)
+Hold me<END>
+
+//抱きしめられたい<END>
+#JMP($995C4)
+#FIXEDLENGTH(16,0)
+Wanna be hugged<END>
+
+//抱きたい<END>
+#JMP($995D8)
+#FIXEDLENGTH(8,0)
+Hold<END>
+
+//抱きしめたい<END>
+#JMP($995E4)
+#FIXEDLENGTH(12,0)
+Wanna hug<END>
+
+//あるよね<END>
+#JMP($995F4)
+#FIXEDLENGTH(8,0)
+Yeah<END>
+
+//ないかな…<END>
+#JMP($995FD)
+#FIXEDLENGTH(10,0)
+Nope…<END>
+
+//そうかもね<END>
+#JMP($99608)
+#FIXEDLENGTH(10,0)
+Maybe so<END>
+
+//そうだとイイな…<END>
+#JMP($99613)
+#FIXEDLENGTH(16,0)
+Hope so…<END>
+
+//困りはしないよ～<END>
+#JMP($99624)
+#FIXEDLENGTH(16,0)
+No problem～<END>
+
+//がんばれ<END>
+#JMP($99635)
+#FIXEDLENGTH(8,0)
+Go go<END>
+
+//目指すのか…<END>
+#JMP($9963E)
+#FIXEDLENGTH(12,0)
+Aim for it…<END>
+
+//大変だね<END>
+#JMP($9964B)
+#FIXEDLENGTH(8,0)
+Rough<END>
+
+//いろんな人<END>
+#JMP($99654)
+#FIXEDLENGTH(10,0)
+All sorts<END>
+
+//なってくれ<END>
+#JMP($9965F)
+#FIXEDLENGTH(10,0)
+Be one<END>
+
+//どうやって？<END>
+#JMP($9966A)
+#FIXEDLENGTH(12,0)
+How?<END>
+
+//忙しい<END>
+#JMP($99677)
+#FIXEDLENGTH(6,0)
+Busy<END>
+
+//ヒマ～<END>
+#JMP($9967E)
+#FIXEDLENGTH(6,0)
+Free～<END>
+
+//みぎて<END>
+#JMP($99688)
+#FIXEDLENGTH(6,0)
+right<END>
+
+//右手<END>
+#JMP($9968F)
+#FIXEDLENGTH(4,0)
+Rght<END>
+
+//ひだりて<END>
+#JMP($99694)
+#FIXEDLENGTH(8,0)
+left<END>
+
+//左手<END>
+#JMP($9969D)
+#FIXEDLENGTH(4,0)
+Left<END>
+
+//りょうて<END>
+#JMP($996A2)
+#FIXEDLENGTH(8,0)
+both<END>
+
+//両手<END>
+#JMP($996AB)
+#FIXEDLENGTH(4,0)
+Both<END>
+
+//予定ある<END>
+#JMP($996B0)
+#FIXEDLENGTH(8,0)
+Plans<END>
+
+//予定ない<END>
+#JMP($996B9)
+#FIXEDLENGTH(8,0)
+No plans<END>
+
+//お買い物<END>
+#JMP($996C2)
+#FIXEDLENGTH(8,0)
+Shoppin'<END>
+
+//出ないよ<END>
+#JMP($996CB)
+#FIXEDLENGTH(8,0)
+It won't<END>
+
+//テストあるの？<END>
+#JMP($996D4)
+#FIXEDLENGTH(14,0)
+A test, then?<END>
+
+//確かめるの？<END>
+#JMP($996E3)
+#FIXEDLENGTH(12,0)
+To check?<END>
+
+//似合うよ<END>
+#JMP($996F0)
+#FIXEDLENGTH(8,0)
+Suits ya<END>
+
+//似合わないな<END>
+#JMP($996F9)
+#FIXEDLENGTH(12,0)
+Doesn't suit<END>
+
+//そうかな？<END>
+#JMP($99706)
+#FIXEDLENGTH(10,0)
+Think so?<END>
+
+//照れるな～<END>
+#JMP($99711)
+#FIXEDLENGTH(10,0)
+So shy～<END>
+
+//え～<END>
+#JMP($9971C)
+#FIXEDLENGTH(4,0)
+Aww<END>
+
+//そんな～<END>
+#JMP($99721)
+#FIXEDLENGTH(8,0)
+Aww no～<END>
+
+//オニよめ<END>
+#JMP($9972A)
+#FIXEDLENGTH(8,0)
+Mean mom<END>
+
+//ナイスガイ<END>
+#JMP($99733)
+#FIXEDLENGTH(10,0)
+Nice guy<END>
+
+//泣き虫<END>
+#JMP($9973E)
+#FIXEDLENGTH(6,0)
+Crybby<END>
+
 //ちがうよ<END>
 #JMP($99745)
 #FIXEDLENGTH(8,0)
 Nope<END>
+
+//しゃくし<END>
+#JMP($9974E)
+#FIXEDLENGTH(8,0)
+Ladle<END>
+
+//泣いた<END>
+#JMP($99757)
+#FIXEDLENGTH(6,0)
+Cried<END>
+
+//泣きはしなかった<END>
+#JMP($9975E)
+#FIXEDLENGTH(16,0)
+Didn't cry<END>
+
+//日本<END>
+#JMP($9976F)
+#FIXEDLENGTH(4,0)
+JP<END>
+
+//大きいの？<END>
+#JMP($99774)
+#FIXEDLENGTH(10,0)
+Is it big?<END>
+
+//ドロボー<END>
+#JMP($9977F)
+#FIXEDLENGTH(8,0)
+Thief!<END>
+
+//気をつけるよ<END>
+#JMP($99788)
+#FIXEDLENGTH(12,0)
+I'll be safe<END>
+
+//大切だからね<END>
+#JMP($99795)
+#FIXEDLENGTH(12,0)
+It's dear<END>
+
+//月～金<END>
+#JMP($997A2)
+#FIXEDLENGTH(6,0)
+M-F<END>
+
+//もう終わった<END>
+#JMP($997A9)
+#FIXEDLENGTH(12,0)
+It's over<END>
+
+//ネコ１枚か…<END>
+#JMP($997B6)
+#FIXEDLENGTH(12,0)
+One cat…<END>
+
+//書いてないね<END>
+#JMP($997C3)
+#FIXEDLENGTH(12,0)
+Not written<END>
+
+//電子レンジ<END>
+#JMP($997D0)
+#FIXEDLENGTH(10,0)
+Microwave<END>
+
+//ポスター<END>
+#JMP($997DB)
+#FIXEDLENGTH(8,0)
+Poster<END>
+
+//そうそう<END>
+#JMP($997E4)
+#FIXEDLENGTH(8,0)
+Yep yep<END>
+
+//されれば<END>
+#JMP($997ED)
+#FIXEDLENGTH(8,0)
+If done<END>
+
+//すれば<END>
+#JMP($997F6)
+#FIXEDLENGTH(6,0)
+If do<END>
+
+//そうだね<END>
+#JMP($997FD)
+#FIXEDLENGTH(8,0)
+Yeah<END>
+
+//ステキな所だね<END>
+#JMP($99806)
+#FIXEDLENGTH(14,0)
+Lovely place<END>
+
+//そうでもないよ<END>
+#JMP($99815)
+#FIXEDLENGTH(14,0)
+Not really<END>
+
+//いっぱい？<END>
+#JMP($99824)
+#FIXEDLENGTH(10,0)
+A lot?<END>
+
+//全員にか<END>
+#JMP($9982F)
+#FIXEDLENGTH(8,0)
+To all?<END>
+
+//ムリです<END>
+#JMP($99838)
+#FIXEDLENGTH(8,0)
+Can't<END>
+
+//体に悪い<END>
+#JMP($99841)
+#FIXEDLENGTH(8,0)
+Unhealth<END>
+
+//どんな方法<END>
+#JMP($9984A)
+#FIXEDLENGTH(10,0)
+How so<END>
+
+//ヤメる気ないから…<END>
+#JMP($99855)
+#FIXEDLENGTH(18,0)
+I won't quit…<END>
+
+//ドキドキを？<END>
+#JMP($99868)
+#FIXEDLENGTH(12,0)
+Poundin'?<END>
+
+//恋と勘違い？<END>
+#JMP($99875)
+#FIXEDLENGTH(12,0)
+Not love?<END>
+
+//コドモ用<END>
+#JMP($99882)
+#FIXEDLENGTH(8,0)
+Kids'<END>
+
+//オトナ用<END>
+#JMP($9988B)
+#FIXEDLENGTH(8,0)
+Adult<END>
+
+//安物の<END>
+#JMP($99894)
+#FIXEDLENGTH(6,0)
+Cheap<END>
+
+//ブランド物の<END>
+#JMP($9989B)
+#FIXEDLENGTH(12,0)
+Brand-name<END>
+
+//オーダーメイド<END>
+#JMP($998A8)
+#FIXEDLENGTH(14,0)
+Custom-made<END>
+
+//ケッコン式<END>
+#JMP($998B7)
+#FIXEDLENGTH(10,0)
+Weddin'<END>
+
+//他の人<END>
+#JMP($998C2)
+#FIXEDLENGTH(6,0)
+Others<END>
+
+//好きな人<END>
+#JMP($998C9)
+#FIXEDLENGTH(8,0)
+Crush<END>
+
+//そうなんだ<END>
+#JMP($998D2)
+#FIXEDLENGTH(10,0)
+I see<END>
+
+//あさくさ<END>
+#JMP($998DD)
+#FIXEDLENGTH(8,0)
+Asakusa<END>
+
+//危ないからヤメな<END>
+#JMP($998E6)
+#FIXEDLENGTH(16,0)
+It's risky, quit<END>
+
+//おトモダチ<END>
+#JMP($998F7)
+#FIXEDLENGTH(10,0)
+Friends<END>
+
+//高い<END>
+#JMP($9990A)
+#FIXEDLENGTH(4,0)
+High<END>
+
+//そうでもない<END>
+#JMP($9990F)
+#FIXEDLENGTH(12,0)
+Not really<END>
+
+//むずかしいね<END>
+#JMP($9991C)
+#FIXEDLENGTH(12,0)
+It's tricky<END>
+
+//カッコ悪いよ<END>
+#JMP($99929)
+#FIXEDLENGTH(12,0)
+Not cool<END>
+
+//おばあちゃん<END>
+#JMP($99936)
+#FIXEDLENGTH(12,0)
+Grandma<END>
+
+//なる<END>
+#JMP($99943)
+#FIXEDLENGTH(4,0)
+Will<END>
+
+//ならない<END>
+#JMP($99948)
+#FIXEDLENGTH(8,0)
+Won't<END>
+
+//ネコでも？<END>
+#JMP($99951)
+#FIXEDLENGTH(10,0)
+Even cats?<END>
+
+//なってる<END>
+#JMP($9995C)
+#FIXEDLENGTH(8,0)
+It is<END>
+
+//なってない<END>
+#JMP($99965)
+#FIXEDLENGTH(10,0)
+It's not<END>
+
+//くうき<END>
+#JMP($99970)
+#FIXEDLENGTH(6,0)
+air<END>
+
+//空気<END>
+#JMP($99977)
+#FIXEDLENGTH(4,0)
+Air<END>
+
+//さぁ？<END>
+#JMP($9997C)
+#FIXEDLENGTH(6,0)
+Dunno?<END>
+
+//なんでかな？<END>
+#JMP($99983)
+#FIXEDLENGTH(12,0)
+Why's that?<END>
+
+//よろこぶよ<END>
+#JMP($99990)
+#FIXEDLENGTH(10,0)
+So happy<END>
 
 //え？<END>
 #JMP($99A64)
