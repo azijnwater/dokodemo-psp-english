@@ -1,0 +1,301 @@
+# reply choices; kana/katakana/kanji variant triples are typed-answer matches (AI-UNSURE)
+9999B	Don't tell!
+999AA	Hurt while ridin'?
+999BD	body	?typed-answer match word
+999C4	Body	?typed-answer match word
+999CE	Done
+999D5	beg for it
+999E9	Do
+999EE	Will do
+999F7	Learn?
+99A00	Pretty tough
+99A11	Nothin' to worry
+99A26	livin' solo	?typed-answer match word
+99A33	Live solo	?typed-answer match word
+99A3E	Lonely
+99A47	Happy
+99A50	Fooled?
+99A5D	Spy
+99A69	Sure am
+99A72	Not sure
+99A7B	Fit enough?
+99A88	I can
+99A91	No way
+99A9C	Retort
+99AA5	Ever skipped?
+99AB7	face	?typed-answer match word
+99ABC	Face	?typed-answer match word
+99AC4	Yes
+99ACB	No
+99AD2	Two-faced?
+99ADD	-
+99AE0	I think so
+99AEB	Don't thnk
+99AF6	Ever betrayed?
+99B07	Have it
+99B10	Don't have
+99B1B	GF
+99B20	BF
+99B25	Lewd book?
+99B32	Prank
+99B3B	Closet?
+99B46	Body-proud
+99B51	Sure
+99B5A	Might win
+99B65	Sexy
+99B6E	Tough
+99B75	Alluring
+99B7E	Librry
+99B85	Fries
+99B8C	That's no rule
+99B9D	Spoon
+99BA6	Fork	?typed-answer match word
+99BAF	fork	?typed-answer match word
+99BB8	Hamburger
+99BC5	Not manners
+99BD6	OK
+99BDB	No
+99BE0	Do it myself
+99BED	Great
+99BF4	Not much
+99BFD	Gas stove
+99C08	It's a lie
+99C15	practice	?typed-answer match word
+99C20	Drll	?typed-answer match word
+99C25	Training
+99C32	Must do it
+99C3F	Don't have to
+99C4E	I won't
+99C57	Depends who?
+99C66	stroll	?typed-answer match word
+99C6D	Nap	?typed-answer match word
+99C72	Nap	?typed-answer match word
+99C79	Snack
+99C80	Hard brake?
+99C8D	Be careful?
+99C9E	Why scolded?
+99CAF	Really?
+99CB8	I trust
+99CC1	It's in
+99CCC	It's not in
+99CD9	What dream
+99CE4	Wish I saw
+99CEF	Meh～
+99D03	Useful
+99D0E	Not that much
+99D20	Go well?
+99D2F	Good
+99D34	Bad
+99D39	Lonely still
+99D48	futon	?typed-answer match word
+99D4F	futon	?typed-answer match word
+99D58	Futon	?typed-answer match word
+99D5F	Futon	?typed-answer match word
+99D68	Bed	?typed-answer match word
+99D6D	Bed	?typed-answer match word
+99D74	Feel good?
+99D85	Mustard
+99D90	What taste?
+99DA3	Don't eat it!
+99DB2	Herb
+99DBC	If sore?
+99DC8	Lov!
+99DCD	Not quite
+99DDA	That's life
+99DE9	Oh no
+99DF0	Toss it properly
+99E01	Cardboard
+99E0C	Pfft, lost?
+99E19	Thank you
+99E27	You played…
+99E34	Bought it?
+99E41	Grown-up～
+99E4C	Nah, not a bit
+99E5B	train	?typed-answer match word
+99E64	Some do ride
+99E75	Some don't ride
+99E88	Good one
+99E93	Kind!
+99E9A	And?
+99EA3	Yummy
+99EAE	Better not…
+99EBF	It's ok
+99EC8	Whoa, yikes!
+99ED7	Devil
+99EDE	Why's that
+99EE9	Decay?
+99EF0	You okay?
+99EFF	Be careful?
+99F0C	Got fat～
+99F17	Not much change
+99F2A	Ochazuke
+99F33	Yuth
+99F38	What taste?
+99F45	Mayonnaise
+99F50	Lend you some?
+99F5F	Need it?
+99F6C	Meal
+99F73	early up
+99F7C	sleep	?typed-answer match word
+99F83	situps
+99F8C	Healthy
+99F97	Unhealthy…
+99FA4	Who knows?
+99FB1	You'll get fat
+99FC0	Fancy?
+99FCB	Easy, right?
+99FD8	Mad
+99FDF	Not mad
+99FE8	Why?
+99FEF	Eh, no way
+99FFC	Eh, why?
+9A009	Banana
+9A010	Really?
+9A01B	plane	?typed-answer match word
+9A024	A trip!
+9A02D	How much?
+9A03C	Cheap～
+9A045	Still pricey!
+9A056	TV shopping?
+9A06B	Artisan
+9A074	Mail?
+9A07B	Amazin'
+9A084	Uh-oh…
+9A091	Gimme
+9A09C	Don't eat it
+9A0AD	Mix
+9A0B4	Pour
+9A0BB	Top
+9A0C2	Add
+9A0C9	Grill it brown
+9A0D8	Simmer it slowly
+9A0E9	Stir it well
+9A0F6	Chill it icy
+9A107	Uh-huh
+9A110	What dish is it?
+9A121	Jogging
+9A12C	Bookshop
+9A135	And then what?
+9A149	Up early?
+9A156	Already do
+9A164	Maybe I'll try
+9A175	Nope…
+9A17E	Surely winnin'
+9A18F	Nah, not yet
+9A19E	True
+9A1A5	Lie
+9A1AA	Tired?
+9A1B3	What'd you do?
+9A1CE	It does
+9A1D7	It doesn't
+9A1E4	It's balance
+9A1F3	It's timing
+9A204	Balance
+9A20D	Timing
+9A223	What'd they do?
+9A235	No way
+9A240	Park
+9A245	Wish I saw it
+9A257	Shopping
+9A260	Stylish?
+9A26B	Fun
+9A272	Ugh, early rise
+9A282	Knee
+9A287	Sky
+9A28E	Just a cat～
+9A29D	Throb
+9A2A6	Prickly
+9A2AF	Squee
+9A2B6	Throb throb
+9A2C3	Isn't it fine?
+9A2D4	If it rains?
+9A2E6	Abacus
+9A2EF	Mornin'
+9A2F8	Night
+9A301	Really?
+9A30A	Then♥
+9A315	Bad
+9A31E	BBQ
+9A323	Happy
+9A32C	I doubt it
+9A339	Cleanin'
+9A342	diet	?typed-answer match word
+9A34D	Got fat?
+9A356	What method?
+9A363	Geta
+9A36A	Handst
+9A371	Plenty
+9A37B	Not many
+9A389	Tummyache～
+9A398	Tough
+9A39F	Loach
+9A3A8	Quest
+9A3AF	Sing it
+9A3C5	Trip?
+9A3CC	Blackcat
+9A3D5	Train?
+9A3DE	Complicated?
+9A3EB	Smells nice
+9A3FA	Why's that?
+9A409	Be careful
+9A414	Show me
+9A421	Not in the bath
+9A44E	cash	?typed-answer match word
+9A453	money	?typed-answer match word
+9A45A	Cash	?typed-answer match word
+9A45F	Lend you some?
+9A46F	Hey! Used it on what?
+9A485	Be careful
+9A492	Don't drop it!
+9A4A3	What a waste…
+9A4B2	Throw it out now!
+9A4C5	Hmm
+9A4CC	What happened then?
+9A4E1	See a doctor?
+9A4EF	There
+9A4F6	Don't buy it
+9A507	I want it…
+9A514	It's not scary
+9A525	What?
+9A52C	Don't go with 'em
+9A541	Head
+9A548	Dizzy
+9A54F	All fine
+9A558	Nyafun
+9A561	Train?
+9A568	What drill?
+9A575	Next time, too?
+9A586	What'd you do?
+9A595	The sun's?
+9A5A0	Smell?
+9A5A9	Easy recipe?
+9A5B6	Yes
+9A5BD	Cup ramen
+9A5CC	Water?
+9A5D3	In a bath?
+9A5DE	I do!
+9A5E7	Eh, I don't
+9A5F5	Read bit by bit?
+9A606	Read a lot, huh
+9A617	What book?
+9A626	The culprit shows～
+9A63A	The two have a baby～
+9A657	Off to space～
+9A668	The big boss shows～
+9A67D	Murder
+9A686	To space
+9A691	Taboo!
+9A69A	Exercises
+9A6A5	Wow, amazin'
+9A6B4	In a bath?
+9A6BF	Polit.
+9A6C6	Pretty one
+9A6D1	Shampoo and rinse?
+9A6E6	The diff?
+9A6F3	Way off…
+9A701	It's comin'
+9A70E	Not a bit
+9A719	Ironin'
+9A726	Nah, not yet
+9A735	You lost it?
+9A742	Hope you win
