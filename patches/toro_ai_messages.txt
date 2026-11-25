@@ -30579,8 +30579,7 @@ mysteries…[LR]<END>
 //[VAR4]個目の 不思議なの[NYA]～[LR]<END>
 #JMP($4D6DA)
 #FIXEDLENGTH(26,0)
-that's mystery[LR]
-#[VAR4] [NYA]～[LR]<END>
+that's mystery[LR]#[VAR4] [NYA]～[LR]<END>
 
 //[WORD2]が よく おでかけする 場所って どこ？<END>
 #JMP($4D710)

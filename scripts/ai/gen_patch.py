@@ -337,10 +337,17 @@ def build(char):
                     print('%s: %X too long (%d > %d): %s' % (src, off, blen, ln, en))
             errors += 1
             continue
+        # Atlas treats a script line starting with '#' as a command, so never
+        # break a line in front of '#' (newlines are ignored by Atlas anyway).
+        body = en.replace('[LR]', '[LR]\n').rstrip('\n').replace('[LR]\n#', '[LR]#')
+        if body.startswith('#'):
+            print('%s: %X text may not start with "#": %s' % (src, off, en))
+            errors += 1
+            continue
         if unsure:
             out.append('// AI-UNSURE: %s\n' % unsure); nun += 1
         out.append('//%s<END>\n#JMP($%X)\n#FIXEDLENGTH(%d,0)\n%s<END>\n\n'
-                   % (t, off, ln, en.replace('[LR]', '[LR]\n').rstrip('\n')))
+                   % (t, off, ln, body))
         n += 1
     fn = 'ricky_messages.txt' if char == 'ricky' else '%s_ai_messages.txt' % char
     with open(os.path.join(ROOT, 'patches', fn), 'w', encoding='utf-8', newline='\n') as f:
