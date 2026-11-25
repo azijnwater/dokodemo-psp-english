@@ -222,6 +222,15 @@ def build(char):
         if '[LR]' in t:
             en = wrap(en)
         blen, bad = encode_len(en)
+        # Like the human translators: if it does not fit, drop catchphrase codes
+        # first, then decorative wave dashes / notes.
+        for pat in (r'\[KERO\]|\[NYA\]|<\$17><\$1[89]><\$00>', r'(?<=\S)[～♪](?=[!?…\[]|$)'):
+            if blen <= ln:
+                break
+            en2 = re.sub(pat, '', en)
+            if en2 != en:
+                en = wrap(en2) if '[LR]' in t else en2
+                blen, bad = encode_len(en)
         if bad or blen > ln:
             if src not in reported:
                 reported.add(src)
