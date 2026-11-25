@@ -91,6 +91,8 @@ Doko Demo Issyo PSP English Fan Translation (build %date% %time:~0,5%)^<END^>>pa
 :: Apply Atlas text patches to BOOT.BIN and .KSC files
 echo Patch game files
 %atlas% build\PSP_GAME\SYSDIR\BOOT.BIN patches\boot.txt > nul
+:: AI-translated BOOT.BIN strings not covered by boot.txt (applied after it)
+if exist patches\boot_ai.txt %atlas% build\PSP_GAME\SYSDIR\BOOT.BIN patches\boot_ai.txt > nul
 %atlas% build\PSP_GAME\PARAM.SFO patches\param.txt > nul
 
 :: Replace game artwork that appears on the XMB/PPSSPP menu
@@ -144,7 +146,9 @@ for %%P in (
     rem Apply matching text patches
     for %%F in ("patches\!p!*.txt") do (
       if exist "%%~fF" (
-        if /I "%%~nF"=="!p!_dictionary" (
+        rem Any patch with "dictionary" in its name (toro_dictionary, toro_ai_dictionary) targets the .DIC
+        set "pname=%%~nF"
+        if /I not "!pname:dictionary=!"=="!pname!" (
           echo Patching insert\!q!.DIC with %%~nxF
           !atlas! "insert\!q!.DIC" "%%~fF"
         ) else (

@@ -1,0 +1,241 @@
+# outing destinations: name / description / purpose ("to ...") / word prompt
+952B6	Shop
+952BB	A shop sellin' $_WORD
+952D4	to buy $_WORD
+952E3	Anything you wanna buy?
+95304	shoppin' at $_WORD
+9531A	What shop does $_YOU often shop at?
+95349	$_WORD's workplace
+9535F	to find $_WORD
+9536E	What people do you like?
+9538D	$_WORD store
+9539A	A $_WORD specialty shop for maniacs
+953C4	to find a $_WORD seller
+953E1	What goods are hard to buy in shops?
+95410	$_WORD shop
+9541F	Imported to used $_WORD, a $_WORD specialty shop
+95455	What human clothes are there?
+9547A	Used $_WORD
+95487	Used $_WORD shop, full of hidden bargains
+954BB	to hunt $_WORD bargains
+954D6	Eats
+954DB	A ¥100 $_WORD lunch spot
+954F6	to eat $_WORD
+95505	Anything you wanna eat now?
+95524	$_YOU's fave shop
+9553B	Hungry, so to $_WORD
+95557	If you eat out, which shop's best?
+9557D	$_WORDDine
+95588	A shop where $_WORD is a waitress
+955AB	Tell me some woman～
+955C4	$_WORDTast
+955CF	Home cookin' known for $_WORD
+955F2	Where rumor says you get $_WORD's homemade food
+95624	What job does $_YOU like?
+95643	$_WORD Eats
+95650	A shop with real $_WORD local cuisine
+9567B	to feel like a $_WORD trip
+95698	Where do you suggest travelin'?
+956B9	A $_WORD diner usin' $_WORD in every dish
+956F2	Cafe$_WORD
+956FD	Cafe
+95704	A cafe by a $_WORD-lovin' owner for $_WORD fans
+9573C	Tell me anything you like?
+95763	$_WORDCafe
+9576E	A cafe where $_WORD makes tea with love
+9579A	to where $_WORD fans gather
+957BB	$_WORD Cafe
+957C8	A hideaway where $_WORD rests between work
+957FE	to hear of $_WORD
+95811	$_WORD Bar
+9581C	A grown-up spot with $_WORD contests nightly
+95849	to $_WORD to be grown-up
+95867	What's a grown-up thing to do?
+9588A	A cafe with $_WORD live shows at times
+958B5	to see $_WORD live
+958CA	Who's $_YOU's fave celeb?
+958E9	A $_WORD shop with $_WORD from around the world
+9591B	Firm
+95920	$_YOU's workplace
+95935	to tour $_WORD
+95946	What companies are out there?
+95970	A firm busy with $_WORD all day
+95994	job huntin'
+959A3	What do you do workin' in the world?
+959DA	The firm runnin' world $_WORD
+959FC	to research $_WORD
+95A1A	What would you miss if gone?
+95A3C	$_WORDTemp
+95A47	A temp agency where $_WORD helps people in need
+95A7B	to study $_WORD work
+95A94	What job helps the world?
+95AC0	$_WORD Agcy
+95ACD	Talent agency of $_WORD
+95AEC	to meet $_WORD
+95AFB	$_WORD Co.
+95B06	A firm makin' lots of $_WORD gear
+95B2C	to study $_WORD before doin' $_WORD
+95B50	What do you do for fun?
+95B70	$_WORD Nook
+95B7F	Kettle
+95B86	A break spot, free $_WORD
+95BA2	for $_WORD break
+95BB4	What's $_YOU's fave drink?
+95BE0	A spot to relax and $_WORD at ease
+95C07	to relax with some $_WORD
+95C25	What feels good and gets rid of tiredness?
+95C59	A rest spot for the $_WORD-weary
+95C7F	where $_WORD-tired folks gather
+95C9F	What tires you out?
+95CBF	Hi $_WORD
+95CCA	A place $_WORD stops by to rest
+95CEE	Who does $_YOU like?
+95D0B	$_WORD Wait
+95D18	Meetin' spot for trips to $_WORD
+95D3C	to see $_WORD
+95D4B	If you go out to play, where's best?
+95D75	$_WORD Rest
+95D82	A lounge where tired $_WORD folk rest
+95DA9	$_WORDBath
+95DB4	Bath
+95DB9	A bath whose springs clean $_WORD
+95DDC	to clean $_WORD
+95DF1	What body part do you wanna make nicer?
+95E1F	A bath with water like $_WORD's springs
+95E4C	scoutin' $_WORD
+95E5F	Where do you suggest travelin'?
+95E7F	A bath $_WORD folks often use
+95EA4	What jobs are there in the world?
+95EC7	$_WORD Spa
+95ED2	A place to wash off sweat in the bath after $_WORD
+95F0D	to $_WORD and sweat
+95F25	Tell me a sport or exercise?
+95F53	$_WORD Pool
+95F60	Pool
+95F67	A place teachin' a diet: $_WORD in hot water
+95FA0	to $_WORD
+95FAB	Anything you wanna do now?
+95FC7	$_WORDBath
+95FD2	A bathhouse famed for a $_WORD bath said to heal what you wish
+96011	Cart
+96016	A proud $_WORD food cart, 100+ years old
+96040	to find tasty $_WORD
+96058	Anythin' you wanna eat or drink?
+96083	$_WORD Ramen
+96092	A ramen shop makin' broth from pig $_WORD bones
+960CC	Found a rare shop, speakin' of $_WORD
+960F9	Tell me a human body part?
+9611B	$_WORD Club
+96128	A place to secretly swap $_WORD intel
+96156	to research $_WORD
+96174	Who's $_YOU's fave celebrity?
+96195	$_WORD Fans
+961A2	A grown-up salon for $_WORD lovers
+961CC	Tell me what $_YOU likes～
+961E9	A cart where a gruff man $_WORDs you
+96212	to find $_WORD pros
+96227	Tell me a move like a finisher?
+9624E	$_WORD Hut
+96259	A strange cart where tired $_WORD gather
+96290	Express to $_WORD
+962A5	by train to $_WORD
+962BD	Where do you go by train?
+962EA	$_WORDLine
+962F5	The train $_WORD rides daily
+96312	to maybe meet $_WORD
+9632B	Ltd.$_WORD
+96338	A hit with $_WORD fans
+96354	to ride a train named after $_WORD
+96385	Rpd.$_WORD
+96392	Packed with $_WORD daily
+963AE	see $_WORD
+963BB	What words describe people?
+963E7	$_WORDRail
+963F2	A galaxy rail to $_WORD yearly
+96417	to find a way to $_WORD
+96430	What dream place do you wanna visit once?
+9645E	$_WORD Rwy
+96469	A train just for $_WORD concert venues
+96495	Schl
+9649A	$_YOU's school
+964AE	Tell me some school name?
+964C9	$_WORDClas
+964D4	A school teachin' how to $_WORD well
+964FE	learn $_WORD
+9650D	What do you wanna get better at?
+96533	$_WORDUniv
+9653E	A school where $_WORD fans study $_WORD
+9656A	to study $_WORD
+9657B	$_WORDAcad
+96586	Trade school for $_WORD
+965A2	to learn how to be $_WORD
+965BD	What job do you dream of?
+965E6	A place teachin' $_WORD so even beginners get it
+9661E	What do you wanna know more about?
+96642	$_WORDSemi
+9664D	A fun seminar with Prof. $_WORD
+96672	Gate
+96679	$_WORD gate
+96688	for a $_WORD application
+966A3	$_WORD Sch.
+966B0	School $_WORD's kids go to
+966CD	What's $_YOU's fave animal?
+966EC	$_WORDHall
+966F7	$_WORD nationals site
+9670E	to watch $_WORD meet
+96725	A school where kids aimin' for $_WORD gather
+96759	$_WORDMyth
+96764	A legendary spot: $_WORD with your love and you'll be lovers
+967A6	to see a legend
+967B9	What's somethin' to do with love?
+967DE	$_WORDAcad
+967E9	A school only $_WORD folks can ever enter
+9681F	A sight great for families to $_WORD
+9684B	to $_WORD outside
+9685D	What's fun to do noisily with everyone?
+9688F	A river with $_WORD dumpin'
+968B2	to look for dropped $_WORD
+968D4	What human things can't you do without?
+96901	A river where $_WORD is said to bathe
+9692B	Legend: a nymph bathin' had her $_WORD stolen and couldn't return
+96972	River of the $_WORD Taro legend
+9699E	Tell me some food?
+969B8	A river where $_WORD drinks
+969E6	Rooftop
+969EF	Roof of $_WORD-only flats
+96A0C	to find where $_WORD lives
+96A29	$_WORD roof
+96A36	$_WORD house roof
+96A49	to find $_WORD's house
+96A60	$_WORD Apts
+96A6F	A kind apartment rentin' cheap to folks aimin' for $_WORD
+96AAF	Maison$_WORD
+96ABC	Roof of the luxury condo where $_WORD lives
+96AE8	What gorgeous rich-lookin' folks are there?
+96B21	$_WORDHall
+96B2C	An apartment rumored home to "$_WORDians"
+96B5C	to find "$_WORDians", aliens they say exist
+96B8D	What makes $_YOU's heart flutter?
+96BB1	An apartment $_WORD once lived in
+96BDA	$_WORDFest
+96BE5	Shri
+96BEA	A twice-yearly $_WORD fest at the shrine
+96C13	to $_WORD fest
+96C25	What does $_YOU love and get hooked on?
+96C58	$_WORDJnja
+96C63	A shrine for ties with $_WORD
+96C84	to pray to go out with $_WORD
+96CAF	Which celebrity would you date?
+96CD8	A shrine where would-be $_WORD folks gather
+96D08	to pray to become $_WORD
+96D26	A place for rites for old $_WORD
+96D4D	Where $_WORD lovers gather
+96D70	What has $_YOU used for ages?
+96D98	A shrine for $_WORD road safety
+96DBC	to pray before $_WORD rides
+96DD8	Robots, vehicles… tell me things humans ride?
+96E0D	An old fest: smash $_WORD and $_WORD for good health
+96E51	to see a fest known for $_WORD
+96E80	A shrine said to cure $_WORD if you pray
+96EB0	$_WORD St.
+96EBB	Arcade
