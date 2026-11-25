@@ -51952,20 +51952,84 @@ No no, I'll…[LR]<END>
 we argued over[LR]
 who pays [NYA]～[LR]<END>
 
+//結局 ワリカンに したの[NYA]～[LR]<END>
+#JMP($7A1D8)
+#FIXEDLENGTH(28,0)
+In the end we[LR]
+split it～[LR]<END>
+
+//[WORD0]のトコの [WORD1]はね～<END>
+#JMP($7A240)
+#FIXEDLENGTH(25,0)
+[WORD0]'s [WORD1]～<END>
+
 //[WORD0]のトコの？<END>
 #JMP($7A25B)
 #FIXEDLENGTH(15,0)
 [WORD0]'s?<END>
+
+//眠る前に [WORD0]に [WORD2]を 歌ってもらうん だって～[LR]<END>
+#JMP($7A27E)
+#FIXEDLENGTH(49,0)
+before sleep,[LR]
+has [WORD0][LR]
+sing [WORD2]～[LR]<END>
+
+//ふたりとも ラブラブだ[NYA]♥[LR]<END>
+#JMP($7A2B1)
+#FIXEDLENGTH(27,0)
+They're both[LR]
+lovey-dovey♥[LR]<END>
 
 //でも！[LR]<END>
 #JMP($7A2D7)
 #FIXEDLENGTH(7,0)
 But![LR]<END>
 
+//[WORD3]と [WORD4]の ラブラブには 勝てないと 思う[NYA]～[LR]<END>
+#JMP($7A2F9)
+#FIXEDLENGTH(50,0)
+Can't beat[LR]
+[WORD3] and[LR]
+[WORD4]'s love[LR]
+[NYA]～[LR]<END>
+
+//[WORD0]のトコの [WORD1]がね～<END>
+#JMP($7A377)
+#FIXEDLENGTH(25,0)
+[WORD0]'s [WORD1]～<END>
+
 //[WORD0]のトコの？<END>
 #JMP($7A392)
 #FIXEDLENGTH(15,0)
 [WORD0]'s?<END>
+
+//こっそりと [WORD0]の カバンの中に 入って…[LR]<END>
+#JMP($7A3B5)
+#FIXEDLENGTH(41,0)
+secretly hid in[LR]
+[WORD0]'s bag…[LR]<END>
+
+//[WORD0]が [WORD2]に 行く時に 付いてこうと したんだって～！[LR]<END>
+#JMP($7A3E9)
+#FIXEDLENGTH(55,0)
+tryin' to tag[LR]
+along when[LR]
+[WORD0] went[LR]
+to [WORD2]～![LR]<END>
+
+//でも カバンが 重くて…[LR]<END>
+#JMP($7A42B)
+#FIXEDLENGTH(23,0)
+But the bag's[LR]
+heavy…[LR]<END>
+
+//[WORD2]に 行く前に バレちゃった らしい[NYA]～[LR]<END>
+#JMP($7A444)
+#FIXEDLENGTH(42,0)
+they got caught[LR]
+before [WORD2][LR]
+[NYA]～[LR]<END>
 
 //[WORD0]のトコの [WORD1]ってね～<END>
 #JMP($7A4DC)
@@ -51977,35 +52041,684 @@ But![LR]<END>
 #FIXEDLENGTH(15,0)
 [WORD0]'s?<END>
 
+//[WORD3]の辺りが [WORD4]のニオイが するの[NYA]♥[LR]<END>
+#JMP($7A51C)
+#FIXEDLENGTH(42,0)
+Near [WORD3][LR]
+it smells of[LR]
+[WORD4][LR]
+[NYA]♥[LR]<END>
+
+//なんか 家庭的な [WORD2]って 感じだ[NYA]～[LR]<END>
+#JMP($7A551)
+#FIXEDLENGTH(38,0)
+Feels like a[LR]
+homey [WORD2][LR]
+[NYA]～[LR]<END>
+
+//[WORD0]が 寝てる時にね～<END>
+#JMP($7A5C3)
+#FIXEDLENGTH(22,0)
+When [WORD0] slept～<END>
+
 //[WORD0]が？<END>
 #JMP($7A5DB)
 #FIXEDLENGTH(9,0)
 [WORD0]?<END>
+
+//「[VAR2]」って 叫んだんだって～！[LR]<END>
+#JMP($7A5F3)
+#FIXEDLENGTH(31,0)
+they shouted[LR]
+"[VAR2]"～![LR]<END>
+
+//[WORD0]のトコの [WORD1]が 夜中に びっくりして 目が覚めたら…[LR]<END>
+#JMP($7A61D)
+#FIXEDLENGTH(57,0)
+[WORD0]'s[LR]
+[WORD1] woke[LR]
+up startled at[LR]
+night…[LR]<END>
+
+//[WORD0]の 寝言だった らしい[NYA]～[LR]<END>
+#JMP($7A661)
+#FIXEDLENGTH(31,0)
+it was [WORD0][LR]
+sleep-talkin'～[LR]<END>
+
+//「[VAR2]」って 叫ぶなんて…[LR]<END>
+#JMP($7A68B)
+#FIXEDLENGTH(25,0)
+Shoutin'[LR]
+"[VAR2]"…[LR]<END>
+
+//どんなユメ 見てたのか[NYA]～[LR]<END>
+#JMP($7A6A6)
+#FIXEDLENGTH(27,0)
+what were they[LR]
+dreamin'～[LR]<END>
+
+//[WORD0]のトコの [WORD1]がね～<END>
+#JMP($7A70D)
+#FIXEDLENGTH(25,0)
+[WORD0]'s [WORD1]～<END>
 
 //[WORD0]のトコの？<END>
 #JMP($7A728)
 #FIXEDLENGTH(15,0)
 [WORD0]'s?<END>
 
+//[WORD0]と いっしょに 寝てたら…[LR]<END>
+#JMP($7A74B)
+#FIXEDLENGTH(30,0)
+Sleepin' with[LR]
+[WORD0]…[LR]<END>
+
+//いきなり [WORD2]を けっとばされたん だって～[LR]<END>
+#JMP($7A774)
+#FIXEDLENGTH(43,0)
+suddenly got[LR]
+[WORD2][LR]
+kicked～[LR]<END>
+
+//[WORD0]って 寝相が悪いんだ[NYA]～[LR]<END>
+#JMP($7A7AA)
+#FIXEDLENGTH(30,0)
+[WORD0] sleeps[LR]
+wild [NYA]～[LR]<END>
+
+//[WORD0]のトコの [WORD1]がね～<END>
+#JMP($7A816)
+#FIXEDLENGTH(25,0)
+[WORD0]'s [WORD1]～<END>
+
 //[WORD0]のトコの？<END>
 #JMP($7A831)
 #FIXEDLENGTH(15,0)
 [WORD0]'s?<END>
+
+//[WORD0]の大事な [WORD2]を こっそりと 使ってみたん だって～[LR]<END>
+#JMP($7A854)
+#FIXEDLENGTH(55,0)
+They secretly[LR]
+tried [WORD0]'s[LR]
+precious[LR]
+[WORD2]～[LR]<END>
+
+//なんか すごい 気に入った らしくって…[LR]<END>
+#JMP($7A896)
+#FIXEDLENGTH(38,0)
+and really liked[LR]
+it…[LR]<END>
+
+//[WORD0]のトコの [WORD1]も 買うって 言ってた[NYA]！[LR]<END>
+#JMP($7A8C7)
+#FIXEDLENGTH(45,0)
+[WORD0]'s[LR]
+[WORD1] said[LR]
+they'd buy one[LR]
+[NYA]![LR]<END>
+
+//[WORD0]のトコの [WORD1]がね～<END>
+#JMP($7A952)
+#FIXEDLENGTH(25,0)
+[WORD0]'s [WORD1]～<END>
 
 //[WORD0]のトコの？<END>
 #JMP($7A96D)
 #FIXEDLENGTH(15,0)
 [WORD0]'s?<END>
 
+//[WORD0]の 大事な [WORD2]の 隠し場所を 見つけちゃったん だって！[LR]<END>
+#JMP($7A990)
+#FIXEDLENGTH(60,0)
+They found[LR]
+where [WORD0][LR]
+hides their[LR]
+precious[LR]
+[WORD2]![LR]<END>
+
+//でも さわらないで そのままに しといたらしい[NYA]～[LR]<END>
+#JMP($7A9D7)
+#FIXEDLENGTH(49,0)
+But didn't touch[LR]
+it, left it be[LR]
+[NYA]～[LR]<END>
+
+//いい [WORD3]だよね～[LR]<END>
+#JMP($7AA13)
+#FIXEDLENGTH(19,0)
+A good[LR]
+[WORD3]～[LR]<END>
+
+//[WORD0]が [WORD1]する前にね～<END>
+#JMP($7AA79)
+#FIXEDLENGTH(25,0)
+Before [WORD0] [WORD1]s～<END>
+
 //[WORD0]が？<END>
 #JMP($7AA94)
 #FIXEDLENGTH(9,0)
 [WORD0]?<END>
 
+//[WORD1]する前？<END>
+#JMP($7AA9F)
+#FIXEDLENGTH(13,0)
+Before?<END>
+
+//カガミの前で どの [WORD2]に しようか [VAR3]時間も 迷うんだって～[LR]<END>
+#JMP($7AAC4)
+#FIXEDLENGTH(60,0)
+they spend[LR]
+[VAR3] hours at[LR]
+the mirror[LR]
+pickin'[LR]
+[WORD2]～[LR]<END>
+
+//きっと 勝負[WORD2]を 選んでるんだ[NYA]！[LR]<END>
+#JMP($7AB0B)
+#FIXEDLENGTH(37,0)
+Surely pickin'[LR]
+game-day[LR]
+[WORD2] [NYA]![LR]<END>
+
+//[WORD0]のトコの [WORD1]ってね～[LR]<END>
+#JMP($7AB8B)
+#FIXEDLENGTH(28,0)
+[WORD0]'s[LR]
+[WORD1]～[LR]<END>
+
+//意外と オトナっぽい [WORD2]なの[NYA]…[LR]<END>
+#JMP($7ABB2)
+#FIXEDLENGTH(35,0)
+is a surprisingly[LR]
+grown-up[LR]
+[WORD2]…[LR]<END>
+
+//[WORD3]の味が わかるんだって！[LR]<END>
+#JMP($7ABF0)
+#FIXEDLENGTH(29,0)
+They appreciate[LR]
+[WORD3]![LR]<END>
+
+//[WORD0]のトコの [WORD1]に 聞いたんだけど…[LR]<END>
+#JMP($7AC6B)
+#FIXEDLENGTH(39,0)
+I heard from[LR]
+[WORD0]'s[LR]
+[WORD1]…[LR]<END>
+
+//[WORD2]には [WORD2]の 苦労が あるんだって～[LR]<END>
+#JMP($7AC9D)
+#FIXEDLENGTH(40,0)
+[WORD2] has[LR]
+[WORD2][LR]
+troubles too～[LR]<END>
+
+//[WORD2]の苦労？<END>
+#JMP($7ACD0)
+#FIXEDLENGTH(13,0)
+Troubles?<END>
+
+//[WORD3]を しなくちゃ 生きていけない、とか…[LR]<END>
+#JMP($7ACE8)
+#FIXEDLENGTH(42,0)
+can't live[LR]
+without[LR]
+[WORD3] and[LR]
+such…[LR]<END>
+
+//いろいろ 大変そうだ[NYA]…[LR]<END>
+#JMP($7AD14)
+#FIXEDLENGTH(25,0)
+sounds rough[LR]
+[NYA]…[LR]<END>
+
+//また [WORD0]と おはなし したい[NYA]～<END>
+#JMP($7AD56)
+#FIXEDLENGTH(33,0)
+I wanna talk with [WORD0] again～<END>
+
+//[WORD1]の 知り合いの 人間だから…[LR]<END>
+#JMP($7AD97)
+#FIXEDLENGTH(32,0)
+They're a human[LR]
+[WORD1][LR]
+knows…[LR]<END>
+
+//[WORD1] ぜんぜん こわくないの[NYA]～[LR]<END>
+#JMP($7ADCA)
+#FIXEDLENGTH(33,0)
+so [WORD1][LR]
+isn't scared at[LR]
+all～[LR]<END>
+
+//太平洋を泳いでた[NYA]…[LR]<END>
+#JMP($7ADF2)
+#FIXEDLENGTH(22,0)
+Swam the[LR]
+Pacific…[LR]<END>
+
+//[WORD0]の空を 飛んでた[NYA]…[LR]<END>
+#JMP($7AE24)
+#FIXEDLENGTH(26,0)
+Flew in[LR]
+[WORD0]'s sky[LR]
+[NYA]…[LR]<END>
+
+//[WORD0]に出てた …[LR]<END>
+#JMP($7AE5A)
+#FIXEDLENGTH(17,0)
+Was on[LR]
+[WORD0]…[LR]<END>
+
+//[WORD0]しちゃってた…[LR]<END>
+#JMP($7AE87)
+#FIXEDLENGTH(20,0)
+Did [WORD0]…[LR]<END>
+
+//[WORD0]と ケッコン式あげてた…[LR]<END>
+#JMP($7AEB7)
+#FIXEDLENGTH(29,0)
+Had a weddin'[LR]
+with [WORD0]…[LR]<END>
+
+//[WORD0]と デートしてた…[LR]<END>
+#JMP($7AEF0)
+#FIXEDLENGTH(23,0)
+Dated[LR]
+[WORD0]…[LR]<END>
+
+//[WORD0]に さらわれてた…[LR]<END>
+#JMP($7AF23)
+#FIXEDLENGTH(23,0)
+Kidnapped by[LR]
+[WORD0]…[LR]<END>
+
+//[WORD0]で [WORD1]してた …[LR]<END>
+#JMP($7AF6B)
+#FIXEDLENGTH(23,0)
+Did [WORD1] at[LR]
+[WORD0]…[LR]<END>
+
+//[WORD0]が 大バクハツした…[LR]<END>
+#JMP($7AF9E)
+#FIXEDLENGTH(25,0)
+[WORD0][LR]
+exploded big…[LR]<END>
+
+//空から [WORD0]が降ってきた…[LR]<END>
+#JMP($7AFD3)
+#FIXEDLENGTH(27,0)
+[WORD0] fell[LR]
+from the sky…[LR]<END>
+
+//[WORD0]に 食べられてた…[LR]<END>
+#JMP($7B00A)
+#FIXEDLENGTH(23,0)
+Got eaten by[LR]
+[WORD0]…[LR]<END>
+
+//[WORD0]で 捨てネコに なってた…[LR]<END>
+#JMP($7B03D)
+#FIXEDLENGTH(30,0)
+Was a stray cat[LR]
+at [WORD0]…[LR]<END>
+
+//[WORD1]と [WORD0]してた…[LR]<END>
+#JMP($7B07F)
+#FIXEDLENGTH(22,0)
+[WORD0] with[LR]
+[WORD1]…[LR]<END>
+
+//[WORD0]に ふまれてた…[LR]<END>
+#JMP($7B0B1)
+#FIXEDLENGTH(21,0)
+Stepped on by[LR]
+[WORD0][LR]<END>
+
+//[WORD0]に、[WORD1] 噛まれてた…[LR]<END>
+#JMP($7B0F7)
+#FIXEDLENGTH(28,0)
+[WORD0] bit my[LR]
+[WORD1]…[LR]<END>
+
+//[WORD0]に かこまれて モテモテだった…[LR]<END>
+#JMP($7B12F)
+#FIXEDLENGTH(36,0)
+Surrounded by[LR]
+[WORD0], so[LR]
+popular…[LR]<END>
+
+//[WORD0]で [WORD1]のテストうけてた…[LR]<END>
+#JMP($7B186)
+#FIXEDLENGTH(32,0)
+Took a[LR]
+[WORD1] test[LR]
+at [WORD0]…[LR]<END>
+
+//[WORD0]での 待ち合わせに ちこくしちゃってた…[LR]<END>
+#JMP($7B1C2)
+#FIXEDLENGTH(44,0)
+Was late to meet[LR]
+up at [WORD0]…[LR]<END>
+
+//[WORD0] 食べ放題だった…[LR]<END>
+#JMP($7B20A)
+#FIXEDLENGTH(23,0)
+Endless[LR]
+[WORD0]…[LR]<END>
+
+//[WORD0]と いっしょに [WORD1]に出演してた…[LR]<END>
+#JMP($7B252)
+#FIXEDLENGTH(39,0)
+Was on[LR]
+[WORD1] with[LR]
+[WORD0]…[LR]<END>
+
+//こんな 夜おそくまで まだ 起きてるの？<END>
+#JMP($7B286)
+#FIXEDLENGTH(37,0)
+Still up this late at night?<END>
+
+//[WORD0]も 寝るから いっしょに 寝ようね♥[LR]<END>
+#JMP($7B2CE)
+#FIXEDLENGTH(39,0)
+[WORD0]'s goin'[LR]
+to bed too,[LR]
+sleep♥[LR]<END>
+
 //うにゃ～[LR]<END>
 #JMP($7B301)
 #FIXEDLENGTH(9,0)
 Unyaa～[LR]<END>
+
+//じゃあ [WORD0]も もう少し がんばって 起きてる[NYA]…[LR]<END>
+#JMP($7B31D)
+#FIXEDLENGTH(49,0)
+Then [WORD0][LR]
+will try stayin'[LR]
+up a bit [NYA]…[LR]<END>
+
+//[WORD0]が…[LR]ウ～ン ウ～ン…<END>
+#JMP($7B36A)
+#FIXEDLENGTH(25,0)
+[WORD0]…[LR]
+Mmm… mmm…<END>
+
+//[WORD0]～[LR]たすけて～<END>
+#JMP($7B39F)
+#FIXEDLENGTH(18,0)
+[WORD0]～[LR]
+help～<END>
+
+//く、くるし～[LR][WORD0]が～[LR]<END>
+#JMP($7B3CD)
+#FIXEDLENGTH(23,0)
+C-can't breathe[LR]
+[WORD0][LR]<END>
+
+//[WORD0]!?[LR]や～め～て～<END>
+#JMP($7B400)
+#FIXEDLENGTH(20,0)
+[WORD0]!?[LR]
+Sto～p～<END>
+
+//[WORD0]が来る～[LR]逃げて～！<END>
+#JMP($7B430)
+#FIXEDLENGTH(24,0)
+[WORD0]'s[LR]
+comin'～[LR]
+Run～!<END>
+
+//いたたた！[LR][WORD0]、痛い～<END>
+#JMP($7B464)
+#FIXEDLENGTH(24,0)
+Owowow![LR]
+[WORD0],[LR]
+hurts～<END>
+
+//ここは [WORD1]に まかせて…[LR]<END>
+#JMP($7B4A0)
+#FIXEDLENGTH(26,0)
+Leave this to[LR]
+[WORD1]…[LR]<END>
+
+//[WORD0]は 先に 行って～<END>
+#JMP($7B4BC)
+#FIXEDLENGTH(21,0)
+[WORD0], go on ahead～<END>
+
+//待って～[LR][WORD0]、行かないで～<END>
+#JMP($7B500)
+#FIXEDLENGTH(28,0)
+Wait～[LR]
+[WORD0], don't[LR]
+go～<END>
+
+//見ないで～[LR]それは [WORD1]の…[LR]<END>
+#JMP($7B540)
+#FIXEDLENGTH(28,0)
+Don't look[LR]
+That's[LR]
+[WORD1]'s…[LR]<END>
+
+//[WORD1]の [WORD0]…<END>
+#JMP($7B566)
+#FIXEDLENGTH(15,0)
+[WORD1]'s [WORD0]…<END>
+
+//[WORD0]なんて 出来ないよ～<END>
+#JMP($7B591)
+#FIXEDLENGTH(24,0)
+I can't [WORD0]～<END>
+
+//ヤメてよ～[LR][WORD0]なんて ムリ～<END>
+#JMP($7B5C5)
+#FIXEDLENGTH(29,0)
+Stop it[LR]
+No way I can[LR]
+[WORD0]<END>
+
+//[WORD0] 取られちゃった…<END>
+#JMP($7B5FE)
+#FIXEDLENGTH(22,0)
+[WORD0] got taken…<END>
+
+//ヤダ～！[LR][WORD1]と [WORD0]するの～<END>
+#JMP($7B638)
+#FIXEDLENGTH(30,0)
+Nooo![LR]
+I'll [WORD0][LR]
+with [WORD1]<END>
+
+//[WORD0]～[LR][WORD1]～[LR]<END>
+#JMP($7B687)
+#FIXEDLENGTH(16,0)
+[WORD0]～[LR]
+[WORD1]～[LR]<END>
+
+//誰か 返事して～<END>
+#JMP($7B699)
+#FIXEDLENGTH(15,0)
+Someone answer<END>
+
+//呪いの [WORD0]…<END>
+#JMP($7B6C4)
+#FIXEDLENGTH(14,0)
+Cursed [WORD0]…<END>
+
+//許して～[LR]もう [WORD0]しないから～<END>
+#JMP($7B6F0)
+#FIXEDLENGTH(31,0)
+Forgive me[LR]
+I won't [WORD0][LR]
+again<END>
+
+//[WORD0]は もう 昔の [WORD0]じゃないの[NYA]？<END>
+#JMP($7B72B)
+#FIXEDLENGTH(38,0)
+[WORD0] isn't the [WORD0] of old [NYA]?<END>
+
+//[WORD1]は どうなっても イイから…[LR]<END>
+#JMP($7B788)
+#FIXEDLENGTH(32,0)
+Whatever[LR]
+happens to[LR]
+[WORD1]…[LR]<END>
+
+//[WORD0]の命だけは～<END>
+#JMP($7B7AA)
+#FIXEDLENGTH(17,0)
+just spare [WORD0]<END>
+
+//連邦の [WORD0]は バケモノ[NYA]…<END>
+#JMP($7B7D7)
+#FIXEDLENGTH(28,0)
+Fed's [WORD0] is a monster…<END>
+
+//ぐーぐー<END>
+#JMP($7B7FA)
+#FIXEDLENGTH(8,0)
+Zzz…<END>
+
+//Ｚｚ…[LR]Ｚｚ…<END>
+#JMP($7B809)
+#FIXEDLENGTH(13,0)
+Zz…[LR]
+Zz…<END>
+
+//すぴー<END>
+#JMP($7B81D)
+#FIXEDLENGTH(6,0)
+Snore<END>
+
+//うーん…[LR]むにゃむにゃ…<END>
+#JMP($7B82A)
+#FIXEDLENGTH(23,0)
+Mmm…[LR]
+mumble mumble…<END>
+
+//[WORD0]なの[NYA]…<END>
+#JMP($7B85D)
+#FIXEDLENGTH(14,0)
+It's [WORD0]…<END>
+
+//だって [WORD0][NYA]…<END>
+#JMP($7B887)
+#FIXEDLENGTH(17,0)
+'Cause [WORD0]…<END>
+
+//お空の[WORD0]…<END>
+#JMP($7B8B4)
+#FIXEDLENGTH(13,0)
+Sky [WORD0]…<END>
+
+//がんばれ [WORD0]…<END>
+#JMP($7B8DD)
+#FIXEDLENGTH(16,0)
+Go [WORD0]…<END>
+
+//[WORD0]、強い[NYA] …<END>
+#JMP($7B909)
+#FIXEDLENGTH(17,0)
+[WORD0], strong…<END>
+
+//[WORD0]じゃない[NYA] …<END>
+#JMP($7B936)
+#FIXEDLENGTH(19,0)
+Not [WORD0] [NYA]…<END>
+
+//[WORD0]、１００円…<END>
+#JMP($7B965)
+#FIXEDLENGTH(17,0)
+[WORD0], 100 yen…<END>
+
+//[WORD0]、山もり…<END>
+#JMP($7B992)
+#FIXEDLENGTH(15,0)
+[WORD0], heaps…<END>
+
+//[WORD0]、ありがと…<END>
+#JMP($7B9BD)
+#FIXEDLENGTH(17,0)
+[WORD0], thanks…<END>
+
+//[WORD0]、ドコ…？<END>
+#JMP($7B9EA)
+#FIXEDLENGTH(15,0)
+[WORD0], where…?<END>
+
+//[WORD0]、かゆい…<END>
+#JMP($7BA15)
+#FIXEDLENGTH(15,0)
+[WORD0], itchy…<END>
+
+//[WORD0]の [WORD1]が…<END>
+#JMP($7BA55)
+#FIXEDLENGTH(17,0)
+[WORD0]'s [WORD1]…<END>
+
+//もう [WORD0] 食べられない[NYA]…<END>
+#JMP($7BA82)
+#FIXEDLENGTH(28,0)
+Can't eat more [WORD0] [NYA]…<END>
+
+//[WORD0]が見てる…<END>
+#JMP($7BABA)
+#FIXEDLENGTH(15,0)
+[WORD0] watches…<END>
+
+//[WORD0]しちゃ ダメ！<END>
+#JMP($7BAE5)
+#FIXEDLENGTH(18,0)
+No [WORD0]!<END>
+
+//え？[LR][WORD0]、[VAR1]才…？<END>
+#JMP($7BB21)
+#FIXEDLENGTH(21,0)
+Huh?[LR]
+[WORD0], age[LR]
+[VAR1]?<END>
+
+//立った！[LR][WORD0]が 立った！<END>
+#JMP($7BB52)
+#FIXEDLENGTH(25,0)
+It stood![LR]
+[WORD0] stood!<END>
+
+//[WORD0] 見ちゃイヤ…<END>
+#JMP($7BB87)
+#FIXEDLENGTH(18,0)
+Don't see [WORD0]…<END>
+
+//[WORD0]が いっぱい…<END>
+#JMP($7BBB5)
+#FIXEDLENGTH(18,0)
+So much [WORD0]…<END>
+
+//[WORD0] なでなで…<END>
+#JMP($7BBE3)
+#FIXEDLENGTH(16,0)
+Pet [WORD0]…<END>
+
+//いい[NYA]～[LR]その [WORD0]…<END>
+#JMP($7BC0F)
+#FIXEDLENGTH(22,0)
+Nice～[LR]
+That [WORD0]…<END>
+
+//わー[LR][WORD0] すごーい！<END>
+#JMP($7BC41)
+#FIXEDLENGTH(21,0)
+Wow[LR]
+[WORD0],[LR]
+amazin'!<END>
+
+//[WORD0]、お帰りなさい…<END>
+#JMP($7BC85)
+#FIXEDLENGTH(21,0)
+[WORD0], welcome home…<END>
 
 //あのね…[LR][WORD1]ね…[LR]<END>
 #JMP($7BE15)
@@ -52013,75 +52726,723 @@ Unyaa～[LR]<END>
 Listen up[LR]
 please…[LR]<END>
 
+//人間に なる方法を[LR]探して 旅してる途中で…[LR]<END>
+#JMP($7BE33)
+#FIXEDLENGTH(42,0)
+On my journey[LR]
+to turn human…[LR]<END>
+
+//前にいたコに 会ったの[NYA]～<END>
+#JMP($7BE5F)
+#FIXEDLENGTH(26,0)
+I met the cat from before<END>
+
+//前にいたコ？<END>
+#JMP($7BE7F)
+#FIXEDLENGTH(12,0)
+From before?<END>
+
+//人間に なりたいなら…[LR]<END>
+#JMP($7BE96)
+#FIXEDLENGTH(22,0)
+To turn human…[LR]<END>
+
+//[WORD1]のトコへ 行くと イイよ！[LR]<END>
+#JMP($7BEB6)
+#FIXEDLENGTH(30,0)
+go to[LR]
+[WORD1]'s[LR]
+place![LR]<END>
+
+//って そのコに おそわったの[NYA]～[LR]<END>
+#JMP($7BEDF)
+#FIXEDLENGTH(32,0)
+that cat told me[LR]
+[NYA]～[LR]<END>
+
+//あ、そうそう…[LR]<END>
+#JMP($7BF5B)
+#FIXEDLENGTH(15,0)
+Oh, right…[LR]<END>
+
+//[WORD1]に 伝えて、 って…[LR]<END>
+#JMP($7BF7D)
+#FIXEDLENGTH(24,0)
+"Tell[LR]
+[WORD1]"…[LR]<END>
+
+//伝言が あるの[NYA]～<END>
+#JMP($7BF97)
+#FIXEDLENGTH(18,0)
+there's a message<END>
+
+//「[WORD1]の おかげで 元気です！」[LR]<END>
+#JMP($7BFD2)
+#FIXEDLENGTH(32,0)
+"I'm well, thanks[LR]
+to [WORD1]!"[LR]<END>
+
+//「今でも [WORD1]のコトが 大好き！」<END>
+#JMP($7C007)
+#FIXEDLENGTH(33,0)
+"I still love [WORD1]!"<END>
+
+//「[VAR1]のコト ぜったい 忘れないよ！」[LR]<END>
+#JMP($7C03D)
+#FIXEDLENGTH(36,0)
+"I'll never[LR]
+forget [VAR1]!"[LR]<END>
+
 //だって～[LR]<END>
 #JMP($7C074)
 #FIXEDLENGTH(9,0)
 'Cause～[LR]<END>
+
+//年に１回 ネコの 大集会が あるのニャ…[LR]<END>
+#JMP($7C0E1)
+#FIXEDLENGTH(38,0)
+There's a yearly[LR]
+cat meetin',[LR]
+nya…[LR]<END>
+
+//今年は [WORD2]で 開かれるんだって～<END>
+#JMP($7C109)
+#FIXEDLENGTH(33,0)
+This year it's at [WORD2]～<END>
+
+//へ～<END>
+#JMP($7C12C)
+#FIXEDLENGTH(4,0)
+Ohh<END>
+
+//[WORD3]からとか…[LR][WORD4]からとか…[LR]全国から ネコが 集まるのニャ～[LR]<END>
+#JMP($7C144)
+#FIXEDLENGTH(63,0)
+From [WORD3]…[LR]
+from [WORD4]…[LR]
+cats come from[LR]
+all over, nya～[LR]<END>
+
+//でね でね！[LR]<END>
+#JMP($7C18E)
+#FIXEDLENGTH(12,0)
+And, and![LR]<END>
+
+//むかし 人間に なったネコが いたんだって！[LR]<END>
+#JMP($7C19C)
+#FIXEDLENGTH(42,0)
+long ago a cat[LR]
+turned human![LR]<END>
+
+//そのネコを 知ってる子が 集会に 来るらしいのニャ！[LR]<END>
+#JMP($7C1CE)
+#FIXEDLENGTH(50,0)
+A cat who knew[LR]
+it is comin' to[LR]
+the meetin', nya![LR]<END>
+
+//きっと 人間に なる方法も なんか 知ってると 思うのニャ[LR]<END>
+#JMP($7C20B)
+#FIXEDLENGTH(54,0)
+Surely they[LR]
+know how to[LR]
+turn human, nya[LR]<END>
+
+//だから [WORD5]も その 大集会に 参加してくるニャ！<END>
+#JMP($7C251)
+#FIXEDLENGTH(47,0)
+So [WORD5] is goin' to that big meetin', nya!<END>
+
+//え？<END>
+#JMP($7C282)
+#FIXEDLENGTH(4,0)
+Huh?<END>
+
+//いつ？<END>
+#JMP($7C288)
+#FIXEDLENGTH(6,0)
+When?<END>
 
 //えっと…[LR]<END>
 #JMP($7C299)
 #FIXEDLENGTH(9,0)
 Um…[LR]<END>
 
+//[VAR0]月[VAR1]日に 出発すれば 間に合うと 思うニャ…[LR]<END>
+#JMP($7C2A4)
+#FIXEDLENGTH(46,0)
+If I leave[LR]
+[VAR0]/[VAR1],[LR]
+I'll make it, nya…[LR]<END>
+
 //あれ？[LR]<END>
 #JMP($7C2EA)
 #FIXEDLENGTH(7,0)
 Huh?[LR]<END>
+
+//もう [VAR0]月[VAR1]日だ[NYA]！[LR]<END>
+#JMP($7C2FC)
+#FIXEDLENGTH(23,0)
+It's already[LR]
+[VAR0]/[VAR1]![LR]<END>
+
+//あわわ～[LR]もう 出発しないと～[LR]<END>
+#JMP($7C31E)
+#FIXEDLENGTH(29,0)
+Awawa～[LR]
+Gotta leave[LR]
+now～[LR]<END>
+
+//だから [VAR1]日が 終わる前には…[LR]<END>
+#JMP($7C351)
+#FIXEDLENGTH(30,0)
+So before the[LR]
+[VAR1]th ends…[LR]<END>
+
+//ちゃんと おはなし しようね～[LR]<END>
+#JMP($7C371)
+#FIXEDLENGTH(29,0)
+let's talk[LR]
+properly～[LR]<END>
+
+//そろそろ 出発しないと 大集会に 間に合わないニャ…<END>
+#JMP($7C3B1)
+#FIXEDLENGTH(49,0)
+Gotta leave soon or I'll miss the meetin', nya…<END>
+
+//きっと なんか 手がかりを 見つけてくるニャ～[LR]<END>
+#JMP($7C3F5)
+#FIXEDLENGTH(44,0)
+I'll surely find[LR]
+some clue, nya～[LR]<END>
+
+//ひょっとしたら 次に会う時は…[LR]<END>
+#JMP($7C42C)
+#FIXEDLENGTH(30,0)
+Maybe next time[LR]
+we meet…[LR]<END>
+
+//もう 人間に なっちゃってるかも♥[LR]<END>
+#JMP($7C44C)
+#FIXEDLENGTH(33,0)
+I'll already be[LR]
+human♥[LR]<END>
+
+//どんな人間に なろうかニャ～[LR]<END>
+#JMP($7C480)
+#FIXEDLENGTH(28,0)
+What human[LR]
+should I be, nya[LR]<END>
+
+//できれば…[LR]<END>
+#JMP($7C49E)
+#FIXEDLENGTH(11,0)
+If I can…[LR]<END>
+
+//[WORD4]の 好きなタイプの 人間が いいニャ♥[LR]<END>
+#JMP($7C4B9)
+#FIXEDLENGTH(41,0)
+the kind of[LR]
+human [WORD4][LR]
+likes, nya♥[LR]<END>
+
+//例えば [WORD1]みたいな…<END>
+#JMP($7C50A)
+#FIXEDLENGTH(22,0)
+Like, say [WORD1]…<END>
+
+//でも 人間は…[LR]<END>
+#JMP($7C559)
+#FIXEDLENGTH(14,0)
+But humans…[LR]<END>
+
+//顔や [WORD1]じゃないしニャ…[LR]<END>
+#JMP($7C569)
+#FIXEDLENGTH(27,0)
+aren't face,[LR]
+[WORD1], nya…[LR]<END>
+
+//あまり わがまま[LR]言わないように[LR]しとこっと！[LR]<END>
+#JMP($7C586)
+#FIXEDLENGTH(44,0)
+I'll try[LR]
+not to be[LR]
+too greedy![LR]<END>
+
+//あ、つい うれしくて 話し込んじゃったニャ～[LR]<END>
+#JMP($7C5C5)
+#FIXEDLENGTH(43,0)
+Oh, I got so[LR]
+happy I talked[LR]
+on, nya～[LR]<END>
+
+//もう こんな時間ニャ！[LR]<END>
+#JMP($7C5F2)
+#FIXEDLENGTH(22,0)
+It's so late, nya![LR]<END>
+
+//じゃあ もう行くね！[LR]<END>
+#JMP($7C613)
+#FIXEDLENGTH(20,0)
+Well, I'm off![LR]<END>
+
+//今日まで…[LR]<END>
+#JMP($7C632)
+#FIXEDLENGTH(11,0)
+Till now…[LR]<END>
+
+//ありがとう [WORD4]…[LR]<END>
+#JMP($7C647)
+#FIXEDLENGTH(19,0)
+thank you,[LR]
+[WORD4]…[LR]<END>
 
 //あれれ？[LR]<END>
 #JMP($7C69A)
 #FIXEDLENGTH(9,0)
 Huh?[LR]<END>
 
+//やっと ユメが かなうにょに…[LR]<END>
+#JMP($7C6A5)
+#FIXEDLENGTH(29,0)
+My dream's[LR]
+comin' true…[LR]<END>
+
+//何で ナミダ 出てきちゃうんだろう…[LR]<END>
+#JMP($7C6C4)
+#FIXEDLENGTH(35,0)
+so why are[LR]
+tears comin'[LR]
+out…[LR]<END>
+
 //えへへ♥[LR]<END>
 #JMP($7C6F3)
 #FIXEDLENGTH(9,0)
 Ehehe♥[LR]<END>
+
+//しっかりしなくちゃ…[LR]<END>
+#JMP($7C6FE)
+#FIXEDLENGTH(21,0)
+Gotta be[LR]
+strong…[LR]<END>
+
+//[WORD4]も 元気でニャ！[LR]<END>
+#JMP($7C726)
+#FIXEDLENGTH(21,0)
+[WORD4], be[LR]
+well, nya![LR]<END>
+
+//また 会おうね！<END>
+#JMP($7C73D)
+#FIXEDLENGTH(15,0)
+See you again!<END>
+
+//えへへ…[LR]<END>
+#JMP($7C7BF)
+#FIXEDLENGTH(9,0)
+Hehe…[LR]<END>
+
+//ただいま[NYA]♥<END>
+#JMP($7C7CA)
+#FIXEDLENGTH(13,0)
+I'm home♥<END>
 
 //人間に なったら…[LR]<END>
 #JMP($7C7F5)
 #FIXEDLENGTH(18,0)
 When I'm human…[LR]<END>
 
+//ネコだった時のコト 全部 忘れちゃうんだって…[LR]<END>
+#JMP($7C809)
+#FIXEDLENGTH(45,0)
+I'd forget[LR]
+everything from[LR]
+bein' a cat…[LR]<END>
+
+//[WORD1]の顔も…[LR][WORD2]の [WORD0]も…[LR]全部全部[LR]忘れちゃうのニャ…<END>
+#JMP($7C84E)
+#FIXEDLENGTH(59,0)
+[WORD1]'s[LR]
+face…[LR]
+[WORD2]'s[LR]
+[WORD0]…[LR]
+all of it[LR]
+gone, nya…<END>
+
+//そんなの イヤニャ…[LR]<END>
+#JMP($7C89C)
+#FIXEDLENGTH(20,0)
+I hate that,[LR]
+nya…[LR]<END>
+
+//[WORD1]に 会えなくなるなら…[LR]<END>
+#JMP($7C8BA)
+#FIXEDLENGTH(27,0)
+If I lose[LR]
+[WORD1]…[LR]<END>
+
+//人間に なっても しょうがないのニャ…[LR]<END>
+#JMP($7C8DD)
+#FIXEDLENGTH(37,0)
+there's no point[LR]
+bein' human,[LR]
+nya…[LR]<END>
+
+//だから 戻って来ちゃった…[LR]<END>
+#JMP($7C910)
+#FIXEDLENGTH(26,0)
+So I came back…[LR]<END>
+
+//てへ♥<END>
+#JMP($7C92C)
+#FIXEDLENGTH(6,0)
+Tehe♥<END>
+
+//てへへ♥[LR]<END>
+#JMP($7C94D)
+#FIXEDLENGTH(9,0)
+Tehehe♥[LR]<END>
+
+//なんか 他の方法で 人間に なれないか…[LR]<END>
+#JMP($7C961)
+#FIXEDLENGTH(38,0)
+Maybe another[LR]
+way to be[LR]
+human…[LR]<END>
+
+//また がんばって 探すニャ…[LR]<END>
+#JMP($7C989)
+#FIXEDLENGTH(27,0)
+I'll look again,[LR]
+nya…[LR]<END>
+
+//そんなわけで…[LR]<END>
+#JMP($7C9B7)
+#FIXEDLENGTH(15,0)
+So anyway…[LR]<END>
+
+//また しばらく よろしくニャ～[LR]<END>
+#JMP($7C9D1)
+#FIXEDLENGTH(29,0)
+bear with me[LR]
+more, nya～[LR]<END>
+
+//人間に なれる チャンスは…[LR]<END>
+#JMP($7CA21)
+#FIXEDLENGTH(27,0)
+The chance to[LR]
+turn human…[LR]<END>
+
+//一生のうちに １回だけ なんだって…<END>
+#JMP($7CA3E)
+#FIXEDLENGTH(34,0)
+comes just once in a lifetime…<END>
+
+//ネコに よって そのチャンスが いつかは ちがうらしいケド…[LR]<END>
+#JMP($7CA73)
+#FIXEDLENGTH(57,0)
+When it comes[LR]
+differs by cat,[LR]
+but…[LR]<END>
+
 //[WORD2]は…[LR]<END>
 #JMP($7CAB6)
 #FIXEDLENGTH(10,0)
 [WORD2]…[LR]<END>
+
+//[VAR1]日 いっぱいが ギリギリなのニャ…[LR]<END>
+#JMP($7CAC2)
+#FIXEDLENGTH(36,0)
+the [VAR1]th is[LR]
+the limit, nya…[LR]<END>
 
 //どうしよう…[LR]<END>
 #JMP($7CAF1)
 #FIXEDLENGTH(13,0)
 What now…[LR]<END>
 
+//[VAR0]月[VAR1]日に なったら 出発しないと…[LR]<END>
+#JMP($7CB00)
+#FIXEDLENGTH(37,0)
+When it's[LR]
+[VAR0]/[VAR1] I[LR]
+gotta leave…[LR]<END>
+
+//このままじゃ 永遠に人間に なれなくなっちゃうニャ…[LR]<END>
+#JMP($7CB27)
+#FIXEDLENGTH(51,0)
+or I'll never be[LR]
+able to turn[LR]
+human, nya…[LR]<END>
+
+//どうしようか[NYA]～[LR]<END>
+#JMP($7CB6D)
+#FIXEDLENGTH(18,0)
+What should I do[LR]<END>
+
 //あれ？[LR]<END>
 #JMP($7CB97)
 #FIXEDLENGTH(7,0)
 Huh?[LR]<END>
+
+//もう [VAR0]月[VAR1]日だよね！[LR]<END>
+#JMP($7CBA9)
+#FIXEDLENGTH(24,0)
+It's[LR]
+[VAR0]/[VAR1][LR]
+now![LR]<END>
+
+//あわわ～[LR]もう 出発しないと～[LR]<END>
+#JMP($7CBCC)
+#FIXEDLENGTH(29,0)
+Awawa～[LR]
+Gotta leave[LR]
+now～[LR]<END>
+
+//もう 行かないと…[LR]<END>
+#JMP($7CC1A)
+#FIXEDLENGTH(18,0)
+I gotta go…[LR]<END>
+
+//これが 人間に なる[LR]最後のチャンス[LR]らしいニャ…[LR]<END>
+#JMP($7CC37)
+#FIXEDLENGTH(47,0)
+This is my[LR]
+last chance[LR]
+to turn human,[LR]
+nya…[LR]<END>
 
 //でも でも～[LR]<END>
 #JMP($7CC74)
 #FIXEDLENGTH(12,0)
 But, but～[LR]<END>
 
+//人間に なって[LR][WORD3]のコト[LR]忘れちゃうの[LR]ヤダ～[LR]<END>
+#JMP($7CC8A)
+#FIXEDLENGTH(46,0)
+Turnin' human[LR]
+and forgettin'[LR]
+[WORD3]…[LR]
+no way～[LR]<END>
+
 //でも でも…[LR]<END>
 #JMP($7CCCB)
 #FIXEDLENGTH(12,0)
 But, but…[LR]<END>
+
+//このまま 一生[LR]人間に なれないのも ヤダ…[LR]<END>
+#JMP($7CCD9)
+#FIXEDLENGTH(41,0)
+Never turnin'[LR]
+human, no way[LR]
+either…[LR]<END>
+
+//いっぱい[LR]考えたの…[LR]<END>
+#JMP($7CD0D)
+#FIXEDLENGTH(20,0)
+I thought[LR]
+so much…[LR]<END>
+
+//いっぱい[LR]悩んだの…[LR]<END>
+#JMP($7CD23)
+#FIXEDLENGTH(20,0)
+I worried[LR]
+so much…[LR]<END>
+
+//でね…[LR]決めたのニャ！[LR]<END>
+#JMP($7CD4A)
+#FIXEDLENGTH(22,0)
+And…[LR]
+I decided, nya![LR]<END>
+
+//やっぱ 人間に なる！<END>
+#JMP($7CD68)
+#FIXEDLENGTH(20,0)
+I'll turn human!<END>
+
+//がんばってくる～[LR]<END>
+#JMP($7CD9A)
+#FIXEDLENGTH(17,0)
+I'll do my best[LR]<END>
+
+//心配しないでね！[LR]<END>
+#JMP($7CDB6)
+#FIXEDLENGTH(17,0)
+Don't worry![LR]<END>
+
+//そんな顔しないで～[LR]<END>
+#JMP($7CDD6)
+#FIXEDLENGTH(19,0)
+Don't look so[LR]
+sad[LR]<END>
+
+//だいじょうぶニャ！[LR]<END>
+#JMP($7CDF4)
+#FIXEDLENGTH(19,0)
+It's okay, nya![LR]<END>
+
+//人間に なって[LR]ネコだった時のコト[LR]全部 忘れちゃったとしても…[LR]<END>
+#JMP($7CE12)
+#FIXEDLENGTH(61,0)
+Even if I turn[LR]
+human[LR]
+and forget all[LR]
+my cat days…[LR]<END>
+
+//もう１度[LR][WORD3]に会えば…[LR]<END>
+#JMP($7CE62)
+#FIXEDLENGTH(25,0)
+if I meet[LR]
+[WORD3] again…[LR]<END>
+
+//すぐに 思い出せる[NYA]！<END>
+#JMP($7CE7D)
+#FIXEDLENGTH(22,0)
+I'll remember quick!<END>
+
+//思い出せなかったとしても…[LR]<END>
+#JMP($7CEAE)
+#FIXEDLENGTH(27,0)
+Even if I can't[LR]
+remember…[LR]<END>
+
+//[WORD3]に 会えば[LR]もう１度[LR]トモダチに なれるニャ！[LR]<END>
+#JMP($7CED9)
+#FIXEDLENGTH(48,0)
+if I meet[LR]
+[WORD3][LR]
+again[LR]
+we can be[LR]
+friends, nya![LR]<END>
+
+//初めて [WORD3]に 会った時の ように…[LR]<END>
+#JMP($7CF1C)
+#FIXEDLENGTH(35,0)
+Like when I first[LR]
+met [WORD3]…[LR]<END>
+
+//もう１度[LR]運命の出会いから[LR]始めるの[NYA]♥[LR]<END>
+#JMP($7CF41)
+#FIXEDLENGTH(40,0)
+again[LR]
+from fate's[LR]
+meetin'[LR]
+we start♥[LR]<END>
+
+//会えるニャ！[LR]<END>
+#JMP($7CF75)
+#FIXEDLENGTH(13,0)
+We'll meet![LR]<END>
+
+//初めて [WORD3]に 会った時の ように…[LR]<END>
+#JMP($7CF8C)
+#FIXEDLENGTH(35,0)
+Like when I first[LR]
+met [WORD3]…[LR]<END>
+
+//もう１度[LR]運命の出会いから[LR]始めるの[NYA]♥[LR]<END>
+#JMP($7CFB1)
+#FIXEDLENGTH(40,0)
+again[LR]
+from fate's[LR]
+meetin'[LR]
+we start♥[LR]<END>
+
+//もし それで 思い出せなくても…[LR]<END>
+#JMP($7CFE4)
+#FIXEDLENGTH(31,0)
+Even if I can't[LR]
+remember…[LR]<END>
+
+//[WORD3]に 会えば[LR]絶対に トモダチに なれるニャ！[LR]<END>
+#JMP($7D00D)
+#FIXEDLENGTH(46,0)
+meetin'[LR]
+[WORD3][LR]
+we'll be friends[LR]
+for sure, nya![LR]<END>
 
 //うん…[LR]<END>
 #JMP($7D051)
 #FIXEDLENGTH(7,0)
 Yeah…[LR]<END>
 
+//また トモダチに[LR]なれるって[LR]信じてる…[LR]<END>
+#JMP($7D05D)
+#FIXEDLENGTH(38,0)
+We'll be[LR]
+friends again,[LR]
+I believe…[LR]<END>
+
+//何があったって[LR]それだけは[LR]信じてる…[LR]<END>
+#JMP($7D085)
+#FIXEDLENGTH(37,0)
+No matter what[LR]
+that much[LR]
+I believe…[LR]<END>
+
+//だって…[LR]ふたりの心は…[LR]<END>
+#JMP($7D0B5)
+#FIXEDLENGTH(24,0)
+'Cause…[LR]
+our hearts…[LR]<END>
+
+//どこでも いっしょ[LR]なんだもん♥[LR]<END>
+#JMP($7D0CF)
+#FIXEDLENGTH(31,0)
+are together[LR]
+anywhere♥[LR]<END>
+
 //だから…[LR]<END>
 #JMP($7D0F9)
 #FIXEDLENGTH(9,0)
 So…[LR]<END>
 
+//今度は 人間同士で 会おうね…[LR]<END>
+#JMP($7D104)
+#FIXEDLENGTH(29,0)
+Next, let's meet[LR]
+as humans…[LR]<END>
+
 //ふにゃ…[LR]<END>
 #JMP($7D12F)
 #FIXEDLENGTH(9,0)
 Funny…[LR]<END>
+
+//人間同士…[LR]<END>
+#JMP($7D13A)
+#FIXEDLENGTH(11,0)
+Humans…[LR]<END>
+
+//にんげん…[LR]<END>
+#JMP($7D150)
+#FIXEDLENGTH(11,0)
+humans…[LR]<END>
+
+//にん… げ…[LR]<END>
+#JMP($7D166)
+#FIXEDLENGTH(12,0)
+hu… ma…[LR]<END>
+
+//だ、だめ…[LR]<END>
+#JMP($7D17D)
+#FIXEDLENGTH(11,0)
+N-no…[LR]<END>
+
+//ナミダ 出ちゃうニャ…<END>
+#JMP($7D18A)
+#FIXEDLENGTH(21,0)
+Tears comin', nya…<END>
+
+//[WORD3]～！[LR]<END>
+#JMP($7D1B2)
+#FIXEDLENGTH(10,0)
+[WORD3]～![LR]<END>
+
+//[WORD3]～！[LR]<END>
+#JMP($7D1C6)
+#FIXEDLENGTH(10,0)
+[WORD3]～![LR]<END>
 
 //にゃ♥[LR]<END>
 #JMP($7D20D)
@@ -52098,25 +53459,148 @@ Ehehe♥[LR]<END>
 #FIXEDLENGTH(11,0)
 Hoiyah!?[LR]<END>
 
+//もー 最後まで イジワルなんだから…[LR]<END>
+#JMP($7D251)
+#FIXEDLENGTH(35,0)
+Geez, mean to[LR]
+the very end…[LR]<END>
+
+//[WORD3]の [WORD2]も これが最後だニャ…[LR]<END>
+#JMP($7D284)
+#FIXEDLENGTH(35,0)
+Last [WORD2][LR]
+from [WORD3],[LR]
+nya…[LR]<END>
+
+//この [WORD2]は 絶対に忘れない…[LR]<END>
+#JMP($7D2B2)
+#FIXEDLENGTH(30,0)
+I'll never forget[LR]
+this [WORD2][LR]<END>
+
+//ありがとニャ[LR]<END>
+#JMP($7D2D2)
+#FIXEDLENGTH(13,0)
+Thanks, nya[LR]<END>
+
 //あ、そうそう！[LR]<END>
 #JMP($7D2ED)
 #FIXEDLENGTH(15,0)
 Oh, right![LR]<END>
+
+//今度 会ったら 人間同士の トモダチじゃないかも～<END>
+#JMP($7D307)
+#FIXEDLENGTH(47,0)
+Next time we might not meet as human friends～<END>
+
+//だって♥[LR]<END>
+#JMP($7D349)
+#FIXEDLENGTH(9,0)
+'Cause♥[LR]<END>
+
+//ふたりは 恋人同士で 出会うかも しれないし♥[LR]<END>
+#JMP($7D354)
+#FIXEDLENGTH(44,0)
+we might meet[LR]
+as lovers♥[LR]<END>
 
 //じゃあ…[LR]<END>
 #JMP($7D3B6)
 #FIXEDLENGTH(9,0)
 Then…[LR]<END>
 
+//もう 行く[NYA]…<END>
+#JMP($7D3C1)
+#FIXEDLENGTH(14,0)
+I'm goin'…<END>
+
+//[WORD2]は 言わないの[NYA]！[LR]<END>
+#JMP($7D3E7)
+#FIXEDLENGTH(24,0)
+No [WORD2][LR]
+[NYA]![LR]<END>
+
+//もっと 言いたい ステキな コトバ…[LR]<END>
+#JMP($7D401)
+#FIXEDLENGTH(34,0)
+More lovely[LR]
+words I wanna[LR]
+say…[LR]<END>
+
+//[WORD3]、ありがとう[NYA]～！[LR]<END>
+#JMP($7D436)
+#FIXEDLENGTH(25,0)
+[WORD3], thank[LR]
+you [NYA]～![LR]<END>
+
+//[WORD2]、 [WORD1]に [VAR0]るの[NYA]～[LR]<END>
+#JMP($7D53F)
+#FIXEDLENGTH(29,0)
+[WORD2][LR]
+[VAR0]s[LR]
+[WORD1] [NYA]～[LR]<END>
+
+//聞いて！[LR]聞いて！[LR]<END>
+#JMP($7D65C)
+#FIXEDLENGTH(18,0)
+Listen![LR]
+Listen![LR]<END>
+
+//[WORD0]の ものスゴ～イ ヒミツを 聞いちゃった[NYA]！[LR]<END>
+#JMP($7D670)
+#FIXEDLENGTH(48,0)
+I heard a super[LR]
+huge secret[LR]
+about [WORD0][LR]
+[NYA]![LR]<END>
+
+//あのね～[LR]<END>
+#JMP($7D6B3)
+#FIXEDLENGTH(9,0)
+So～[LR]<END>
+
+//[WORD0]が 言ってたんだけどね～[LR]<END>
+#JMP($7D6BE)
+#FIXEDLENGTH(29,0)
+[WORD0] said～[LR]<END>
+
+//ホントは ヒミツなんだけど…[LR]<END>
+#JMP($7D6E6)
+#FIXEDLENGTH(28,0)
+It's really a[LR]
+secret, but…[LR]<END>
+
 //あのね、あのね！[LR]<END>
 #JMP($7D715)
 #FIXEDLENGTH(17,0)
 Hey, guess what![LR]<END>
 
+//[WORD0]の ヒミツを 聞いたの[NYA]！[LR]<END>
+#JMP($7D728)
+#FIXEDLENGTH(31,0)
+I heard[LR]
+[WORD0]'s[LR]
+secret [NYA]![LR]<END>
+
 //[WORD0]の？<END>
 #JMP($7D751)
 #FIXEDLENGTH(9,0)
 [WORD0]'s?<END>
+
+//キャー♥ キャー♥[LR]<END>
+#JMP($7D76C)
+#FIXEDLENGTH(18,0)
+Kyaa♥ Kyaa♥[LR]<END>
+
+//しゃべっちゃった！[LR]<END>
+#JMP($7D780)
+#FIXEDLENGTH(19,0)
+I spilled it![LR]<END>
+
+//ニャー♥ ニャー♥[LR]<END>
+#JMP($7D79E)
+#FIXEDLENGTH(18,0)
+Nyaa♥ Nyaa♥[LR]<END>
 
 //うにゃ～[LR]<END>
 #JMP($7D7D0)
@@ -52711,10 +54195,20 @@ Never mind<END>
 #FIXEDLENGTH(8,0)
 Nope<END>
 
+//え？<END>
+#JMP($99A64)
+#FIXEDLENGTH(4,0)
+Huh?<END>
+
 //ニキビ？<END>
 #JMP($9A1C5)
 #FIXEDLENGTH(8,0)
 Pimple?<END>
+
+//へ～<END>
+#JMP($9A2E1)
+#FIXEDLENGTH(4,0)
+Ohh<END>
 
 //へぇ～<END>
 #JMP($9D8AB)
