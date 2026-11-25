@@ -59971,6 +59971,182 @@ Next time～[LR]<END>
 #FIXEDLENGTH(14,0)
 Words still…[LR]<END>
 
+//あんまり 覚えてないから しりとり できないの[NYA]…[LR]<END>
+#JMP($8ABE3)
+#FIXEDLENGTH(49,0)
+I don't know[LR]
+many words, so[LR]
+no shiritori[LR]
+[NYA]…[LR]<END>
+
+//あと [VAR0]個ぐらい 覚えたら できる自信が ある[NYA]！[LR]<END>
+#JMP($8AC1F)
+#FIXEDLENGTH(49,0)
+Learn about[LR]
+[VAR0] more and[LR]
+I'm sure I can[LR]
+[NYA]![LR]<END>
+
+//しりとり パワーを…[LR]<END>
+#JMP($8AC61)
+#FIXEDLENGTH(20,0)
+Shiritori power…[LR]<END>
+
+//[VAR0] ゲットしたけど～[LR]<END>
+#JMP($8AC77)
+#FIXEDLENGTH(21,0)
+got [VAR0], but～[LR]<END>
+
+//しりとり パワーは…[LR]<END>
+#JMP($8AC97)
+#FIXEDLENGTH(20,0)
+Shiritori power…[LR]<END>
+
+//もう あがらないの[NYA]～[LR]<END>
+#JMP($8ACAD)
+#FIXEDLENGTH(23,0)
+won't go up[LR]
+more [NYA]～[LR]<END>
+
+//[WORD1] レベルの ままなの[NYA]！[LR]<END>
+#JMP($8ACCF)
+#FIXEDLENGTH(29,0)
+Still [WORD1][LR]
+level [NYA]![LR]<END>
+
+//しりとり パワーが…[LR]<END>
+#JMP($8ACFA)
+#FIXEDLENGTH(20,0)
+Shiritori power…[LR]<END>
+
+//[VAR0] あがって…[LR]合計 [VAR1]に なったの[NYA]！[LR]<END>
+#JMP($8AD10)
+#FIXEDLENGTH(40,0)
+went up [VAR0]…[LR]
+total [VAR1] now[LR]
+[NYA]![LR]<END>
+
+//これで しりとり レベルが 上がって…[LR]<END>
+#JMP($8AD43)
+#FIXEDLENGTH(36,0)
+Now my shiritori[LR]
+level's up…[LR]<END>
+
+//[VAR0] レベルに なったの[NYA]！[LR]<END>
+#JMP($8AD84)
+#FIXEDLENGTH(27,0)
+to [VAR0] level[LR]
+[NYA]![LR]<END>
+
+//[VAR0] レベルに なったの[NYA]！[LR]<END>
+#JMP($8ADAE)
+#FIXEDLENGTH(27,0)
+to [VAR0] level[LR]
+[NYA]![LR]<END>
+
+//次の レベルアップまで…[LR]<END>
+#JMP($8ADD4)
+#FIXEDLENGTH(24,0)
+Till the next[LR]
+level…[LR]<END>
+
+//あと [VAR0]だ[NYA]～[LR]<END>
+#JMP($8ADEE)
+#FIXEDLENGTH(16,0)
+[VAR0] to go[LR]
+[NYA]～[LR]<END>
+
+//今の しりとりレベルは～[LR]<END>
+#JMP($8AE09)
+#FIXEDLENGTH(24,0)
+My shiritori[LR]
+level now[LR]<END>
+
+//[WORD0] レベルなの[NYA]！[LR]<END>
+#JMP($8AE29)
+#FIXEDLENGTH(22,0)
+is [WORD0][LR]
+level [NYA]![LR]<END>
+
+//し～♪[LR]<END>
+#JMP($8AE62)
+#FIXEDLENGTH(7,0)
+Shi～[LR]<END>
+
+//しあわせは [WORD0]に あるよ～[LR]<END>
+#JMP($8AE6B)
+#FIXEDLENGTH(28,0)
+Shinin' joy is at[LR]
+[WORD0]～[LR]<END>
+
+//り～♪[LR]<END>
+#JMP($8AEA1)
+#FIXEDLENGTH(7,0)
+Ri～♪[LR]<END>
+
+//理解しあおう [WORD1]達と～[LR]<END>
+#JMP($8AEAA)
+#FIXEDLENGTH(25,0)
+Reach out to[LR]
+[WORD1] folks[LR]<END>
+
+//と～♪[LR]<END>
+#JMP($8AEDD)
+#FIXEDLENGTH(7,0)
+To～♪[LR]<END>
+
+//ともだちだよ、[WORD2]も～[LR]<END>
+#JMP($8AEE6)
+#FIXEDLENGTH(24,0)
+Together,[LR]
+[WORD2] too～[LR]<END>
+
+//り～♪[LR]<END>
+#JMP($8AF18)
+#FIXEDLENGTH(7,0)
+Ri～♪[LR]<END>
+
+//理解しあえば、ほら いっしょに [WORD3]できる～[LR]<END>
+#JMP($8AF21)
+#FIXEDLENGTH(44,0)
+Understand[LR]
+each other, and[LR]
+we can[LR]
+[WORD3]～[LR]<END>
+
+//さぁ！[LR]みんなで なかよく[LR]しりとり[NYA]♪[LR]<END>
+#JMP($8AF58)
+#FIXEDLENGTH(39,0)
+Come on![LR]
+All friends[LR]
+shiritori [NYA]♪[LR]<END>
+
+//パンパカパーン♪[LR]<END>
+#JMP($8AFA5)
+#FIXEDLENGTH(17,0)
+Ta-da-da-daa♪[LR]<END>
+
+//パンパカパーン♪[LR]<END>
+#JMP($8AFCB)
+#FIXEDLENGTH(17,0)
+Ta-da-da-daa♪[LR]<END>
+
+//しりとりパワーも[LR]これで いっぱいなの[NYA]！[LR]<END>
+#JMP($8AFE7)
+#FIXEDLENGTH(42,0)
+Shiritori power[LR]
+is full now [NYA]![LR]<END>
+
+//お祝いに…[LR]<END>
+#JMP($8B01C)
+#FIXEDLENGTH(11,0)
+Yay!…[LR]<END>
+
+//しりとりの歌を 歌います[NYA]！<END>
+#JMP($8B029)
+#FIXEDLENGTH(28,0)
+I'll sing the shiritori song<END>
+
 //どうもなの[NYA]～[LR]<END>
 #JMP($8B05C)
 #FIXEDLENGTH(16,0)
@@ -59981,10 +60157,1042 @@ Thanks [NYA]～[LR]<END>
 #FIXEDLENGTH(5,0)
 Ah! [LR]<END>
 
+//しりとりレベルが[LR]あがった記念に～[LR]<END>
+#JMP($8B095)
+#FIXEDLENGTH(34,0)
+For my shiritori[LR]
+level up～[LR]<END>
+
+//記念品 もらっちゃった！[LR]<END>
+#JMP($8B0BF)
+#FIXEDLENGTH(24,0)
+I got a souvenir![LR]<END>
+
+//[WORD1]さん<END>
+#JMP($8B30F)
+#FIXEDLENGTH(9,0)
+[WORD1]-san<END>
+
+//さいしょは～[LR]<END>
+#JMP($8B82D)
+#FIXEDLENGTH(13,0)
+First up～[LR]<END>
+
+//どっちが イイ？<END>
+#JMP($8B979)
+#FIXEDLENGTH(15,0)
+Which one?<END>
+
+//[WORD5]って人<END>
+#JMP($8BB1D)
+#FIXEDLENGTH(11,0)
+[WORD5]<END>
+
+//また会ったよね<END>
+#JMP($8BC16)
+#FIXEDLENGTH(14,0)
+We met again<END>
+
+//会ったの[WORD6]回目だね<END>
+#JMP($8BC31)
+#FIXEDLENGTH(21,0)
+Meetin' #[WORD6]!<END>
+
+//しりとり 終了～！[LR]<END>
+#JMP($8BD22)
+#FIXEDLENGTH(18,0)
+Shiritori over～![LR]<END>
+
+//おひるね<END>
+#JMP($8E884)
+#FIXEDLENGTH(8,0)
+Nap<END>
+
 //$_WORDの豪邸の 大理石風呂に付いてたライオン<END>
 #JMP($93624)
 #FIXEDLENGTH(43,0)
 A sacred marble fountain from $_WORD's home<END>
+
+// AI-UNSURE: $_WORD dropped: no room for "$_WORD umbrella"
+//$_WORDの傘<END>
+#JMP($93B76)
+#FIXEDLENGTH(10,0)
+Umbrella<END>
+
+//街のセレブも愛用している $_WORDの晴雨兼用傘<END>
+#JMP($93B81)
+#FIXEDLENGTH(43,0)
+$_WORD sun/rain umbrella, loved by celebs<END>
+
+//$_WORDの 人体模型<END>
+#JMP($93BAD)
+#FIXEDLENGTH(17,0)
+$_WORD body doll<END>
+
+//$_WORDの通っていた学校にもある 人体模型<END>
+#JMP($93BBF)
+#FIXEDLENGTH(39,0)
+Anatomy model like at $_WORD's school<END>
+
+//$_WORDの 学生カバン<END>
+#JMP($93BE7)
+#FIXEDLENGTH(19,0)
+$_WORD school bag<END>
+
+//$_WORDの 使用済み学生カバン<END>
+#JMP($93BFB)
+#FIXEDLENGTH(27,0)
+A used $_WORD school bag<END>
+
+//$_WORDの ランドセル<END>
+#JMP($93C17)
+#FIXEDLENGTH(19,0)
+$_WORD randoseru<END>
+
+//$_WORDの 使用済みランドセル<END>
+#JMP($93C2B)
+#FIXEDLENGTH(27,0)
+A used $_WORD randoseru<END>
+
+//$_WORDの イーゼル<END>
+#JMP($93C47)
+#FIXEDLENGTH(17,0)
+$_WORD easel<END>
+
+//$_WORDの 使用済みイーゼル<END>
+#JMP($93C59)
+#FIXEDLENGTH(25,0)
+A used $_WORD easel<END>
+
+//$_WORDの メトロノーム<END>
+#JMP($93C73)
+#FIXEDLENGTH(21,0)
+$_WORD metronome<END>
+
+//$_WORDの 使用済みメトロノーム<END>
+#JMP($93C89)
+#FIXEDLENGTH(29,0)
+A used $_WORD metronome<END>
+
+//ベートーベン<END>
+#JMP($93CA7)
+#FIXEDLENGTH(12,0)
+Beethoven<END>
+
+//$_WORDの通っていた学校にもある ベートーベンの石膏像<END>
+#JMP($93CB4)
+#FIXEDLENGTH(51,0)
+A Beethoven plaster bust like in $_WORD's school<END>
+
+//$_WORDのサッカーボール<END>
+#JMP($93CE8)
+#FIXEDLENGTH(22,0)
+$_WORD soccer ball<END>
+
+//$_WORDの 使用済みサッカーボール<END>
+#JMP($93CFF)
+#FIXEDLENGTH(31,0)
+A used $_WORD soccer ball<END>
+
+//$_WORDのバスケボール<END>
+#JMP($93D1F)
+#FIXEDLENGTH(20,0)
+$_WORD basketball<END>
+
+//$_WORDの 使用済みバスケットボール<END>
+#JMP($93D34)
+#FIXEDLENGTH(33,0)
+A used $_WORD basketball<END>
+
+//$_WORDのバレーボール<END>
+#JMP($93D56)
+#FIXEDLENGTH(20,0)
+$_WORD volleyball<END>
+
+//$_WORDの 使用済みバレーボール<END>
+#JMP($93D6B)
+#FIXEDLENGTH(29,0)
+A used $_WORD volleyball<END>
+
+//$_WORDのトーテムポール<END>
+#JMP($93D89)
+#FIXEDLENGTH(22,0)
+$_WORD totem pole<END>
+
+//$_WORDの通っていた学校にもある トーテムポール<END>
+#JMP($93DA0)
+#FIXEDLENGTH(45,0)
+A totem pole like in $_WORD's old school<END>
+
+//$_WORDの 時計<END>
+#JMP($93DCE)
+#FIXEDLENGTH(13,0)
+$_WORD clock<END>
+
+//$_WORDの通っていた学校にもある 時計<END>
+#JMP($93DDC)
+#FIXEDLENGTH(35,0)
+A clock like in $_WORD's old school<END>
+
+//アンモナイトの化石<END>
+#JMP($93E41)
+#FIXEDLENGTH(18,0)
+Ammonite fossil<END>
+
+//$_WORDも昔は海だったコトを物語る アンモナイトの化石<END>
+#JMP($93E54)
+#FIXEDLENGTH(51,0)
+An ammonite fossil: $_WORD was once sea<END>
+
+//どこでも いいから 地名<END>
+#JMP($93E88)
+#FIXEDLENGTH(22,0)
+Any place name<END>
+
+//三葉虫の化石<END>
+#JMP($93E9F)
+#FIXEDLENGTH(12,0)
+Trilobite<END>
+
+//$_WORDも昔は海だったコトを物語る 三葉虫の化石<END>
+#JMP($93EAC)
+#FIXEDLENGTH(45,0)
+A trilobite fossil: $_WORD was once sea<END>
+
+//「泪橋」と書かれた橋の柱部分<END>
+#JMP($93EDA)
+#FIXEDLENGTH(28,0)
+"Namidabashi" bridge post<END>
+
+//多分、近所には $_WORD拳闘クラブがある<END>
+#JMP($93EF7)
+#FIXEDLENGTH(37,0)
+Likely a $_WORD boxing gym nearby<END>
+
+//ボクシングのグローブ<END>
+#JMP($93F1D)
+#FIXEDLENGTH(20,0)
+Boxing gloves<END>
+
+//$_WORDの血と汗が染み込んだ 使用済みグローブ<END>
+#JMP($93F32)
+#FIXEDLENGTH(43,0)
+Gloves soaked in $_WORD's blood & sweat<END>
+
+//だれか ひとり 好きな 男の有名人<END>
+#JMP($93F5E)
+#FIXEDLENGTH(31,0)
+One famous man you like<END>
+
+//$_WORDの UFO<END>
+#JMP($93F7E)
+#FIXEDLENGTH(12,0)
+$_WORD UFO<END>
+
+//$_WORD付近でよく目撃されるモノを かたどった おもちゃ<END>
+#JMP($93F8B)
+#FIXEDLENGTH(52,0)
+A toy shaped like the thing often seen near $_WORD<END>
+
+//飛行機<END>
+#JMP($93FC0)
+#FIXEDLENGTH(6,0)
+Plane<END>
+
+//$_WORDが お祭りの射的場でゲットした おもちゃ<END>
+#JMP($93FC7)
+#FIXEDLENGTH(44,0)
+A toy $_WORD won at a festival shooting game<END>
+
+//飛行船<END>
+#JMP($93FF4)
+#FIXEDLENGTH(6,0)
+Blimp<END>
+
+//赤い風船<END>
+#JMP($93FFB)
+#FIXEDLENGTH(8,0)
+Balloon<END>
+
+//見知らぬ$_WORDからの メッセージつき風船<END>
+#JMP($94004)
+#FIXEDLENGTH(39,0)
+Balloon w/ note from a stranger $_WORD<END>
+
+//なんでも いいから 人をあらわすコトバ<END>
+#JMP($9402C)
+#FIXEDLENGTH(36,0)
+Any word that describes a person<END>
+
+//白いギター<END>
+#JMP($94051)
+#FIXEDLENGTH(10,0)
+Guitar<END>
+
+//$_WORDの 憧れのマドンナが 窓辺で弾いていたギター<END>
+#JMP($9405C)
+#FIXEDLENGTH(48,0)
+Guitar $_WORD's dream girl played by a window<END>
+
+//$_WORDの 壁紙<END>
+#JMP($9408D)
+#FIXEDLENGTH(13,0)
+$_WORD wall<END>
+
+//映画「$_WORD」の 子ども部屋のセットに使用された 壁紙<END>
+#JMP($9409B)
+#FIXEDLENGTH(52,0)
+Wallpaper from kid's room set of film "$_WORD"<END>
+
+//なんか 映画のタイトル<END>
+#JMP($940D0)
+#FIXEDLENGTH(21,0)
+Some movie title<END>
+
+//なんかのメカ<END>
+#JMP($940E6)
+#FIXEDLENGTH(12,0)
+Some mecha<END>
+
+//これを装着した $_WORDは、変形合体が可能になる<END>
+#JMP($940F3)
+#FIXEDLENGTH(45,0)
+With this, $_WORD can transform & combine<END>
+
+//なんか 乗り物<END>
+#JMP($94121)
+#FIXEDLENGTH(13,0)
+Some vehicle<END>
+
+//潜水用ヘルメット<END>
+#JMP($9412F)
+#FIXEDLENGTH(16,0)
+Diving helmet<END>
+
+//ハワイやグァムの海で、$_WORDする時にも使われている<END>
+#JMP($94140)
+#FIXEDLENGTH(50,0)
+Also used to $_WORD in the seas of Hawaii or Guam<END>
+
+//なんか するコトとか されるコト<END>
+#JMP($94173)
+#FIXEDLENGTH(30,0)
+Somethin' you do or get done<END>
+
+//壁に掛かってる工具セット<END>
+#JMP($94192)
+#FIXEDLENGTH(24,0)
+Wall-hung tool set<END>
+
+//日曜大工に興味がある $_WORDお気に入りの工具セット<END>
+#JMP($941AB)
+#FIXEDLENGTH(49,0)
+Fave tool set of DIY fan $_WORD<END>
+
+//一見ガラクタの なんかのパーツ<END>
+#JMP($941DD)
+#FIXEDLENGTH(29,0)
+Some junk-lookin' part<END>
+
+//$_WORDの性能が飛躍的にアップする スゴイ一品<END>
+#JMP($941FB)
+#FIXEDLENGTH(43,0)
+A great item that boosts $_WORD's power<END>
+
+//乗り物とか ロボット<END>
+#JMP($94227)
+#FIXEDLENGTH(19,0)
+Vehicle or robot<END>
+
+//重たい工具箱<END>
+#JMP($9423B)
+#FIXEDLENGTH(12,0)
+Toolbox<END>
+
+//$_WORDの改造に欠かせないモノが ギッシリ詰まっている<END>
+#JMP($94248)
+#FIXEDLENGTH(51,0)
+Packed with must-haves for modding $_WORD<END>
+
+//一見ガラクタの なんかのエンジン<END>
+#JMP($9427C)
+#FIXEDLENGTH(31,0)
+Some junk-lookin' engine<END>
+
+//$_WORDのスピードが通常の３倍になる素晴らしい一品<END>
+#JMP($9429C)
+#FIXEDLENGTH(48,0)
+A superb item that makes $_WORD 3x faster<END>
+
+//ちょっとスゴイ かかし<END>
+#JMP($942CD)
+#FIXEDLENGTH(21,0)
+Kinda great scarecrow<END>
+
+//$_WORDと共に エメラルドの都に行ったという かかし<END>
+#JMP($942E3)
+#FIXEDLENGTH(48,0)
+Scarecrow who went to Emerald City w/ $_WORD<END>
+
+//だれか ひとり 女の有名人<END>
+#JMP($94314)
+#FIXEDLENGTH(24,0)
+One famous woman<END>
+
+//カラスよけの目玉みたいなヤツ<END>
+#JMP($9432D)
+#FIXEDLENGTH(28,0)
+Crow-scarin' eyeball thingy<END>
+
+//$_WORDの駆除にも効果があるという 優れた一品<END>
+#JMP($9434A)
+#FIXEDLENGTH(43,0)
+A fine item that also repels $_WORD<END>
+
+//なんか 動物<END>
+#JMP($94376)
+#FIXEDLENGTH(11,0)
+Some animal<END>
+
+//$_WORDの 金印<END>
+#JMP($94382)
+#FIXEDLENGTH(13,0)
+$_WORD seal<END>
+
+//$_WORDの畑から出土した「親魏倭王」と書かれた 金印<END>
+#JMP($94390)
+#FIXEDLENGTH(49,0)
+A "King of Na" gold seal dug up in $_WORD's field<END>
+
+//大判小判の入った壷<END>
+#JMP($943C2)
+#FIXEDLENGTH(18,0)
+Pot of gold coins<END>
+
+//$_WORDの飼犬が そのありかを教えてくれたという お宝<END>
+#JMP($943D5)
+#FIXEDLENGTH(50,0)
+A treasure $_WORD's pet dog sniffed out<END>
+
+//縄文土器<END>
+#JMP($94408)
+#FIXEDLENGTH(8,0)
+Jomonpot<END>
+
+//$_WORDが ゴッドハンドで掘り当てたという 縄文土器<END>
+#JMP($94411)
+#FIXEDLENGTH(48,0)
+Jomon pottery $_WORD dug up with god-like hands<END>
+
+//$_WORD愛用のクワ<END>
+#JMP($94442)
+#FIXEDLENGTH(16,0)
+$_WORD's hoe<END>
+
+//最近、長野で自給自足生活をしている $_WORDも愛用<END>
+#JMP($94453)
+#FIXEDLENGTH(47,0)
+Loved by $_WORD, now livin' off-grid in Nagano<END>
+
+//$_WORDの 掛け軸<END>
+#JMP($94483)
+#FIXEDLENGTH(15,0)
+$_WORD scroll<END>
+
+//$_WORDが描いたという 大変貴重な お値打ちの一品<END>
+#JMP($94493)
+#FIXEDLENGTH(46,0)
+A precious, pricey piece painted by $_WORD<END>
+
+//$_WORDが 初めて二科展で入賞した時の作品<END>
+#JMP($944C2)
+#FIXEDLENGTH(39,0)
+$_WORD's first prize work at Nika<END>
+
+//描かれている$_WORDが 夜な夜な動き出す ふしぎな掛け軸<END>
+#JMP($944EA)
+#FIXEDLENGTH(52,0)
+A strange scroll; its $_WORD moves at night<END>
+
+//なにか 買いたいモノ<END>
+#JMP($9451F)
+#FIXEDLENGTH(19,0)
+Thing you wanna buy<END>
+
+//$_WORDの せんす<END>
+#JMP($94533)
+#FIXEDLENGTH(15,0)
+$_WORD fan<END>
+
+//日舞の家元が $_WORDする時に使用する 高級せんす<END>
+#JMP($94543)
+#FIXEDLENGTH(46,0)
+A fancy fan a dance master uses to $_WORD<END>
+
+//$_WORDの 壷<END>
+#JMP($94572)
+#FIXEDLENGTH(11,0)
+$_WORD pot<END>
+
+//くしゃみをすると、中から$_WORDが飛び出してくるという壷<END>
+#JMP($9457E)
+#FIXEDLENGTH(54,0)
+Sneeze, and $_WORD pops out of it<END>
+
+//$_WORDの 日本刀<END>
+#JMP($945B5)
+#FIXEDLENGTH(15,0)
+$_WORD katana<END>
+
+//江戸時代、$_WORDを千人ぐらい斬ったという 恐ろしい刀<END>
+#JMP($945C5)
+#FIXEDLENGTH(51,0)
+A fearsome sword said to've cut 1,000 $_WORD in Edo<END>
+
+//$_WORDを描いた絵画<END>
+#JMP($945F9)
+#FIXEDLENGTH(18,0)
+$_WORD paintin'<END>
+
+//今まさに敵国に攻め込まんとする $_WORDの姿を描いた絵画<END>
+#JMP($9460C)
+#FIXEDLENGTH(53,0)
+A paintin' of $_WORD about to invade an enemy land<END>
+
+//$_WORDの燭台<END>
+#JMP($94642)
+#FIXEDLENGTH(12,0)
+$_WORD lamp<END>
+
+//$_WORDがバスティーユ牢獄で見つけてきた燭台<END>
+#JMP($9464F)
+#FIXEDLENGTH(42,0)
+A candlestick $_WORD found in the Bastille<END>
+
+//$_WORD作 花器<END>
+#JMP($9467A)
+#FIXEDLENGTH(13,0)
+$_WORD vase<END>
+
+//$_WORDが作った ちょっとアーティスティックな一品<END>
+#JMP($94688)
+#FIXEDLENGTH(47,0)
+A slightly artsy piece made by $_WORD<END>
+
+//$_WORDが作った ちょっとモダンな一品<END>
+#JMP($946B8)
+#FIXEDLENGTH(35,0)
+A slightly modern piece by $_WORD<END>
+
+//$_WORDのシカの首<END>
+#JMP($946DC)
+#FIXEDLENGTH(16,0)
+$_WORD deer head<END>
+
+//かつて $_WORDの豪邸に飾られていたという シカの首<END>
+#JMP($946ED)
+#FIXEDLENGTH(48,0)
+A deer head once hung in $_WORD's mansion<END>
+
+//だれか ひとり ゴージャスな感じがする 有名人<END>
+#JMP($9471E)
+#FIXEDLENGTH(43,0)
+One famous person who feels gorgeous<END>
+
+//$_WORDの高級じゅうたん<END>
+#JMP($9474A)
+#FIXEDLENGTH(22,0)
+$_WORD luxury rug<END>
+
+//$_WORDの職人が 丹精込めて織り上げた 高級じゅうたん<END>
+#JMP($94761)
+#FIXEDLENGTH(50,0)
+A fine rug woven with care by a $_WORD artisan<END>
+
+//$_WORD皮のじゅうたん<END>
+#JMP($94794)
+#FIXEDLENGTH(20,0)
+$_WORD-skin rug<END>
+
+//スマトラ島の希少動物 $_WORDの皮で作られた貴重な一品<END>
+#JMP($947A9)
+#FIXEDLENGTH(51,0)
+Precious piece from skin of rare Sumatran $_WORD<END>
+
+//$_WORDのパチンコ台<END>
+#JMP($947DD)
+#FIXEDLENGTH(18,0)
+$_WORD pachinko<END>
+
+//$_WORDのパチンコ屋さんで不要になった台<END>
+#JMP($947F0)
+#FIXEDLENGTH(38,0)
+Machine retired by $_WORD pachinko<END>
+
+//$_WORDからの祝花<END>
+#JMP($94817)
+#FIXEDLENGTH(16,0)
+$_WORD flowers<END>
+
+//$_WORDが なじみのパチンコ屋さんに贈った祝花<END>
+#JMP($94828)
+#FIXEDLENGTH(43,0)
+Flowers $_WORD sent to a fave pachinko spot<END>
+
+//$_WORDの のぼり<END>
+#JMP($94854)
+#FIXEDLENGTH(15,0)
+$_WORD banner<END>
+
+//さりげなく $_WORDが描かれている のぼり<END>
+#JMP($94864)
+#FIXEDLENGTH(38,0)
+A banner with $_WORD drawn subtly<END>
+
+//ニセモノっぽい $_WORDが描かれてる気がする のぼり<END>
+#JMP($9488B)
+#FIXEDLENGTH(48,0)
+A banner with a fake-lookin' $_WORD, maybe<END>
+
+//$_WORDのお色気ポスター<END>
+#JMP($948BC)
+#FIXEDLENGTH(22,0)
+$_WORD pin-up poster<END>
+
+//なんか $_WORDっぽい気がしなくもない お色気ポスター<END>
+#JMP($948D3)
+#FIXEDLENGTH(50,0)
+A pin-up that kinda maybe looks like $_WORD<END>
+
+//ファーストフード店の人形<END>
+#JMP($94906)
+#FIXEDLENGTH(24,0)
+Fast-food mascot doll<END>
+
+//$_WORDが酔っぱらった時 間違えて連れてきちゃったヤツ<END>
+#JMP($9491F)
+#FIXEDLENGTH(51,0)
+The thing $_WORD brought home drunk by mistake<END>
+
+//ファーストフード店ののぼり<END>
+#JMP($94953)
+#FIXEDLENGTH(26,0)
+Fast-food shop banner<END>
+
+//無名時代の$_WORDがデザインしたというお宝アイテム<END>
+#JMP($9496E)
+#FIXEDLENGTH(48,0)
+Treasure $_WORD designed before fame<END>
+
+//だれか 有名人<END>
+#JMP($9499F)
+#FIXEDLENGTH(13,0)
+A celebrity<END>
+
+//$_WORDの サンドバッグ<END>
+#JMP($949AD)
+#FIXEDLENGTH(21,0)
+$_WORD punching bag<END>
+
+//憎い $_WORDの顔が 浮かんでは消えるサンドバッグ<END>
+#JMP($949C3)
+#FIXEDLENGTH(46,0)
+Punchin' bag where hated $_WORD's face shows<END>
+
+//だれか ひとり キライな 有名人<END>
+#JMP($949F2)
+#FIXEDLENGTH(29,0)
+One famous person you dislike<END>
+
+//$_WORDの 鉄アレイ<END>
+#JMP($94A10)
+#FIXEDLENGTH(17,0)
+$_WORD dumbbell<END>
+
+//とある映画での全裸のシーンに備えて筋トレした際 使用した鉄アレイ<END>
+#JMP($94A22)
+#FIXEDLENGTH(63,0)
+A dumbbell used trainin' for a nude scene in some movie<END>
+
+//だれか ひとり 男の 役者さん<END>
+#JMP($94A62)
+#FIXEDLENGTH(27,0)
+One male actor<END>
+
+//$_WORDのエキスパンダー<END>
+#JMP($94A7E)
+#FIXEDLENGTH(22,0)
+$_WORD chest expander<END>
+
+//某ドラマでの上半身裸のシーンに備えて筋トレした際 使用したモノ<END>
+#JMP($94A95)
+#FIXEDLENGTH(61,0)
+Used trainin' for a shirtless scene in some TV drama<END>
+
+//$_WORDの 木人<END>
+#JMP($94AD3)
+#FIXEDLENGTH(13,0)
+$_WORD dummy<END>
+
+//$_WORDがカンフー映画に影響され 通販で買ったモノ<END>
+#JMP($94AE1)
+#FIXEDLENGTH(47,0)
+Bought by mail after $_WORD saw kung fu movies<END>
+
+//$_WORDの 鉄ゲタ<END>
+#JMP($94B11)
+#FIXEDLENGTH(15,0)
+$_WORD geta<END>
+
+//$_WORDが少年誌の広告に魅せられ 勢いで買ったモノ<END>
+#JMP($94B21)
+#FIXEDLENGTH(47,0)
+$_WORD bought it on impulse from a comic-mag ad<END>
+
+//三角コーン<END>
+#JMP($94B51)
+#FIXEDLENGTH(10,0)
+Cone<END>
+
+//スケーターが $_WORDの練習をする時にも使われてたりする<END>
+#JMP($94B5C)
+#FIXEDLENGTH(53,0)
+Skaters use these when practicin' $_WORD too<END>
+
+//安全くん<END>
+#JMP($94B92)
+#FIXEDLENGTH(8,0)
+SafeGuy<END>
+
+//道路工事の現場や $_WORDなどで 黙々と働くナイスガイ<END>
+#JMP($94B9B)
+#FIXEDLENGTH(50,0)
+A nice guy workin' quietly at roadworks, $_WORD<END>
+
+//地面を叩いて固める機械<END>
+#JMP($94BCE)
+#FIXEDLENGTH(22,0)
+Ground-tampin' machine<END>
+
+//$_WORDの足のパーツが壊れた時は 実はコレで代用できる<END>
+#JMP($94BE5)
+#FIXEDLENGTH(51,0)
+When $_WORD's leg breaks, this can stand in<END>
+
+//なんか ロボット<END>
+#JMP($94C19)
+#FIXEDLENGTH(15,0)
+Some robot<END>
+
+//警告灯<END>
+#JMP($94C29)
+#FIXEDLENGTH(6,0)
+Light<END>
+
+//工事現場や $_WORDなどで 使われるモノ<END>
+#JMP($94C30)
+#FIXEDLENGTH(36,0)
+Used at work sites and $_WORD<END>
+
+//ご迷惑お掛けしますポスター<END>
+#JMP($94C55)
+#FIXEDLENGTH(26,0)
+"Sorry for trouble" sign<END>
+
+//工事責任者 $_WORDの謝意が ものすごく こもっている<END>
+#JMP($94C70)
+#FIXEDLENGTH(49,0)
+Site boss $_WORD's apology is super heartfelt<END>
+
+//ネコみみ型 安全用ヘルメット<END>
+#JMP($94CA2)
+#FIXEDLENGTH(27,0)
+Cat-ear safety helmet<END>
+
+//本来はネコ専用だが、$_WORDも かぶれないコトはない<END>
+#JMP($94CBE)
+#FIXEDLENGTH(49,0)
+Meant for cats, but $_WORD can wear it too<END>
+
+//$_WORDの ツルハシ<END>
+#JMP($94CF0)
+#FIXEDLENGTH(17,0)
+$_WORD pickaxe<END>
+
+//$_WORDが 土建バイトしてた頃 愛用していたツルハシ<END>
+#JMP($94D02)
+#FIXEDLENGTH(48,0)
+The pickaxe $_WORD used in construction days<END>
+
+//木目調の壁紙<END>
+#JMP($94D33)
+#FIXEDLENGTH(12,0)
+Wood paper<END>
+
+//$_WORDも予約済みの新築マンションと同じ壁紙<END>
+#JMP($94D40)
+#FIXEDLENGTH(42,0)
+Same wallpaper as $_WORD's reserved condo<END>
+
+//コンクリート風の壁紙<END>
+#JMP($94D6B)
+#FIXEDLENGTH(20,0)
+Concrete wallpaper<END>
+
+//$_WORDの住んでる３億円の豪邸で 使用されている壁紙<END>
+#JMP($94D80)
+#FIXEDLENGTH(49,0)
+Wallpaper used in $_WORD's ¥300M mansion<END>
+
+//ゆうれい<END>
+#JMP($94DB2)
+#FIXEDLENGTH(8,0)
+Ghost<END>
+
+//「$_WORD」に登場した ゆうれいをかたどった人形<END>
+#JMP($94DBB)
+#FIXEDLENGTH(45,0)
+A doll of the ghost from "$_WORD"<END>
+
+//ガイコツ船長<END>
+#JMP($94DE9)
+#FIXEDLENGTH(12,0)
+SkullCaptain<END>
+
+//「$_WORD」に登場した ガイコツ船長をかたどった人形<END>
+#JMP($94DF6)
+#FIXEDLENGTH(49,0)
+A doll of the Skull Captain from "$_WORD"<END>
+
+//なんか 本のタイトル<END>
+#JMP($94E28)
+#FIXEDLENGTH(19,0)
+Some book title<END>
+
+//$_WORDのコワイお面<END>
+#JMP($94E3C)
+#FIXEDLENGTH(18,0)
+$_WORD scary mask<END>
+
+//$_WORDの神様をかたどったといわれる 邪を払うお面<END>
+#JMP($94E4F)
+#FIXEDLENGTH(47,0)
+An evil-repellin' mask of the $_WORD god<END>
+
+//$_WORD使用済ワラ人形<END>
+#JMP($94E7F)
+#FIXEDLENGTH(20,0)
+$_WORD straw doll<END>
+
+//$_WORDが 丑の刻参りに使用したという ワラ人形<END>
+#JMP($94E94)
+#FIXEDLENGTH(44,0)
+Straw doll $_WORD used for an ox-hour curse<END>
+
+//映画「生き霊」のポスター<END>
+#JMP($94EC1)
+#FIXEDLENGTH(24,0)
+"Livin' Spirit" poster<END>
+
+//$_WORDが出演したものの ヒットしなかったＢ級映画<END>
+#JMP($94EDA)
+#FIXEDLENGTH(47,0)
+A B-movie flop $_WORD starred in<END>
+
+//$_WORD名物 宇宙人<END>
+#JMP($94F0A)
+#FIXEDLENGTH(17,0)
+$_WORD alien<END>
+
+//$_WORDに頻繁に出没、今では 観光の目玉になっている<END>
+#JMP($94F1C)
+#FIXEDLENGTH(49,0)
+Seen often at $_WORD, now a big tourist draw<END>
+
+//石油ストーブ<END>
+#JMP($94F54)
+#FIXEDLENGTH(12,0)
+Oil heater<END>
+
+//門松<END>
+#JMP($94F61)
+#FIXEDLENGTH(4,0)
+Pine<END>
+
+//ぶたの蚊取り線香<END>
+#JMP($94F66)
+#FIXEDLENGTH(16,0)
+Pig mosquito pot<END>
+
+//扇風機<END>
+#JMP($94F77)
+#FIXEDLENGTH(6,0)
+Fan<END>
+
+//ハロウィーンのかぼちゃ<END>
+#JMP($94F7E)
+#FIXEDLENGTH(22,0)
+Halloween pumpkin<END>
+
+//クリスマスツリー<END>
+#JMP($94F95)
+#FIXEDLENGTH(16,0)
+Christmas tree<END>
+
+//やっこ凧/羽子板/「賀正」凧/羽子板/しめ飾り<END>
+#JMP($94FA6)
+#FIXEDLENGTH(42,0)
+Kite/paddle/"New Year" kite/paddle/rope<END>
+
+//鬼のお面<END>
+#JMP($94FD1)
+#FIXEDLENGTH(8,0)
+Oni mask<END>
+
+//バレンタインな電飾<END>
+#JMP($94FDA)
+#FIXEDLENGTH(18,0)
+Valentine lights<END>
+
+//ひな人形<END>
+#JMP($94FED)
+#FIXEDLENGTH(8,0)
+Hina set<END>
+
+//桃の花のちぎり絵とか<END>
+#JMP($94FF6)
+#FIXEDLENGTH(20,0)
+Peach paper collage<END>
+
+//桜の花のちぎり絵とか<END>
+#JMP($9500B)
+#FIXEDLENGTH(20,0)
+Cherry paper collage<END>
+
+//鯉のぼり＆カブト<END>
+#JMP($95020)
+#FIXEDLENGTH(16,0)
+Carp & helmet<END>
+
+//クレマチスの鉢植<END>
+#JMP($95031)
+#FIXEDLENGTH(16,0)
+Potted clematis<END>
+
+//てるてる坊主<END>
+#JMP($95042)
+#FIXEDLENGTH(12,0)
+Teru-teru<END>
+
+//七夕かざり<END>
+#JMP($9504F)
+#FIXEDLENGTH(10,0)
+Tanabata<END>
+
+//「氷」ののれん<END>
+#JMP($9505A)
+#FIXEDLENGTH(14,0)
+"Ice" curtain<END>
+
+//すすきの飾り物 十五夜<END>
+#JMP($95069)
+#FIXEDLENGTH(21,0)
+Pampas moon decor<END>
+
+//秋祭りのぼんぼり<END>
+#JMP($9507F)
+#FIXEDLENGTH(16,0)
+Festival lamps<END>
+
+//千歳飴<END>
+#JMP($95090)
+#FIXEDLENGTH(6,0)
+Candy<END>
+
+//クリスマスリースとくつ下<END>
+#JMP($95097)
+#FIXEDLENGTH(24,0)
+Xmas wreath & stockings<END>
+
+//風鈴<END>
+#JMP($950B0)
+#FIXEDLENGTH(4,0)
+Bell<END>
+
+//干し柿<END>
+#JMP($950B5)
+#FIXEDLENGTH(6,0)
+Kaki<END>
+
+//雪だるま<END>
+#JMP($950BC)
+#FIXEDLENGTH(8,0)
+Snowman<END>
+
+//誕生日の飾り<END>
+#JMP($950C5)
+#FIXEDLENGTH(12,0)
+B-day deco<END>
+
+//優勝トロフィー<END>
+#JMP($950D2)
+#FIXEDLENGTH(14,0)
+Champion cup<END>
+
+//トロフィー１<END>
+#JMP($950E1)
+#FIXEDLENGTH(12,0)
+Trophy 1<END>
+
+//トロフィー２<END>
+#JMP($950EE)
+#FIXEDLENGTH(12,0)
+Trophy 2<END>
+
+//カップ<END>
+#JMP($950FB)
+#FIXEDLENGTH(6,0)
+Cup<END>
+
+//楯１<END>
+#JMP($95102)
+#FIXEDLENGTH(4,0)
+Shd1<END>
+
+//楯２<END>
+#JMP($95107)
+#FIXEDLENGTH(4,0)
+Shd2<END>
+
+//マンガ雑誌の束１<END>
+#JMP($9510C)
+#FIXEDLENGTH(16,0)
+Manga bundle 1<END>
+
+//マンガ雑誌の束２<END>
+#JMP($9511D)
+#FIXEDLENGTH(16,0)
+Manga bundle 2<END>
+
+//紐で縛った段ボール（資源ゴミ）<END>
+#JMP($9512E)
+#FIXEDLENGTH(30,0)
+Tied-up cardboard (recycling)<END>
+
+//東京都のゴミ袋１（可燃）<END>
+#JMP($9514D)
+#FIXEDLENGTH(24,0)
+Tokyo trash 1 (burnable)<END>
+
+//東京都のゴミ袋２（不燃）<END>
+#JMP($95166)
+#FIXEDLENGTH(24,0)
+Tokyo trash 2 (nonburn)<END>
+
+//$_WORD屋さん<END>
+#JMP($952A9)
+#FIXEDLENGTH(12,0)
+$_WORD shop<END>
 
 //そっか…<END>
 #JMP($97A90)
