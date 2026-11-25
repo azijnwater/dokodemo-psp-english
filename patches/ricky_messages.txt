@@ -41760,6 +41760,11 @@ learned![LR]<END>
 #FIXEDLENGTH(15,0)
 Mind, body![LR]<END>
 
+//心！ 技！ 体！[LR]<END>
+#JMP($63C5F)
+#FIXEDLENGTH(15,0)
+Mind!Art!Body![LR]<END>
+
 //これらが 一体になって 初めて、<END>
 #JMP($63C79)
 #FIXEDLENGTH(30,0)
@@ -41983,15 +41988,107 @@ Take care![LR]<END>
 #FIXEDLENGTH(13,0)
 Thank you!![LR]<END>
 
+//[WORD0] だ[KERO]～[LR]<END>
+#JMP($660A0)
+#FIXEDLENGTH(14,0)
+It's[LR]
+[WORD0]～[LR]<END>
+
+//るダス[LR]<END>
+#JMP($6610D)
+#FIXEDLENGTH(7,0)
+dasu[LR]<END>
+
+//聞いて[KERO]～!![LR]<END>
+#JMP($66169)
+#FIXEDLENGTH(14,0)
+Listen[KERO]～!![LR]<END>
+
+//[WORD0]の ものスゴ～イヒミツを 聞いた<$17><$19><$00>♪[LR]<END>
+#JMP($66182)
+#FIXEDLENGTH(41,0)
+I heard[LR]
+[WORD0]'s[LR]
+super secret♪[LR]<END>
+
+//[WORD0]の？<END>
+#JMP($661AD)
+#FIXEDLENGTH(9,0)
+[WORD0]'s?<END>
+
+//[WORD0]に スゴイヒミツを 聞いた[KERO]♪[LR]<END>
+#JMP($661D0)
+#FIXEDLENGTH(35,0)
+I heard a big[LR]
+secret from[LR]
+[WORD0]♪[LR]<END>
+
+//[WORD0]に？<END>
+#JMP($661F5)
+#FIXEDLENGTH(9,0)
+[WORD0]?<END>
+
+//ケロロ…♥[LR]<END>
+#JMP($66218)
+#FIXEDLENGTH(11,0)
+Keroro…♥[LR]<END>
+
+//ホントは ヒミツなんだ[KERO]も～[LR]<END>
+#JMP($6622E)
+#FIXEDLENGTH(29,0)
+It's actually a[LR]
+secret…[LR]<END>
+
+//なになに？<END>
+#JMP($6624D)
+#FIXEDLENGTH(10,0)
+What?<END>
+
+//ケロケロ～ん！[LR]<END>
+#JMP($66271)
+#FIXEDLENGTH(15,0)
+Kerokero～n![LR]<END>
+
+//バラしてしまった[KERO]♪[LR]<END>
+#JMP($66285)
+#FIXEDLENGTH(22,0)
+I spilled it♪[LR]<END>
+
+//こーふん するッス！[LR]<END>
+#JMP($662AD)
+#FIXEDLENGTH(20,0)
+So excitin'![LR]<END>
+
+//ビックリ<$17><$19><$00>！[LR]<END>
+#JMP($662D3)
+#FIXEDLENGTH(14,0)
+Surprise![LR]<END>
+
 //だケロも…[LR]<END>
 #JMP($662EC)
 #FIXEDLENGTH(11,0)
 But…[LR]<END>
 
+//ちょっと ウソくさい？[LR]<END>
+#JMP($66302)
+#FIXEDLENGTH(22,0)
+Kinda fishy?[LR]<END>
+
 //あっ！[LR]<END>
 #JMP($66323)
 #FIXEDLENGTH(7,0)
 Oh![LR]<END>
+
+//このヒミツは、まさに…[LR]<END>
+#JMP($6636F)
+#FIXEDLENGTH(23,0)
+This secret is[LR]
+truly…[LR]<END>
+
+//「ヘビー級 チャンピオン」並だ[KERO]♪<END>
+#JMP($66391)
+#FIXEDLENGTH(34,0)
+heavyweight champion class♪<END>
 
 //実は…[LR]<END>
 #JMP($663C6)
@@ -42003,25 +42100,242 @@ So…[LR]<END>
 #FIXEDLENGTH(12,0)
 [WORD0]…[LR]<END>
 
+//[WORD1]んだ[KERO]！<END>
+#JMP($663FA)
+#FIXEDLENGTH(14,0)
+[WORD1], kero!<END>
+
+//[WORD1]らしい<$17><$19><$00>！<END>
+#JMP($6640E)
+#FIXEDLENGTH(16,0)
+[WORD1], it seems!<END>
+
+//なんか…ユメ見てた…[LR]<END>
+#JMP($66467)
+#FIXEDLENGTH(21,0)
+Huh…was[LR]
+dreamin'…[LR]<END>
+
+//それは おいといて！[LR]<END>
+#JMP($66487)
+#FIXEDLENGTH(20,0)
+Anyway, never[LR]
+mind![LR]<END>
+
+//わざわざ 呼び出して すまんダス…<END>
+#JMP($6655C)
+#FIXEDLENGTH(32,0)
+Sorry to call you over…<END>
+
+//いや…[LR]<END>
+#JMP($66592)
+#FIXEDLENGTH(7,0)
+Nah…[LR]<END>
+
+//ちょっとヒマだったんで、呼んでみただけ<$17><$19><$00>よ～[LR]<END>
+#JMP($665A4)
+#FIXEDLENGTH(46,0)
+I was bored, so I[LR]
+just called you～[LR]<END>
+
+//[WORD0]、なんかやってた<$17><$19><$00>か？[LR]<END>
+#JMP($665E5)
+#FIXEDLENGTH(29,0)
+Were you busy,[LR]
+[WORD0]?[LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($6661D)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
+
+//もしかして邪魔した<$17><$19><$00>か？[LR]<END>
+#JMP($66634)
+#FIXEDLENGTH(26,0)
+Did I interrupt?[LR]<END>
+
+//だったら、スマなかった[KERO]～[LR]<END>
+#JMP($66659)
+#FIXEDLENGTH(28,0)
+Then I'm sorry～[LR]<END>
 
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($66684)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
 
+//それならいいんだ[KERO]も♪[LR]<END>
+#JMP($6669B)
+#FIXEDLENGTH(24,0)
+Then that's[LR]
+fine♪[LR]<END>
+
+//[WORD0]も ヒマなん<$17><$19><$00>なァ～[LR]<END>
+#JMP($666C6)
+#FIXEDLENGTH(26,0)
+[WORD0]'s[LR]
+bored too～[LR]<END>
+
+//[WORD2]の体力[LR]「[VAR0]」[LR]ＶＳ[LR][WORD3]の体力[LR]「[VAR1]」[LR]<END>
+#JMP($666FD)
+#FIXEDLENGTH(45,0)
+[WORD2] HP[LR]
+"[VAR0]"[LR]
+VS[LR]
+[WORD3] HP[LR]
+"[VAR1]"[LR]<END>
+
+//おぉっと！[LR]<END>
+#JMP($66746)
+#FIXEDLENGTH(11,0)
+Whoa![LR]<END>
+
+//ぐはぁっ！[LR]<END>
+#JMP($6678C)
+#FIXEDLENGTH(11,0)
+Guhaa![LR]<END>
+
+//[WORD1]とは やる<$17><$19><$00>な!?[LR]<END>
+#JMP($667A2)
+#FIXEDLENGTH(22,0)
+Not bad,[LR]
+[WORD1]!?[LR]<END>
+
+//バキッ！[LR]<END>
+#JMP($667E8)
+#FIXEDLENGTH(9,0)
+Wham![LR]<END>
+
+//甘い<$17><$19><$00>！[LR]<END>
+#JMP($667FF)
+#FIXEDLENGTH(10,0)
+Too soft![LR]<END>
+
+//スカッ…[LR]<END>
+#JMP($66861)
+#FIXEDLENGTH(9,0)
+Whiff…[LR]<END>
+
+//むむっ！[LR]<END>
+#JMP($66878)
+#FIXEDLENGTH(9,0)
+Hmm![LR]<END>
+
+//今度は こっちの攻撃だ[KERO]！[LR]<END>
+#JMP($668BB)
+#FIXEDLENGTH(27,0)
+Now it's my[LR]
+attack![LR]<END>
+
+//いく<$17><$19><$00>！[LR]<END>
+#JMP($668E1)
+#FIXEDLENGTH(10,0)
+Go![LR]<END>
+
+//うむむ…[LR]ギブアップだ[KERO]…[LR]<END>
+#JMP($66929)
+#FIXEDLENGTH(27,0)
+Ugh…[LR]
+I give up…[LR]<END>
+
+//この勝負 [WORD0]の勝ち<$17><$19><$00>…[LR]<END>
+#JMP($6694E)
+#FIXEDLENGTH(26,0)
+[WORD0] wins[LR]
+this bout…[LR]<END>
+
+//しかし 次は負けない[KERO]！[LR]<END>
+#JMP($66973)
+#FIXEDLENGTH(25,0)
+But I won't lose[LR]
+next![LR]<END>
+
+//リベンジのためにも…[LR]<END>
+#JMP($66997)
+#FIXEDLENGTH(21,0)
+For my[LR]
+revenge…[LR]<END>
+
+//新しい技を 覚えないと ダメッスね…[LR]<END>
+#JMP($669AE)
+#FIXEDLENGTH(35,0)
+I gotta learn a[LR]
+new move…[LR]<END>
+
+//どんな技が おすすめ<$17><$19><$00>か？<END>
+#JMP($669DC)
+#FIXEDLENGTH(26,0)
+What move do you suggest?<END>
+
 //な！[LR]<END>
 #JMP($66A37)
 #FIXEDLENGTH(5,0)
 Hey![LR]<END>
 
+//次までに 新しい技を覚えて かかってくる[KERO]！<END>
+#JMP($66A47)
+#FIXEDLENGTH(43,0)
+I'll learn a new move by next time!<END>
+
+//で、どんな技を覚えるつもり<$17><$19><$00>か？<END>
+#JMP($66A8D)
+#FIXEDLENGTH(33,0)
+So what move'll you learn?<END>
+
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($66AD0)
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
+
+//新しい技を 覚えないと スパーリングの 楽しみが減る<$17><$19><$00>よ…[LR]<END>
+#JMP($66ADE)
+#FIXEDLENGTH(57,0)
+Without new[LR]
+moves, sparrin'[LR]
+gets less fun…[LR]<END>
+
+//ヤバイッス～[LR]<END>
+#JMP($66B3C)
+#FIXEDLENGTH(13,0)
+Uh-oh～[LR]<END>
+
+//ピンチ<$17><$19><$00>～[LR]<END>
+#JMP($66B5C)
+#FIXEDLENGTH(12,0)
+Pinch～[LR]<END>
+
+//うむむ…[LR]<END>
+#JMP($66B7B)
+#FIXEDLENGTH(9,0)
+Ugh…[LR]<END>
+
+//まだまだ♪[LR]<END>
+#JMP($66B97)
+#FIXEDLENGTH(11,0)
+Not yet♪[LR]<END>
+
+//ふふ～ん♪[LR]<END>
+#JMP($66BB5)
+#FIXEDLENGTH(11,0)
+Heh heh♪[LR]<END>
+
+//新しい技の名前<$17><$19><$00>～<END>
+#JMP($66C1E)
+#FIXEDLENGTH(19,0)
+New move's name～<END>
+
+//そうか…[LR][WORD2]<$17><$19><$00>な…[LR]<END>
+#JMP($66C4C)
+#FIXEDLENGTH(22,0)
+I see…[LR]
+[WORD2]…[LR]<END>
+
+//次は [WORD2]で [WORD3]にリベンジだ[KERO]♪[LR]<END>
+#JMP($66C7D)
+#FIXEDLENGTH(36,0)
+Next, revenge[LR]
+on [WORD3][LR]
+with [WORD2]♪[LR]<END>
 
 //そう<$17><$19><$00>か…[LR]残念[KERO]…[LR]<END>
 #JMP($66CE1)
@@ -42029,15 +42343,586 @@ I see…[LR]<END>
 I see…[LR]
 Too bad[KERO]…[LR]<END>
 
+//ちょっと スパーリングに つきあって[KERO]？<END>
+#JMP($66D06)
+#FIXEDLENGTH(39,0)
+Spar with me a bit?<END>
+
+//先に体力が ０になった方が 負け<$17><$19><$00>！[LR]<END>
+#JMP($66D4B)
+#FIXEDLENGTH(36,0)
+First to 0 HP[LR]
+loses![LR]<END>
+
+//どんな攻撃をする？<END>
+#JMP($66E4E)
+#FIXEDLENGTH(18,0)
+Your attack?<END>
+
+//どこを ガードする？<END>
+#JMP($66F51)
+#FIXEDLENGTH(19,0)
+Guard where?<END>
+
+//ケロ？[LR]誰か来た<$17><$19><$00>か？<END>
+#JMP($670B8)
+#FIXEDLENGTH(22,0)
+Kero?[LR]
+Someone here?<END>
+
+//あ！そうそう！[LR]<END>
+#JMP($670F6)
+#FIXEDLENGTH(15,0)
+Oh! Right![LR]<END>
+
+//これ、つまらないモノ<$17><$19><$00>が…[LR]<END>
+#JMP($67110)
+#FIXEDLENGTH(28,0)
+A little[LR]
+somethin'…[LR]<END>
+
+//引っ越しの ごあいさつに…[LR]<END>
+#JMP($67131)
+#FIXEDLENGTH(26,0)
+a movin'-in gift…[LR]<END>
+
+//受け取って[KERO]～<END>
+#JMP($67153)
+#FIXEDLENGTH(15,0)
+Take it～<END>
+
+//ヒドイ[KERO]…[LR]<END>
+#JMP($6717C)
+#FIXEDLENGTH(12,0)
+Mean…[LR]<END>
+
 //なんか…[LR]<END>
 #JMP($6719A)
 #FIXEDLENGTH(9,0)
 Hmm…[LR]<END>
 
+//手紙が 届いた<$17><$18><$00>…<END>
+#JMP($671A8)
+#FIXEDLENGTH(18,0)
+A letter came…<END>
+
+//よく わからない<$17><$18><$00>な…[LR]<END>
+#JMP($671D4)
+#FIXEDLENGTH(23,0)
+I don't get it…[LR]<END>
+
+//待ち合わせ場所は どこに する[KERO]？<END>
+#JMP($67E5D)
+#FIXEDLENGTH(33,0)
+Where shall we meet?<END>
+
+//[VAR1] したかった<$17><$18><$00>…<END>
+#JMP($67F46)
+#FIXEDLENGTH(19,0)
+Wanted to [VAR1]…<END>
+
+//[WORD0]のトコの [WORD1]だ[KERO]！<END>
+#JMP($67F64)
+#FIXEDLENGTH(26,0)
+It's [WORD0]'s [WORD1]!<END>
+
+//電話番号 おしえても イイ<$17><$19><$00>か？<END>
+#JMP($67FA6)
+#FIXEDLENGTH(31,0)
+Can I give my number?<END>
+
+//どもども…[LR]<END>
+#JMP($67FCA)
+#FIXEDLENGTH(11,0)
+Hiya…[LR]<END>
+
+//[WORD0]のトコの [WORD1]<$17><$19><$00>よ！<END>
+#JMP($67FE7)
+#FIXEDLENGTH(26,0)
+It's [WORD0]'s [WORD1]!<END>
+
+//交換 おわったっス！<END>
+#JMP($6800C)
+#FIXEDLENGTH(19,0)
+Exchange done!<END>
+
+//トモダチ ふえた<$17><$19><$00>～！[LR]<END>
+#JMP($68037)
+#FIXEDLENGTH(23,0)
+New friend～![LR]<END>
+
+//[WORD0]と めいし交換 したダス！<END>
+#JMP($68059)
+#FIXEDLENGTH(29,0)
+Swapped cards with [WORD0]!<END>
+
+//それじゃ～[LR]<END>
+#JMP($68121)
+#FIXEDLENGTH(11,0)
+Well then[LR]<END>
+
+//ルーレット[LR]スタート[KERO]!![LR]<END>
+#JMP($68137)
+#FIXEDLENGTH(25,0)
+Roulette[LR]
+start!![LR]<END>
+
+//プレゼント[LR]ゲットだ[KERO]～♪<END>
+#JMP($6818C)
+#FIXEDLENGTH(26,0)
+Got a[LR]
+present～♪<END>
+
+//[WORD0]から…[LR]<END>
+#JMP($681B1)
+#FIXEDLENGTH(12,0)
+[WORD0]…[LR]<END>
+
+//[WORD1] もらったケロ！<END>
+#JMP($681BF)
+#FIXEDLENGTH(20,0)
+got [WORD1], kero!<END>
+
+//交換して よかったダスなぁ～[LR]<END>
+#JMP($681DE)
+#FIXEDLENGTH(28,0)
+Glad we[LR]
+swapped, dasu～[LR]<END>
+
+//がっかり なんダスか？[LR]<END>
+#JMP($68208)
+#FIXEDLENGTH(22,0)
+Disappointed?[LR]<END>
+
+//ひょっとして 交換して 損してるケロ？[LR]<END>
+#JMP($68220)
+#FIXEDLENGTH(37,0)
+Maybe I lost out[LR]
+swappin'?[LR]<END>
+
+//ハァ～ むずかしい もんダスなぁ…[LR]<END>
+#JMP($68250)
+#FIXEDLENGTH(33,0)
+Haa～ it's tricky,[LR]
+dasu…[LR]<END>
+
+//それじゃ～[LR][WORD0]から はじめる<$17><$18><$00>！[LR]<END>
+#JMP($68287)
+#FIXEDLENGTH(35,0)
+Then～[LR]
+start with[LR]
+[WORD0]![LR]<END>
+
+//さいしょのコトバは どっちに するダス？<END>
+#JMP($682B5)
+#FIXEDLENGTH(38,0)
+Which first word?<END>
+
+//次は「[VAR1]」…[LR]<END>
+#JMP($68436)
+#FIXEDLENGTH(14,0)
+Next "[VAR1]"…[LR]<END>
+
+//「[VAR0]」で はじまるコトバ 知らない<$17><$19><$00>～[LR]<END>
+#JMP($6844F)
+#FIXEDLENGTH(39,0)
+Don't know[LR]
+words startin'[LR]
+"[VAR0]"～[LR]<END>
+
+//降参[KERO]…[LR]<END>
+#JMP($68485)
+#FIXEDLENGTH(10,0)
+I give…[LR]<END>
+
+//[WORD0]は もう 使ってる<$17><$19><$00>…[LR]<END>
+#JMP($6849E)
+#FIXEDLENGTH(27,0)
+[WORD0] was[LR]
+used…[LR]<END>
+
+//負けてしまった[KERO]…[LR]<END>
+#JMP($684C4)
+#FIXEDLENGTH(20,0)
+I lost…[LR]<END>
+
+//ケロロ!?[LR]「ん」が ついてしまった[KERO]!?[LR]<END>
+#JMP($684E3)
+#FIXEDLENGTH(38,0)
+Keroro!?[LR]
+It ended in "n"!?[LR]<END>
+
+//ま、負けてしまった<$17><$19><$00>…[LR]<END>
+#JMP($68514)
+#FIXEDLENGTH(24,0)
+I-I lost…[LR]<END>
+
+//時間切れ<$17><$18><$00>…<END>
+#JMP($68589)
+#FIXEDLENGTH(13,0)
+Time's up…<END>
+
+//回線切断<$17><$18><$00>…<END>
+#JMP($685A9)
+#FIXEDLENGTH(13,0)
+Line cut…<END>
+
+//[WORD0]、何も 答えられない<$17><$19><$00>か～[LR]<END>
+#JMP($685C9)
+#FIXEDLENGTH(32,0)
+[WORD0] can't[LR]
+answer～[LR]<END>
+
+//[WORD0]の答え…[LR]一度 つかった単語だ[KERO]～[LR]<END>
+#JMP($68601)
+#FIXEDLENGTH(39,0)
+[WORD0]'s[LR]
+answer…[LR]
+a used word～[LR]<END>
+
+//[WORD0]の答え…[LR]最後に「ん」が[LR]ついてる<$17><$19><$00>よ～[LR]<END>
+#JMP($6863A)
+#FIXEDLENGTH(45,0)
+[WORD0]'s[LR]
+answer…[LR]
+ends in "n"～[LR]<END>
+
+//時間切れ<$17><$18><$00>[LR]<END>
+#JMP($686B0)
+#FIXEDLENGTH(12,0)
+Time's up[LR]<END>
+
+//回線切断<$17><$18><$00>[LR]<END>
+#JMP($686C9)
+#FIXEDLENGTH(12,0)
+Line cut[LR]<END>
+
+//[WORD1]の負け[KERO]～[LR]<END>
+#JMP($686E5)
+#FIXEDLENGTH(17,0)
+[WORD1] loses～[LR]<END>
+
+//[WORD2]が [WORD1]に勝ったんだ[KERO]～[LR]<END>
+#JMP($6870C)
+#FIXEDLENGTH(31,0)
+[WORD2] beat[LR]
+[WORD1]～[LR]<END>
+
+//[WORD1]！[LR]修行して 出直してくる<$17><$19><$00>よ～[LR]<END>
+#JMP($68730)
+#FIXEDLENGTH(37,0)
+[WORD1]![LR]
+Go train and[LR]
+come back～[LR]<END>
+
+//[WORD1][LR]（[VAR2]）[LR]<END>
+#JMP($68774)
+#FIXEDLENGTH(14,0)
+[WORD1][LR]
+([VAR2])[LR]<END>
+
+//[WORD1]の答え…[LR]<END>
+#JMP($687A4)
+#FIXEDLENGTH(14,0)
+[WORD1] said…[LR]<END>
+
+//（[VAR3]）[LR]<END>
+#JMP($687C5)
+#FIXEDLENGTH(8,0)
+([VAR3])[LR]<END>
+
+//<$17><$19><$00>か～[LR]<END>
+#JMP($687CF)
+#FIXEDLENGTH(8,0)
+～[LR]<END>
+
+//さすが [WORD1]<$17><$19><$00>な…[LR]<END>
+#JMP($687F0)
+#FIXEDLENGTH(20,0)
+That's[LR]
+[WORD1]…[LR]<END>
+
+//わーい！[LR]<END>
+#JMP($6880F)
+#FIXEDLENGTH(9,0)
+Yay![LR]<END>
+
+//[WORD1]の [WORD0]<$17><$18><$00>～[LR]<END>
+#JMP($68822)
+#FIXEDLENGTH(19,0)
+[WORD1]'s[LR]
+[WORD0]～[LR]<END>
+
+//ビリだ<$17><$18><$00>…[LR]<END>
+#JMP($6884B)
+#FIXEDLENGTH(12,0)
+Last…[LR]<END>
+
+//もう ともだちノート いっぱい<$17><$19><$00>から…[LR]<END>
+#JMP($688B8)
+#FIXEDLENGTH(38,0)
+My friend notes[LR]
+are full…[LR]<END>
+
+//これ以上 めいしこうかん できない[KERO]～[LR]<END>
+#JMP($688E3)
+#FIXEDLENGTH(38,0)
+can't swap[LR]
+cards anymore～[LR]<END>
+
+//もったいない<$17><$19><$00>が…[LR]<END>
+#JMP($68914)
+#FIXEDLENGTH(20,0)
+It's a shame…[LR]<END>
+
+//古いのを 捨てるとか して[KERO]～[LR]<END>
+#JMP($68933)
+#FIXEDLENGTH(30,0)
+toss some old[LR]
+ones～[LR]<END>
+
+//まだ もちもの 何も 持ってない<$17><$19><$00>から…[LR]<END>
+#JMP($6895C)
+#FIXEDLENGTH(39,0)
+I don't have any[LR]
+stuff yet…[LR]<END>
+
+//プレゼント交換 できない[KERO]…[LR]<END>
+#JMP($68988)
+#FIXEDLENGTH(29,0)
+so no present[LR]
+swap…[LR]<END>
+
+//また 今度[KERO]～[LR]<END>
+#JMP($689B0)
+#FIXEDLENGTH(15,0)
+Next time～[LR]<END>
+
+//まだ コトバ…[LR]<END>
+#JMP($689CA)
+#FIXEDLENGTH(14,0)
+Still words…[LR]<END>
+
+//あんまり 覚えてないから しりとり できない<$17><$19><$00>よ…[LR]<END>
+#JMP($689DD)
+#FIXEDLENGTH(49,0)
+I don't know[LR]
+enough for[LR]
+shiritori…[LR]<END>
+
+//あと [VAR0]個ぐらい 覚えたら できる自信がある[KERO]！[LR]<END>
+#JMP($68A19)
+#FIXEDLENGTH(48,0)
+[VAR0] more[LR]
+words and I'm[LR]
+sure I can![LR]<END>
+
+//しりとり パワーを…[LR]<END>
+#JMP($68A54)
+#FIXEDLENGTH(20,0)
+Shiritori power…[LR]<END>
+
+//[VAR0] ゲットしたんだ[KERO]も…[LR]<END>
+#JMP($68A6A)
+#FIXEDLENGTH(26,0)
+got [VAR0],[LR]
+kero…[LR]<END>
+
+//しりとり パワーは…[LR]<END>
+#JMP($68A8F)
+#FIXEDLENGTH(20,0)
+Shiritori power…[LR]<END>
+
+//もう あがらない[KERO]～[LR]<END>
+#JMP($68AA8)
+#FIXEDLENGTH(21,0)
+won't rise[LR]
+anymore～[LR]<END>
+
+//[WORD1] レベルの まま<$17><$19><$00>よ！[LR]<END>
+#JMP($68AC8)
+#FIXEDLENGTH(27,0)
+Stays at[LR]
+[WORD1] level![LR]<END>
+
+//しりとり パワーが…[LR]<END>
+#JMP($68AF1)
+#FIXEDLENGTH(20,0)
+Shiritori power…[LR]<END>
+
+//[VAR0] あがって～[LR]合計 [VAR1]に なった[KERO]！[LR]<END>
+#JMP($68B07)
+#FIXEDLENGTH(38,0)
+up [VAR0]～[LR]
+total [VAR1] now![LR]<END>
+
+//これで しりとり レベルが 上がって…[LR]<END>
+#JMP($68B38)
+#FIXEDLENGTH(36,0)
+Now shiritori[LR]
+level's up…[LR]<END>
+
+//[VAR0] レベルに なった[KERO]！[LR]<END>
+#JMP($68B64)
+#FIXEDLENGTH(25,0)
+to level [VAR0]![LR]<END>
+
+//次の レベルアップまで…[LR]<END>
+#JMP($68B88)
+#FIXEDLENGTH(24,0)
+To the next[LR]
+level…[LR]<END>
+
+//あと [VAR0]だ<$17><$18><$00>～[LR]<END>
+#JMP($68BAB)
+#FIXEDLENGTH(16,0)
+[VAR0] more～[LR]<END>
+
+//現在の しりとりレベルは～[LR]<END>
+#JMP($68BC6)
+#FIXEDLENGTH(26,0)
+Shiritori level[LR]
+now～[LR]<END>
+
+//[WORD0] レベルだ[KERO]！[LR]<END>
+#JMP($68BE8)
+#FIXEDLENGTH(20,0)
+is level[LR]
+[WORD0]![LR]<END>
+
+//し～♪[LR]<END>
+#JMP($68C1C)
+#FIXEDLENGTH(7,0)
+Shi～[LR]<END>
+
+//しあわせは [WORD0]に あるよ～[LR]<END>
+#JMP($68C25)
+#FIXEDLENGTH(28,0)
+Happiness is in[LR]
+[WORD0]～[LR]<END>
+
+//り～♪[LR]<END>
+#JMP($68C5B)
+#FIXEDLENGTH(7,0)
+Ri～♪[LR]<END>
+
+//理解しあおう [WORD1]達と～[LR]<END>
+#JMP($68C64)
+#FIXEDLENGTH(25,0)
+Let's[LR]
+understand[LR]
+[WORD1]～[LR]<END>
+
+//と～♪[LR]<END>
+#JMP($68C97)
+#FIXEDLENGTH(7,0)
+To～♪[LR]<END>
+
+//ともだちだよ、[WORD2]も～[LR]<END>
+#JMP($68CA0)
+#FIXEDLENGTH(24,0)
+[WORD2] is a[LR]
+friend too～[LR]<END>
+
+//り～♪[LR]<END>
+#JMP($68CD2)
+#FIXEDLENGTH(7,0)
+Ri～♪[LR]<END>
+
+//理解しあえば、ほら いっしょに [WORD3]できる～[LR]<END>
+#JMP($68CDB)
+#FIXEDLENGTH(44,0)
+Understand[LR]
+each other and[LR]
+we can[LR]
+[WORD3]～[LR]<END>
+
+//さぁ！[LR]みんなで なかよく[LR]しりとり<$17><$18><$00>♪[LR]<END>
+#JMP($68D12)
+#FIXEDLENGTH(39,0)
+Come on![LR]
+Everyone,[LR]
+friendly[LR]
+shiritori[LR]<END>
+
+//しりとりパワーも[LR]これで いっぱいなんだ[KERO]～！[LR]<END>
+#JMP($68D57)
+#FIXEDLENGTH(46,0)
+Shiritori power's[LR]
+full now～![LR]<END>
+
+//じゃあ お祝いに…[LR]<END>
+#JMP($68D90)
+#FIXEDLENGTH(18,0)
+So to celebrate…[LR]<END>
+
+//しりとりの歌でも 歌う<$17><$19><$00>よ！<END>
+#JMP($68DAD)
+#FIXEDLENGTH(28,0)
+I'll sing the shiritori song<END>
+
+//ご静聴、どうも[KERO]～[LR]<END>
+#JMP($68DE0)
+#FIXEDLENGTH(20,0)
+Thanks, all![LR]<END>
+
 //あ！[LR]<END>
 #JMP($68E0D)
 #FIXEDLENGTH(5,0)
 Ah![LR]<END>
+
+//しりとりレベルが[LR]上がった記念に～[LR]<END>
+#JMP($68E1D)
+#FIXEDLENGTH(34,0)
+To mark the[LR]
+level up[LR]
+in shiritori[LR]<END>
+
+//記念品 もらった[KERO]～！[LR]<END>
+#JMP($68E4A)
+#FIXEDLENGTH(23,0)
+got a[LR]
+keepsake～![LR]<END>
+
+//[WORD1]さん<END>
+#JMP($69099)
+#FIXEDLENGTH(9,0)
+[WORD1]-san<END>
+
+//さいしょは～[LR]<END>
+#JMP($695B7)
+#FIXEDLENGTH(13,0)
+First～[LR]<END>
+
+//どっちに するダス？<END>
+#JMP($69703)
+#FIXEDLENGTH(19,0)
+Which one, dasu?<END>
+
+//[WORD5]って人<END>
+#JMP($698AB)
+#FIXEDLENGTH(11,0)
+[WORD5] guy<END>
+
+//また会ったよね<END>
+#JMP($699A4)
+#FIXEDLENGTH(14,0)
+Met again<END>
+
+//会ったの[WORD6]回目だね<END>
+#JMP($699BF)
+#FIXEDLENGTH(21,0)
+Met [WORD6] times<END>
+
+//しりとり 終了～！[LR]<END>
+#JMP($69AB0)
+#FIXEDLENGTH(18,0)
+Shiritori over～![LR]<END>
+
+//ケロロ？<END>
+#JMP($6B18F)
+#FIXEDLENGTH(8,0)
+Keroro?<END>
 
 //ケロ<END>
 #JMP($6BF59)
@@ -42054,10 +42939,941 @@ dasu<END>
 #FIXEDLENGTH(6,0)
 Haa～<END>
 
+//お正月！[LR]年の初めはもちろん！[LR]初詣だケロ♪[LR]「一年の計は[LR]元旦にあり！」[LR]今年も精進[LR]するダスよぉ～♪<END>
+#JMP($6BF6B)
+#FIXEDLENGTH(98,0)
+New Year's![LR]
+First shrine[LR]
+visit, kero♪[LR]
+"Plan the year[LR]
+on Day One!"[LR]
+More trainin'[LR]
+this year～♪<END>
+
+//ヤツ<END>
+#JMP($6BFCE)
+#FIXEDLENGTH(4,0)
+guy<END>
+
+//このチョコさえあれば、[LR]勝てるケロ！[LR]なんせ、オラの[LR]特製ダスからして♪[LR]さあ、$_W1！ [LR]覚悟して待ってるダスよぉ～♥<END>
+#JMP($6BFD3)
+#FIXEDLENGTH(112,0)
+With this choco,[LR]
+I'll win, kero![LR]
+After all, it's my[LR]
+special recipe♪[LR]
+Now, $_W1![LR]
+I'm waitin', get[LR]
+ready～♥<END>
+
+//ひな祭りはハァ～ [LR]昔のままごと遊びが[LR]元になってるんだケロ[LR]紙で人や$_W1を作って遊んでいたらしいダス～[LR]今も昔も遊びはいっしょダスなぁ～<END>
+#JMP($6C049)
+#FIXEDLENGTH(133,0)
+Hinamatsuri<$17><$1B><$00>[LR]
+came from old[LR]
+pretend play,[LR]
+kero.[LR]
+They made[LR]
+people and $_W1[LR]
+from paper,[LR]
+dasu～[LR]
+Play's the same[LR]
+then and now～<END>
+
+//今日は男の子の日[LR]なんだケロ♪[LR]でっかい鯉のぼりは、[LR]むっちゃ強そうだケロ♪[LR]ぜひ、今度お手合わせ[LR]願いたいダス！<END>
+#JMP($6C0CF)
+#FIXEDLENGTH(109,0)
+Today's Boys'[LR]
+Day,[LR]
+kero♪[LR]
+The big carp[LR]
+streamers[LR]
+look super[LR]
+strong♪[LR]
+I'd love to spar[LR]
+with 'em, dasu!<END>
+
+//星々に願いを込める、[LR]七夕だケロ♪[LR]オラの願いは１つ！[LR]「世界最強を[LR]めざすケロ！」[LR]あっ、そうそう♪[LR]短冊に願いを[LR]書くんダスな…<END>
+#JMP($6C13D)
+#FIXEDLENGTH(125,0)
+Wishin' on stars,[LR]
+it's Tanabata♪[LR]
+My one wish![LR]
+"Be world's[LR]
+strongest,[LR]
+kero!"[LR]
+Oh right♪[LR]
+You write[LR]
+wishes[LR]
+on paper strips…<END>
+
+//この木があやしいケロ！[LR]はっ！さては、これが[LR]呼ぶ目印ダスな!?[LR]なるほど～[LR]クリスマスとは[LR]光でサンタクロースを[LR]おびきよせる日[LR]だったんダスなぁ～♪<END>
+#JMP($6C1BB)
+#FIXEDLENGTH(143,0)
+This tree's[LR]
+suspicious![LR]
+Ah! So this is[LR]
+the beacon to[LR]
+call him!?[LR]
+I see～[LR]
+Christmas is the[LR]
+day[LR]
+to lure Santa[LR]
+Claus[LR]
+with lights,[LR]
+dasu～♪<END>
+
+//今日は、$_YOUの生まれた日だケロ！[LR]めでたいダスなぁ～♪[LR]さあ！ [LR]ケーキを食べるケロ！[LR]1年ぶりの[LR]ケーキダスよぉ～♥<END>
+#JMP($6C24B)
+#FIXEDLENGTH(112,0)
+Today's $_YOU's[LR]
+birthday, kero![LR]
+Congrats,[LR]
+dasu～♪[LR]
+Come on![LR]
+Let's eat cake![LR]
+First cake in[LR]
+a year, dasu～♥<END>
+
+//情けない話だケロも…[LR]帰ってきてしまったダス…[LR]修行のやりなおしケロ！[LR]でも…[LR]また $_YOUに出会えて…[LR]うれしいダスよ…<END>
+#JMP($6C2BC)
+#FIXEDLENGTH(115,0)
+It's pathetic,[LR]
+kero…[LR]
+I came back,[LR]
+dasu…[LR]
+Redo my trainin'![LR]
+But…[LR]
+meetin' $_YOU[LR]
+again…[LR]
+makes me happy,[LR]
+dasu…<END>
+
+//サラバダス！[LR][LR]今度 帰って来る時は…[LR]世界チャンピオンの[LR]ベルトも[LR]いっしょダス!!<END>
+#JMP($6C330)
+#FIXEDLENGTH(78,0)
+Farewell, dasu![LR]
+[LR]
+Next time I come[LR]
+back…[LR]
+with the world[LR]
+champion[LR]
+belt[LR]
+too!!<END>
+
+//まだ見ぬライバル[LR]を求めて…[LR]また、修行の旅に[LR]出ることにしたケロ…[LR]サヨナラを[LR]言いたかったケロも[LR]しょーがないダスな…[LR]サヨナラ…<END>
+#JMP($6C37F)
+#FIXEDLENGTH(127,0)
+Seekin' rivals[LR]
+yet unmet…[LR]
+I'm off again[LR]
+on a trainin'[LR]
+trip…[LR]
+I wanted to say[LR]
+goodbye…[LR]
+can't be helped…[LR]
+Goodbye…<END>
+
+//$_YOUと過ごした日々が…[LR]オラを ひと回り大きくしてくれたッス！[LR]目ざせ！[LR]世界チャンピオン！[LR]今までホントに…[LR]ありがとうダス～!!<END>
+#JMP($6C3FF)
+#FIXEDLENGTH(125,0)
+The days with[LR]
+$_YOU…[LR]
+made me grow![LR]
+Aim for it![LR]
+World champion![LR]
+Really, till now…[LR]
+thank you,[LR]
+dasu～!!<END>
+
+//$_YOU…[LR]オラ達の心は…[LR]どんなに遠くはなれていても…[LR]どこでもいっしょダス！[LR][LR]今までホントに…[LR]ありがとうダス～!!<END>
+#JMP($6C47D)
+#FIXEDLENGTH(111,0)
+$_YOU…[LR]
+our hearts…[LR]
+no matter how[LR]
+far apart…[LR]
+are always[LR]
+together![LR]
+[LR]
+Really, till now…[LR]
+thank you,[LR]
+dasu～!!<END>
+
+//新しい生活の[LR]はじまりケロ～！[LR]$_YOUは[LR]ここへ来てからの[LR]最初のトモダチ！[LR]いいヤツっぽくて[LR]楽しそうダス～♪<END>
+#JMP($6C4ED)
+#FIXEDLENGTH(105,0)
+A new life[LR]
+begins, kero![LR]
+$_YOU is[LR]
+my first friend[LR]
+since comin'[LR]
+here![LR]
+Seems a good[LR]
+sort,[LR]
+looks fun,[LR]
+dasu～<END>
+
+//$_FYOUのトコの[LR]$_FMEと、[LR]銭湯に行った。[LR]ハダカのつきあいって[LR]大切ダスな。[LR]…まあ、[LR]いつもオラ達[LR]ハダカだケロも。<END>
+#JMP($6C557)
+#FIXEDLENGTH(112,0)
+Went to the[LR]
+bath-[LR]
+house with[LR]
+$_FME[LR]
+from $_FYOU's.[LR]
+Naked bondin'[LR]
+matters, dasu.[LR]
+…Well, we're[LR]
+always naked,[LR]
+kero.<END>
+
+//$_FYOUのトコの [LR]$_FMEと[LR]銭湯に行った。[LR]二人してカエル泳ぎを[LR]始めたらアツくなって[LR]デッドヒート。[LR]レコード連発。[LR]番台のオッちゃん激怒。<END>
+#JMP($6C5C8)
+#FIXEDLENGTH(133,0)
+Bathhouse with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+We started[LR]
+frog-[LR]
+strokin', it got[LR]
+heated. Dead[LR]
+heat.[LR]
+Records broken.[LR]
+The attendant[LR]
+flipped.<END>
+
+//背中<END>
+#JMP($6C64E)
+#FIXEDLENGTH(4,0)
+back<END>
+
+//$_FYOUのトコの[LR]$_FMEと[LR]銭湯に行った。[LR]二人して $_W1や $_W2の流しっこした。[LR]友情が愛情に変わり[LR]そうで ヤバかった。<END>
+#JMP($6C65A)
+#FIXEDLENGTH(113,0)
+Bathhouse with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+We scrubbed[LR]
+each[LR]
+other's $_W1,[LR]
+$_W2.[LR]
+Friendship[LR]
+nearly[LR]
+turned love.[LR]
+Yikes.<END>
+
+//$_FYOUのトコの [LR]$_FMEと[LR]銭湯に行った。[LR]銭湯と温泉の[LR]違いについて [LR]ずっと語ってた。[LR]どうもどこかで [LR]ダマされたらしい。<END>
+#JMP($6C6CC)
+#FIXEDLENGTH(117,0)
+Bathhouse with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+Talked all about[LR]
+bathhouse vs[LR]
+hot[LR]
+spring. Seems[LR]
+we[LR]
+got fooled[LR]
+somewhere.<END>
+
+//$_FYOUのトコの [LR]$_FMEと[LR]銭湯に行った。[LR]$_FMEが「泉質は～♥効能は～♥」って[LR]言ってたダスが、[LR]ここ、温泉じゃないケロ。<END>
+#JMP($6C742)
+#FIXEDLENGTH(116,0)
+Bathhouse with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+$_FME said "The[LR]
+water～♥[LR]
+Benefits～♥",[LR]
+but it ain't a[LR]
+hot[LR]
+spring, kero.<END>
+
+//$_FYOUのトコの [LR]$_FMEと 高級レストランに行った。[LR]「イッキ飲みは[LR]もったいないワン！」[LR]って言われた。[LR]これがウマイ飲み方[LR]なんだケロも。<END>
+#JMP($6C7B7)
+#FIXEDLENGTH(133,0)
+Went to a fancy[LR]
+restaurant with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+"Chuggin' is a[LR]
+waste, woof!"[LR]
+they said. But[LR]
+that's[LR]
+the tasty way[LR]
+to drink.<END>
+
+//ウイスキー<END>
+#JMP($6C83D)
+#FIXEDLENGTH(10,0)
+whisky<END>
+
+//$_FYOUのトコの [LR]$_FMEと 高級レストランに行った。[LR]二人してトコトン[LR]飲んだ。[LR]$_W1を２０本あけた。[LR]新記録。<END>
+#JMP($6C848)
+#FIXEDLENGTH(104,0)
+Went to a fancy[LR]
+restaurant with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+We drank and[LR]
+drank.[LR]
+Emptied 20[LR]
+$_W1.[LR]
+New record.<END>
+
+//$_FYOUのトコの [LR]$_FMEと 高級レストランに行った。[LR]えーっと…なんだっけ…[LR]酔っぱらってて、[LR]なにもおぼえていない…<END>
+#JMP($6C8B1)
+#FIXEDLENGTH(111,0)
+Went to a fancy[LR]
+restaurant with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+Umm…what was[LR]
+it…[LR]
+I was drunk,[LR]
+don't remember[LR]
+a thing…<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]レストランに行った。[LR]１９１０年モノの[LR]ワインを飲んだ。[LR]１９１０年は $_W1革命の年だとおしえてくれた。<END>
+#JMP($6C926)
+#FIXEDLENGTH(125,0)
+Went to a[LR]
+restaurant with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+Drank 1910 wine.[LR]
+They told me[LR]
+1910 was the[LR]
+year of the[LR]
+$_W1 Revolution.<END>
+
+//$_FYOUのトコの [LR]$_FMEと 高級レストランに行った。[LR]たまには ゼイタクも[LR]よい。[LR]$_W1の話で盛り上がった。<END>
+#JMP($6C9A9)
+#FIXEDLENGTH(100,0)
+Fancy[LR]
+restaurant[LR]
+with $_FME from[LR]
+$_FYOU's.[LR]
+Luxury[LR]
+is good[LR]
+sometimes.[LR]
+Talked lots of[LR]
+$_W1.<END>
+
+//$_FYOUのトコの [LR]$_FMEと 行き先も[LR]決めず、電車に乗った。[LR]こんな旅も [LR]たまにはイイ。[LR]でも乗った電車、[LR]次の駅が終着駅だった… <END>
+#JMP($6CA0E)
+#FIXEDLENGTH(123,0)
+Hopped a train[LR]
+with[LR]
+$_FME from[LR]
+$_FYOU's,[LR]
+no destination.[LR]
+Trips like this[LR]
+are[LR]
+nice. But the[LR]
+next[LR]
+stop was the[LR]
+last…<END>
+
+//$_FYOUのトコの [LR]$_FMEと[LR]電車に乗った。[LR]乗り遅れそうになった[LR]ので 二人でダッシュ！[LR]飛び乗った。[LR]よい子は 絶対[LR]マネしちゃダメだケロ。<END>
+#JMP($6CA8A)
+#FIXEDLENGTH(131,0)
+Rode a train[LR]
+with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+Nearly missed it,[LR]
+so we both[LR]
+dashed![LR]
+Jumped on.[LR]
+Good kids,[LR]
+never[LR]
+copy that, kero.<END>
+
+//転校生<END>
+#JMP($6CB0E)
+#FIXEDLENGTH(6,0)
+newbie<END>
+
+//アメリカ<END>
+#JMP($6CB15)
+#FIXEDLENGTH(8,0)
+America<END>
+
+//$_FYOUのトコの [LR]$_FMEと駅に行って[LR]「$_W1」ゴッコした。[LR]「さよーならー！$_W2に行っても忘れないでね～！」[LR]車掌さんに笑われた。<END>
+#JMP($6CB1E)
+#FIXEDLENGTH(124,0)
+Went to the[LR]
+station[LR]
+with $_FME from[LR]
+$_FYOU's[LR]
+and played[LR]
+"$_W1".[LR]
+"Goodbye! Don't[LR]
+forget me in[LR]
+$_W2～!"[LR]
+The conductor[LR]
+laughed.<END>
+
+//$_FYOUのトコの [LR]$_FMEと[LR]電車に乗った。[LR]$_FMEが運転室に[LR]入りたいと お願い[LR]してたが ダメだった。[LR]そんなこんなで [LR]乗り遅れた。<END>
+#JMP($6CB9B)
+#FIXEDLENGTH(123,0)
+Rode a train[LR]
+with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+$_FME begged[LR]
+to[LR]
+enter the[LR]
+driver's[LR]
+cab, no luck.[LR]
+And[LR]
+so we missed[LR]
+our stop.<END>
+
+//$_FYOUのトコの[LR]$_FMEと 電車に乗った。[LR]$_W1駅弁食べてたら発車寸前！[LR]「お腹いっぱいで[LR]走れないピョン！」[LR]…乗り遅れた。<END>
+#JMP($6CC1E)
+#FIXEDLENGTH(117,0)
+Rode a train[LR]
+with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+Eatin' $_W1[LR]
+bento, the train[LR]
+left![LR]
+"Too full[LR]
+to run, squeak!"[LR]
+…we missed it.<END>
+
+//朝ご飯<END>
+#JMP($6CC94)
+#FIXEDLENGTH(6,0)
+brekky<END>
+
+//晩ご飯<END>
+#JMP($6CC9B)
+#FIXEDLENGTH(6,0)
+dinner<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]夕陽をながめてた。[LR]$_W1や $_W2について語り合った。[LR]イイ時が過ごせた。<END>
+#JMP($6CCA2)
+#FIXEDLENGTH(94,0)
+Watched the[LR]
+sunset[LR]
+with $_FME[LR]
+from $_FYOU's.[LR]
+Talked about[LR]
+$_W1 and $_W2.[LR]
+A good time.<END>
+
+//ラーメン<END>
+#JMP($6CD01)
+#FIXEDLENGTH(8,0)
+ramen<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]夕陽をながめてた。[LR]二人同時につぶやいた。[LR]「腹へった…」[LR]帰りに $_W1食べて帰った。<END>
+#JMP($6CD0A)
+#FIXEDLENGTH(107,0)
+Watched the[LR]
+sunset[LR]
+with $_FME[LR]
+from $_FYOU's.[LR]
+We both[LR]
+muttered:[LR]
+"I'm hungry…"[LR]
+Ate $_W1 on the[LR]
+way home.<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]夕陽をながめてた。[LR]「$_YOUのバカー!!」と叫んだら、[LR]$_FMEは「$_FYOU、大好き～♥」と叫んだ。<END>
+#JMP($6CD76)
+#FIXEDLENGTH(115,0)
+Watched the[LR]
+sunset[LR]
+with $_FME from[LR]
+$_FYOU's. I[LR]
+yelled[LR]
+"$_YOU,[LR]
+dummy!!",[LR]
+$_FME yelled[LR]
+"Love you,[LR]
+$_FYOU♥".<END>
+
+//$_FYOUのトコの [LR]$_FMEが[LR]夕陽に向かって[LR]時速１４００ｋｍで[LR]走ると、ずっと夕陽を[LR]見続けられると[LR]おしえてくれた。[LR]明日、チャレンジ決定。<END>
+#JMP($6CDEA)
+#FIXEDLENGTH(133,0)
+$_FME from[LR]
+$_FYOU's told[LR]
+me[LR]
+if you run[LR]
+toward[LR]
+the sunset at[LR]
+1400 km/h, you[LR]
+can[LR]
+watch it[LR]
+forever.[LR]
+Tryin' it[LR]
+tomorrow.<END>
+
+//オタク<END>
+#JMP($6CE75)
+#FIXEDLENGTH(6,0)
+otaku<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]夕陽をながめてた。[LR]この二人、なに関係に[LR]見えるのだろうか？[LR]家族？恋人？[LR]$_W1？ [LR]$_W2？<END>
+#JMP($6CE7C)
+#FIXEDLENGTH(111,0)
+Watched the[LR]
+sunset[LR]
+with $_FME[LR]
+from $_FYOU's.[LR]
+What do we two[LR]
+look[LR]
+like, I wonder?[LR]
+Family? Lovers?[LR]
+$_W1?[LR]
+$_W2?<END>
+
+//イケメン<END>
+#JMP($6CEEC)
+#FIXEDLENGTH(8,0)
+hunk<END>
+
+//$_FYOUのトコの [LR]$_FMEを [LR]駅で 偶然発見。[LR]気になったので、[LR]しばらく みてた。[LR]恋人と待ち合わせ!?[LR]だれだケロ!?[LR]$_W1??<END>
+#JMP($6CEF5)
+#FIXEDLENGTH(114,0)
+Saw $_FME from[LR]
+$_FYOU's at the[LR]
+station by[LR]
+chance.[LR]
+Curious, I[LR]
+watched.[LR]
+Meetin' a lover!?[LR]
+Who, kero!?[LR]
+$_W1??<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]駅で待ち合わせ。[LR]そこでヘンな銅像発見。[LR]いいデキだったケロも、[LR]オラをモデルにした[LR]方が １０００倍イイ[LR]銅像になるダスな。<END>
+#JMP($6CF68)
+#FIXEDLENGTH(145,0)
+Met $_FME from[LR]
+$_FYOU's at the[LR]
+station. Found a[LR]
+weird[LR]
+statue there.[LR]
+Well made, kero,[LR]
+but[LR]
+modeled on me[LR]
+it'd be[LR]
+1000x better,[LR]
+dasu.<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]ヘンな銅像を見つけた。[LR]結構カッコイイかも。[LR]いつかはオラも…[LR]銅像に…[LR]…なんてなァ～<END>
+#JMP($6CFFA)
+#FIXEDLENGTH(109,0)
+Found a weird[LR]
+statue[LR]
+with $_FME from[LR]
+$_FYOU's. Kinda[LR]
+cool. Someday I'll[LR]
+be a statue[LR]
+too…[LR]
+…just kiddin'～<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]銅像を見にいった。[LR]$_W1とか引っ張ってみた。[LR]$_FMEが「踊り子にふれたら ダメだロボ！」って 怒ってた。<END>
+#JMP($6D06B)
+#FIXEDLENGTH(124,0)
+Went to see a[LR]
+statue[LR]
+with $_FME from[LR]
+$_FYOU's.[LR]
+Tugged on its[LR]
+$_W1.[LR]
+$_FME got mad:[LR]
+"Don't touch[LR]
+the dancer,[LR]
+beep!"<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]銅像前で待ち合わせ。[LR]後ろからオドかしたら、[LR]「ウサー!?」って[LR]いって スッ転んだ。[LR]で… 大激怒。[LR]ゴメンケロ～。<END>
+#JMP($6D0E8)
+#FIXEDLENGTH(134,0)
+Met $_FME from[LR]
+$_FYOU's at the[LR]
+statue. I[LR]
+spooked[LR]
+'em from behind,[LR]
+"Squeak!?" they[LR]
+went[LR]
+and fell over.[LR]
+Then… furious.[LR]
+Sorry, kero～.<END>
+
+//サッカー物語<END>
+#JMP($6D16F)
+#FIXEDLENGTH(12,0)
+soccer story<END>
+
+//バモラ<END>
+#JMP($6D17C)
+#FIXEDLENGTH(6,0)
+Vamola<END>
+
+//$_FYOUのトコの [LR]$_FMEの [LR]家に遊びに行って、[LR]「$_W1」を 読破した。[LR]で、思わず 主人公に[LR]なりきって叫んだ。[LR]$_W2！<END>
+#JMP($6D183)
+#FIXEDLENGTH(111,0)
+Visited $_FME[LR]
+from $_FYOU's[LR]
+and read all of[LR]
+"$_W1". Then I[LR]
+yelled[LR]
+like the hero.[LR]
+$_W2!<END>
+
+//$_FYOUのトコの [LR]$_FMEと しりとり[LR]しながら散歩した。[LR]「ゴリラだロボ」[LR]「ラジオ！」[LR]「オランダだロボ」[LR]「ダ…ダイコン！」[LR]負けた…<END>
+#JMP($6D1F3)
+#FIXEDLENGTH(128,0)
+Played shiritori[LR]
+walkin' with[LR]
+$_FME[LR]
+from $_FYOU's.[LR]
+"Gorilla, beep"[LR]
+"Radio!"[LR]
+"Oranda, beep"[LR]
+"Da…Daikon!"[LR]
+I lost…<END>
+
+//コーラ<END>
+#JMP($6D274)
+#FIXEDLENGTH(6,0)
+cola<END>
+
 //ソース<END>
 #JMP($6D27B)
 #FIXEDLENGTH(6,0)
 Sauce<END>
+
+//$_FYOUのトコの [LR]$_FMEと バーで[LR]カクテル飲んだ。[LR]一番ウマかったのは[LR]$_W1で $_W2を割った「$_FMEスペシャル」 これ最強。<END>
+#JMP($6D282)
+#FIXEDLENGTH(116,0)
+Had cocktails at[LR]
+a[LR]
+bar with $_FME[LR]
+from $_FYOU's.[LR]
+Best[LR]
+was $_W2 mixed[LR]
+with[LR]
+$_W1, the[LR]
+"$_FME Special".[LR]
+The strongest.<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]滝を見に行った。[LR]大自然は素晴らしい。[LR]滝に打たれよう！って[LR]言ったけど、[LR]即、断られた。<END>
+#JMP($6D2F7)
+#FIXEDLENGTH(111,0)
+Saw a waterfall[LR]
+with $_FME from[LR]
+$_FYOU's.[LR]
+Nature's[LR]
+great. I said[LR]
+"Let's[LR]
+train under it!",[LR]
+got a flat no.<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]山に修行に行った。[LR]途中で「$_W1が痛い…」と言い出す $_FME。[LR]日頃の修行が [LR]足りないダス！<END>
+#JMP($6D36C)
+#FIXEDLENGTH(113,0)
+Hill trainin' with[LR]
+$_FME from[LR]
+$_FYOU's.[LR]
+Halfway $_FME[LR]
+said[LR]
+"My $_W1[LR]
+hurts…"[LR]
+Not enough[LR]
+trainin'!<END>
+
+//イエティー<END>
+#JMP($6D3DE)
+#FIXEDLENGTH(10,0)
+Yeti<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]滝を見に行った。[LR]$_FMEが $_W1の足跡のようなモノを見つけた。[LR]ここを水飲み場に[LR]してるんダスね…。<END>
+#JMP($6D3E9)
+#FIXEDLENGTH(120,0)
+Went to see a[LR]
+waterfall with[LR]
+$_FME[LR]
+from $_FYOU's.[LR]
+$_FME found[LR]
+somethin' like[LR]
+$_W1 tracks.[LR]
+So it drinks[LR]
+here,[LR]
+dasu…<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]滝を見に行った。[LR]「ここを掘ると、もう[LR]一本 滝ができるロボ」[LR]と、地面を掘りだす。[LR]$_MEキックで止めた。<END>
+#JMP($6D462)
+#FIXEDLENGTH(126,0)
+Saw a waterfall[LR]
+with $_FME from[LR]
+$_FYOU's. "Dig[LR]
+here,[LR]
+get a 2nd fall,[LR]
+beep"[LR]
+they said,[LR]
+diggin'.[LR]
+Stopped 'em:[LR]
+$_ME kick.<END>
+
+//大好きだー<END>
+#JMP($6D4E1)
+#FIXEDLENGTH(10,0)
+I love you<END>
+
+//$_FYOUのトコの [LR]$_FMEと [LR]滝を見に行った。[LR]「$_W1！」と叫ぶ $_FME。[LR]占いで、滝に叫ぶと[LR]イイコトおこる★って [LR]言ってたらしい。<END>
+#JMP($6D4EC)
+#FIXEDLENGTH(124,0)
+Saw a waterfall[LR]
+with $_FME from[LR]
+$_FYOU's.[LR]
+"$_W1!"[LR]
+yelled $_FME. A[LR]
+fortune said yell[LR]
+at[LR]
+falls for good[LR]
+luck★.<END>
+
+//コレクション<END>
+#JMP($6D569)
+#FIXEDLENGTH(12,0)
+collecting<END>
+
+//スポーツ<END>
+#JMP($6D576)
+#FIXEDLENGTH(8,0)
+sports<END>
+
+//$_FYOUのトコの [LR]$_FMEと公園を散歩。[LR]日が暮れるまで [LR]語ってた。[LR]$_W1や$_W2の趣味が けっこう似ててビックリ。<END>
+#JMP($6D57F)
+#FIXEDLENGTH(106,0)
+Walked in the[LR]
+park[LR]
+with $_FME from[LR]
+$_FYOU's.[LR]
+Talked till dusk.[LR]
+Shocked our[LR]
+$_W1 and $_W2[LR]
+hobbies match.<END>
+
+//菜の花のニオイ♪[LR]春の季節ダスなぁ♪[LR]オラの仲間たちも、[LR]陽気につられ冬眠から[LR]目を覚ます季節だケロ♪[LR]$_W1池のガマカエル…[LR]どうしているダスかね～<END>
+#JMP($6D5EF)
+#FIXEDLENGTH(142,0)
+Rapeseed smell♪[LR]
+Spring, dasu♪[LR]
+My kind, lured[LR]
+by warmth, wake[LR]
+from[LR]
+hibernation♪[LR]
+The toads of[LR]
+$_W1 Pond…[LR]
+how're[LR]
+they doin'～<END>
+
+//梅雨の季節が[LR]到来だケロ♪[LR]じめじめして、[LR]オラたちには天国の[LR]ような季節ダスよォ～♪[LR]元気が出てきたケロ！[LR]今日も修行に[LR]はげむダスよォ～!!<END>
+#JMP($6D67E)
+#FIXEDLENGTH(135,0)
+Rainy season's[LR]
+here, kero♪[LR]
+Damp and[LR]
+muggy,[LR]
+heaven for[LR]
+us frogs, dasu～♪[LR]
+I'm full of[LR]
+energy![LR]
+Trainin' hard[LR]
+again today～!!<END>
+
+//みんなと花火見物に[LR]来たダス♪[LR]打ち上げ花火は[LR]壮大だケロ～♪[LR]ふむふむ… [LR]あの花火を修行に[LR]使えないダスかね？<END>
+#JMP($6D706)
+#FIXEDLENGTH(107,0)
+Fireworks with[LR]
+everyone, dasu♪[LR]
+Skyrockets are[LR]
+grand～♪ Hmm…[LR]
+could I use 'em[LR]
+for trainin'?<END>
+
+//旅先で知り合った[LR]不思議な御仁。[LR]出会いの杯に、[LR]湯のみでカンパイ♪[LR]聞けば、はるばる[LR]宇宙からの旅路。[LR]つのる旅話で、[LR]楽しかったダスよ♪<END>
+#JMP($6D772)
+#FIXEDLENGTH(133,0)
+A strange gent[LR]
+met on my trip.[LR]
+Toasted with[LR]
+teacups♪ He[LR]
+came[LR]
+all the way from[LR]
+space. Lots of[LR]
+tales, fun, dasu♪<END>
+
+//ローリングキック<END>
+#JMP($6D7F8)
+#FIXEDLENGTH(16,0)
+rolling kick<END>
+
+//えいっ！とうっ！[LR]なかなか手ごわい[LR]ヤツダスな！[LR]こうなったら、[LR]最後のひっさつ技!![LR]「$_W1」[LR]で、どうだケロ!?<END>
+#JMP($6D809)
+#FIXEDLENGTH(106,0)
+Hyah! Toh![LR]
+A tough one,[LR]
+dasu![LR]
+Then it's time[LR]
+for my last[LR]
+finisher!![LR]
+"$_W1"[LR]
+How's that,[LR]
+kero!?<END>
+
+//イチに修行、ニに修行！[LR]今日はウサギ跳びで[LR]階段のぼりダス！[LR]オラ、カエルだケロも…[LR]ウサギ跳びダス！[LR]ンだケロも… [LR]ウサギになりたい[LR]訳ではないッスよ…<END>
+#JMP($6D874)
+#FIXEDLENGTH(148,0)
+Train first, train[LR]
+second![LR]
+Today, bunny[LR]
+hops[LR]
+up the stairs,[LR]
+dasu![LR]
+I'm a frog, kero…[LR]
+but bunny hops![LR]
+But, kero…[LR]
+I don't wanna be[LR]
+a rabbit…<END>
+
+//頑丈な$_W1を つくるためには、[LR]力ある食いモノが[LR]必要ケロ♪[LR]焼いて食って！[LR]焼いて食って！[LR]最強の$_W1を つくるケロ～♪<END>
+#JMP($6D90E)
+#FIXEDLENGTH(115,0)
+To build a[LR]
+sturdy $_W1,[LR]
+you need power[LR]
+food, kero♪[LR]
+Grill and eat![LR]
+Grill and eat![LR]
+I'll build the[LR]
+strongest[LR]
+$_W1～♪<END>
+
+//金メダリスト<END>
+#JMP($6D982)
+#FIXEDLENGTH(12,0)
+gold medal<END>
+
+//むしょーに人と話たく[LR]なる時があるケロ。[LR]「なんで$_W1は いつまでたっても $_W1なんダスかね～？」[LR]…ゴメン、となりの人。<END>
+#JMP($6D98F)
+#FIXEDLENGTH(117,0)
+Sometimes I just[LR]
+wanna[LR]
+talk to someone,[LR]
+kero.[LR]
+"Why is $_W1[LR]
+always $_W1,[LR]
+dasu～?"[LR]
+…Sorry, person[LR]
+next to me.<END>
+
+//日本のココロは [LR]やはり和食ダス♪[LR]たくさん食べてたら、[LR]「お客さん[LR]イイ食いっぷりだな！[LR]も一つ食いねぇ～」[LR]って もう１つくれた♪[LR]大将 サンキュー！<END>
+#JMP($6DA05)
+#FIXEDLENGTH(144,0)
+The heart of[LR]
+Japan[LR]
+is Japanese[LR]
+food♪[LR]
+I ate lots, and[LR]
+"Mister, you[LR]
+sure[LR]
+can eat! Have[LR]
+another～"[LR]
+they gave me[LR]
+one more♪[LR]
+Thanks, boss!<END>
+
+//いきつけのメシ屋さんで 晩ご飯。[LR]「オヤジ、いつもの…」[LR]って 言うけれど、[LR]いつも 同じモノでた [LR]ためしナシ。[LR]もしかしてオラのコト[LR]覚えてない？<END>
+#JMP($6DA96)
+#FIXEDLENGTH(140,0)
+Dinner at my[LR]
+usual[LR]
+diner. "Pops,[LR]
+the usual…"[LR]
+I say, but[LR]
+never once got[LR]
+the same thing.[LR]
+Maybe he[LR]
+doesn't[LR]
+remember me?<END>
+
+//１日１０個限定の[LR]スペシャルビッグ[LR]バーガー。[LR]一口で食べると [LR]なんとタダ！[LR]チャレンジしたけど[LR]$_W1の調子が悪くて失敗…<END>
+#JMP($6DB26)
+#FIXEDLENGTH(117,0)
+10 a day only,[LR]
+the Special Big[LR]
+Burger. Eat it in[LR]
+one bite and it's[LR]
+free! I tried, but[LR]
+my $_W1 was[LR]
+off, failed…<END>
+
+//恋愛<END>
+#JMP($6DB9C)
+#FIXEDLENGTH(4,0)
+love<END>
+
+//ミスター$_W1 に話を聞いた。[LR]「どうしたら $_W1マスターになれるケロ？」[LR]「毎日、$_W1するコトじゃよ」[LR]よーし！ガンバルダス！<END>
+#JMP($6DBA1)
+#FIXEDLENGTH(121,0)
+Asked Mister[LR]
+$_W1:[LR]
+"How do I[LR]
+become a $_W1[LR]
+master, kero?"[LR]
+"$_W1 every[LR]
+day, son."[LR]
+Alright! I'll try[LR]
+hard, dasu!<END>
+
+//上腕二頭筋<END>
+#JMP($6DC1B)
+#FIXEDLENGTH(10,0)
+biceps<END>
+
+//銭湯に行くと 思わず[LR]他人の$_W1に目がいくダス…[LR]「あの$_W2、イイ $_W1してるケロ…」[LR]オラも まだまだだと [LR]いうコトだ…<END>
+#JMP($6DC26)
+#FIXEDLENGTH(116,0)
+At the[LR]
+bathhouse[LR]
+I eye others'[LR]
+$_W1…[LR]
+"That $_W2 has[LR]
+a[LR]
+fine $_W1,[LR]
+kero…"[LR]
+I've still got a[LR]
+ways to go…<END>
+
+//カエル式格闘<END>
+#JMP($6DC9B)
+#FIXEDLENGTH(12,0)
+Frog-fu<END>
+
+//46kg級$_W1選手権に出場するために、体重調整してるケロ。[LR]まだ 大丈夫ダスな…[LR]油断大敵火の用心！[LR]脂肪は 見えないトコ[LR]からついてくる！<END>
+#JMP($6DCA8)
+#FIXEDLENGTH(130,0)
+Cuttin' weight[LR]
+for[LR]
+46kg $_W1[LR]
+champs.[LR]
+Still okay, dasu…[LR]
+Don't let your[LR]
+guard[LR]
+down! Fat[LR]
+sneaks on[LR]
+where you can't[LR]
+see!<END>
 
 //おしり<END>
 #JMP($6DF97)
@@ -42293,6 +44109,11 @@ Frog deity<END>
 #JMP($796EE)
 #FIXEDLENGTH(8,0)
 Warbler<END>
+
+//なになに？<END>
+#JMP($79884)
+#FIXEDLENGTH(10,0)
+What?<END>
 
 //フライパン<END>
 #JMP($79920)
