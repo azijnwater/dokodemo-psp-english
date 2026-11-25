@@ -30196,6 +30196,13 @@ shapes like[LR]
 they made, it[LR]
 seems[LR]<END>
 
+//で、ちなみに それを！[LR]「土偶」って言う[KERO]！[LR]<END>
+#JMP($4AAAC)
+#FIXEDLENGTH(44,0)
+And by the way![LR]
+It's called[LR]
+"dogu" [KERO]![LR]<END>
+
 //どうも 気に入らない [WORD0]を 思いうかべては…[LR]<END>
 #JMP($4AAEB)
 #FIXEDLENGTH(45,0)
@@ -45576,6 +45583,11 @@ I pictured $_W1,[LR]
 but it looks like[LR]
 $_W2, kero…<END>
 
+//焼き鳥<END>
+#JMP($6F709)
+#FIXEDLENGTH(6,0)
+Skewer<END>
+
 //ベンベンベベン♪[LR]ベンベベン♪[LR]今日も一日～[LR]修行の日々～[LR]ベンベベン♪[LR]ウマイ $_W1が食べたいケロ～♪<END>
 #JMP($6F710)
 #FIXEDLENGTH(98,0)
@@ -45949,6 +45961,11 @@ $_WORD's plain wallpaper<END>
 #FIXEDLENGTH(47,0)
 $_WORD's slightly fancy wallpaper<END>
 
+//$_WORDも愛用している 花柄の壁紙<END>
+#JMP($702F4)
+#FIXEDLENGTH(31,0)
+Floral wallpaper $_WORD loves<END>
+
 //$_WORDも愛用している パステルドットの壁紙<END>
 #JMP($70314)
 #FIXEDLENGTH(41,0)
@@ -45973,6 +45990,11 @@ $_WORD's refreshing carpet<END>
 #JMP($703AF)
 #FIXEDLENGTH(37,0)
 $_WORD's mat carpet<END>
+
+//$_WORDも愛用している 無難なカンジのカーペット<END>
+#JMP($703D5)
+#FIXEDLENGTH(45,0)
+Plain carpet $_WORD loves too<END>
 
 //$_WORDも愛用している 幾何学模様のカーペット<END>
 #JMP($70403)
@@ -46109,6 +46131,11 @@ Desk lamp used in $_WORD's bedroom until recently<END>
 #FIXEDLENGTH(16,0)
 $_WORD's mailbox<END>
 
+//$_WORDの実家の台所で 長年愛用されていたモノ<END>
+#JMP($707BF)
+#FIXEDLENGTH(43,0)
+Long-loved item in $_WORD's family kitchen<END>
+
 //$_WORDのシール<END>
 #JMP($707EB)
 #FIXEDLENGTH(14,0)
@@ -46133,6 +46160,11 @@ It bears an image of $_WORD<END>
 #JMP($70849)
 #FIXEDLENGTH(16,0)
 Frog doll<END>
+
+//70年代に $_WORDで大流行したという カエルちゃん人形<END>
+#JMP($7085A)
+#FIXEDLENGTH(50,0)
+Frog doll that was huge in $_WORD in the 70s<END>
 
 //どこか 外国の国名<END>
 #JMP($7088D)
@@ -46229,6 +46261,11 @@ $_WORD's autograph<END>
 #FIXEDLENGTH(52,0)
 Colored paper with handprint from a young $_WORD<END>
 
+//$_WORDが 無名だった頃の 座右の銘入りサイン色紙<END>
+#JMP($70AED)
+#FIXEDLENGTH(46,0)
+Signed card w/ motto from $_WORD's early days<END>
+
 //$_WORDのタヌキの置物<END>
 #JMP($70B1C)
 #FIXEDLENGTH(20,0)
@@ -46264,15 +46301,30 @@ A doll from the ramen shop $_WORD eats at<END>
 #FIXEDLENGTH(14,0)
 Kokeshi doll<END>
 
+//$_WORDの実家で 長年 テレビの上に飾られていたこけし<END>
+#JMP($70BF1)
+#FIXEDLENGTH(50,0)
+Kokeshi long on the TV at $_WORD's family home<END>
+
 //$_WORDのサインボール<END>
 #JMP($70C24)
 #FIXEDLENGTH(20,0)
 $_WORD's prized ball<END>
 
+//$_WORDの ホームラン756号 記念サインボール<END>
+#JMP($70C39)
+#FIXEDLENGTH(41,0)
+$_WORD's signed 756th home run ball<END>
+
 //$_WORDのカモ時計<END>
 #JMP($70C63)
 #FIXEDLENGTH(16,0)
 $_WORD's clock<END>
+
+//$_WORDの実家で 長年愛用されてきた カモ時計<END>
+#JMP($70C74)
+#FIXEDLENGTH(42,0)
+Duck clock long used in $_WORD's home<END>
 
 //$_WORDのペナント<END>
 #JMP($70C9F)
@@ -46314,6 +46366,11 @@ Some favorite celebrity<END>
 #FIXEDLENGTH(12,0)
 $_WORD plate<END>
 
+//$_WORDの社長が所有していた 古伊万里の大皿<END>
+#JMP($70D93)
+#FIXEDLENGTH(41,0)
+Old Imari platter owned by $_WORD's boss<END>
+
 //$_YOUの知ってる 会社名<END>
 #JMP($70DBD)
 #FIXEDLENGTH(22,0)
@@ -46323,6 +46380,11 @@ A company $_YOU knows<END>
 #JMP($70DD4)
 #FIXEDLENGTH(14,0)
 $_WORD's clock<END>
+
+//$_WORDのおじいさんご自慢の 100年経っても動いてる時計<END>
+#JMP($70DE3)
+#FIXEDLENGTH(52,0)
+$_WORD's grandpa's pride: a clock runnin' at 100<END>
 
 //$_WORDのコップ<END>
 #JMP($70E18)
@@ -46344,16 +46406,36 @@ Someone's favorite $_OPP celebrity<END>
 #FIXEDLENGTH(10,0)
 $_WORD pot<END>
 
+//$_WORDが静物画のモチーフとして 好んで描いていた器<END>
+#JMP($70E6C)
+#FIXEDLENGTH(49,0)
+A bowl $_WORD loved to paint in still lifes<END>
+
 //$_WORDのLP<END>
 #JMP($70E9E)
 #FIXEDLENGTH(10,0)
 $_WORDs LP<END>
+
+//昔 $_WORDがボサノバ歌手だった頃のアルバム<END>
+#JMP($70EA9)
+#FIXEDLENGTH(41,0)
+Album from $_WORD's bossa nova days<END>
 
 //歌手以外で…[LR]有名人を ひとり<END>
 #JMP($70ED3)
 #FIXEDLENGTH(28,0)
 Not a singer…[LR]
 a celebrity<END>
+
+//昔 $_WORDがインディーズレーベルで発表した 幻のアルバム<END>
+#JMP($70EF0)
+#FIXEDLENGTH(54,0)
+Rare indie-label album $_WORD put out long ago<END>
+
+//歌手以外の 有名人<END>
+#JMP($70F27)
+#FIXEDLENGTH(17,0)
+Non-singer celeb<END>
 
 //$_WORDの祖母のラジオ<END>
 #JMP($70F39)
@@ -46485,6 +46567,11 @@ The potted plants in $_WORD's living room<END>
 #FIXEDLENGTH(16,0)
 $_WORD's monitor<END>
 
+//$_WORDが使ってた パソコンのモニター<END>
+#JMP($7124E)
+#FIXEDLENGTH(35,0)
+PC monitor $_WORD used<END>
+
 //$_WORDのファイル<END>
 #JMP($71272)
 #FIXEDLENGTH(16,0)
@@ -46510,6 +46597,21 @@ $_WORD's favorite, simple coffee machine<END>
 #FIXEDLENGTH(14,0)
 $_WORDs kettle<END>
 
+//$_WORDのリウマチを治したという 聖水が入った やかん<END>
+#JMP($71306)
+#FIXEDLENGTH(50,0)
+Kettle of holy water that cured $_WORD's aches<END>
+
+//$_WORDのノルマの表<END>
+#JMP($71339)
+#FIXEDLENGTH(18,0)
+$_WORD's quotas<END>
+
+//$_WORDがサラリーマンだった頃 課せられていたノルマ<END>
+#JMP($7134C)
+#FIXEDLENGTH(49,0)
+Sales quotas $_WORD had as an office worker<END>
+
 //だれか ひとり 男の有名人<END>
 #JMP($7137E)
 #FIXEDLENGTH(24,0)
@@ -46520,10 +46622,20 @@ Some famous man<END>
 #FIXEDLENGTH(16,0)
 Poster of $_WORD<END>
 
+//$_WORDの部屋に なぜか長年貼ってあったポスター<END>
+#JMP($713A8)
+#FIXEDLENGTH(45,0)
+Poster in $_WORD's room for years, somehow<END>
+
 //$_WORDののれん<END>
 #JMP($713D6)
 #FIXEDLENGTH(14,0)
 $_WORD curtain<END>
+
+//$_WORDが草津で買ってきたおみやげ<END>
+#JMP($713E5)
+#FIXEDLENGTH(32,0)
+Souvenir $_WORD got in Kusatsu<END>
 
 //$_WORDのいす＆おけ<END>
 #JMP($71406)
@@ -46569,6 +46681,11 @@ An old scale that helped $_WORD lose weight<END>
 #JMP($7150B)
 #FIXEDLENGTH(20,0)
 $_WORD's bath set<END>
+
+//$_WORDがよく行く銭湯で販売している 手ぶら一式セット<END>
+#JMP($71520)
+#FIXEDLENGTH(51,0)
+Bath set sold at $_WORD's usual bathhouse<END>
 
 //$_WORDのネオン看板<END>
 #JMP($71554)
@@ -46675,6 +46792,11 @@ A wrapping cloth $_WORD's grandma used to love<END>
 #FIXEDLENGTH(18,0)
 Retro-style trunk<END>
 
+//$_WORDのお母さんが 娘時代に愛用していたトランク<END>
+#JMP($7180D)
+#FIXEDLENGTH(47,0)
+Trunk $_WORD's mom loved as a girl<END>
+
 //$_WORDの ホッピング<END>
 #JMP($7183D)
 #FIXEDLENGTH(19,0)
@@ -46734,6 +46856,11 @@ $_WORD's favorite Racket & Boston bag<END>
 #JMP($71978)
 #FIXEDLENGTH(12,0)
 Paper bag<END>
+
+//街のセレブも愛用している $_WORDの紙袋<END>
+#JMP($71985)
+#FIXEDLENGTH(37,0)
+$_WORD paper bag, loved by celebs<END>
 
 //$_WORDの傘<END>
 #JMP($719AB)
@@ -54911,6 +55038,11 @@ Nice<END>
 #FIXEDLENGTH(6,0)
 Iffy…<END>
 
+//自転車<END>
+#JMP($78649)
+#FIXEDLENGTH(6,0)
+Bike<END>
+
 //アクマ<END>
 #JMP($78650)
 #FIXEDLENGTH(6,0)
@@ -55065,6 +55197,11 @@ Pants<END>
 #JMP($78767)
 #FIXEDLENGTH(6,0)
 Oni…<END>
+
+//人間<END>
+#JMP($7876E)
+#FIXEDLENGTH(4,0)
+Man<END>
 
 //おによめ<END>
 #JMP($78776)
@@ -56836,6 +56973,11 @@ Camp<END>
 #FIXEDLENGTH(6,0)
 Fire<END>
 
+//どんな番組？<END>
+#JMP($79503)
+#FIXEDLENGTH(12,0)
+What show?<END>
+
 //ホント!?<END>
 #JMP($79510)
 #FIXEDLENGTH(8,0)
@@ -57491,55 +57633,1345 @@ Plum<END>
 #FIXEDLENGTH(10,0)
 The lord?<END>
 
+//山の上<END>
+#JMP($79A47)
+#FIXEDLENGTH(6,0)
+Peak<END>
+
+//へー…<END>
+#JMP($79A4E)
+#FIXEDLENGTH(6,0)
+Oh…<END>
+
+//軟弱者！<END>
+#JMP($79A55)
+#FIXEDLENGTH(8,0)
+Weakling<END>
+
+//太平洋<END>
+#JMP($79A5E)
+#FIXEDLENGTH(6,0)
+Pacif<END>
+
+//何それ<END>
+#JMP($79A65)
+#FIXEDLENGTH(6,0)
+What?<END>
+
+//盆栽<END>
+#JMP($79A6C)
+#FIXEDLENGTH(4,0)
+Tree<END>
+
+//スクワット１００回<END>
+#JMP($79A71)
+#FIXEDLENGTH(18,0)
+100 squats<END>
+
+//すごかった！<END>
+#JMP($79A87)
+#FIXEDLENGTH(12,0)
+Amazin'!<END>
+
+//そんなのあったけ…？<END>
+#JMP($79A94)
+#FIXEDLENGTH(20,0)
+Was there such…?<END>
+
+//スゴイ！<END>
+#JMP($79AA9)
+#FIXEDLENGTH(8,0)
+Wow!<END>
+
+//やる～！<END>
+#JMP($79AB2)
+#FIXEDLENGTH(8,0)
+Nice!<END>
+
+//ええー！<END>
+#JMP($79ABB)
+#FIXEDLENGTH(8,0)
+Whaat!<END>
+
+//山里<END>
+#JMP($79AC4)
+#FIXEDLENGTH(4,0)
+Vale<END>
+
+//たんぼ<END>
+#JMP($79AC9)
+#FIXEDLENGTH(6,0)
+Paddy<END>
+
+//大丈夫だった？<END>
+#JMP($79AD0)
+#FIXEDLENGTH(14,0)
+You okay?<END>
+
+//恐っ！<END>
+#JMP($79ADF)
+#FIXEDLENGTH(6,0)
+Yikes!<END>
+
+//富士山頂<END>
+#JMP($79AE6)
+#FIXEDLENGTH(8,0)
+Fuji top<END>
+
+//カメレオン<END>
+#JMP($79AEF)
+#FIXEDLENGTH(10,0)
+Chameleon<END>
+
+//へー！<END>
+#JMP($79AFA)
+#FIXEDLENGTH(6,0)
+Oh!<END>
+
+//そんなトコで…<END>
+#JMP($79B01)
+#FIXEDLENGTH(14,0)
+Of all places<END>
+
+//奥さん<END>
+#JMP($79B10)
+#FIXEDLENGTH(6,0)
+Wife<END>
+
 //お茶<END>
 #JMP($79B17)
 #FIXEDLENGTH(4,0)
 Tea<END>
+
+//ウソ!?<END>
+#JMP($79B1F)
+#FIXEDLENGTH(6,0)
+No!?<END>
+
+//ツキノワグマ<END>
+#JMP($79B26)
+#FIXEDLENGTH(12,0)
+Moon bear<END>
+
+//痛そう<END>
+#JMP($79B33)
+#FIXEDLENGTH(6,0)
+Ouch<END>
+
+//ＯＫ！<END>
+#JMP($79B3A)
+#FIXEDLENGTH(6,0)
+OK!<END>
+
+//イヤ<END>
+#JMP($79B41)
+#FIXEDLENGTH(4,0)
+No<END>
+
+//ヒッピー<END>
+#JMP($79B4B)
+#FIXEDLENGTH(8,0)
+Hippie<END>
+
+//サヨナラだけが人生だ<END>
+#JMP($79B54)
+#FIXEDLENGTH(20,0)
+Life is goodbyes<END>
+
+//ほほー<END>
+#JMP($79B69)
+#FIXEDLENGTH(6,0)
+Oho<END>
 
 //なぐりあいのケンカ<END>
 #JMP($79B70)
 #FIXEDLENGTH(18,0)
 Fistfight<END>
 
+//一応？<END>
+#JMP($79B83)
+#FIXEDLENGTH(6,0)
+Sorta?<END>
+
+//ボランティア<END>
+#JMP($79B8A)
+#FIXEDLENGTH(12,0)
+Volunteer<END>
+
+//イカサマ<END>
+#JMP($79B97)
+#FIXEDLENGTH(8,0)
+Fraud<END>
+
+//あなた<END>
+#JMP($79BA0)
+#FIXEDLENGTH(6,0)
+You<END>
+
+//箱根温泉<END>
+#JMP($79BA7)
+#FIXEDLENGTH(8,0)
+Hakone<END>
+
+//家政婦<END>
+#JMP($79BB0)
+#FIXEDLENGTH(6,0)
+Maid<END>
+
+//何を知ってる？<END>
+#JMP($79BB7)
+#FIXEDLENGTH(14,0)
+Know what?<END>
+
+//またまた…<END>
+#JMP($79BC6)
+#FIXEDLENGTH(10,0)
+Come on…<END>
+
+//ヒザこぞう<END>
+#JMP($79BD1)
+#FIXEDLENGTH(10,0)
+Kneecap<END>
+
+//エライ！<END>
+#JMP($79BDC)
+#FIXEDLENGTH(8,0)
+Great!<END>
+
+//お米<END>
+#JMP($79BE5)
+#FIXEDLENGTH(4,0)
+Rice<END>
+
+//信じる<END>
+#JMP($79BEA)
+#FIXEDLENGTH(6,0)
+Trust<END>
+
+//どうかな？<END>
+#JMP($79BF1)
+#FIXEDLENGTH(10,0)
+Hmm?<END>
+
+//なんとも<END>
+#JMP($79BFC)
+#FIXEDLENGTH(8,0)
+Dunno<END>
+
+//えー！<END>
+#JMP($79C0A)
+#FIXEDLENGTH(6,0)
+Eh!<END>
+
+//大っ嫌い<END>
+#JMP($79C11)
+#FIXEDLENGTH(8,0)
+Hate it<END>
+
+//バスフィッシング<END>
+#JMP($79C1A)
+#FIXEDLENGTH(16,0)
+Bass fishin'<END>
+
 //聞いてやろう<END>
 #JMP($79C2B)
 #FIXEDLENGTH(12,0)
 I'll listen<END>
+
+//ブランコ<END>
+#JMP($79C38)
+#FIXEDLENGTH(8,0)
+Swing<END>
+
+//ありがち…<END>
+#JMP($79C41)
+#FIXEDLENGTH(10,0)
+Typical…<END>
+
+//他人<END>
+#JMP($79C4C)
+#FIXEDLENGTH(4,0)
+Else<END>
+
+//実は…<END>
+#JMP($79C51)
+#FIXEDLENGTH(6,0)
+Truly<END>
+
+//自慢？<END>
+#JMP($79C58)
+#FIXEDLENGTH(6,0)
+Brag?<END>
+
+//カッパ<END>
+#JMP($79C5F)
+#FIXEDLENGTH(6,0)
+Kappa<END>
 
 //故郷<END>
 #JMP($79C66)
 #FIXEDLENGTH(4,0)
 Home<END>
 
+//トラクター<END>
+#JMP($79C6B)
+#FIXEDLENGTH(10,0)
+Tractor<END>
+
+//髪の毛<END>
+#JMP($79C76)
+#FIXEDLENGTH(6,0)
+Hair<END>
+
+//ぶしょう者<END>
+#JMP($79C7D)
+#FIXEDLENGTH(10,0)
+Slacker<END>
+
+//ビジュアルクイーン<END>
+#JMP($79C88)
+#FIXEDLENGTH(18,0)
+Visual queen<END>
+
+//なぐさめてやれ！<END>
+#JMP($79C9B)
+#FIXEDLENGTH(16,0)
+Go comfort 'em!<END>
+
+//格闘家<END>
+#JMP($79CAC)
+#FIXEDLENGTH(6,0)
+Champ<END>
+
+//対決<END>
+#JMP($79CB3)
+#FIXEDLENGTH(4,0)
+Duel<END>
+
+//告白<END>
+#JMP($79CB8)
+#FIXEDLENGTH(4,0)
+Love<END>
+
+//泥棒<END>
+#JMP($79CBD)
+#FIXEDLENGTH(4,0)
+Crk<END>
+
+//大好きなあの子<END>
+#JMP($79CC2)
+#FIXEDLENGTH(14,0)
+The one I love<END>
+
+//栓抜き<END>
+#JMP($79CD1)
+#FIXEDLENGTH(6,0)
+Opener<END>
+
+//チョーク<END>
+#JMP($79CD8)
+#FIXEDLENGTH(8,0)
+Chalk<END>
+
+//まわり<END>
+#JMP($79CE1)
+#FIXEDLENGTH(6,0)
+Around<END>
+
+//パソコン<END>
+#JMP($79CE8)
+#FIXEDLENGTH(8,0)
+PC<END>
+
+//トイレそうじ<END>
+#JMP($79CF1)
+#FIXEDLENGTH(12,0)
+Toilet duty<END>
+
+//ケッコンさぎ<END>
+#JMP($79CFE)
+#FIXEDLENGTH(12,0)
+Wedding scam<END>
+
+//…さあ？<END>
+#JMP($79D0B)
+#FIXEDLENGTH(8,0)
+…Dunno?<END>
+
+//それは違う<END>
+#JMP($79D14)
+#FIXEDLENGTH(10,0)
+That's off<END>
+
+//愛のため！<END>
+#JMP($79D1F)
+#FIXEDLENGTH(10,0)
+For love!<END>
+
+//だれかのため？<END>
+#JMP($79D2A)
+#FIXEDLENGTH(14,0)
+For someone?<END>
+
+//たぶん…<END>
+#JMP($79D39)
+#FIXEDLENGTH(8,0)
+Maybe…<END>
+
+//それも本当の自分だ！<END>
+#JMP($79D42)
+#FIXEDLENGTH(20,0)
+That's you too!<END>
+
+//欲望に勝つコト<END>
+#JMP($79D57)
+#FIXEDLENGTH(14,0)
+Beatin' greed<END>
+
+//自分に勝つコト<END>
+#JMP($79D66)
+#FIXEDLENGTH(14,0)
+Beatin' self<END>
+
+//やさしいコト<END>
+#JMP($79D75)
+#FIXEDLENGTH(12,0)
+Bein' kind<END>
+
+//そうだ！<END>
+#JMP($79D82)
+#FIXEDLENGTH(8,0)
+Right!<END>
+
+//甘ったれるな！<END>
+#JMP($79D8B)
+#FIXEDLENGTH(14,0)
+Don't whine!<END>
+
+//オマエにゃ絶対ムリ！<END>
+#JMP($79D9A)
+#FIXEDLENGTH(20,0)
+You'll never do it!<END>
+
+//この平面ガエル！<END>
+#JMP($79DAF)
+#FIXEDLENGTH(16,0)
+You flat frog!<END>
+
+//よかったな<END>
+#JMP($79DC0)
+#FIXEDLENGTH(10,0)
+Good job<END>
+
 //愛してる人<END>
 #JMP($79DCB)
 #FIXEDLENGTH(10,0)
 Beloved<END>
+
+//審判<END>
+#JMP($79DD6)
+#FIXEDLENGTH(4,0)
+Ref<END>
+
+//レフェリー<END>
+#JMP($79DDB)
+#FIXEDLENGTH(10,0)
+Referee<END>
+
+//たしか…<END>
+#JMP($79DE6)
+#FIXEDLENGTH(8,0)
+I think<END>
+
+//空手家<END>
+#JMP($79DEF)
+#FIXEDLENGTH(6,0)
+Karate<END>
+
+//いよいよ？<END>
+#JMP($79DF6)
+#FIXEDLENGTH(10,0)
+At last?<END>
+
+//何があるの？<END>
+#JMP($79E01)
+#FIXEDLENGTH(12,0)
+What's on?<END>
+
+//かっぱ<END>
+#JMP($79E0E)
+#FIXEDLENGTH(6,0)
+Kappa<END>
+
+//酔っ払い<END>
+#JMP($79E15)
+#FIXEDLENGTH(8,0)
+Drunk<END>
+
+//フェスティバル？<END>
+#JMP($79E1E)
+#FIXEDLENGTH(16,0)
+Festival?<END>
+
+//おひるね<END>
+#JMP($79E2F)
+#FIXEDLENGTH(8,0)
+Nap<END>
+
+//マラソン<END>
+#JMP($79E38)
+#FIXEDLENGTH(8,0)
+Marathon<END>
+
+//おさんぽ<END>
+#JMP($79E41)
+#FIXEDLENGTH(8,0)
+Walk<END>
+
+//ホットケーキ<END>
+#JMP($79E4A)
+#FIXEDLENGTH(12,0)
+Pancakes<END>
+
+//普通は食べないよ<END>
+#JMP($79E57)
+#FIXEDLENGTH(16,0)
+Nobody eats that<END>
+
+//おやつ<END>
+#JMP($79E68)
+#FIXEDLENGTH(6,0)
+Snack<END>
+
+//運動でもしたの？<END>
+#JMP($79E6F)
+#FIXEDLENGTH(16,0)
+Exercised?<END>
+
+//白クマ<END>
+#JMP($79E80)
+#FIXEDLENGTH(6,0)
+Polar<END>
 
 //おスシ屋さん<END>
 #JMP($79E87)
 #FIXEDLENGTH(12,0)
 Sushi shop<END>
 
+//そうでも<END>
+#JMP($79E94)
+#FIXEDLENGTH(8,0)
+Not so<END>
+
+//そんなコトない<END>
+#JMP($79E9D)
+#FIXEDLENGTH(14,0)
+Not at all<END>
+
+//アンパン<END>
+#JMP($79EAC)
+#FIXEDLENGTH(8,0)
+Anpan<END>
+
+//ひるね<END>
+#JMP($79EB5)
+#FIXEDLENGTH(6,0)
+Nap<END>
+
+//昼寝<END>
+#JMP($79EBC)
+#FIXEDLENGTH(4,0)
+Nap<END>
+
+//お昼寝<END>
+#JMP($79EC1)
+#FIXEDLENGTH(6,0)
+Nap<END>
+
+//いねむり<END>
+#JMP($79EC8)
+#FIXEDLENGTH(8,0)
+Dozin'<END>
+
+//居眠り<END>
+#JMP($79ED1)
+#FIXEDLENGTH(6,0)
+Doze<END>
+
+//はやおき<END>
+#JMP($79ED8)
+#FIXEDLENGTH(8,0)
+Early up<END>
+
+//早起き<END>
+#JMP($79EE1)
+#FIXEDLENGTH(6,0)
+Early<END>
+
+//春だな<END>
+#JMP($79EE8)
+#FIXEDLENGTH(6,0)
+Spring<END>
+
+//夏だし<END>
+#JMP($79EEF)
+#FIXEDLENGTH(6,0)
+Summer<END>
+
+//シミソバカス<END>
+#JMP($79EF9)
+#FIXEDLENGTH(12,0)
+Freckles<END>
+
+//大丈夫だよ<END>
+#JMP($79F06)
+#FIXEDLENGTH(10,0)
+It's fine<END>
+
+//そうだねェ～<END>
+#JMP($79F11)
+#FIXEDLENGTH(12,0)
+Yeah～<END>
+
+//思った<END>
+#JMP($79F1E)
+#FIXEDLENGTH(6,0)
+Yeah<END>
+
+//いや<END>
+#JMP($79F25)
+#FIXEDLENGTH(4,0)
+No<END>
+
+//服着てないんじゃ？<END>
+#JMP($79F2A)
+#FIXEDLENGTH(18,0)
+Aren't you naked?<END>
+
 //なっとうまき<END>
 #JMP($79F3D)
 #FIXEDLENGTH(12,0)
 Natto roll<END>
+
+//ダンゴ<END>
+#JMP($79F4A)
+#FIXEDLENGTH(6,0)
+Dango<END>
+
+//キレイだね！<END>
+#JMP($79F51)
+#FIXEDLENGTH(12,0)
+So pretty!<END>
+
+//いしやきいも<END>
+#JMP($79F5E)
+#FIXEDLENGTH(12,0)
+Baked yams<END>
+
+//石焼芋<END>
+#JMP($79F6B)
+#FIXEDLENGTH(6,0)
+Yams<END>
+
+//そうだな！<END>
+#JMP($79F72)
+#FIXEDLENGTH(10,0)
+Right!<END>
+
+//ゴハン<END>
+#JMP($79F7D)
+#FIXEDLENGTH(6,0)
+Food<END>
+
+//食欲の秋か…<END>
+#JMP($79F84)
+#FIXEDLENGTH(12,0)
+Fall eats…<END>
+
+//ネックレス<END>
+#JMP($79F91)
+#FIXEDLENGTH(10,0)
+Necklace<END>
+
+//コート<END>
+#JMP($79F9C)
+#FIXEDLENGTH(6,0)
+Coat<END>
+
+//マフラー<END>
+#JMP($79FA3)
+#FIXEDLENGTH(8,0)
+Scarf<END>
+
+//寒いね<END>
+#JMP($79FAC)
+#FIXEDLENGTH(6,0)
+Cold<END>
+
+//そりゃ冬だし<END>
+#JMP($79FB3)
+#FIXEDLENGTH(12,0)
+It's winter<END>
+
+//冬だしね<END>
+#JMP($79FC0)
+#FIXEDLENGTH(8,0)
+Winter<END>
+
+//どうだろ<END>
+#JMP($79FC9)
+#FIXEDLENGTH(8,0)
+Dunno<END>
+
+//そりゃもう<END>
+#JMP($79FD2)
+#FIXEDLENGTH(10,0)
+Sure is<END>
+
+//さわやか<END>
+#JMP($79FDD)
+#FIXEDLENGTH(8,0)
+Fresh<END>
+
+//修行日和<END>
+#JMP($79FE6)
+#FIXEDLENGTH(8,0)
+Fine day<END>
+
+//ねむれた！<END>
+#JMP($79FEF)
+#FIXEDLENGTH(10,0)
+Slept!<END>
+
+//あんまり…<END>
+#JMP($79FFA)
+#FIXEDLENGTH(10,0)
+Not much…<END>
+
+//見た<END>
+#JMP($7A005)
+#FIXEDLENGTH(4,0)
+Saw<END>
+
+//見てない<END>
+#JMP($7A00A)
+#FIXEDLENGTH(8,0)
+Didn't<END>
+
+//食べた<END>
+#JMP($7A013)
+#FIXEDLENGTH(6,0)
+Ate<END>
+
+//食べてない<END>
+#JMP($7A01A)
+#FIXEDLENGTH(10,0)
+Didn't eat<END>
+
+//座禅<END>
+#JMP($7A025)
+#FIXEDLENGTH(4,0)
+Zen<END>
+
+//休み<END>
+#JMP($7A02A)
+#FIXEDLENGTH(4,0)
+Off<END>
+
+//忙しい<END>
+#JMP($7A02F)
+#FIXEDLENGTH(6,0)
+Busy<END>
+
+//ヒマ<END>
+#JMP($7A036)
+#FIXEDLENGTH(4,0)
+Free<END>
+
+//梅雨<END>
+#JMP($7A03B)
+#FIXEDLENGTH(4,0)
+Rain<END>
+
+//1000本ノック<END>
+#JMP($7A040)
+#FIXEDLENGTH(12,0)
+1000 hits<END>
+
+//当たった宝クジ<END>
+#JMP($7A04D)
+#FIXEDLENGTH(14,0)
+Winning ticket<END>
+
+//スゲ～<END>
+#JMP($7A05C)
+#FIXEDLENGTH(6,0)
+Wow～<END>
+
+//おまじない？<END>
+#JMP($7A063)
+#FIXEDLENGTH(12,0)
+A charm?<END>
+
+//だろうな<END>
+#JMP($7A070)
+#FIXEDLENGTH(8,0)
+Figures<END>
+
+//ぴゅうま<END>
+#JMP($7A079)
+#FIXEDLENGTH(8,0)
+Pyuma<END>
+
+//マッハ<END>
+#JMP($7A082)
+#FIXEDLENGTH(6,0)
+Mach<END>
+
+//カツどん<END>
+#JMP($7A089)
+#FIXEDLENGTH(8,0)
+Katsudon<END>
+
+//教えない<END>
+#JMP($7A092)
+#FIXEDLENGTH(8,0)
+Secret<END>
+
+//お昼ゴハンに食べたモノ おしえて？<END>
+#JMP($7A09B)
+#FIXEDLENGTH(33,0)
+Tell me what you ate for lunch?<END>
+
+//食べない<END>
+#JMP($7A0BD)
+#FIXEDLENGTH(8,0)
+No eat<END>
 
 //ライバル<END>
 #JMP($7A0C6)
 #FIXEDLENGTH(8,0)
 A rival<END>
 
+//お昼ゴハンに食べる予定のモノ おしえて？<END>
+#JMP($7A0CF)
+#FIXEDLENGTH(39,0)
+Tell me what you'll have for lunch?<END>
+
+//ウマかった<END>
+#JMP($7A0F7)
+#FIXEDLENGTH(10,0)
+Tasty<END>
+
+//マズかった<END>
+#JMP($7A102)
+#FIXEDLENGTH(10,0)
+Yucky<END>
+
+//仕事中<END>
+#JMP($7A10D)
+#FIXEDLENGTH(6,0)
+Busy<END>
+
+//昼休み<END>
+#JMP($7A114)
+#FIXEDLENGTH(6,0)
+Lunch<END>
+
+//働きすぎ<END>
+#JMP($7A11B)
+#FIXEDLENGTH(8,0)
+Overwork<END>
+
+//授業中<END>
+#JMP($7A124)
+#FIXEDLENGTH(6,0)
+Class<END>
+
+//勉強しすぎ<END>
+#JMP($7A12B)
+#FIXEDLENGTH(10,0)
+Overstudy<END>
+
+//いそがしいよ<END>
+#JMP($7A136)
+#FIXEDLENGTH(12,0)
+I'm busy<END>
+
+//がんばりすぎ<END>
+#JMP($7A143)
+#FIXEDLENGTH(12,0)
+Overdoin' it<END>
+
+//お洗濯<END>
+#JMP($7A150)
+#FIXEDLENGTH(6,0)
+Wash<END>
+
+//ワニ<END>
+#JMP($7A157)
+#FIXEDLENGTH(4,0)
+Croc<END>
+
+//あり<END>
+#JMP($7A161)
+#FIXEDLENGTH(4,0)
+Ant<END>
+
+//ラーメン屋さん<END>
+#JMP($7A166)
+#FIXEDLENGTH(14,0)
+Ramen shop<END>
+
+//ゲーム<END>
+#JMP($7A175)
+#FIXEDLENGTH(6,0)
+Game<END>
+
+//疲れた…<END>
+#JMP($7A17C)
+#FIXEDLENGTH(8,0)
+Tired…<END>
+
+//別に疲れてない<END>
+#JMP($7A185)
+#FIXEDLENGTH(14,0)
+Not tired<END>
+
+//うむ…<END>
+#JMP($7A194)
+#FIXEDLENGTH(6,0)
+Mm…<END>
+
+//まだ終わってない！<END>
+#JMP($7A19B)
+#FIXEDLENGTH(18,0)
+Not done yet!<END>
+
+//まあまあ<END>
+#JMP($7A1AE)
+#FIXEDLENGTH(8,0)
+So-so<END>
+
+//ダメダ…<END>
+#JMP($7A1B7)
+#FIXEDLENGTH(8,0)
+No good<END>
+
+//将来<END>
+#JMP($7A1C0)
+#FIXEDLENGTH(4,0)
+Next<END>
+
+//イイネ～<END>
+#JMP($7A1C5)
+#FIXEDLENGTH(8,0)
+Nice～<END>
+
+//ゴメン、そろそろ眠い…<END>
+#JMP($7A1CE)
+#FIXEDLENGTH(22,0)
+Sorry, I'm sleepy…<END>
+
+//ヤだ<END>
+#JMP($7A1E5)
+#FIXEDLENGTH(4,0)
+No<END>
+
+//ウマかったー<END>
+#JMP($7A1EA)
+#FIXEDLENGTH(12,0)
+So tasty!<END>
+
+//マズかった…<END>
+#JMP($7A1F7)
+#FIXEDLENGTH(12,0)
+Was gross…<END>
+
+//なにかが…？<END>
+#JMP($7A204)
+#FIXEDLENGTH(12,0)
+Somethin'…?<END>
+
+//憧れのあの人<END>
+#JMP($7A211)
+#FIXEDLENGTH(12,0)
+My idol<END>
+
+//お疲れ<END>
+#JMP($7A21E)
+#FIXEDLENGTH(6,0)
+Nice<END>
+
+//修行したの？<END>
+#JMP($7A225)
+#FIXEDLENGTH(12,0)
+Trained?<END>
+
+//讃岐うどん<END>
+#JMP($7A232)
+#FIXEDLENGTH(10,0)
+Udon<END>
+
+//入った<END>
+#JMP($7A23D)
+#FIXEDLENGTH(6,0)
+Did<END>
+
+//まだ<END>
+#JMP($7A244)
+#FIXEDLENGTH(4,0)
+No<END>
+
+//24時間<END>
+#JMP($7A249)
+#FIXEDLENGTH(6,0)
+24 hrs<END>
+
+//夜早い時間<END>
+#JMP($7A250)
+#FIXEDLENGTH(10,0)
+Early eve<END>
+
+//けんすい<END>
+#JMP($7A25B)
+#FIXEDLENGTH(8,0)
+Chin-ups<END>
+
+//漫画雑誌<END>
+#JMP($7A264)
+#FIXEDLENGTH(8,0)
+Comics<END>
+
+//木の上<END>
+#JMP($7A26D)
+#FIXEDLENGTH(6,0)
+Tree<END>
+
+//ないッス…<END>
+#JMP($7A274)
+#FIXEDLENGTH(10,0)
+Got none…<END>
+
+//出るかも<END>
+#JMP($7A282)
+#FIXEDLENGTH(8,0)
+Maybe<END>
+
+//それは出ない<END>
+#JMP($7A28B)
+#FIXEDLENGTH(12,0)
+It won't<END>
+
+//爪きり<END>
+#JMP($7A298)
+#FIXEDLENGTH(6,0)
+Clip<END>
+
+//好きだねー<END>
+#JMP($7A29F)
+#FIXEDLENGTH(10,0)
+Love it?<END>
+
+//どこの？<END>
+#JMP($7A2AA)
+#FIXEDLENGTH(8,0)
+Where?<END>
+
+//こわ～<END>
+#JMP($7A2B3)
+#FIXEDLENGTH(6,0)
+Scary<END>
+
+//アニキ<END>
+#JMP($7A2BA)
+#FIXEDLENGTH(6,0)
+Bro<END>
+
+//山の手<END>
+#JMP($7A2C1)
+#FIXEDLENGTH(6,0)
+Uptown<END>
+
+//バイク<END>
+#JMP($7A2C8)
+#FIXEDLENGTH(6,0)
+Bike<END>
+
+//怖いー<END>
+#JMP($7A2CF)
+#FIXEDLENGTH(6,0)
+Scary<END>
+
+//ふ－ん<END>
+#JMP($7A2D6)
+#FIXEDLENGTH(6,0)
+Hmm<END>
+
+//いや別に<END>
+#JMP($7A2DD)
+#FIXEDLENGTH(8,0)
+Not much<END>
+
+//そっか～<END>
+#JMP($7A2E6)
+#FIXEDLENGTH(8,0)
+I see～<END>
+
+//光モノ<END>
+#JMP($7A2EF)
+#FIXEDLENGTH(6,0)
+Shiny<END>
+
+//引き出しの中<END>
+#JMP($7A2F6)
+#FIXEDLENGTH(12,0)
+In a drawer<END>
+
+//じゃんけん<END>
+#JMP($7A303)
+#FIXEDLENGTH(10,0)
+Janken<END>
+
+//長電話<END>
+#JMP($7A30E)
+#FIXEDLENGTH(6,0)
+Chat<END>
+
+//モリアオガエル<END>
+#JMP($7A315)
+#FIXEDLENGTH(14,0)
+Tree frog<END>
+
+//なぬ～っ!?<END>
+#JMP($7A324)
+#FIXEDLENGTH(10,0)
+Whaat!?<END>
+
+//そうかな<END>
+#JMP($7A32F)
+#FIXEDLENGTH(8,0)
+Maybe<END>
+
+//ふともも<END>
+#JMP($7A338)
+#FIXEDLENGTH(8,0)
+Thighs<END>
+
+//３年ごろし<END>
+#JMP($7A341)
+#FIXEDLENGTH(10,0)
+3-yr kill<END>
+
+//足４の字固め<END>
+#JMP($7A34C)
+#FIXEDLENGTH(12,0)
+Figure-four<END>
+
+//東ヨーロッパ<END>
+#JMP($7A359)
+#FIXEDLENGTH(12,0)
+E. Europe<END>
+
+//しろクマ<END>
+#JMP($7A366)
+#FIXEDLENGTH(8,0)
+Polar<END>
+
+//ハイエナ<END>
+#JMP($7A36F)
+#FIXEDLENGTH(8,0)
+Hyena<END>
+
+//北海道<END>
+#JMP($7A378)
+#FIXEDLENGTH(6,0)
+Hokk.<END>
+
+//電話<END>
+#JMP($7A37F)
+#FIXEDLENGTH(4,0)
+Call<END>
+
+//エベレスト<END>
+#JMP($7A384)
+#FIXEDLENGTH(10,0)
+Everest<END>
+
+//ダンボール<END>
+#JMP($7A38F)
+#FIXEDLENGTH(10,0)
+Cardboard<END>
+
 //オバケ<END>
 #JMP($7A39A)
 #FIXEDLENGTH(6,0)
 Ghosts<END>
 
+//おもらし<END>
+#JMP($7A3A1)
+#FIXEDLENGTH(8,0)
+Wet self<END>
+
+//キングカエル<END>
+#JMP($7A3AA)
+#FIXEDLENGTH(12,0)
+King frog<END>
+
+//ケロヨ～ン<END>
+#JMP($7A3B7)
+#FIXEDLENGTH(10,0)
+Keroyo～n<END>
+
+//凶器<END>
+#JMP($7A3C2)
+#FIXEDLENGTH(4,0)
+Arms<END>
+
+//オアシス<END>
+#JMP($7A3C7)
+#FIXEDLENGTH(8,0)
+Oasis<END>
+
+//バックドロップ<END>
+#JMP($7A3D0)
+#FIXEDLENGTH(14,0)
+Backdrop<END>
+
+//おスシ<END>
+#JMP($7A3DF)
+#FIXEDLENGTH(6,0)
+Sushi<END>
+
+//そうなんだ…<END>
+#JMP($7A3E6)
+#FIXEDLENGTH(12,0)
+I see…<END>
+
+//ブラジル<END>
+#JMP($7A3F3)
+#FIXEDLENGTH(8,0)
+Brazil<END>
+
+//イヤだー<END>
+#JMP($7A3FC)
+#FIXEDLENGTH(8,0)
+No way<END>
+
+//元気で<END>
+#JMP($7A405)
+#FIXEDLENGTH(6,0)
+Bye<END>
+
+//あれ!?<END>
+#JMP($7A40C)
+#FIXEDLENGTH(6,0)
+Huh!?<END>
+
+//どうして？<END>
+#JMP($7A413)
+#FIXEDLENGTH(10,0)
+Why?<END>
+
+//ビューティホー！<END>
+#JMP($7A41E)
+#FIXEDLENGTH(16,0)
+Beautiful!<END>
+
+//出場？<END>
+#JMP($7A42F)
+#FIXEDLENGTH(6,0)
+Enter?<END>
+
+//止めてもムダか…<END>
+#JMP($7A436)
+#FIXEDLENGTH(16,0)
+Can't stop you…<END>
+
+//ウム…<END>
+#JMP($7A447)
+#FIXEDLENGTH(6,0)
+Mm…<END>
+
+//それほどでも<END>
+#JMP($7A44E)
+#FIXEDLENGTH(12,0)
+Not really<END>
+
+//来て<END>
+#JMP($7A45B)
+#FIXEDLENGTH(4,0)
+Come<END>
+
+//ヒミツ？<END>
+#JMP($7A460)
+#FIXEDLENGTH(8,0)
+Secret?<END>
+
+//やってた<END>
+#JMP($7A469)
+#FIXEDLENGTH(8,0)
+Was<END>
+
+//別に～<END>
+#JMP($7A472)
+#FIXEDLENGTH(6,0)
+Nah～<END>
+
+//答える<END>
+#JMP($7A479)
+#FIXEDLENGTH(6,0)
+Answer<END>
+
+//答えない<END>
+#JMP($7A480)
+#FIXEDLENGTH(8,0)
+Won't<END>
+
+//そうする<END>
+#JMP($7A489)
+#FIXEDLENGTH(8,0)
+Will do<END>
+
+//イヤだな<END>
+#JMP($7A492)
+#FIXEDLENGTH(8,0)
+Nah<END>
+
 //イヤだ<END>
 #JMP($7A49B)
 #FIXEDLENGTH(6,0)
 No way<END>
+
+//泣き落とし<END>
+#JMP($7A4A2)
+#FIXEDLENGTH(10,0)
+Tear plea<END>
+
+//うなじ<END>
+#JMP($7A4AD)
+#FIXEDLENGTH(6,0)
+Nape<END>
+
+//お客さん？<END>
+#JMP($7A4B4)
+#FIXEDLENGTH(10,0)
+Visitor?<END>
+
+//誰だろ？<END>
+#JMP($7A4BF)
+#FIXEDLENGTH(8,0)
+Who?<END>
+
+//手紙？<END>
+#JMP($7A4C8)
+#FIXEDLENGTH(6,0)
+Mail?<END>
+
+//誰から？<END>
+#JMP($7A4CF)
+#FIXEDLENGTH(8,0)
+From?<END>
 
 //めいし交換<END>
 #JMP($7A4D8)
@@ -57556,8 +58988,113 @@ wordgame<END>
 #FIXEDLENGTH(14,0)
 gift exchange<END>
 
+//あちこち<END>
+#JMP($7A4FB)
+#FIXEDLENGTH(8,0)
+Around<END>
+
 //オトナ<END>
 #JMP($7A504)
 #FIXEDLENGTH(6,0)
 Adults<END>
+
+//しりとりの歌？<END>
+#JMP($7A50E)
+#FIXEDLENGTH(14,0)
+Shiritori song<END>
+
+//パチパチパチ<END>
+#JMP($7A51D)
+#FIXEDLENGTH(12,0)
+Clap clap<END>
+
+//しりとりの歌か？<END>
+#JMP($7A52A)
+#FIXEDLENGTH(16,0)
+Shiritori song?<END>
+
+//やったね♪<END>
+#JMP($7A53B)
+#FIXEDLENGTH(10,0)
+Did it♪<END>
+
+//がっかり…<END>
+#JMP($7A546)
+#FIXEDLENGTH(10,0)
+Bummer…<END>
+
+//勝ち<END>
+#JMP($7A551)
+#FIXEDLENGTH(4,0)
+Win<END>
+
+//優勝<END>
+#JMP($7A556)
+#FIXEDLENGTH(4,0)
+Win!<END>
+
+//下っぱ<END>
+#JMP($7A55B)
+#FIXEDLENGTH(6,0)
+Rookie<END>
+
+//兄弟子<END>
+#JMP($7A562)
+#FIXEDLENGTH(6,0)
+Senior<END>
+
+//町内一の腕っぷし<END>
+#JMP($7A569)
+#FIXEDLENGTH(16,0)
+Town's toughest<END>
+
+//免許皆伝<END>
+#JMP($7A57A)
+#FIXEDLENGTH(8,0)
+Master<END>
+
+//軍団一の強者<END>
+#JMP($7A583)
+#FIXEDLENGTH(12,0)
+Corps' best<END>
+
+//門下生１万人の頭首<END>
+#JMP($7A590)
+#FIXEDLENGTH(18,0)
+Head of 10,000<END>
+
+//マスター・オブ・カエル<END>
+#JMP($7A5A3)
+#FIXEDLENGTH(22,0)
+Master of Frogs<END>
+
+//どんぐりの木<END>
+#JMP($7A5CB)
+#FIXEDLENGTH(12,0)
+Acorn tree<END>
+
+//コスモス畑<END>
+#JMP($7A5D8)
+#FIXEDLENGTH(10,0)
+Cosmos<END>
+
+//いちょう並木<END>
+#JMP($7A5E3)
+#FIXEDLENGTH(12,0)
+Ginkgo row<END>
+
+//つつじの丘<END>
+#JMP($7A5F0)
+#FIXEDLENGTH(10,0)
+Azalea<END>
+
+//おこす<END>
+#JMP($7A5FB)
+#FIXEDLENGTH(6,0)
+Wake<END>
+
+//やめとく<END>
+#JMP($7A602)
+#FIXEDLENGTH(8,0)
+Skip<END>
 

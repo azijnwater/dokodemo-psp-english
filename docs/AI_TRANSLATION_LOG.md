@@ -31,17 +31,18 @@ upstream translation team). Style rules: [STYLE_NOTES.md](STYLE_NOTES.md).
 
 | File | Patch | Strings found in KSC | Human JMPs | AI entries | AI-UNSURE | Skipped (non-text) | Still untranslated (unique) |
 |------|-------|---------------------:|-----------:|-----------:|----------:|-------------------:|----------------------------:|
-| KAERU.KSC (Ricky) | `patches/ricky_messages.txt` | 10,798 | 0 | 7,471 | 16 | 132 | 2,733 |
+| KAERU.KSC (Ricky) | `patches/ricky_messages.txt` | 10,798 | 0 | 9,915 (+252 reused human) | 16 | 169 | 0 |
 | NEKO.KSC (Toro) | — | 14,497 | 844 | 0 | 0 | 0 | 12,326 |
 | ROBO.KSC (Suzuki) | — | 10,003 | 17 | 0 | 0 | 0 | 9,294 |
 | USAGI.KSC (Jun) | — | 10,629 | 13 | 0 | 0 | 0 | 9,762 |
 | INU.KSC (Pierre) | — | 11,522 | 29 | 0 | 0 | 0 | 10,418 |
 
 "AI entries" counts every patched offset (one translation can cover several
-identical strings). Ricky is being translated in file order (dialogue is done; the diary
-entries and remaining word lists are in progress); the next unique string to do is
-the first line of the worklist that has no translation yet. Internal script labels
-such as `におい_43b` are filtered out automatically.
+identical strings). **Ricky is complete** (all detected KAERU.KSC strings are translated, reused from an
+identical human Toro/Jun/Suzuki/Pierre translation, or skipped as non-text). Internal
+script labels such as `におい_43b` are filtered out automatically. Identical Japanese
+strings that already have a human translation in another patch file (mostly diary
+item names shared with Toro) reuse that translation when it fits ("reused human").
 
 ## Notes and problems
 
@@ -60,7 +61,12 @@ such as `におい_43b` are filtered out automatically.
 - **Length limits**: English often does not fit in the Japanese byte length; lines
   were shortened (sometimes dropping the `dasu`/`kero` code, as the human translators
   also do). Some 4-byte proper nouns could not be translated and were left in
-  Japanese: hot-spring names 登別/草津/別府/鬼怒川, スシ, ピザ, 弁当.
+  Japanese: hot-spring names 登別/草津/別府/鬼怒川, スシ, ピザ, 弁当, and a few
+  4-byte place names in reply menus (浅草, 恐山, 鹿島, 八甲田, 桜井, 東京 …). Town
+  signboard texts (KAERU.KSC ~$76700–$773D0) are heavily abbreviated
+  (e.g. "Pachinko$_WORD", "$_WORDShrn").
+- **Skipped as non-text (169 in KAERU.KSC)**: binary noise the extractor picked up,
+  test strings (最大文字数八文字 …) and a few names that cannot be shortened.
 - **Toro diary / messages**: in the current `fix/build-and-docs` base the strings
   after the `// TODO` comment in `patches/toro_diary.txt` already have
   `#JMP`/`#FIXEDLENGTH`; only ~25 commented-only words at the end of the file and
