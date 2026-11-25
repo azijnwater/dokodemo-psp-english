@@ -32,13 +32,13 @@ upstream translation team). Style rules: [STYLE_NOTES.md](STYLE_NOTES.md).
 | File | Patch | Strings found in KSC | Human JMPs | AI entries | AI-UNSURE | Skipped (non-text) | Still untranslated (unique) |
 |------|-------|---------------------:|-----------:|-----------:|----------:|-------------------:|----------------------------:|
 | KAERU.KSC (Ricky) | `patches/ricky_messages.txt` | 10,798 | 0 | 9,915 (+252 reused human) | 16 | 169 | 0 |
-| NEKO.KSC (Toro) | `patches/toro_ai_messages.txt` | 14,497 | 844 | 7,167 (+251 reused human) — in progress, batches 1–25 | 3 | 30 | 6,034 |
+| NEKO.KSC (Toro) | `patches/toro_ai_messages.txt` | 14,497 | 844 | 13,377 (+251 reused human) | 185 | 63 | 0 |
 | ROBO.KSC (Suzuki) | — | 10,003 | 17 | 0 | 0 | 0 | 9,294 |
 | USAGI.KSC (Jun) | — | 10,629 | 13 | 0 | 0 | 0 | 9,762 |
 | INU.KSC (Pierre) | — | 11,522 | 29 | 0 | 0 | 0 | 10,418 |
 
 "AI entries" counts every patched offset (one translation can cover several
-identical strings). **Ricky is complete** (all detected KAERU.KSC strings are translated, reused from an
+identical strings). **Ricky and Toro are complete** (all detected KAERU.KSC strings are translated, reused from an
 identical human Toro/Jun/Suzuki/Pierre translation, or skipped as non-text). Internal
 script labels such as `におい_43b` are filtered out automatically. Identical Japanese
 strings that already have a human translation in another patch file (mostly diary
@@ -72,8 +72,37 @@ item names shared with Toro) reuse that translation when it fits ("reused human"
   `#JMP`/`#FIXEDLENGTH`; only ~25 commented-only words at the end of the file and
   some commented-only lines in `toro_messages.txt` remain. Rather than editing the
   human files, all NEKO.KSC strings without a `#JMP` anywhere are handled by the
-  Toro worklist (patch `patches/toro_ai_messages.txt`, in progress; worklist offsets
-  up to about `$612EC` done).
+  Toro worklist (patch `patches/toro_ai_messages.txt`, complete).
 - **Atlas `#` gotcha**: a script line that starts with `#` is read as an Atlas command
   ("Nonalphabetical character in command"). `gen_patch.py` now never breaks a line in
   front of `#` and rejects text that would start with `#`.
+
+## Toro save coverage
+
+Scope (user decision): everything a player sees in a save where they picked Toro.
+Suzuki (ROBO), Jun (USAGI) and Pierre (INU) are parked until the user has played Toro.
+
+| Phase | What | Status |
+|------|------|--------|
+| 1 | NEKO.KSC (all Toro dialogue, diary/outing/room-item/menu strings) | **done**: 0 untranslated |
+| 2 | NEKO.DIC (Toro's dictionary) | pending |
+| 3 | BOOT.BIN system text | pending |
+| 4 | Other DATA.BP text | pending |
+| 5 | GUI textures with Japanese | pending (report only) |
+
+### Phase 1 notes (NEKO.KSC)
+- 185 entries are marked `// AI-UNSURE` in `patches/toro_ai_messages.txt`. Most are
+  **typed-answer match words**: groups such as ふとん/フトン/布団 or さかな/サカナ that Toro
+  compares against what the player typed. They were translated to the English word
+  (sometimes truncated to fit, e.g. `Chor`, `Mout`). If the English build's keyboard
+  produces different spellings, these matches will not trigger; a human should check
+  them against the keyboard in `patches/boot.txt`.
+- Negative adjective stems (`胸キュンじゃ`, `カワイく` …, KSC ~$97FB7–$98097) are used
+  inside sentence templates; they were translated as full negatives ("Not cute").
+- Speech-ending choices です/でござる/でちゅ ($9DEF2–$9DF00) were romanised
+  (`desu`, `degozaru`, `dechu`).
+- A few single-particle fragments (に, は, を, には, て, も, け, き, め) were left in Japanese
+  (skipped): their use in templates is unclear and English has no equivalent.
+- Signboards, shop names and room-item names are often heavily abbreviated to fit
+  (e.g. `$_WORDTast`, `Shd1`). One item lost its `$_WORD`: "Umbrella" ($93B76).
+- Test strings (最大文字数八文字 …) and binary noise were skipped.
