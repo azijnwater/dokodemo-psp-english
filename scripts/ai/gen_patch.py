@@ -135,6 +135,37 @@ def wrap(text):
     return '[LR]'.join(out)
 
 
+# Catchphrase codes (expanded by the game from a table, with no leading space).
+CODE_RE = r'(?:\[KERO\]|\[NYA\]|<\$17><\$1[789AB]><\$00>)'
+TIC_RE = r'(?:\[KERO\]|<\$17><\$19><\$00>)'   # Ricky's ケロ / ダス
+
+
+def space_codes(en):
+    """Put a space before a catchphrase code that directly follows a word or
+    punctuation, so 'Meanie<dasu>' shows as 'Meanie dasu' (like 'know [NYA]～')."""
+    def rep(m):
+        i = m.start()
+        before = en[:i]
+        if i == 0 or before[-1] == ' ' or before.endswith('[LR]'):
+            return m.group(0)
+        return ' ' + m.group(0)
+    return re.sub(CODE_RE, rep, en)
+
+
+def restore_tic(jp, en):
+    """If the Japanese uses Ricky's kero/dasu codes but the English kept none of
+    them (nor a literal kero/dasu), put the last one back at the end of the
+    final clause. The drop step removes it again if there is no room."""
+    codes = re.findall(TIC_RE, jp)
+    if not codes or re.search(TIC_RE, en) or re.search(r'(?i)(kero|dasu)', en):
+        return en
+    m = re.search(r'([!?…～♪♥.,\s]|\[LR\])*$', en)
+    cut = m.start() if m else len(en)
+    if cut == 0:
+        return en
+    return en[:cut] + ' ' + codes[-1] + en[cut:]
+
+
 def covered(char):
     s = set()
     for f in sorted(glob.glob(os.path.join(ROOT, 'patches', '%s*.txt' % char))):
@@ -227,18 +258,24 @@ def build(char):
         if en == '-':
             nskip += 1
             continue
-        if '[LR]' in t:
-            en = wrap(en)
-        blen, bad = encode_len(en)
+        raw = space_codes(restore_tic(t, en))
+
+        def fit(text):
+            text = wrap(text) if '[LR]' in t else text
+            return (text,) + encode_len(text)
+        en, blen, bad = fit(raw)
         # Like the human translators: if it does not fit, drop catchphrase codes
-        # first, then decorative wave dashes / notes.
-        for pat in (r'\[KERO\]|\[NYA\]|<\$17><\$1[89]><\$00>', r'(?<=\S)[～♪](?=[!?…\[]|$)'):
+        # (and the space in front of them) first, then decorative wave dashes /
+        # notes, then the Haa～ filler code. Done on the unwrapped text.
+        for pat in (r' ?(?:\[KERO\]|\[NYA\]|<\$17><\$1[89]><\$00>)',
+                    r'(?<=\S)[～♪](?=[!?…\[]|$)',
+                    r' ?<\$17><\$1B><\$00> ?'):
             if blen <= ln:
                 break
-            en2 = re.sub(pat, '', en)
-            if en2 != en:
-                en = wrap(en2) if '[LR]' in t else en2
-                blen, bad = encode_len(en)
+            raw2 = re.sub(pat, '', raw)
+            if raw2 != raw:
+                raw = raw2
+                en, blen, bad = fit(raw)
         if bad or blen > ln:
             if src not in reported:
                 reported.add(src)

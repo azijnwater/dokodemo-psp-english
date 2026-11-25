@@ -31,15 +31,17 @@ upstream translation team). Style rules: [STYLE_NOTES.md](STYLE_NOTES.md).
 
 | File | Patch | Strings found in KSC | Human JMPs | AI entries | AI-UNSURE | Skipped (non-text) | Still untranslated (unique) |
 |------|-------|---------------------:|-----------:|-----------:|----------:|-------------------:|----------------------------:|
-| KAERU.KSC (Ricky) | `patches/ricky_messages.txt` | 10,798 | 0 | 3,155 | 9 | 23 | 7,434 |
+| KAERU.KSC (Ricky) | `patches/ricky_messages.txt` | 10,798 | 0 | 7,471 | 16 | 132 | 2,733 |
 | NEKO.KSC (Toro) | — | 14,497 | 844 | 0 | 0 | 0 | 12,326 |
 | ROBO.KSC (Suzuki) | — | 10,003 | 17 | 0 | 0 | 0 | 9,294 |
 | USAGI.KSC (Jun) | — | 10,629 | 13 | 0 | 0 | 0 | 9,762 |
 | INU.KSC (Pierre) | — | 11,522 | 29 | 0 | 0 | 0 | 10,418 |
 
 "AI entries" counts every patched offset (one translation can cover several
-identical strings). Ricky is being translated in file order; the next unique string
-to do is the first line of the worklist that has no translation yet.
+identical strings). Ricky is being translated in file order (dialogue is done; the diary
+entries and remaining word lists are in progress); the next unique string to do is
+the first line of the worklist that has no translation yet. Internal script labels
+such as `におい_43b` are filtered out automatically.
 
 ## Notes and problems
 
@@ -50,8 +52,11 @@ to do is the first line of the worklist that has no translation yet.
   (e.g. 海, 手) are not detected.
 - **Catchphrase codes**: KAERU.KSC uses `17 17 00` … `17 1B 00`. Meanings inferred
   from context (see STYLE_NOTES.md); `<$17><$18><$00>` (61 uses) is still unknown.
-  Ricky's catchphrase table (KAERU.KSC `$6BF54`: オラ/ケロ/ダス/ハァ～) is not yet
-  translated, so the codes still render in Japanese in game.
+  Ricky's catchphrase table (KAERU.KSC `$6BF54`) is translated: ケロ → `kero`,
+  ダス → `dasu`, ハァ～ → `Haa～` (オラ left untranslated, unused). The generator puts a
+  space before each code and restores a dropped kero/dasu when it fits; of 3,620
+  Ricky entries whose Japanese has a kero/dasu code, 2,902 keep the tic in English
+  (the rest had no room).
 - **Length limits**: English often does not fit in the Japanese byte length; lines
   were shortened (sometimes dropping the `dasu`/`kero` code, as the human translators
   also do). Some 4-byte proper nouns could not be translated and were left in

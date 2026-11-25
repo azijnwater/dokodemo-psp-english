@@ -26,11 +26,23 @@ Keep them in roughly the same place as in the Japanese (usually the end of a
 clause, before the punctuation): `おしえて ほしい[NYA]～` → `I want to know [NYA]～`.
 If there is no room, the human translators drop the code; that is acceptable.
 
+Rules enforced by `scripts/ai/gen_patch.py`:
+- **Space before a code.** The table strings have no leading space, so a code glued
+  to a word would show as "Meaniedasu". The generator inserts a space before any
+  catchphrase code that follows a word or punctuation (not after `[LR]`), counted in
+  the byte length.
+- **Keep the tic.** If the Japanese string contains Ricky's `[KERO]` or dasu
+  (`<$17><$19><$00>`) code and the English has neither the code nor a literal
+  "kero"/"dasu", the last code is put back at the end of the final clause
+  (before the closing `!?…～♪♥` and `[LR]`).
+- **Only drop when it doesn't fit**, in this order: kero/dasu codes (with their
+  space), then decorative `～`/`♪`, then the `Haa～` filler code.
+
 Ricky's table at KAERU.KSC `$6BF54`: オラ / ケロ / ダス / ハァ～. Observed usage:
 `[NYA]` (17 17) = オラ "I" (used once), `<$17><$19><$00>` = ダス, `[KERO]` (17 1A) = ケロ,
 `<$17><$1B><$00>` = ハァ～ (a thinking/sighing filler, often alone on a line), `<$17><$18><$00>`
 (rare, question endings) = unknown. AI translation of the table: ケロ → `kero`, ダス → `dasu`,
-ハァ～ → `Haa～`; オラ left as is (unused in the English text).
+ハァ～ → `Haa～` (done, `ai_work/ricky/0000_catchphrases.tsv`); オラ left as is (unused in the English text).
 
 ## Control codes and variables
 - `[LR]` line break. Original strings almost always end with `[LR]`; keep it at the end.
