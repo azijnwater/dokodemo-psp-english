@@ -46735,6 +46735,11 @@ $_WORD's favorite Racket & Boston bag<END>
 #FIXEDLENGTH(12,0)
 Paper bag<END>
 
+//$_WORDの傘<END>
+#JMP($719AB)
+#FIXEDLENGTH(10,0)
+Umbrella<END>
+
 //街のセレブも愛用している $_WORDの晴雨兼用傘<END>
 #JMP($719B6)
 #FIXEDLENGTH(43,0)
@@ -47100,6 +47105,11 @@ Pot of gold coins<END>
 #JMP($7220A)
 #FIXEDLENGTH(50,0)
 Treasure $_WORD's dog sniffed out<END>
+
+//縄文土器<END>
+#JMP($7223D)
+#FIXEDLENGTH(8,0)
+Jomon<END>
 
 //$_WORDが ゴッドハンドで掘り当てたという 縄文土器<END>
 #JMP($72246)
@@ -47836,10 +47846,1350 @@ Hungry, so off to $_WORD<END>
 #FIXEDLENGTH(41,0)
 Where'd you recommend eatin' out, kero?<END>
 
+//$_WORD食堂<END>
+#JMP($733C1)
+#FIXEDLENGTH(10,0)
+$_WORDcafe<END>
+
+//$_WORDがウエイトレスをやってるお店<END>
+#JMP($733CC)
+#FIXEDLENGTH(34,0)
+Shop where $_WORD is a waitress<END>
+
+//だれか女の人、おしえてケロ～<END>
+#JMP($733EF)
+#FIXEDLENGTH(28,0)
+Tell me any woman, kero～<END>
+
+//$_WORDの味<END>
+#JMP($7340C)
+#FIXEDLENGTH(10,0)
+$_WORD-ish<END>
+
+//$_WORDの味、が売りの家庭料理屋さん<END>
+#JMP($73417)
+#FIXEDLENGTH(34,0)
+Home cookin' sellin' $_WORD taste<END>
+
+//$_WORDの手作り料理が食べられるって ウワサの場所に<END>
+#JMP($7343A)
+#FIXEDLENGTH(49,0)
+Where they say $_WORD's home cookin' is served<END>
+
+//$_YOUの好きな職業って なんダスか？<END>
+#JMP($7346C)
+#FIXEDLENGTH(34,0)
+What job does $_YOU like?<END>
+
+//$_WORD料理店<END>
+#JMP($7348F)
+#FIXEDLENGTH(12,0)
+$_WORD food<END>
+
+//本格的な $_WORDの郷土料理が 食べられるお店<END>
+#JMP($7349C)
+#FIXEDLENGTH(42,0)
+Real local $_WORD cookin' served here<END>
+
+//$_WORD旅行した気分を味わいに<END>
+#JMP($734C7)
+#FIXEDLENGTH(28,0)
+To feel like a $_WORD trip<END>
+
+//旅行に行くなら どこが オススメだケロ？<END>
+#JMP($734E4)
+#FIXEDLENGTH(38,0)
+Where'd you suggest travelin', kero?<END>
+
+//すべてのメニューに $_WORDが使われている $_WORD料理専門店<END>
+#JMP($7350B)
+#FIXEDLENGTH(56,0)
+$_WORD restaurant usin' $_WORD in every dish<END>
+
+//喫茶$_WORD<END>
+#JMP($73544)
+#FIXEDLENGTH(10,0)
+Cafe$_WORD<END>
+
+//喫茶店<END>
+#JMP($7354F)
+#FIXEDLENGTH(6,0)
+Cafe<END>
+
+//$_WORD好きの店長が $_WORD好きのために やっている 喫茶店<END>
+#JMP($73556)
+#FIXEDLENGTH(55,0)
+A $_WORD-lovin' owner's cafe for $_WORD fans<END>
+
+//なんでもイイダスから 好きなモノ おしえてケロ？<END>
+#JMP($7358E)
+#FIXEDLENGTH(46,0)
+Tell me anything you like, kero?<END>
+
+//$_WORD喫茶<END>
+#JMP($735BD)
+#FIXEDLENGTH(10,0)
+$_WORDCafe<END>
+
+//$_WORDが心をこめて お茶を入れてくれる喫茶店<END>
+#JMP($735C8)
+#FIXEDLENGTH(43,0)
+Cafe where $_WORD makes tea with love<END>
+
+//$_WORD好きがいっぱい集まる場所に<END>
+#JMP($735F4)
+#FIXEDLENGTH(32,0)
+Where $_WORD fans gather<END>
+
+//$_YOUの好きな職業って なんだケロ？<END>
+#JMP($73615)
+#FIXEDLENGTH(34,0)
+What job does $_YOU like, kero?<END>
+
+//$_WORDカフェ<END>
+#JMP($73638)
+#FIXEDLENGTH(12,0)
+Cafe $_WORD<END>
+
+//$_WORDが 仕事の合い間に ひとやすみする 隠れ家的なお店<END>
+#JMP($73645)
+#FIXEDLENGTH(53,0)
+A hideaway where $_WORD rests on breaks<END>
+
+//$_WORDの話を聞きに<END>
+#JMP($7367B)
+#FIXEDLENGTH(18,0)
+Hear about $_WORD<END>
+
+//$_WORDバー<END>
+#JMP($7368E)
+#FIXEDLENGTH(10,0)
+$_WORD bar<END>
+
+//夜になると $_WORD大会が開かれる オトナの場所<END>
+#JMP($73699)
+#FIXEDLENGTH(44,0)
+Grown-up spot with $_WORD contests at night<END>
+
+//オトナになるために $_WORDしに<END>
+#JMP($736C6)
+#FIXEDLENGTH(29,0)
+To $_WORD and be adult<END>
+
+//オトナっぽい するコトって なんダスか？<END>
+#JMP($736E4)
+#FIXEDLENGTH(38,0)
+What's a grown-up thing to do?<END>
+
+//$_WORDがたまに ライブを開いてくれる 喫茶店<END>
+#JMP($7370B)
+#FIXEDLENGTH(42,0)
+Cafe where $_WORD sometimes plays live<END>
+
+//$_WORDのライブを見に<END>
+#JMP($73736)
+#FIXEDLENGTH(20,0)
+See $_WORD live<END>
+
+//$_YOUの好きな有名人 おしえてケロ？<END>
+#JMP($7374B)
+#FIXEDLENGTH(34,0)
+Tell me a celeb $_YOU likes?<END>
+
+//世界中の いろんな $_WORDが味わえる $_WORDの専門店<END>
+#JMP($7376E)
+#FIXEDLENGTH(49,0)
+$_WORD shop with $_WORD from all over<END>
+
+//会社<END>
+#JMP($737A0)
+#FIXEDLENGTH(4,0)
+Firm<END>
+
+//$_YOUが 働いてる会社<END>
+#JMP($737A5)
+#FIXEDLENGTH(20,0)
+$_YOU's workplace<END>
+
+//$_WORDを見学しに<END>
+#JMP($737BA)
+#FIXEDLENGTH(16,0)
+Tour $_WORD<END>
+
+//世の中には どんな会社が あるダスか？<END>
+#JMP($737CB)
+#FIXEDLENGTH(36,0)
+What kinds of companies are there?<END>
+
+//朝から 晩まで $_WORDで 大忙しの会社<END>
+#JMP($737F9)
+#FIXEDLENGTH(35,0)
+Firm busy with $_WORD dawn to dusk<END>
+
+//お仕事を探しに<END>
+#JMP($7381D)
+#FIXEDLENGTH(14,0)
+Job huntin'<END>
+
+//世の中に出て働く、って どんなコトをするケロ？<END>
+#JMP($7382C)
+#FIXEDLENGTH(45,0)
+What do you do workin' in the world, kero?<END>
+
+//世の中の $_WORDを管理している会社<END>
+#JMP($73865)
+#FIXEDLENGTH(33,0)
+Firm managin' the world's $_WORD<END>
+
+//$_WORDのコトを いろいろ調べに<END>
+#JMP($73887)
+#FIXEDLENGTH(29,0)
+Research $_WORD<END>
+
+//なくなったら困るモノって なんだケロ？<END>
+#JMP($738A5)
+#FIXEDLENGTH(37,0)
+What'd be bad to lose, kero?<END>
+
+//$_WORD派遣<END>
+#JMP($738CB)
+#FIXEDLENGTH(10,0)
+$_WORDTemp<END>
+
+//困ってる人を $_WORDが お助けしてくれる 人材派遣会社<END>
+#JMP($738D6)
+#FIXEDLENGTH(51,0)
+Temp agency where $_WORD helps folks<END>
+
+//$_WORDのお仕事を勉強しに<END>
+#JMP($7390A)
+#FIXEDLENGTH(24,0)
+Study $_WORD work<END>
+
+//世の中のためになる仕事、って どんな職業ダスか？<END>
+#JMP($73923)
+#FIXEDLENGTH(47,0)
+What jobs help the world?<END>
+
+//$_WORD事務所<END>
+#JMP($73953)
+#FIXEDLENGTH(12,0)
+$_WORD Corp<END>
+
+//$_WORDが所属している芸能事務所<END>
+#JMP($73960)
+#FIXEDLENGTH(30,0)
+Agency that manages $_WORD<END>
+
+//$_WORDに会いに<END>
+#JMP($7397F)
+#FIXEDLENGTH(14,0)
+Meet $_WORD<END>
+
+//$_WORD会社<END>
+#JMP($7398E)
+#FIXEDLENGTH(10,0)
+$_WORD Co.<END>
+
+//$_WORD用の道具を いろいろ作ってる会社<END>
+#JMP($73999)
+#FIXEDLENGTH(37,0)
+Firm makin' all kinds of $_WORD tools<END>
+
+//$_WORDをやる前に $_WORDの勉強をしに<END>
+#JMP($739BF)
+#FIXEDLENGTH(35,0)
+Study $_WORD before doin' $_WORD<END>
+
+//遊びでするコトって どんなコトだケロ？<END>
+#JMP($739E3)
+#FIXEDLENGTH(37,0)
+What do you do for fun, kero?<END>
+
+//$_WORDの湯<END>
+#JMP($73A09)
+#FIXEDLENGTH(10,0)
+$_WORD Spa<END>
+
+//銭湯<END>
+#JMP($73A14)
+#FIXEDLENGTH(4,0)
+Bath<END>
+
+//$_WORDがキレイになる温泉が出る銭湯<END>
+#JMP($73A19)
+#FIXEDLENGTH(34,0)
+Bath whose water cleans $_WORD<END>
+
+//$_WORDをキレイにしに<END>
+#JMP($73A3C)
+#FIXEDLENGTH(20,0)
+Clean $_WORD<END>
+
+//体の中で もっとキレイに なりたいのは どの辺ダスか？<END>
+#JMP($73A51)
+#FIXEDLENGTH(51,0)
+What body part do you want cleaner?<END>
+
+//$_WORDで有名な温泉と同じ成分のお湯が出る銭湯<END>
+#JMP($73A85)
+#FIXEDLENGTH(44,0)
+Bathhouse w/ the same water as famed $_WORD<END>
+
+//$_WORD旅行の下見に<END>
+#JMP($73AB2)
+#FIXEDLENGTH(18,0)
+Scout $_WORD trip<END>
+
+//旅行に行くなら どこがおすすめだケロ？<END>
+#JMP($73AC5)
+#FIXEDLENGTH(37,0)
+Where'd you suggest travelin', kero?<END>
+
+//$_WORDの人たちが よく利用する おフロ<END>
+#JMP($73AEB)
+#FIXEDLENGTH(36,0)
+A bath $_WORD folks often use<END>
+
+//世の中には どんなお仕事が あるんダスか？<END>
+#JMP($73B10)
+#FIXEDLENGTH(40,0)
+What kinds of jobs are out there?<END>
+
+//$_WORDスパ<END>
+#JMP($73B39)
+#FIXEDLENGTH(10,0)
+$_WORD Spa<END>
+
+//$_WORDしてアセをかいたら そのまま おフロでアセを流せる施設<END>
+#JMP($73B44)
+#FIXEDLENGTH(58,0)
+Sweat from $_WORD, then rinse it off in the bath<END>
+
+//$_WORDして アセをかきに<END>
+#JMP($73B7F)
+#FIXEDLENGTH(23,0)
+Work up a $_WORD sweat<END>
+
+//スポーツとか 体を動かすコト なんか おしえてケロ？<END>
+#JMP($73B97)
+#FIXEDLENGTH(49,0)
+Tell me a sport or exercise, kero?<END>
+
+//$_WORDプール<END>
+#JMP($73BC9)
+#FIXEDLENGTH(12,0)
+$_WORD Pool<END>
+
+//プール<END>
+#JMP($73BD6)
+#FIXEDLENGTH(6,0)
+Pool<END>
+
+//お湯の中で $_WORDする ダイエット方法をおしえてくれる施設<END>
+#JMP($73BDD)
+#FIXEDLENGTH(56,0)
+Teaches a diet of $_WORD-ing in hot water<END>
+
+//$_WORDしに<END>
+#JMP($73C16)
+#FIXEDLENGTH(10,0)
+Do $_WORD<END>
+
+//今、なんか したいコトあるケロ？<END>
+#JMP($73C21)
+#FIXEDLENGTH(31,0)
+Anything you wanna do, kero?<END>
+
+//$_WORD風呂<END>
+#JMP($73C41)
+#FIXEDLENGTH(10,0)
+$_WORDBath<END>
+
+//望んだトコロが よくなると いわれている $_WORD風呂が 名物の銭湯<END>
+#JMP($73C4C)
+#FIXEDLENGTH(62,0)
+Bathhouse famed for a $_WORD bath that heals any spot<END>
+
+//屋台<END>
+#JMP($73C8B)
+#FIXEDLENGTH(4,0)
+Cart<END>
+
+//100年以上続く ゆいしょ正しい $_WORDの屋台<END>
+#JMP($73C90)
+#FIXEDLENGTH(41,0)
+A proper $_WORD stall over 100 years old<END>
+
+//おいしい $_WORDを探しに<END>
+#JMP($73CBA)
+#FIXEDLENGTH(23,0)
+Find tasty $_WORD<END>
+
+//食べたいモノか 飲みたいモノ、なんか あるケロ？<END>
+#JMP($73CD2)
+#FIXEDLENGTH(46,0)
+Anything you wanna eat or drink, kero?<END>
+
+//$_WORDラーメン<END>
+#JMP($73D01)
+#FIXEDLENGTH(14,0)
+$_WORD Ramen<END>
+
+//ブタの $_WORDの骨から ダシを取ってるという ラーメン屋さん<END>
+#JMP($73D10)
+#FIXEDLENGTH(57,0)
+Ramen shop with stock from pig $_WORD bones<END>
+
+//$_WORDといえば めずらしいお店を見つけたから <END>
+#JMP($73D4A)
+#FIXEDLENGTH(44,0)
+Found a rare shop for $_WORD<END>
+
+//人間の体の一部、なんか おしえてケロ？<END>
+#JMP($73D77)
+#FIXEDLENGTH(37,0)
+Tell me a human body part, kero?<END>
+
+//$_WORD倶楽部<END>
+#JMP($73D9D)
+#FIXEDLENGTH(12,0)
+$_WORD Club<END>
+
+//$_WORDのヒミツ情報を こっそりと交換してる場所<END>
+#JMP($73DAA)
+#FIXEDLENGTH(45,0)
+Where $_WORD secrets get swapped quietly<END>
+
+//$_WORDについて いろいろ調べに<END>
+#JMP($73DD8)
+#FIXEDLENGTH(29,0)
+Research $_WORD<END>
+
+//$_YOUの好きな有名人って だれダスか？<END>
+#JMP($73DF6)
+#FIXEDLENGTH(36,0)
+Who's $_YOU's favorite celeb?<END>
+
+//$_WORD友の会<END>
+#JMP($73E1B)
+#FIXEDLENGTH(12,0)
+$_WORD Fans<END>
+
+//$_WORD好きの人たちが集まる オトナの社交場<END>
+#JMP($73E28)
+#FIXEDLENGTH(41,0)
+Grown-up salon for $_WORD fans<END>
+
+//$_YOUの好きなモノ おしえてほしいケロ～<END>
+#JMP($73E52)
+#FIXEDLENGTH(38,0)
+Tell me what $_YOU likes, kero～<END>
+
+//頑固親父に $_WORDされちゃう フシギな屋台<END>
+#JMP($73E79)
+#FIXEDLENGTH(40,0)
+Odd stall, grumpy old man $_WORDs you<END>
+
+//$_WORDの達人を探しに<END>
+#JMP($73EA2)
+#FIXEDLENGTH(20,0)
+Find a $_WORD master<END>
+
+//必殺技を おしえてほしいケロ～<END>
+#JMP($73EB7)
+#FIXEDLENGTH(29,0)
+Teach me a finisher, kero～<END>
+
+//$_WORDの家<END>
+#JMP($73ED5)
+#FIXEDLENGTH(10,0)
+$_WORD Inn<END>
+
+//疲れた $_WORDが いつのまにか集う ふしぎな屋台<END>
+#JMP($73EE0)
+#FIXEDLENGTH(45,0)
+Odd stall where tired $_WORD gather<END>
+
 //電車<END>
 #JMP($73F17)
 #FIXEDLENGTH(4,0)
 Tram<END>
+
+//$_WORD行きの直通電車<END>
+#JMP($73F1C)
+#FIXEDLENGTH(20,0)
+Train to $_WORD<END>
+
+//電車に乗って $_WORDまで<END>
+#JMP($73F31)
+#FIXEDLENGTH(23,0)
+Train to $_WORD<END>
+
+//電車にのって どこに行くダスか？<END>
+#JMP($73F49)
+#FIXEDLENGTH(31,0)
+Where'll you go by train?<END>
+
+//$_WORD電車<END>
+#JMP($73F69)
+#FIXEDLENGTH(10,0)
+$_WORDLine<END>
+
+//$_WORDが毎日利用している電車<END>
+#JMP($73F74)
+#FIXEDLENGTH(28,0)
+Train $_WORD rides daily<END>
+
+//$_WORDに会えそうな場所に<END>
+#JMP($73F91)
+#FIXEDLENGTH(24,0)
+Might meet $_WORD<END>
+
+//$_YOUの好きな人って だれだケロ？<END>
+#JMP($73FAA)
+#FIXEDLENGTH(32,0)
+Who does $_YOU like, kero?<END>
+
+//特急$_WORD号<END>
+#JMP($73FCB)
+#FIXEDLENGTH(12,0)
+Ltd. $_WORD<END>
+
+//$_WORDマニアで 大人気の電車<END>
+#JMP($73FD8)
+#FIXEDLENGTH(27,0)
+A hit with $_WORD fans<END>
+
+//$_WORDの名前のついた電車が あるらしいから 乗りに<END>
+#JMP($73FF4)
+#FIXEDLENGTH(48,0)
+Ride a train named after $_WORD<END>
+
+//$_YOUの好きなモノ おしえてケロ～<END>
+#JMP($74025)
+#FIXEDLENGTH(32,0)
+Tell me what $_YOU likes～<END>
+
+//快速$_WORD号<END>
+#JMP($74046)
+#FIXEDLENGTH(12,0)
+Rapid $_WORD<END>
+
+//毎朝 $_WORDで満員になる電車<END>
+#JMP($74053)
+#FIXEDLENGTH(27,0)
+Packed with $_WORD daily<END>
+
+//$_WORDを見に<END>
+#JMP($7406F)
+#FIXEDLENGTH(12,0)
+See $_WORD<END>
+
+//人をあらわすコトバって どんなのがあるダスか？<END>
+#JMP($7407C)
+#FIXEDLENGTH(45,0)
+What words describe people?<END>
+
+//$_WORD鉄道<END>
+#JMP($740AA)
+#FIXEDLENGTH(10,0)
+$_WORDRail<END>
+
+//年に一度 $_WORDへ行くという 銀河鉄道<END>
+#JMP($740B5)
+#FIXEDLENGTH(36,0)
+Galaxy train to $_WORD once a year<END>
+
+//$_WORDに行く方法を探しに<END>
+#JMP($740DA)
+#FIXEDLENGTH(24,0)
+How to reach $_WORD<END>
+
+//一度 行ってみたい ユメの場所って どんな場所だケロ？<END>
+#JMP($740F3)
+#FIXEDLENGTH(51,0)
+What dream place do you wanna visit, kero?<END>
+
+//$_WORD電鉄<END>
+#JMP($74127)
+#FIXEDLENGTH(10,0)
+$_WORDLine<END>
+
+//$_WORDのコンサート会場に行くための 専用電車<END>
+#JMP($74132)
+#FIXEDLENGTH(43,0)
+Special train to $_WORD's concert hall<END>
+
+//$_YOUの通ってる学校<END>
+#JMP($74163)
+#FIXEDLENGTH(19,0)
+$_YOU's school<END>
+
+//なんか 学校名を おしえてケロ？<END>
+#JMP($74177)
+#FIXEDLENGTH(30,0)
+Tell me a school name, kero?<END>
+
+//$_WORD教室<END>
+#JMP($74196)
+#FIXEDLENGTH(10,0)
+$_WORDSch.<END>
+
+//$_WORDの上手なやり方を おしえてくれる学校<END>
+#JMP($741A1)
+#FIXEDLENGTH(41,0)
+School teachin' how to $_WORD well<END>
+
+//$_WORDを習いに<END>
+#JMP($741CB)
+#FIXEDLENGTH(14,0)
+Learn $_WORD<END>
+
+//もっと上手になりたいコトって なんダスか？<END>
+#JMP($741DA)
+#FIXEDLENGTH(41,0)
+What do you wanna get better at?<END>
+
+//$_WORD大学<END>
+#JMP($74204)
+#FIXEDLENGTH(10,0)
+$_WORD Uni<END>
+
+//$_WORDのファンが $_WORDについて勉強する学校<END>
+#JMP($7420F)
+#FIXEDLENGTH(43,0)
+School where $_WORD fans study $_WORD<END>
+
+//$_WORDの勉強しに<END>
+#JMP($7423B)
+#FIXEDLENGTH(16,0)
+Study $_WORD<END>
+
+//$_WORD学校<END>
+#JMP($7424C)
+#FIXEDLENGTH(10,0)
+$_WORDSch.<END>
+
+//$_WORDになるための 専門学校<END>
+#JMP($74257)
+#FIXEDLENGTH(27,0)
+Trade school for $_WORD<END>
+
+//$_WORDになる方法を勉強しに<END>
+#JMP($74273)
+#FIXEDLENGTH(26,0)
+Study how to be $_WORD<END>
+
+//あこがれの職業って どんな職業だケロ？<END>
+#JMP($7428E)
+#FIXEDLENGTH(37,0)
+What job do you dream of, kero?<END>
+
+//初心者にもわかるように $_WORDのコトをおしえてくれる場所<END>
+#JMP($742BD)
+#FIXEDLENGTH(55,0)
+Teaches $_WORD so even beginners get it<END>
+
+//もっとよく知りたいコトって なんだケロ？<END>
+#JMP($742F5)
+#FIXEDLENGTH(39,0)
+What do you wanna know more about?<END>
+
+//$_WORDゼミ<END>
+#JMP($7431D)
+#FIXEDLENGTH(10,0)
+$_WORDClub<END>
+
+//名物の $_WORD先生がいる ゆかいなゼミ<END>
+#JMP($74328)
+#FIXEDLENGTH(36,0)
+Fun seminar w/ famed $_WORD-sensei<END>
+
+//校門前<END>
+#JMP($7434D)
+#FIXEDLENGTH(6,0)
+Gate<END>
+
+//$_WORDの校門前<END>
+#JMP($74354)
+#FIXEDLENGTH(14,0)
+$_WORD's gate<END>
+
+//$_WORDの入学願書をもらいに<END>
+#JMP($74363)
+#FIXEDLENGTH(26,0)
+Get a $_WORD application<END>
+
+//$_WORDの学校<END>
+#JMP($7437E)
+#FIXEDLENGTH(12,0)
+$_WORD sch.<END>
+
+//$_WORDのコドモが通ってる学校<END>
+#JMP($7438B)
+#FIXEDLENGTH(28,0)
+School $_WORD's kids go to<END>
+
+//$_YOUの好きな動物って なんダスか？<END>
+#JMP($743A8)
+#FIXEDLENGTH(34,0)
+What animal does $_YOU like?<END>
+
+//$_WORD会場<END>
+#JMP($743CB)
+#FIXEDLENGTH(10,0)
+$_WORDHall<END>
+
+//$_WORDの全国大会の会場<END>
+#JMP($743D6)
+#FIXEDLENGTH(22,0)
+$_WORD nationals<END>
+
+//$_WORDの大会を見学しに<END>
+#JMP($743ED)
+#FIXEDLENGTH(22,0)
+Watch $_WORD contest<END>
+
+//もっと上手になりたいコトって なんだケロ？<END>
+#JMP($74404)
+#FIXEDLENGTH(41,0)
+What do you wanna get better at, kero?<END>
+
+//$_WORDを目指すコドモたちが 全国から集まってくる学校<END>
+#JMP($7442E)
+#FIXEDLENGTH(51,0)
+School where would-be $_WORD kids gather<END>
+
+//$_WORD伝説<END>
+#JMP($74462)
+#FIXEDLENGTH(10,0)
+$_WORDMyth<END>
+
+//好きな人と $_WORDすると ふたりは 恋人同士になれるという伝説の場所<END>
+#JMP($7446D)
+#FIXEDLENGTH(65,0)
+Legendary spot where $_WORD-ing with a crush makes you lovers<END>
+
+//$_WORDの伝説を見に<END>
+#JMP($744AF)
+#FIXEDLENGTH(18,0)
+$_WORD legend<END>
+
+//恋愛に関係ある するコトって なんだケロ？<END>
+#JMP($744C2)
+#FIXEDLENGTH(40,0)
+What do you do for love, kero?<END>
+
+//$_WORD学園<END>
+#JMP($744EB)
+#FIXEDLENGTH(10,0)
+$_WORDAcad<END>
+
+//$_WORDな人しか 絶対入学できないという学園<END>
+#JMP($744F6)
+#FIXEDLENGTH(41,0)
+Academy only $_WORD folks can enter<END>
+
+//家族連れで $_WORDするのに 向いてる 観光名所<END>
+#JMP($7452C)
+#FIXEDLENGTH(43,0)
+Sight good for families to $_WORD<END>
+
+//お外で $_WORDしに<END>
+#JMP($74558)
+#FIXEDLENGTH(17,0)
+$_WORD outside<END>
+
+//みんなで ワイワイするのが 楽しいコトって なんダスか？<END>
+#JMP($7456A)
+#FIXEDLENGTH(53,0)
+What's fun to do with everyone?<END>
+
+//$_WORDの不法投棄が問題になってる川<END>
+#JMP($745A0)
+#FIXEDLENGTH(34,0)
+River troubled by dumped $_WORD<END>
+
+//$_WORDが落ちてるらしいから 探しに<END>
+#JMP($745C3)
+#FIXEDLENGTH(33,0)
+Look for dropped $_WORD<END>
+
+//人間が使うモノで 無いと困るモノって なんだケロ？<END>
+#JMP($745E5)
+#FIXEDLENGTH(48,0)
+What human item can't you do without?<END>
+
+//$_WORDが 水浴びによく来るというウワサの川<END>
+#JMP($74616)
+#FIXEDLENGTH(41,0)
+River where $_WORD bathes, they say<END>
+
+//$_YOUの好きな人って だれケロ？<END>
+#JMP($74640)
+#FIXEDLENGTH(30,0)
+Who does $_YOU like, kero?<END>
+
+//天女が水浴びをしてたら $_WORDを盗まれ 天に帰れなくなったという伝説の川<END>
+#JMP($7465F)
+#FIXEDLENGTH(70,0)
+River where a nymph lost her $_WORD bathin' and couldn't go home<END>
+
+//人間の洋服って どんなのが あるんダスか？<END>
+#JMP($746A6)
+#FIXEDLENGTH(40,0)
+What kinds of human clothes are there?<END>
+
+//$_WORDから生まれた $_WORD太郎の伝説がある川<END>
+#JMP($746CF)
+#FIXEDLENGTH(43,0)
+Legend river of $_WORD Taro, born of $_WORD<END>
+
+//なんか 食べモノおしえてケロ？<END>
+#JMP($746FB)
+#FIXEDLENGTH(29,0)
+Tell me a food, kero?<END>
+
+//$_WORDが よく水を飲みにくるという 川<END>
+#JMP($74719)
+#FIXEDLENGTH(36,0)
+River where $_WORD comes to drink<END>
+
+//屋根の上<END>
+#JMP($74747)
+#FIXEDLENGTH(8,0)
+Rooftop<END>
+
+//$_WORD専用アパートの屋根の上<END>
+#JMP($74750)
+#FIXEDLENGTH(28,0)
+Roof of a $_WORD-only flat<END>
+
+//$_WORDが住んでる場所を探しに<END>
+#JMP($7476D)
+#FIXEDLENGTH(28,0)
+Find where $_WORD lives<END>
+
+//$_WORD家の上<END>
+#JMP($7478A)
+#FIXEDLENGTH(12,0)
+$_WORD roof<END>
+
+//$_WORD家の屋根の上<END>
+#JMP($74797)
+#FIXEDLENGTH(18,0)
+Atop $_WORD's home<END>
+
+//$_WORDのおうちを探しに<END>
+#JMP($747AA)
+#FIXEDLENGTH(22,0)
+Find $_WORD's home<END>
+
+//$_YOUの好きな人って だれダスか？<END>
+#JMP($747C1)
+#FIXEDLENGTH(32,0)
+Who does $_YOU like?<END>
+
+//$_WORDアパート<END>
+#JMP($747E2)
+#FIXEDLENGTH(14,0)
+$_WORD Flats<END>
+
+//$_WORDを目指してる人たちに 格安で 貸してくれる 良心的なアパート<END>
+#JMP($747F1)
+#FIXEDLENGTH(63,0)
+Kind flats rented cheap to folks aimin' to be $_WORD<END>
+
+//メゾン$_WORD<END>
+#JMP($74831)
+#FIXEDLENGTH(12,0)
+Maison$_WORD<END>
+
+//$_WORDが住んでる 超高級マンションの屋根の上<END>
+#JMP($7483E)
+#FIXEDLENGTH(43,0)
+Roof of $_WORD's super-luxury condo<END>
+
+//金持ちって感じで ゴージャスな人たちって どんな人たちだケロ？<END>
+#JMP($7486A)
+#FIXEDLENGTH(60,0)
+What kind of folks are rich and gorgeous, kero?<END>
+
+//$_WORDの館<END>
+#JMP($748A7)
+#FIXEDLENGTH(10,0)
+$_WORDHall<END>
+
+//「$_WORD星人」が住んでるという ウワサのアパート<END>
+#JMP($748B2)
+#FIXEDLENGTH(47,0)
+Flats where "$_WORDians" live, they say<END>
+
+//「$_WORD星人」って 宇宙人がいるらしいから 探しに<END>
+#JMP($748E2)
+#FIXEDLENGTH(48,0)
+Find the alien "$_WORDians"<END>
+
+//$_YOUにとって 胸キュンって なんダスか？<END>
+#JMP($74913)
+#FIXEDLENGTH(39,0)
+What makes $_YOU's heart flutter?<END>
+
+//$_WORDが 昔住んでいたという話の アパート<END>
+#JMP($7493B)
+#FIXEDLENGTH(40,0)
+Flats $_WORD once lived in, they say<END>
+
+//$_WORD祭り<END>
+#JMP($74964)
+#FIXEDLENGTH(10,0)
+$_WORDFest<END>
+
+//$_WORDの お祭りに<END>
+#JMP($7499D)
+#FIXEDLENGTH(17,0)
+$_WORD festival<END>
+
+//$_YOUが 大好きで クセになっちゃうモノって なんだケロ？<END>
+#JMP($749AF)
+#FIXEDLENGTH(54,0)
+What's $_YOU hooked on, kero?<END>
+
+//$_WORD神社<END>
+#JMP($749E6)
+#FIXEDLENGTH(10,0)
+$_WORDShrn<END>
+
+//$_WORDとの縁結びをしてくれる神社<END>
+#JMP($749F1)
+#FIXEDLENGTH(32,0)
+Shrine for love luck with $_WORD<END>
+
+//$_WORDと おつきあいできるように おいのりに<END>
+#JMP($74A12)
+#FIXEDLENGTH(42,0)
+Pray to date $_WORD<END>
+
+//つきあってみたい 有名人って だれだケロ？<END>
+#JMP($74A3D)
+#FIXEDLENGTH(40,0)
+What celeb would you date, kero?<END>
+
+//$_WORDに なりたい人が 全国から 集まってくる神社<END>
+#JMP($74A66)
+#FIXEDLENGTH(47,0)
+Shrine where would-be $_WORD gather<END>
+
+//$_WORDになれるよう おいのりに<END>
+#JMP($74A96)
+#FIXEDLENGTH(29,0)
+Pray to become $_WORD<END>
+
+//古くなった $_WORDを 供養してくれる場所<END>
+#JMP($74AB4)
+#FIXEDLENGTH(38,0)
+Where old $_WORD get memorialized<END>
+
+//$_WORDを大切にしてる人が集まる場所<END>
+#JMP($74ADB)
+#FIXEDLENGTH(34,0)
+Where $_WORD lovers gather<END>
+
+//$_YOUが昔から 使ってるモノって なんだケロ？<END>
+#JMP($74AFE)
+#FIXEDLENGTH(43,0)
+What has $_YOU used for ages, kero?<END>
+
+//$_WORDの交通安全を おいのりする神社<END>
+#JMP($74B2A)
+#FIXEDLENGTH(35,0)
+Shrine for $_WORD traffic safety<END>
+
+//$_WORDに乗る前に おいのりに<END>
+#JMP($74B4E)
+#FIXEDLENGTH(27,0)
+Pray before ridin' $_WORD<END>
+
+//ロボットとか 乗りモノとか、人間が乗るモノってなんだケロ？<END>
+#JMP($74B6A)
+#FIXEDLENGTH(57,0)
+What do humans ride, robots or vehicles, kero?<END>
+
+//無病息災を祈願して $_WORDと $_WORDをぶつけあう 古くから伝わるお祭り<END>
+#JMP($74BA4)
+#FIXEDLENGTH(67,0)
+Old festival bashin' $_WORD and $_WORD for good health<END>
+
+//$_WORDと言えば お祭りがあるらしいから 見学しに<END>
+#JMP($74BE8)
+#FIXEDLENGTH(46,0)
+See the $_WORD festival<END>
+
+//おいのりすると 絶対 $_WORDが治ると ウワサの神社<END>
+#JMP($74C17)
+#FIXEDLENGTH(47,0)
+Shrine said to surely cure $_WORD<END>
+
+//もうすぐ $_WORDの収穫が近い畑<END>
+#JMP($74C53)
+#FIXEDLENGTH(29,0)
+Field near $_WORD harvest<END>
+
+//大好物の 食べモノって なんだケロ？<END>
+#JMP($74C71)
+#FIXEDLENGTH(34,0)
+What's your favorite food, kero?<END>
+
+//昔ながらの方法で 無農薬の $_WORDを育てている畑<END>
+#JMP($74C94)
+#FIXEDLENGTH(46,0)
+Field growin' organic $_WORD the old way<END>
+
+//体にイイ $_WORDを探しに<END>
+#JMP($74CC3)
+#FIXEDLENGTH(23,0)
+Find healthy $_WORD<END>
+
+//体にイイ 食べモノって なんだケロ？<END>
+#JMP($74CDB)
+#FIXEDLENGTH(34,0)
+What food is healthy, kero?<END>
+
+//$_WORD遺跡<END>
+#JMP($74CFE)
+#FIXEDLENGTH(10,0)
+$_WORDRuin<END>
+
+//何百年前もの $_WORDが 土の中から出てきたという畑<END>
+#JMP($74D09)
+#FIXEDLENGTH(48,0)
+Field where old $_WORD was dug up<END>
+
+//大昔の $_WORDが発掘されたという場所<END>
+#JMP($74D3A)
+#FIXEDLENGTH(35,0)
+Where ancient $_WORD was dug up<END>
+
+//$_YOUが 今欲しい品物って なんだケロ？<END>
+#JMP($74D5E)
+#FIXEDLENGTH(37,0)
+What does $_YOU want now, kero?<END>
+
+//世界で初めての 農業用$_WORDが 耕してる畑<END>
+#JMP($74D84)
+#FIXEDLENGTH(40,0)
+Field plowed by the 1st farm $_WORD<END>
+
+//働く$_WORDが あるらしいから 見学しに<END>
+#JMP($74DAD)
+#FIXEDLENGTH(36,0)
+See a workin' $_WORD<END>
+
+//ロボットとか 乗りモノとか、人間が乗るモノ おしえてケロ？<END>
+#JMP($74DD2)
+#FIXEDLENGTH(56,0)
+Tell me somethin' humans ride, kero?<END>
+
+//$_WORD農場<END>
+#JMP($74E0B)
+#FIXEDLENGTH(10,0)
+$_WORDFarm<END>
+
+//$_WORDを利用して 害虫退治をするという $_WORD農法を 取り入れてる畑<END>
+#JMP($74E16)
+#FIXEDLENGTH(65,0)
+Field usin' $_WORD farming: $_WORD eats pests<END>
+
+//働く$_WORDが いるらしいから 見学しに<END>
+#JMP($74E58)
+#FIXEDLENGTH(36,0)
+See workin' $_WORD<END>
+
+//$_YOUの好きな動物って なんだケロ？<END>
+#JMP($74E7D)
+#FIXEDLENGTH(34,0)
+What animal does $_YOU like, kero?<END>
+
+//$_WORD御用達の 農家の畑<END>
+#JMP($74EA0)
+#FIXEDLENGTH(23,0)
+Farm supplyin' $_WORD<END>
+
+//$_WORDの滝<END>
+#JMP($74EB8)
+#FIXEDLENGTH(10,0)
+$_WORDFall<END>
+
+//$_WORDを落とすと女神があらわれて 金と銀の $_WORDがもらえる 伝説の滝<END>
+#JMP($74EC6)
+#FIXEDLENGTH(67,0)
+Drop $_WORD in and a goddess gives gold & silver $_WORD<END>
+
+//$_YOUの お気に入りのモノ おしえてケロ？<END>
+#JMP($74F0A)
+#FIXEDLENGTH(39,0)
+Tell me $_YOU's favorite thing, kero?<END>
+
+//$_WORDの水<END>
+#JMP($74F32)
+#FIXEDLENGTH(10,0)
+$_WORDAqua<END>
+
+//ここの滝に うたれると $_WORDの病気やケガが 治ると言われてる伝説の滝<END>
+#JMP($74F3D)
+#FIXEDLENGTH(67,0)
+Legendary falls said to heal $_WORD's ills<END>
+
+//$_WORDと言えば 伝説があるらしいから そこに<END>
+#JMP($74F81)
+#FIXEDLENGTH(42,0)
+See the $_WORD legend<END>
+
+//$_WORD修行場<END>
+#JMP($74FAC)
+#FIXEDLENGTH(12,0)
+$_WORD Dojo<END>
+
+//滝にうたれながら $_WORDの特訓ができる場所<END>
+#JMP($74FB9)
+#FIXEDLENGTH(41,0)
+Train $_WORD under a waterfall<END>
+
+//$_WORDの特訓をしに<END>
+#JMP($74FE3)
+#FIXEDLENGTH(18,0)
+Train $_WORD<END>
+
+//$_YOUが もっと上手になりたいコトって なんダスか？<END>
+#JMP($74FF6)
+#FIXEDLENGTH(49,0)
+What does $_YOU wanna improve at?<END>
+
+//$_WORD桃源郷<END>
+#JMP($75028)
+#FIXEDLENGTH(12,0)
+$_WORD Eden<END>
+
+//$_WORDで 骨抜きにされてしまうという エッチな幻が見られる伝説の場所<END>
+#JMP($75035)
+#FIXEDLENGTH(66,0)
+Legendary spot with naughty visions of $_WORD<END>
+
+//エッチなモノって なんダスか？<END>
+#JMP($75078)
+#FIXEDLENGTH(29,0)
+What's naughty?<END>
+
+//徳川の隠し財産 $_WORDが埋められてるという伝説のある場所<END>
+#JMP($75096)
+#FIXEDLENGTH(55,0)
+Legend says shogun treasure $_WORD is buried here<END>
+
+//宝物というか すごく高価なモノって なんだケロ？<END>
+#JMP($750CE)
+#FIXEDLENGTH(46,0)
+What's a treasure, or real pricey thing?<END>
+
+//$_WORDで 滝下りすることができる 有名な観光地<END>
+#JMP($750FD)
+#FIXEDLENGTH(44,0)
+Famous spot to shoot rapids by $_WORD<END>
+
+//$_WORD工場<END>
+#JMP($7512A)
+#FIXEDLENGTH(10,0)
+$_WORD Fac<END>
+
+//工事現場<END>
+#JMP($75135)
+#FIXEDLENGTH(8,0)
+Site<END>
+
+//$_WORD工場が 作られる予定地<END>
+#JMP($7513E)
+#FIXEDLENGTH(27,0)
+Future $_WORD factory site<END>
+
+//$_WORDが どこで作られてるか 調べに<END>
+#JMP($7515A)
+#FIXEDLENGTH(34,0)
+See where $_WORD is made<END>
+
+//人間の使うモノで 高価なモノって なんだケロ？<END>
+#JMP($7517D)
+#FIXEDLENGTH(44,0)
+What human things are pricey, kero?<END>
+
+//$_WORDビル<END>
+#JMP($751AA)
+#FIXEDLENGTH(10,0)
+$_WORDBldg<END>
+
+//大型娯楽施設「$_WORD専用」ビルの建設予定地<END>
+#JMP($751B5)
+#FIXEDLENGTH(42,0)
+Site of a "$_WORD-only" leisure tower<END>
+
+//$_WORDが できるビルが建つらしいから 見に<END>
+#JMP($751E0)
+#FIXEDLENGTH(40,0)
+See the new $_WORD tower<END>
+
+//遊びでするコトって どんなコトダスか？<END>
+#JMP($75209)
+#FIXEDLENGTH(37,0)
+What do you do for fun?<END>
+
+//$_WORDの事故現場<END>
+#JMP($7522F)
+#FIXEDLENGTH(16,0)
+$_WORD wreck<END>
+
+//巨大$_WORDが 大爆発した事故現場<END>
+#JMP($75240)
+#FIXEDLENGTH(31,0)
+Where a giant $_WORD blew up<END>
+
+//$_WORDと言えば、大変なコトがあったから 見に<END>
+#JMP($75260)
+#FIXEDLENGTH(43,0)
+See the big $_WORD incident<END>
+
+//人間の使うモノ なんか おしえてケロ？<END>
+#JMP($7528C)
+#FIXEDLENGTH(36,0)
+Tell me a human item, kero?<END>
+
+//地下$_WORD<END>
+#JMP($752B1)
+#FIXEDLENGTH(10,0)
+$_WORDDeep<END>
+
+//$_WORDのための 地下都市が 建設されてる場所<END>
+#JMP($752BC)
+#FIXEDLENGTH(42,0)
+Underground city bein' built for $_WORD<END>
+
+//$_WORDのための工事をしてるらしいから 見に<END>
+#JMP($752E7)
+#FIXEDLENGTH(41,0)
+See the $_WORD construction<END>
+
+//なんか 職業をおしえてほしいダス<END>
+#JMP($75311)
+#FIXEDLENGTH(31,0)
+Tell me a job, dasu<END>
+
+//$_WORD王国<END>
+#JMP($75331)
+#FIXEDLENGTH(10,0)
+$_WORDLand<END>
+
+//$_WORDのための $_WORD王国が建設されてる場所<END>
+#JMP($7533C)
+#FIXEDLENGTH(43,0)
+Site of $_WORD Kingdom for $_WORD<END>
+
+//$_WORDの強さを勉強しに<END>
+#JMP($75368)
+#FIXEDLENGTH(22,0)
+Study $_WORD's power<END>
+
+//強い人って どんな人ダスか？<END>
+#JMP($7537F)
+#FIXEDLENGTH(27,0)
+What makes someone strong?<END>
+
+//$_WORDが 新しく自社ビルを建てる予定の 場所<END>
+#JMP($7539B)
+#FIXEDLENGTH(42,0)
+Site of $_WORD's new HQ<END>
+
+//日本最強というウワサの 子連れ $_WORDが 昔、修行してたという川<END>
+#JMP($753C6)
+#FIXEDLENGTH(61,0)
+River where Japan's strongest lone $_WORD trained<END>
+
+//$_WORDとの戦いに そなえて 修行しに<END>
+#JMP($75404)
+#FIXEDLENGTH(34,0)
+Train for the fight with $_WORD<END>
+
+//昔、おさない $_WORDが 流れ着いたという川<END>
+#JMP($7542F)
+#FIXEDLENGTH(40,0)
+River little $_WORD washed up at<END>
+
+//$_WORDの 生まれ故郷を見に<END>
+#JMP($75458)
+#FIXEDLENGTH(25,0)
+See $_WORD's hometown<END>
+
+//川辺で「$_WORD！」と叫ぶと 願いがかなうという ウワサの川<END>
+#JMP($75472)
+#FIXEDLENGTH(56,0)
+River where yellin' "$_WORD!" grants wishes<END>
+
+//この前<END>
+#JMP($754AB)
+#FIXEDLENGTH(6,0)
+Lately<END>
+
+//さっき<END>
+#JMP($754B2)
+#FIXEDLENGTH(6,0)
+Recent<END>
+
+//ちょっと前<END>
+#JMP($754B9)
+#FIXEDLENGTH(10,0)
+A bit ago<END>
+
+//きのう<END>
+#JMP($754C4)
+#FIXEDLENGTH(6,0)
+Yday<END>
+
+//２、３日前<END>
+#JMP($754CB)
+#FIXEDLENGTH(10,0)
+Days ago<END>
+
+//ダメダメしい<END>
+#JMP($754D6)
+#FIXEDLENGTH(12,0)
+Hopeless<END>
+
+//ツラい<END>
+#JMP($754E3)
+#FIXEDLENGTH(6,0)
+Hard<END>
+
+//サムい<END>
+#JMP($754EA)
+#FIXEDLENGTH(6,0)
+Lame<END>
+
+//男前<END>
+#JMP($754F1)
+#FIXEDLENGTH(4,0)
+Cool<END>
+
+//ストロング<END>
+#JMP($754F6)
+#FIXEDLENGTH(10,0)
+Strong<END>
+
+//ハイパー<END>
+#JMP($75501)
+#FIXEDLENGTH(8,0)
+Hyper<END>
+
+//スペシャル<END>
+#JMP($7550A)
+#FIXEDLENGTH(10,0)
+Special<END>
 
 //男の人<END>
 #JMP($755BF)
