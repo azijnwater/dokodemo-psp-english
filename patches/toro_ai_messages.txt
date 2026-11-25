@@ -53602,125 +53602,1591 @@ I spilled it![LR]<END>
 #FIXEDLENGTH(18,0)
 Nyaa♥ Nyaa♥[LR]<END>
 
+//こーふん する[NYA]～[LR]<END>
+#JMP($7D7B2)
+#FIXEDLENGTH(19,0)
+So excitin'[LR]
+[NYA]～[LR]<END>
+
 //うにゃ～[LR]<END>
 #JMP($7D7D0)
 #FIXEDLENGTH(9,0)
 Unyaa～[LR]<END>
+
+//びっくり した[NYA]！[LR]<END>
+#JMP($7D7DB)
+#FIXEDLENGTH(19,0)
+What a shock[LR]
+[NYA]![LR]<END>
 
 //でも～[LR]<END>
 #JMP($7D7F9)
 #FIXEDLENGTH(7,0)
 But～[LR]<END>
 
+//ちょっと ウソっぽい[NYA]…[LR]<END>
+#JMP($7D802)
+#FIXEDLENGTH(25,0)
+Kinda fishy[LR]
+[NYA]…[LR]<END>
+
 //あっ！[LR]<END>
 #JMP($7D826)
 #FIXEDLENGTH(7,0)
 Ah![LR]<END>
+
+//[WORD0]が 言ったなんて ヒミツだよ！[LR]<END>
+#JMP($7D840)
+#FIXEDLENGTH(34,0)
+Don't tell[LR]
+[WORD0] said[LR]
+it![LR]<END>
+
+//うにゃ～[LR]すごい[NYA]～[LR]<END>
+#JMP($7D86D)
+#FIXEDLENGTH(21,0)
+Unyaa～[LR]
+Amazin'～[LR]<END>
+
+//ドキドキしちゃう[NYA]♥[LR]<END>
+#JMP($7D884)
+#FIXEDLENGTH(22,0)
+My heart's[LR]
+poundin'♥[LR]<END>
+
+//あのね！[LR]<END>
+#JMP($7D8AD)
+#FIXEDLENGTH(9,0)
+So![LR]<END>
 
 //[WORD0]って…[LR]<END>
 #JMP($7D8B8)
 #FIXEDLENGTH(12,0)
 [WORD0]…[LR]<END>
 
+//[WORD1]んだって！<END>
+#JMP($7D8DA)
+#FIXEDLENGTH(15,0)
+They [WORD1]!<END>
+
+//[WORD1]らしい[NYA]！<END>
+#JMP($7D8EF)
+#FIXEDLENGTH(16,0)
+They [WORD1] [NYA]!<END>
+
+//なんか…ユメ見てた…[LR]<END>
+#JMP($7D94B)
+#FIXEDLENGTH(21,0)
+I was… dreamin'…[LR]<END>
+
+//それは おいといて！[LR]<END>
+#JMP($7D96B)
+#FIXEDLENGTH(20,0)
+Anyway, never[LR]
+mind![LR]<END>
+
+//今日は [WORD4]の おたんじょう日[NYA]♥[LR]<END>
+#JMP($7DA36)
+#FIXEDLENGTH(35,0)
+Today's[LR]
+[WORD4]'s[LR]
+birthday [NYA]♥[LR]<END>
+
+//[WORD2]月 [WORD3]日かぁ<END>
+#JMP($7DA5F)
+#FIXEDLENGTH(19,0)
+[WORD2]/[WORD3], huh<END>
+
+//ハッピーバースデー[LR][WORD4]～♪[LR]<END>
+#JMP($7DA85)
+#FIXEDLENGTH(29,0)
+Happy birthday[LR]
+[WORD4]～♪[LR]<END>
+
+//ハッピーバースデー[LR][WORD4]～♪[LR]<END>
+#JMP($7DAAC)
+#FIXEDLENGTH(29,0)
+Happy birthday[LR]
+[WORD4]～♪[LR]<END>
+
+//おめでと～！[LR]<END>
+#JMP($7DAD2)
+#FIXEDLENGTH(13,0)
+Congrats～![LR]<END>
+
+//ケーキに ろうそくを [VAR0]本 立てるの[NYA]！[LR]<END>
+#JMP($7DAEA)
+#FIXEDLENGTH(40,0)
+Put [VAR0][LR]
+candles on the[LR]
+cake [NYA]![LR]<END>
+
+//[WORD1]にも ろうそく 立てるの[NYA]！[LR]<END>
+#JMP($7DB1D)
+#FIXEDLENGTH(33,0)
+Candles on[LR]
+[WORD1] too[LR]
+[NYA]![LR]<END>
+
+//なんだか お祝いの日って ウキウキ しちゃう[NYA]♥[LR]<END>
+#JMP($7DB49)
+#FIXEDLENGTH(47,0)
+Celebration[LR]
+days make me[LR]
+giddy [NYA]♥[LR]<END>
+
+//今日は 元旦なの[NYA]！[LR]<END>
+#JMP($7DB9E)
+#FIXEDLENGTH(21,0)
+It's New Year's[LR]
+[NYA]![LR]<END>
+
+//あけまして おめでとう ございます[NYA][LR]<END>
+#JMP($7DBBE)
+#FIXEDLENGTH(36,0)
+Happy New Year[LR]
+[NYA][LR]<END>
+
+//今日 [WORD0]したら～[LR]<END>
+#JMP($7DBF8)
+#FIXEDLENGTH(19,0)
+If you [WORD0][LR]
+today[LR]<END>
+
+//「初[VAR0]」に なるの[NYA]！[LR]<END>
+#JMP($7DC0D)
+#FIXEDLENGTH(24,0)
+the year's 1st[LR]
+[VAR0] [NYA]![LR]<END>
+
+//なんだか 初めての [WORD0]って 感じで 胸キュン[NYA]♥[LR]<END>
+#JMP($7DC30)
+#FIXEDLENGTH(49,0)
+Feels like a[LR]
+first-ever[LR]
+[WORD0], heart[LR]
+flutter♥[LR]<END>
+
+//南極に おいてけぼりに された タロと ジロって イヌが…[LR]<END>
+#JMP($7DC8C)
+#FIXEDLENGTH(54,0)
+Taro and Jiro,[LR]
+dogs left behind[LR]
+in Antarctica…[LR]<END>
+
+//人間と また出会えた ステキな日[NYA]♥<END>
+#JMP($7DCCD)
+#FIXEDLENGTH(35,0)
+met humans again on a lovely day♥<END>
+
+//[WORD1]も [WORD0]とかで 迷子に なって…[LR]<END>
+#JMP($7DD0B)
+#FIXEDLENGTH(36,0)
+If [WORD1] got[LR]
+lost at[LR]
+[WORD0]…[LR]<END>
+
+//[WORD1]と 再び 出会えたら～[LR]<END>
+#JMP($7DD39)
+#FIXEDLENGTH(26,0)
+and met[LR]
+[WORD1] again～[LR]<END>
+
+//その日が[LR]「[VAR1]の日」に なるのか[NYA]～[LR]<END>
+#JMP($7DD66)
+#FIXEDLENGTH(37,0)
+would that day[LR]
+be[LR]
+"[VAR1] Day"[LR]
+[NYA]～[LR]<END>
+
+//オニは～ 外！[LR]<END>
+#JMP($7DDB6)
+#FIXEDLENGTH(14,0)
+Demons～ out![LR]<END>
+
+//[WORD0]も～ 外！[LR]<END>
+#JMP($7DDC6)
+#FIXEDLENGTH(15,0)
+[WORD0]～ out![LR]<END>
+
+//豆をまいて イヤなものを <END>
+#JMP($7DDE0)
+#FIXEDLENGTH(24,0)
+Throw beans, chase bad<END>
+
+//追っぱらう日[NYA]！[LR]<END>
+#JMP($7DE00)
+#FIXEDLENGTH(18,0)
+away today[LR]
+[NYA]![LR]<END>
+
+//今日は…[LR]バレンタインの日 [NYA]♥<END>
+#JMP($7DE3D)
+#FIXEDLENGTH(31,0)
+Today…[LR]
+is Valentine's[LR]
+[NYA]♥<END>
+
+//チョコレート 食べながら こくはく する日 なんだ[NYA]！[LR]<END>
+#JMP($7DE6F)
+#FIXEDLENGTH(52,0)
+You confess[LR]
+love eatin'[LR]
+chocolate [NYA]![LR]<END>
+
+//でも あんまり チョコレート 食べすぎると…[LR]<END>
+#JMP($7DEAE)
+#FIXEDLENGTH(42,0)
+But too much[LR]
+chocolate…[LR]<END>
+
+//鼻血や [VAR0]血が出て 失恋しちゃうの[NYA]～[LR]<END>
+#JMP($7DEE0)
+#FIXEDLENGTH(39,0)
+nosebleeds,[LR]
+[VAR0] bleeds,[LR]
+heartbreak～[LR]<END>
+
+//ニャン（２）[LR]ニャン（２）[LR]ニャン（２）[LR]<END>
+#JMP($7DF1D)
+#FIXEDLENGTH(39,0)
+Nyan (2)[LR]
+Nyan (2)[LR]
+Nyan (2)[LR]<END>
+
+//だからなの[NYA]！[LR]<END>
+#JMP($7DF46)
+#FIXEDLENGTH(16,0)
+that's why[LR]
+[NYA]![LR]<END>
+
 //でも…[LR]<END>
 #JMP($7DF61)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//「みャ」って鳴く ネコさんは…[LR]<END>
+#JMP($7DF6A)
+#FIXEDLENGTH(30,0)
+Cats that go[LR]
+"myah"…[LR]<END>
+
+//なかまハズレ なのか[NYA]…？[LR]<END>
+#JMP($7DF90)
+#FIXEDLENGTH(27,0)
+are left out[LR]
+[NYA]…?[LR]<END>
+
+//今日は…[LR]おひなさまの日なの[NYA]♥<END>
+#JMP($7DFFF)
+#FIXEDLENGTH(32,0)
+Today…[LR]
+is Girls' Day[LR]
+[NYA]♥<END>
+
+//[WORD0]の 顔した お内裏様と～[LR]<END>
+#JMP($7E032)
+#FIXEDLENGTH(28,0)
+Emperor doll,[LR]
+[WORD0] face～[LR]<END>
+
+//[WORD1]の 顔した おひなさま！[LR]<END>
+#JMP($7E050)
+#FIXEDLENGTH(28,0)
+empress,[LR]
+[WORD1] face![LR]<END>
+
+//それから それから…[LR]<END>
+#JMP($7E077)
+#FIXEDLENGTH(20,0)
+And, and…[LR]<END>
+
+//白い[VAR2]を 飲む日なの[NYA]♥[LR]<END>
+#JMP($7E096)
+#FIXEDLENGTH(26,0)
+you drink white[LR]
+[VAR2] [NYA]♥[LR]<END>
+
+//今日は…[LR]ホワイトデーなの[NYA]♥<END>
+#JMP($7E0C4)
+#FIXEDLENGTH(30,0)
+Today…[LR]
+is White Day[LR]
+[NYA]♥<END>
+
+//バレンタインの お返し もらった？<END>
+#JMP($7E106)
+#FIXEDLENGTH(32,0)
+Got a Valentine's return gift?<END>
+
+//バレンタインの お返し した？<END>
+#JMP($7E140)
+#FIXEDLENGTH(28,0)
+Gave a White Day gift back?<END>
+
+//わー♥[LR]<END>
+#JMP($7E183)
+#FIXEDLENGTH(7,0)
+Wow♥[LR]<END>
+
+//ステキだ[NYA]♥[LR]<END>
+#JMP($7E18C)
+#FIXEDLENGTH(14,0)
+Lovely [NYA]♥[LR]<END>
+
+//来年は [WORD1]も 人間に なってるから～[LR]<END>
+#JMP($7E1AD)
+#FIXEDLENGTH(37,0)
+Next year[LR]
+[WORD1] will be[LR]
+human～[LR]<END>
+
+//ホワイトデー 楽しみ[NYA]！[LR]<END>
+#JMP($7E1D4)
+#FIXEDLENGTH(25,0)
+White Day, can't[LR]
+wait![LR]<END>
 
 //ありゃあ…[LR]<END>
 #JMP($7E200)
 #FIXEDLENGTH(11,0)
 Oh my…[LR]<END>
 
+//残念だ[NYA]～[LR]<END>
+#JMP($7E21E)
+#FIXEDLENGTH(12,0)
+Too bad～[LR]<END>
+
+//ダメだよ～[LR]お返し ちゃんと しないと～[LR]<END>
+#JMP($7E230)
+#FIXEDLENGTH(38,0)
+No good～[LR]
+You gotta give[LR]
+back～[LR]<END>
+
 //えっと～[LR]<END>
 #JMP($7E269)
 #FIXEDLENGTH(9,0)
 Um～[LR]<END>
+
+//悪いコト 聞いちゃったか[NYA]～？[LR]<END>
+#JMP($7E274)
+#FIXEDLENGTH(31,0)
+Did I ask[LR]
+somethin' bad[LR]
+[NYA]～?[LR]<END>
+
+//今の はなしは なかったコトに…[LR]<END>
+#JMP($7E29E)
+#FIXEDLENGTH(31,0)
+Forget I said[LR]
+that…[LR]<END>
+
+//今日は…[LR]エイプリルフールで ウソをつく日なんだって～[LR]<END>
+#JMP($7E2EE)
+#FIXEDLENGTH(53,0)
+Today…[LR]
+is April Fools', a[LR]
+day for lies～[LR]<END>
+
+//あのね 大変[NYA]！[LR]<END>
+#JMP($7E336)
+#FIXEDLENGTH(17,0)
+Hey, big news![LR]<END>
+
+//[WORD0]は 宇宙人なの[NYA]！<END>
+#JMP($7E349)
+#FIXEDLENGTH(23,0)
+[WORD0] is an alien [NYA]!<END>
+
+//とかの すごい ウソには 気をつけて[NYA]！[LR]<END>
+#JMP($7E37B)
+#FIXEDLENGTH(39,0)
+Beware big lies[LR]
+like that [NYA]![LR]<END>
+
+//えー!?[LR]<END>
+#JMP($7E3AE)
+#FIXEDLENGTH(7,0)
+Eh!?[LR]<END>
+
+//わ～[LR]<END>
+#JMP($7E3C0)
+#FIXEDLENGTH(5,0)
+Wow[LR]<END>
+
+//エイプリルフールの ウソかと思ったら～[LR]<END>
+#JMP($7E3C7)
+#FIXEDLENGTH(38,0)
+I thought it was[LR]
+an April Fools'[LR]
+lie[LR]<END>
+
+//ホント だったんだ…[LR]<END>
+#JMP($7E3F8)
+#FIXEDLENGTH(20,0)
+but it was true…[LR]<END>
+
+//ビックリした[NYA]…[LR]<END>
+#JMP($7E414)
+#FIXEDLENGTH(18,0)
+What a shock…[LR]<END>
+
+//バレンタインデーで…[LR]<END>
+#JMP($7E454)
+#FIXEDLENGTH(21,0)
+On Valentine's…[LR]<END>
+
+//愛の こくはくを して♥[LR]<END>
+#JMP($7E46B)
+#FIXEDLENGTH(23,0)
+confess love♥[LR]<END>
+
+//ホワイトデーで…[LR]<END>
+#JMP($7E48D)
+#FIXEDLENGTH(17,0)
+On White Day…[LR]<END>
+
+//その お返しを して♥[LR]<END>
+#JMP($7E4A0)
+#FIXEDLENGTH(21,0)
+give back♥[LR]<END>
+
+//その ふたりの 愛情を 確かめあうのが 今日なの[NYA]！<END>
+#JMP($7E4C0)
+#FIXEDLENGTH(49,0)
+Today's when the two confirm their love [NYA]!<END>
+
+//なんか オレンジ色のモノを プレゼント すれば イイんだって～[LR]<END>
+#JMP($7E504)
+#FIXEDLENGTH(59,0)
+You give[LR]
+somethin'[LR]
+orange as a[LR]
+gift～[LR]<END>
+
+//オレンジ色の [WORD0]とか[NYA]！[LR]<END>
+#JMP($7E54A)
+#FIXEDLENGTH(28,0)
+Orange[LR]
+[WORD0] and[LR]
+such [NYA]![LR]<END>
+
+//今日は…[LR]こどもの日なの[NYA]！[LR]<END>
+#JMP($7E5A8)
+#FIXEDLENGTH(29,0)
+Today…[LR]
+is Children's[LR]
+Day![LR]<END>
+
+//こいのぼりが 泳ぐ日[NYA]～[LR]<END>
+#JMP($7E5D8)
+#FIXEDLENGTH(25,0)
+Carp streamers[LR]
+swim～[LR]<END>
+
+//大きな こいのぼりは お父さん！[LR]<END>
+#JMP($7E5FC)
+#FIXEDLENGTH(31,0)
+The big carp is[LR]
+Dad![LR]<END>
+
+//中くらいの こいのぼりは [WORD0]！[LR]<END>
+#JMP($7E626)
+#FIXEDLENGTH(32,0)
+The middle carp[LR]
+is [WORD0]![LR]<END>
+
+//小さいのが [WORD1]達[NYA]！[LR]<END>
+#JMP($7E651)
+#FIXEDLENGTH(24,0)
+Small ones:[LR]
+[WORD1] [NYA]![LR]<END>
+
+//日本で 初めて…[LR]<END>
+#JMP($7E69B)
+#FIXEDLENGTH(16,0)
+Japan's first…[LR]<END>
+
+//キスシーンの ある映画が 公開された日 なんだって～<END>
+#JMP($7E6AD)
+#FIXEDLENGTH(49,0)
+movie with a kiss scene came out today～<END>
 
 //じゃあ…[LR]<END>
 #JMP($7E6F1)
 #FIXEDLENGTH(9,0)
 Then…[LR]<END>
 
+//[WORD0]シーンの ある映画を やれば…[LR]<END>
+#JMP($7E705)
+#FIXEDLENGTH(34,0)
+A movie with[LR]
+[WORD0][LR]
+scenes…[LR]<END>
+
+//その日が[LR]「[VAR0]の日」に なるのか[NYA]～[LR]<END>
+#JMP($7E732)
+#FIXEDLENGTH(37,0)
+would that day[LR]
+be[LR]
+"[VAR0] Day"[LR]
+[NYA]～[LR]<END>
+
+//虫歯を ほっとくと…[LR]<END>
+#JMP($7E799)
+#FIXEDLENGTH(20,0)
+Leave cavities[LR]
+be…[LR]<END>
+
+//アナが どんどん 広がって…[LR]<END>
+#JMP($7E7B5)
+#FIXEDLENGTH(27,0)
+the holes get[LR]
+bigger…[LR]<END>
+
+//[WORD0]とかにも アナが 開いちゃうから コワイの[NYA]～<END>
+#JMP($7E7DB)
+#FIXEDLENGTH(49,0)
+and [WORD0] gets holes too, scary [NYA]～<END>
+
+//[WORD1]を 食べたら すぐ歯みがき[NYA]！[LR]<END>
+#JMP($7E81F)
+#FIXEDLENGTH(35,0)
+Brush right[LR]
+after eatin'[LR]
+[WORD1]![LR]<END>
+
+//[WORD0]と いっしょに 露天風呂 入りたい[NYA]～[LR]<END>
+#JMP($7E870)
+#FIXEDLENGTH(42,0)
+I wanna share[LR]
+an outdoor bath[LR]
+with [WORD0][LR]<END>
+
 //あ、そうそう！[LR]<END>
 #JMP($7E8A5)
 #FIXEDLENGTH(15,0)
 Oh, right![LR]<END>
+
+//語呂合わせで 決まったん だって！<END>
+#JMP($7E8BF)
+#FIXEDLENGTH(32,0)
+Picked by a number pun!<END>
+
+//ろ（６）[LR]てん（10）[LR]ぶ（２）[LR]ろ（６）…[LR]<END>
+#JMP($7E8F2)
+#FIXEDLENGTH(40,0)
+Ro (6)[LR]
+ten (10)[LR]
+bu (2)[LR]
+ro (6)…[LR]<END>
 
 //あれ？[LR]<END>
 #JMP($7E925)
 #FIXEDLENGTH(7,0)
 Huh?[LR]<END>
 
+//6月 1026日…？[LR]<END>
+#JMP($7E92E)
+#FIXEDLENGTH(15,0)
+June 1026th…?[LR]<END>
+
+//今日は…[LR]たなばたの日[NYA]！[LR]<END>
+#JMP($7E98D)
+#FIXEDLENGTH(27,0)
+Today…[LR]
+is Tanabata[LR]
+[NYA]![LR]<END>
+
+//天の川の 向こうと こっちに…[LR]<END>
+#JMP($7E9BB)
+#FIXEDLENGTH(29,0)
+Across the Milky[LR]
+Way…[LR]<END>
+
+//はなればなれに なっちゃった [WORD0]と [WORD1]が…[LR]<END>
+#JMP($7E9E0)
+#FIXEDLENGTH(46,0)
+[WORD0] and[LR]
+[WORD1], torn[LR]
+apart…[LR]<END>
+
+//年に１回だけ 会って…[LR]<END>
+#JMP($7EA19)
+#FIXEDLENGTH(22,0)
+meet once a[LR]
+year…[LR]<END>
+
+//[WORD2]する日なの[NYA]♥[LR]<END>
+#JMP($7EA37)
+#FIXEDLENGTH(21,0)
+and [WORD2][LR]
+today♥[LR]<END>
+
+//今日は…[LR]<END>
+#JMP($7EA75)
+#FIXEDLENGTH(9,0)
+Today…[LR]<END>
+
+//「ゆうれいの日」なんだって～<END>
+#JMP($7EA80)
+#FIXEDLENGTH(28,0)
+is "Ghost Day", they say～<END>
+
 //イヤだ[NYA]～[LR]<END>
 #JMP($7EAAF)
 #FIXEDLENGTH(12,0)
 No [NYA]～[LR]<END>
+
+//なんで そんな日が あるのか[NYA]～[LR]<END>
+#JMP($7EABD)
+#FIXEDLENGTH(32,0)
+Why's there[LR]
+such a day[LR]
+[NYA]～[LR]<END>
+
+//[WORD0]の オバケが出たら…[LR]<END>
+#JMP($7EAE8)
+#FIXEDLENGTH(25,0)
+If [WORD0][LR]
+ghosts come…[LR]<END>
+
+//なんか お祝いとか しなくちゃ ダメなのか[NYA]～[LR]<END>
+#JMP($7EB0C)
+#FIXEDLENGTH(45,0)
+do we gotta[LR]
+celebrate or[LR]
+somethin' [NYA]～[LR]<END>
+
+//パン（８）[LR]ツ（２）[LR]<END>
+#JMP($7EB6B)
+#FIXEDLENGTH(20,0)
+Pan (8)[LR]
+tsu (2)[LR]<END>
+
+//なんだ[NYA]！<END>
+#JMP($7EB81)
+#FIXEDLENGTH(11,0)
+= Undies!<END>
+
+//でも [WORD1]…[LR]<END>
+#JMP($7EBA7)
+#FIXEDLENGTH(13,0)
+But [WORD1]…[LR]<END>
+
+//ネコだから[LR]パンツ はけない[NYA]…[LR]<END>
+#JMP($7EBB6)
+#FIXEDLENGTH(32,0)
+is a cat[LR]
+can't wear[LR]
+undies…[LR]<END>
+
+//勝負パンツとか！[LR]<END>
+#JMP($7EBE1)
+#FIXEDLENGTH(17,0)
+Game-day[LR]
+undies![LR]<END>
+
+//[WORD0]パンツとか！[LR]<END>
+#JMP($7EBF4)
+#FIXEDLENGTH(18,0)
+[WORD0][LR]
+undies![LR]<END>
+
+//人間に なったら はくの楽しみ[NYA]～[LR]<END>
+#JMP($7EC11)
+#FIXEDLENGTH(34,0)
+Can't wait to[LR]
+wear 'em as a[LR]
+human[LR]<END>
 
 //笑われちゃった…[LR]<END>
 #JMP($7ED6E)
 #FIXEDLENGTH(17,0)
 You laughed…[LR]<END>
 
+//今日は…[LR]敬老の日[NYA]！<END>
+#JMP($7EDAC)
+#FIXEDLENGTH(22,0)
+Today…[LR]
+is Elder Day!<END>
+
+//おじいさんと おばあさんが 主役の日なの[NYA]！[LR]<END>
+#JMP($7EDD5)
+#FIXEDLENGTH(44,0)
+Grandpas and[LR]
+grandmas are[LR]
+the stars [NYA]![LR]<END>
+
 //えっと…[LR]<END>
 #JMP($7EE0C)
 #FIXEDLENGTH(9,0)
 Um…[LR]<END>
+
+//お年寄りの 人たちが…[LR]<END>
+#JMP($7EE20)
+#FIXEDLENGTH(22,0)
+The elderly…[LR]<END>
+
+//真っ赤な [WORD0]を着て おシャレする日 なの[NYA]～[LR]<END>
+#JMP($7EE41)
+#FIXEDLENGTH(46,0)
+dress up in[LR]
+bright red[LR]
+[WORD0] [NYA]～[LR]<END>
+
+//くる（９）[LR]ふ（２）[LR]く（９）[LR]<END>
+#JMP($7EE9A)
+#FIXEDLENGTH(29,0)
+Ku (9)[LR]
+ru fu (2)[LR]
+ku (9)[LR]<END>
+
+//で「来る福」なの[NYA]！[LR]<END>
+#JMP($7EEB9)
+#FIXEDLENGTH(22,0)
+"Come, luck"[LR]
+[NYA]![LR]<END>
+
+//[WORD1]も「福」って 呼べるか[NYA]？<END>
+#JMP($7EEE2)
+#FIXEDLENGTH(31,0)
+Can [WORD1] call "luck" too [NYA]?<END>
+
+//「福」来～い！[LR]<END>
+#JMP($7EF1C)
+#FIXEDLENGTH(15,0)
+Luck, come～![LR]<END>
+
+//「福」来～い！[LR]<END>
+#JMP($7EF2D)
+#FIXEDLENGTH(15,0)
+Luck, come～![LR]<END>
+
+//空から [WORD0]が ふってくるような…[LR]<END>
+#JMP($7EF47)
+#FIXEDLENGTH(34,0)
+Like [WORD0][LR]
+fallin' from the[LR]
+sky…[LR]<END>
+
+//すごい「福」来てほしい[NYA]！[LR]<END>
+#JMP($7EF71)
+#FIXEDLENGTH(28,0)
+I want huge luck[LR]
+to come![LR]<END>
 
 //そっか…[LR]<END>
 #JMP($7EF9C)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
 
+//空から [WORD0]が ふってくるような…[LR]<END>
+#JMP($7EFB0)
+#FIXEDLENGTH(34,0)
+Like [WORD0][LR]
+fallin' from the[LR]
+sky…[LR]<END>
+
+//すごい「福」…[LR]<END>
+#JMP($7EFDA)
+#FIXEDLENGTH(15,0)
+Amazin' luck…[LR]<END>
+
+//呼んで みたかった[NYA]…[LR]<END>
+#JMP($7EFEB)
+#FIXEDLENGTH(23,0)
+I wanted to call[LR]
+it…[LR]<END>
+
+//「[VAR2]」<END>
+#JMP($7F03F)
+#FIXEDLENGTH(7,0)
+"[VAR2]"<END>
+
+//10 10 を 横に書くと～[LR]<END>
+#JMP($7F058)
+#FIXEDLENGTH(22,0)
+Write 10 10[LR]
+sideways[LR]<END>
+
+//ー ー[LR]<END>
+#JMP($7F073)
+#FIXEDLENGTH(6,0)
+ー ー[LR]<END>
+
+//目に 見えるからだって！<END>
+#JMP($7F08C)
+#FIXEDLENGTH(23,0)
+it looks like eyes!<END>
+
+//だから 今日は [WORD1]は １時間まで[NYA]！[LR]<END>
+#JMP($7F0B9)
+#FIXEDLENGTH(38,0)
+So today[LR]
+[WORD1] is 1[LR]
+hour max [NYA]![LR]<END>
+
+//目を休めないと[NYA]～[LR]<END>
+#JMP($7F0EA)
+#FIXEDLENGTH(20,0)
+Rest your eyes～[LR]<END>
+
+//カボチャを くりぬいて…[LR]<END>
+#JMP($7F13E)
+#FIXEDLENGTH(24,0)
+Hollow out a[LR]
+pumpkin…[LR]<END>
+
+//[WORD0]の顔を 作るの[NYA]！[LR]<END>
+#JMP($7F158)
+#FIXEDLENGTH(24,0)
+and make[LR]
+[WORD0]'s face![LR]<END>
+
+//それでね～[LR]<END>
+#JMP($7F17B)
+#FIXEDLENGTH(11,0)
+And then～[LR]<END>
+
+//トリック[LR]オア[LR]トリート[LR]<END>
+#JMP($7F18B)
+#FIXEDLENGTH(23,0)
+Trick[LR]
+or[LR]
+treat[LR]<END>
+
+//って 呪文を唱えるの[NYA]！<END>
+#JMP($7F1AA)
+#FIXEDLENGTH(24,0)
+you chant the spell [NYA]!<END>
+
+//お菓子を くれなきゃ[LR]<END>
+#JMP($7F1D8)
+#FIXEDLENGTH(20,0)
+Gimme sweets or[LR]<END>
+
+//[WORD1] するぞ！[LR]<END>
+#JMP($7F1EE)
+#FIXEDLENGTH(15,0)
+I'll [WORD1]![LR]<END>
+
+//って 意味なの[NYA]～[LR]<END>
+#JMP($7F208)
+#FIXEDLENGTH(19,0)
+that's the[LR]
+meanin'[LR]<END>
+
+//男の子は…[LR]３才と ５才[LR]<END>
+#JMP($7F231)
+#FIXEDLENGTH(23,0)
+Boys…[LR]
+at 3 and 5[LR]<END>
+
+//女の子は…[LR]３才と ７才[LR]<END>
+#JMP($7F24A)
+#FIXEDLENGTH(23,0)
+Girls…[LR]
+at 3 and 7[LR]<END>
+
+//に なったら～[LR]<END>
+#JMP($7F26C)
+#FIXEDLENGTH(14,0)
+at those ages[LR]<END>
+
+//コドモの成長を お祝い するんだって！<END>
+#JMP($7F27C)
+#FIXEDLENGTH(36,0)
+you celebrate kids growin' up!<END>
+
+//[WORD0]は何才で？<END>
+#JMP($7F2AE)
+#FIXEDLENGTH(15,0)
+[WORD0] at what?<END>
+
+//あれ…？[LR]<END>
+#JMP($7F2C8)
+#FIXEDLENGTH(9,0)
+Huh…?[LR]<END>
+
+//お祝い されたコト ない[NYA]…[LR]<END>
+#JMP($7F2EE)
+#FIXEDLENGTH(28,0)
+I was never[LR]
+celebrated [NYA][LR]<END>
+
+//ネコは 何才で お祝いするのか わかんにゃい…[LR]<END>
+#JMP($7F315)
+#FIXEDLENGTH(44,0)
+I dunno what[LR]
+age cats[LR]
+celebrate…[LR]<END>
+
+//[WORD2]も毎日 お仕事 ごくろうさま[NYA][LR]<END>
+#JMP($7F3A3)
+#FIXEDLENGTH(35,0)
+[WORD2],[LR]
+thanks for[LR]
+workin' daily[LR]<END>
+
+//毎日 働いてる [WORD0]や [WORD1]の 人たち ごくろうさま[NYA]！[LR]<END>
+#JMP($7F3D4)
+#FIXEDLENGTH(55,0)
+Thanks to all[LR]
+[WORD0] and[LR]
+[WORD1][LR]
+workin' daily[LR]
+[NYA]![LR]<END>
+
+//今日は…[LR]”プレイステーション”の日 なんだって！<END>
+#JMP($7F41C)
+#FIXEDLENGTH(48,0)
+Today…[LR]
+is "PlayStation"[LR]
+Day, they say!<END>
+
 //へぇ～<END>
 #JMP($7F44E)
 #FIXEDLENGTH(6,0)
 Wow～<END>
+
+//”プレイステーション”の日？<END>
+#JMP($7F456)
+#FIXEDLENGTH(28,0)
+"PlayStation" Day?<END>
+
+//そんな日が あったんだ…[LR]<END>
+#JMP($7F47D)
+#FIXEDLENGTH(24,0)
+A day like that…[LR]<END>
+
+//知らなかった[NYA]…[LR]<END>
+#JMP($7F497)
+#FIXEDLENGTH(18,0)
+I didn't know…[LR]<END>
+
+//今日は クリスマスのイブ♥<END>
+#JMP($7F4E4)
+#FIXEDLENGTH(25,0)
+Today's Christmas Eve♥<END>
 
 //え？ え？[LR]<END>
 #JMP($7F518)
 #FIXEDLENGTH(10,0)
 Huh? Huh?[LR]<END>
 
+//[WORD0]は 恋人たちで いっぱいに なる日[NYA]～[LR]<END>
+#JMP($7F52D)
+#FIXEDLENGTH(42,0)
+[WORD0] fills[LR]
+with lovers[LR]
+today [NYA]～[LR]<END>
+
+//やっぱ [WORD1]とか 予約しとかないと ダメなのか[NYA]…[LR]<END>
+#JMP($7F572)
+#FIXEDLENGTH(50,0)
+Gotta book[LR]
+[WORD1] after[LR]
+all [NYA]…[LR]<END>
+
 //え？ え？[LR]<END>
 #JMP($7F5B0)
 #FIXEDLENGTH(10,0)
 Huh? Huh?[LR]<END>
+
+//あの…[LR]<END>
+#JMP($7F5C5)
+#FIXEDLENGTH(7,0)
+Um…[LR]<END>
+
+//こ、この話は なかったコトに…[LR]<END>
+#JMP($7F5D7)
+#FIXEDLENGTH(30,0)
+L-let's forget[LR]
+that talk…[LR]<END>
+
+//今日は…[LR]大みそかだね…<END>
+#JMP($7F61E)
+#FIXEDLENGTH(23,0)
+Today…[LR]
+is Year's End…<END>
+
+//１年って 早いって 思う？<END>
+#JMP($7F648)
+#FIXEDLENGTH(24,0)
+Does a year fly by?<END>
+
+//来年は…[LR]<END>
+#JMP($7F673)
+#FIXEDLENGTH(9,0)
+Next…[LR]<END>
+
+//あ、来年の話を すると～[LR]<END>
+#JMP($7F687)
+#FIXEDLENGTH(24,0)
+Oh, talk of next[LR]
+year～[LR]<END>
+
+//[WORD0]に 笑われちゃうん だっけ？[LR]<END>
+#JMP($7F6A1)
+#FIXEDLENGTH(32,0)
+and [WORD0][LR]
+laughs, right?[LR]<END>
+
+//今年の話に しよっと…[LR]<END>
+#JMP($7F6D4)
+#FIXEDLENGTH(22,0)
+This year, then…[LR]<END>
+
+//今年は…[LR]<END>
+#JMP($7F6F5)
+#FIXEDLENGTH(9,0)
+This…[LR]<END>
+
+//[WORD1]に 出会えたから すごく イイ年だった[NYA]♥[LR]<END>
+#JMP($7F708)
+#FIXEDLENGTH(46,0)
+I met [WORD1],[LR]
+so it was super[LR]
+good [NYA]♥[LR]<END>
+
+//[VAR0]月だ[NYA]～<END>
+#JMP($7F74C)
+#FIXEDLENGTH(12,0)
+It's [VAR0]～<END>
+
+//[VAR0]月だねぇ<END>
+#JMP($7F75A)
+#FIXEDLENGTH(11,0)
+[VAR0], huh<END>
+
+//春だねぇ<END>
+#JMP($7F767)
+#FIXEDLENGTH(8,0)
+Spring～<END>
+
+//[VAR1]に なると…[LR]<END>
+#JMP($7F7B5)
+#FIXEDLENGTH(15,0)
+In [VAR1]…[LR]<END>
+
+//花粉で [WORD0]が かゆ～いに なっちゃうんだって～[LR]<END>
+#JMP($7F7CC)
+#FIXEDLENGTH(47,0)
+pollen makes[LR]
+[WORD0] itchy～[LR]<END>
+
+//[VAR1]って けっこう 大変なんだ[NYA]…[LR]<END>
+#JMP($7F806)
+#FIXEDLENGTH(33,0)
+[VAR1] is kinda[LR]
+rough [NYA]…[LR]<END>
+
+//[VAR1]に なって 暖かくなると…[LR]<END>
+#JMP($7F856)
+#FIXEDLENGTH(28,0)
+When [VAR1][LR]
+warms up…[LR]<END>
+
+//変な人が 出てくるんだって～<END>
+#JMP($7F87D)
+#FIXEDLENGTH(27,0)
+weird folks come out～<END>
+
+//きっと 妖怪の仲間[NYA]…[LR]<END>
+#JMP($7F8AB)
+#FIXEDLENGTH(23,0)
+Surely yokai[LR]
+pals…[LR]<END>
+
+//人の [WORD0]を うばってくの[NYA]～[LR]<END>
+#JMP($7F8CD)
+#FIXEDLENGTH(31,0)
+they steal[LR]
+people's[LR]
+[WORD0]～[LR]<END>
 
 //気を つけにゃいと…[LR]<END>
 #JMP($7F8F7)
 #FIXEDLENGTH(20,0)
 gotta watch it…[LR]<END>
 
+//[VAR2]に なると～[LR]<END>
+#JMP($7F956)
+#FIXEDLENGTH(15,0)
+In [VAR2]～[LR]<END>
+
+//いろんな命が 生まれるの[NYA]♥[LR]<END>
+#JMP($7F967)
+#FIXEDLENGTH(29,0)
+all kinds of life[LR]
+is born♥[LR]<END>
+
+//チョウチョが 卵から かえったり～[LR]<END>
+#JMP($7F98F)
+#FIXEDLENGTH(33,0)
+Butterflies[LR]
+hatch from[LR]
+eggs～[LR]<END>
+
+//テントウムシが 生まれたり～<END>
+#JMP($7F9B2)
+#FIXEDLENGTH(27,0)
+ladybugs are born～<END>
+
+//[VAR2]だもんね<END>
+#JMP($7F9D3)
+#FIXEDLENGTH(11,0)
+It's [VAR2]<END>
+
+//[WORD0]の卵とか かえったり～[LR]<END>
+#JMP($7F9E9)
+#FIXEDLENGTH(27,0)
+[WORD0] eggs[LR]
+hatch～[LR]<END>
+
+//[WORD1]の卵とか 生まれたり～[LR]<END>
+#JMP($7FA06)
+#FIXEDLENGTH(27,0)
+[WORD1] eggs[LR]
+are laid～[LR]<END>
+
+//[VAR2]だもん[NYA]！[LR]<END>
+#JMP($7FA2C)
+#FIXEDLENGTH(15,0)
+It's [VAR2] [NYA]![LR]<END>
+
+//冬の間は さむくて…[LR]<END>
+#JMP($7FA6D)
+#FIXEDLENGTH(20,0)
+Winter is cold…[LR]<END>
+
+//お外で [WORD0] できなかったけど～[LR]<END>
+#JMP($7FA83)
+#FIXEDLENGTH(32,0)
+couldn't[LR]
+[WORD0][LR]
+outside, but～[LR]<END>
+
+//[VAR1]だもん[NYA]！[LR]<END>
+#JMP($7FAAE)
+#FIXEDLENGTH(15,0)
+It's [VAR1] [NYA]![LR]<END>
+
+//もう そろそろ お外での [WORD0]が キモチいい 時期なの[NYA]♥[LR]<END>
+#JMP($7FABF)
+#FIXEDLENGTH(56,0)
+It's almost the[LR]
+season when[LR]
+[WORD0][LR]
+outside feels[LR]
+great♥[LR]<END>
+
+//そろそろ お部屋から コタツが なくなっちゃう 時期だ[NYA]…<END>
+#JMP($7FB26)
+#FIXEDLENGTH(55,0)
+It's almost time the kotatsu leaves the room [NYA]…<END>
+
+//わー ホント～？[LR]<END>
+#JMP($7FB7D)
+#FIXEDLENGTH(16,0)
+Wow, really～?[LR]<END>
+
+//うらやましい[NYA]～[LR]<END>
+#JMP($7FB8F)
+#FIXEDLENGTH(18,0)
+So jealous[LR]
+[NYA]～[LR]<END>
+
+//[VAR1]に なっても…[LR]<END>
+#JMP($7FBAC)
+#FIXEDLENGTH(17,0)
+Even in [VAR1]…[LR]<END>
+
+//まだまだ コタツの中で [WORD0] できるんだ[NYA]～[LR]<END>
+#JMP($7FBBF)
+#FIXEDLENGTH(44,0)
+you can still[LR]
+[WORD0] in the[LR]
+kotatsu [NYA]～[LR]<END>
+
+//さすが [WORD2]！[LR]<END>
+#JMP($7FBFE)
+#FIXEDLENGTH(15,0)
+That's[LR]
+[WORD2]![LR]<END>
+
+//ネコの キモチが わかってる[NYA]♥[LR]<END>
+#JMP($7FC0F)
+#FIXEDLENGTH(32,0)
+You get cat[LR]
+feelin's [NYA]♥[LR]<END>
+
+//そっかぁ～[LR]<END>
+#JMP($7FC42)
+#FIXEDLENGTH(11,0)
+I see～[LR]<END>
+
+//やっぱ [VAR1]に なったら…[LR]<END>
+#JMP($7FC4F)
+#FIXEDLENGTH(24,0)
+In [VAR1] after[LR]
+all…[LR]<END>
+
+//コタツの中で [WORD0]とか できないんだ[NYA]…[LR]<END>
+#JMP($7FC72)
+#FIXEDLENGTH(41,0)
+no [WORD0] in[LR]
+the kotatsu[LR]
+[NYA]…[LR]<END>
+
+//ちょっと 悲しい[NYA]…[LR]<END>
+#JMP($7FCA6)
+#FIXEDLENGTH(21,0)
+Bit sad [NYA]…[LR]<END>
+
 //え？ え？[LR]<END>
 #JMP($7FCD9)
 #FIXEDLENGTH(10,0)
 Huh? Huh?[LR]<END>
+
+//[WORD2]の お部屋 コタツ 無いの？[LR]<END>
+#JMP($7FCED)
+#FIXEDLENGTH(31,0)
+[WORD2]'s room[LR]
+has no kotatsu?[LR]<END>
 
 //なんで～？[LR]<END>
 #JMP($7FD17)
 #FIXEDLENGTH(11,0)
 Why～?[LR]<END>
 
+//人生の 楽しみを いくつか 損してる[NYA]～[LR]<END>
+#JMP($7FD24)
+#FIXEDLENGTH(39,0)
+You're missin'[LR]
+some of life's[LR]
+joys～[LR]<END>
+
+//コタツの中で ぬくぬく…[LR]<END>
+#JMP($7FD56)
+#FIXEDLENGTH(24,0)
+Snug in the[LR]
+kotatsu…[LR]<END>
+
+//[WORD0]する シアワセを おしえて あげたい[NYA]…[LR]<END>
+#JMP($7FD70)
+#FIXEDLENGTH(44,0)
+I wanna show[LR]
+you the joy of[LR]
+[WORD0]-ing[LR]
+[NYA]…[LR]<END>
+
+//[VAR2]は キモチが イイの[NYA]～[LR]<END>
+#JMP($7FDEF)
+#FIXEDLENGTH(27,0)
+[VAR2] feels so[LR]
+nice [NYA]～[LR]<END>
+
+//キモチが イイから…[LR]<END>
+#JMP($7FE15)
+#FIXEDLENGTH(20,0)
+It feels nice, so…[LR]<END>
+
+//土の中から [WORD0]や [WORD1]が 出てくるの[NYA]～[LR]<END>
+#JMP($7FE34)
+#FIXEDLENGTH(43,0)
+[WORD0] and[LR]
+[WORD1] come[LR]
+out of the soil[LR]
+[NYA]～[LR]<END>
+
+//[VAR1]は 恋の季節なの[NYA]～[LR]<END>
+#JMP($7FE8E)
+#FIXEDLENGTH(24,0)
+[VAR1] is love[LR]
+season～[LR]<END>
+
+//[VAR1]に なると…[LR]<END>
+#JMP($7FEB1)
+#FIXEDLENGTH(15,0)
+In [VAR1]…[LR]<END>
+
+//夜中に [WORD0]の なき声が 聞こえるの[NYA]～[LR]<END>
+#JMP($7FEC2)
+#FIXEDLENGTH(40,0)
+At night I hear[LR]
+[WORD0] cryin'[LR]
+[NYA]～[LR]<END>
+
+//きっと 恋してるんだ[NYA]♥[LR]<END>
+#JMP($7FEF5)
+#FIXEDLENGTH(25,0)
+Surely in love[LR]
+[NYA]♥[LR]<END>
+
+//[VAR1]には お花見を するの[NYA]～[LR]<END>
+#JMP($7FF42)
+#FIXEDLENGTH(29,0)
+In [VAR1] we[LR]
+view blossoms～[LR]<END>
+
+//でも 人間の中には…[LR]<END>
+#JMP($7FF6A)
+#FIXEDLENGTH(20,0)
+But some[LR]
+humans…[LR]<END>
+
+//花より [WORD0]！[LR]<END>
+#JMP($7FF80)
+#FIXEDLENGTH(15,0)
+[WORD0] first![LR]<END>
+
+//って 人も いるんだ[NYA]！[LR]<END>
+#JMP($7FF9A)
+#FIXEDLENGTH(24,0)
+are like that[LR]
+[NYA]![LR]<END>
+
 //あ！[LR]<END>
 #JMP($7FFE4)
 #FIXEDLENGTH(5,0)
 Ah! [LR]<END>
+
+//桜前線って 今 どこに いるのか[NYA]？<END>
+#JMP($7FFF4)
+#FIXEDLENGTH(34,0)
+Where's the blossom front now [NYA]?<END>
+
+//今ごろ [WORD0]辺りに 来てるかも[NYA]～[LR]<END>
+#JMP($80029)
+#FIXEDLENGTH(35,0)
+Maybe near[LR]
+[WORD0] now[LR]
+[NYA]～[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($8007D)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//なんだか １日中 眠いの[NYA]…[LR]<END>
+#JMP($80093)
+#FIXEDLENGTH(28,0)
+I'm sleepy all day[LR]
+[NYA]…[LR]<END>
+
+//[WORD1]するよりも…[LR]寝ていたい[NYA]…<END>
+#JMP($800BA)
+#FIXEDLENGTH(33,0)
+Over [WORD1]…[LR]
+I'd rather sleep…<END>
+
+//[VAR0]月だもんね<END>
+#JMP($800E1)
+#FIXEDLENGTH(13,0)
+It's [VAR0]<END>
 
 //そっか…[LR]<END>
 #JMP($80118)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
 
+//[VAR2]のせいか…[LR]<END>
+#JMP($80123)
+#FIXEDLENGTH(14,0)
+Maybe [VAR2]…[LR]<END>
+
+//じゃあ しょうがない[NYA]～[LR]<END>
+#JMP($8013C)
+#FIXEDLENGTH(25,0)
+Then it can't be[LR]
+helped[LR]<END>
+
 //あ！[LR]<END>
 #JMP($801A5)
 #FIXEDLENGTH(5,0)
 Ah! [LR]<END>
 
+//[VAR3]と 言えば…[LR]<END>
+#JMP($801B5)
+#FIXEDLENGTH(15,0)
+About [VAR3]…[LR]<END>
+
+//[VAR2]月病！[LR]<END>
+#JMP($801C6)
+#FIXEDLENGTH(10,0)
+[VAR2] blah![LR]<END>
+
+//[VAR2]月病？<END>
+#JMP($801D2)
+#FIXEDLENGTH(9,0)
+[VAR2] blah?<END>
+
+//[VAR2]月に なって…[LR]<END>
+#JMP($801EA)
+#FIXEDLENGTH(17,0)
+Come [VAR2]…[LR]<END>
+
+//[WORD0]とかが [WORD1]する気 なくなっちゃう 病気らしい[NYA]～[LR]<END>
+#JMP($801FD)
+#FIXEDLENGTH(55,0)
+[WORD0] and[LR]
+such lose the[LR]
+will to [WORD1][LR]
+[NYA]～[LR]<END>
+
+//ポカポカ キモチいいのに 病気なんて 大変だ[NYA]…[LR]<END>
+#JMP($8023F)
+#FIXEDLENGTH(47,0)
+Warm and nice,[LR]
+yet sick, how[LR]
+rough [NYA]…[LR]<END>
+
+//[VAR0]月って 梅雨だから…[LR]<END>
+#JMP($8029D)
+#FIXEDLENGTH(23,0)
+[VAR0] is rainy[LR]
+season…[LR]<END>
+
+//雨が 多いんだよね～？<END>
+#JMP($802B6)
+#FIXEDLENGTH(21,0)
+lots of rain, right?<END>
+
+//雨が いっぱい ふれば…[LR]<END>
+#JMP($802E6)
+#FIXEDLENGTH(23,0)
+If it rains lots…[LR]<END>
+
+//水不足に ならないから～[LR]<END>
+#JMP($802FF)
+#FIXEDLENGTH(24,0)
+no water[LR]
+shortage～[LR]<END>
+
+//今年の夏は [WORD1]が いっぱい 飲める[NYA]！[LR]<END>
+#JMP($80322)
+#FIXEDLENGTH(40,0)
+this summer I[LR]
+can drink lots of[LR]
+[WORD1]![LR]<END>
+
+//雨が ふらないと…[LR]<END>
+#JMP($80356)
+#FIXEDLENGTH(18,0)
+No rain…[LR]<END>
+
+//水不足に なって～[LR]<END>
+#JMP($8036A)
+#FIXEDLENGTH(18,0)
+water shortage～[LR]<END>
+
+//今年の夏は [WORD1]が 飲めなく なっちゃう[NYA]…[LR]<END>
+#JMP($80387)
+#FIXEDLENGTH(44,0)
+no [WORD1] to[LR]
+drink this[LR]
+summer [NYA]…[LR]<END>
+
+//梅雨に なると…[LR]<END>
+#JMP($803D9)
+#FIXEDLENGTH(16,0)
+Rainy season…[LR]<END>
+
+//カビが 生えやすいん だって～<END>
+#JMP($803EB)
+#FIXEDLENGTH(28,0)
+mold grows easily～<END>
+
+//[WORD0]とかに カビが 生えちゃったら どうしよ～[LR]<END>
+#JMP($8041A)
+#FIXEDLENGTH(45,0)
+What if mold[LR]
+grows on[LR]
+[WORD0]～[LR]<END>
+
+//じめじめは イヤなの[NYA]…[LR]<END>
+#JMP($80452)
+#FIXEDLENGTH(25,0)
+I hate the damp[LR]
+[NYA]…[LR]<END>
+
+//なんか 暑いの[NYA]～<END>
+#JMP($804AF)
+#FIXEDLENGTH(18,0)
+Kinda hot [NYA]～<END>
+
+//[VAR0]月だもんね<END>
+#JMP($804C7)
+#FIXEDLENGTH(13,0)
+It's [VAR0]<END>
+
+//[VAR0]月の 暑い日は…[LR]<END>
+#JMP($804DF)
+#FIXEDLENGTH(19,0)
+On hot [VAR0][LR]
+days…[LR]<END>
+
+//[WORD2]が 日焼け しちゃうから～[LR]<END>
+#JMP($804F4)
+#FIXEDLENGTH(30,0)
+[WORD2] gets[LR]
+sunburned～[LR]<END>
+
+//ちゃんと [WORD1]で <END>
+#JMP($8051D)
+#FIXEDLENGTH(17,0)
+so with [WORD1]<END>
+
+//[WORD2]を 守んないと[NYA]！[LR]<END>
+#JMP($80536)
+#FIXEDLENGTH(24,0)
+protect[LR]
+[WORD2] [NYA]![LR]<END>
+
+//そろそろ 夏も 本格的だ[NYA]～[LR]<END>
+#JMP($8056B)
+#FIXEDLENGTH(28,0)
+Summer's in full[LR]
+swing～[LR]<END>
+
+//どこかに バカンスに 行きたい[NYA]！<END>
+#JMP($80592)
+#FIXEDLENGTH(33,0)
+I wanna go on vacation [NYA]!<END>
+
+//で…[LR]<END>
+#JMP($805C6)
+#FIXEDLENGTH(5,0)
+So…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($8089C)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//[VAR0]月だもんね<END>
+#JMP($808EB)
+#FIXEDLENGTH(13,0)
+It's [VAR0]<END>
+
 //そっか…[LR]<END>
 #JMP($80922)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
+
+//[VAR2]のせいか…[LR]<END>
+#JMP($8092D)
+#FIXEDLENGTH(14,0)
+Maybe [VAR2]…[LR]<END>
+
+//わー♥[LR]<END>
+#JMP($80B8C)
+#FIXEDLENGTH(7,0)
+Wow♥[LR]<END>
 
 //だって…[LR]<END>
 #JMP($80E0F)
@@ -53732,10 +55198,26 @@ I see…[LR]<END>
 #FIXEDLENGTH(9,0)
 I see～[LR]<END>
 
+//さいきん…[LR]<END>
+#JMP($80F76)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//[VAR0]月だもんね<END>
+#JMP($80FC7)
+#FIXEDLENGTH(13,0)
+It's [VAR0]<END>
+
 //そっか…[LR]<END>
 #JMP($80FFE)
 #FIXEDLENGTH(9,0)
 I see…[LR]<END>
+
+//じゃあ しょうがない[NYA]～[LR]<END>
+#JMP($81022)
+#FIXEDLENGTH(25,0)
+Then it can't be[LR]
+helped[LR]<END>
 
 //でも…[LR]<END>
 #JMP($81049)
@@ -53746,6 +55228,11 @@ But…[LR]<END>
 #JMP($8105B)
 #FIXEDLENGTH(13,0)
 By the way…[LR]<END>
+
+//[VAR0]月だもんね<END>
+#JMP($813A3)
+#FIXEDLENGTH(13,0)
+It's [VAR0]<END>
 
 //でも！[LR]<END>
 #JMP($815BE)
@@ -53771,6 +55258,11 @@ I see～[LR]<END>
 #JMP($81C44)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//[VAR0]月だもんね<END>
+#JMP($81D67)
+#FIXEDLENGTH(13,0)
+It's [VAR0]<END>
 
 //人間に なったら…[LR]<END>
 #JMP($820D9)
@@ -53823,6 +55315,31 @@ By the way…[LR]<END>
 #FIXEDLENGTH(9,0)
 Yay![LR]<END>
 
+//さいきん…[LR]<END>
+#JMP($82A16)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($82A64)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($82AAD)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($82B05)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($82B4C)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
 //でも…[LR]<END>
 #JMP($82BA3)
 #FIXEDLENGTH(7,0)
@@ -53867,6 +55384,26 @@ Oh my…[LR]<END>
 #JMP($83B43)
 #FIXEDLENGTH(15,0)
 Then…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($83C57)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($83CA7)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($83CF5)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
+
+//さいきん…[LR]<END>
+#JMP($83D3D)
+#FIXEDLENGTH(11,0)
+Lately…[LR]<END>
 
 //そっか…[LR]<END>
 #JMP($83DBA)
