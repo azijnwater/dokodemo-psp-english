@@ -10389,15 +10389,1738 @@ your mouth…[LR]<END>
 out the nose,[LR]
 more![LR]<END>
 
+//…強い香りを たのしめる[KERO]～♥[LR]<END>
+#JMP($21998)
+#FIXEDLENGTH(31,0)
+…you enjoy a[LR]
+strong scent～♥[LR]<END>
+
+//一生ケンメーふくらませると…[LR]<END>
+#JMP($219C2)
+#FIXEDLENGTH(29,0)
+Blow real hard…[LR]<END>
+
+//ほっぺたの…[LR]<END>
+#JMP($219EA)
+#FIXEDLENGTH(13,0)
+cheeks…[LR]<END>
+
+//耳の下あたりがイタくなって…[LR]<END>
+#JMP($21A02)
+#FIXEDLENGTH(29,0)
+below the ears[LR]
+hurt…[LR]<END>
+
+//サマータイムのメモリーってカンジ[KERO]～♥[LR]<END>
+#JMP($21A2A)
+#FIXEDLENGTH(40,0)
+Feels like[LR]
+summertime[LR]
+memories～♥[LR]<END>
+
+//プールに入ったあとの 自分の手のニオイって、いい[KERO]～[LR]<END>
+#JMP($21A5F)
+#FIXEDLENGTH(53,0)
+My hands' smell[LR]
+after the pool is[LR]
+nice～[LR]<END>
+
+//ずっと水につかってて、ふやけてシワシワになった手…[LR]<END>
+#JMP($21A9F)
+#FIXEDLENGTH(51,0)
+Soaked so long[LR]
+they get all[LR]
+wrinkly…[LR]<END>
+
+//塩素クサ～いって[LR]思いながらも…[LR]<END>
+#JMP($21ADD)
+#FIXEDLENGTH(32,0)
+Thinkin' "smells[LR]
+of chlorine"…[LR]<END>
+
+//何度も そのニオイを かいでいたモンだ[KERO]～[LR]<END>
+#JMP($21B05)
+#FIXEDLENGTH(42,0)
+I sniffed it again[LR]
+and again～[LR]<END>
+
+//古本屋さんのニオイは…[LR]<END>
+#JMP($21B49)
+#FIXEDLENGTH(23,0)
+Old bookshops[LR]
+smell…[LR]<END>
+
+//おじいちゃんのようなニオイ[KERO]～[LR]<END>
+#JMP($21B6B)
+#FIXEDLENGTH(32,0)
+like Grandpa～[LR]<END>
+
+//ビミョーにカビくさいのに…それがなんだかやさしくて…[LR]<END>
+#JMP($21B96)
+#FIXEDLENGTH(53,0)
+A bit musty…yet[LR]
+somehow[LR]
+gentle…[LR]<END>
+
+//心あたたまるカンジが いいッス～！[LR]<END>
+#JMP($21BD6)
+#FIXEDLENGTH(34,0)
+that[LR]
+heartwarmin'[LR]
+feel is nice～![LR]<END>
+
+//ワクワクしながら しのびこんだ…[LR]<END>
+#JMP($21C03)
+#FIXEDLENGTH(32,0)
+Sneakin' in, all[LR]
+excited…[LR]<END>
+
+//近所の物置のニオイも、これにそっくりなんだ[KERO]！[LR]<END>
+#JMP($21C2B)
+#FIXEDLENGTH(48,0)
+the shed next[LR]
+door smells just[LR]
+like it![LR]<END>
+
+//色んな思い出が…[LR]<END>
+#JMP($21C66)
+#FIXEDLENGTH(17,0)
+Memories…[LR]<END>
+
+//よみがえる香り[KERO]～♥[LR]<END>
+#JMP($21C7C)
+#FIXEDLENGTH(22,0)
+scent of the[LR]
+past♥[LR]<END>
+
+//ぼーちゅー剤のニオイが好き<$17><$19><$00>～♥[LR]<END>
+#JMP($21CA2)
+#FIXEDLENGTH(34,0)
+I love mothball[LR]
+smell<$17><$19><$00>～♥[LR]<END>
+
+//雨の日に トモダチと家の中でかくれんぼして…[LR]<END>
+#JMP($21CCF)
+#FIXEDLENGTH(44,0)
+Hide-and-seek[LR]
+indoors on rainy[LR]
+days…[LR]<END>
+
+//かくれたタンスのニオイ[KERO]～[LR]<END>
+#JMP($21D00)
+#FIXEDLENGTH(28,0)
+the wardrobe I[LR]
+hid in～[LR]<END>
+
+//さいしょはツンときて…[LR]<END>
+#JMP($21D27)
+#FIXEDLENGTH(23,0)
+First it's sharp…[LR]<END>
+
+//しばらくすると 甘いカンジになる[KERO]～[LR]<END>
+#JMP($21D43)
+#FIXEDLENGTH(37,0)
+after a while it[LR]
+turns sweet～[LR]<END>
+
+//さいしょのシゲキも、なれてからのカンジも…[LR]<END>
+#JMP($21D73)
+#FIXEDLENGTH(43,0)
+The first sting,[LR]
+and after…[LR]<END>
+
+//[WORD0]ステキ<$17><$19><$00>～!![LR]<END>
+#JMP($21DAF)
+#FIXEDLENGTH(19,0)
+[WORD0][LR]
+lovely～!![LR]<END>
+
+//う～ん…[LR]やみつき～♥[LR]<END>
+#JMP($21DCD)
+#FIXEDLENGTH(22,0)
+Mmm…[LR]
+Hooked～♥[LR]<END>
+
+//ホットミルクのニオイも…[LR]<END>
+#JMP($21DFD)
+#FIXEDLENGTH(25,0)
+Hot milk smell[LR]
+too…[LR]<END>
+
+//なつかしいカンジでいい[KERO]～♥[LR]<END>
+#JMP($21E21)
+#FIXEDLENGTH(30,0)
+nice and[LR]
+nostalgic～♥[LR]<END>
+
+//へび花火のニオイは…[LR][WORD1]イケてる[KERO]～！[LR]<END>
+#JMP($21E7F)
+#FIXEDLENGTH(42,0)
+Snake firework[LR]
+smell…[LR]
+is [WORD1][LR]
+cool～![LR]<END>
+
+//目にしみる、けむりとともに立ちのぼる…[LR]<END>
+#JMP($21EB4)
+#FIXEDLENGTH(39,0)
+Risin' with[LR]
+eye-stingin'[LR]
+smoke…[LR]<END>
+
+//さびた鉄のような…[LR]<END>
+#JMP($21EE6)
+#FIXEDLENGTH(19,0)
+like rusty iron…[LR]<END>
+
+//香ばしいシゲキ臭…[LR]<END>
+#JMP($21EFE)
+#FIXEDLENGTH(19,0)
+a toasty sting…[LR]<END>
+
+//星とムシの声が アクセント[KERO]～♥[LR]<END>
+#JMP($21F1C)
+#FIXEDLENGTH(33,0)
+Stars and bugs[LR]
+add accent～♥[LR]<END>
+
+//雨の日のしめったニオイも リリカルだねェ♥[LR]<END>
+#JMP($21F4A)
+#FIXEDLENGTH(42,0)
+Damp rainy-day[LR]
+smell is poetic[LR]
+too♥[LR]<END>
+
+//外で思いっ切り[KERO][KERO]やりたくなる<$17><$19><$00>よ～♪[LR]<END>
+#JMP($21F7F)
+#FIXEDLENGTH(42,0)
+Makes me wanna[LR]
+go kero kero[LR]
+outside～♪[LR]<END>
+
+//なぁんか こう…[LR]ムネきゅんなニオイだ[KERO]ねェ～♥[LR]<END>
+#JMP($21FB4)
+#FIXEDLENGTH(48,0)
+Somehow…[LR]
+a[LR]
+heart-squeezin'[LR]
+smell～♥[LR]<END>
+
+//雨の降り始めに立ちのぼる…[LR]<END>
+#JMP($21FFE)
+#FIXEDLENGTH(27,0)
+Risin' as rain[LR]
+begins…[LR]<END>
+
+//アスファルトのニオイは <END>
+#JMP($2201B)
+#FIXEDLENGTH(23,0)
+asphalt smell is<END>
+
+//コンクリートジャングルのニオイ<$17><$19><$00>…[LR]<END>
+#JMP($22049)
+#FIXEDLENGTH(36,0)
+concrete jungle[LR]
+smell<$17><$19><$00>…[LR]<END>
+
+//ヘンなニオイなんだ[KERO]も…[LR]<END>
+#JMP($22078)
+#FIXEDLENGTH(26,0)
+A weird smell,[LR]
+kero…[LR]<END>
+
+//なぁ～んかこう…[LR]<END>
+#JMP($2209D)
+#FIXEDLENGTH(17,0)
+But somehow…[LR]<END>
+
+//せつなくなるニオイなん<$17><$19><$00>～！[LR]<END>
+#JMP($220B9)
+#FIXEDLENGTH(30,0)
+it makes me[LR]
+wistful<$17><$19><$00>～![LR]<END>
+
+//夕立の時、立ちのぼる…[LR]<END>
+#JMP($22104)
+#FIXEDLENGTH(23,0)
+In a sudden[LR]
+shower…[LR]<END>
+
+//アスファルトのニオイが好きだ[KERO]～[LR]<END>
+#JMP($22126)
+#FIXEDLENGTH(34,0)
+I love that[LR]
+asphalt smell～[LR]<END>
+
+//あの、濃縮されたホコリが かもし出す…[LR]<END>
+#JMP($22153)
+#FIXEDLENGTH(38,0)
+That dust all[LR]
+concentrated…[LR]<END>
+
+//どうしようもなく、かわいたカンジと…[LR]<END>
+#JMP($22184)
+#FIXEDLENGTH(37,0)
+that hopeless[LR]
+dryness…[LR]<END>
+
+//目の前でふりだした水の音との コントラストが たまんないッス～！[LR]<END>
+#JMP($221B4)
+#FIXEDLENGTH(63,0)
+against the[LR]
+sound of rain[LR]
+fallin' right[LR]
+there,[LR]
+irresistible～![LR]<END>
+
+//なんとなく、[WORD1]系のカオリ♪[LR]<END>
+#JMP($22213)
+#FIXEDLENGTH(30,0)
+Kinda[LR]
+[WORD1]-ish[LR]
+scent♪[LR]<END>
+
+//たまらなくリリカルな気分になれる[KERO]～[LR]<END>
+#JMP($2223C)
+#FIXEDLENGTH(38,0)
+Gets me all[LR]
+poetic～[LR]<END>
+
+//スタンダードだ[KERO]も…[LR]<END>
+#JMP($2226F)
+#FIXEDLENGTH(22,0)
+It's classic,[LR]
+kero…[LR]<END>
+
+//屋台で買った [WORD0]のニオイは やはりハズせない[KERO]～！[LR]<END>
+#JMP($222A5)
+#FIXEDLENGTH(53,0)
+[WORD0] from a[LR]
+food stall, can't[LR]
+skip that smell～![LR]<END>
+
+//シアワセなニオイ[KERO]～♥[LR]<END>
+#JMP($222E5)
+#FIXEDLENGTH(24,0)
+A happy smell～♥[LR]<END>
+
+//[WORD0]のニオイも、なんだか好き♥[LR]<END>
+#JMP($2232C)
+#FIXEDLENGTH(32,0)
+I kinda like[LR]
+[WORD0] smell[LR]
+too♥[LR]<END>
+
+//入った瞬間に、もう…[LR]<END>
+#JMP($22357)
+#FIXEDLENGTH(21,0)
+As you step in…[LR]<END>
+
+//これから過ごすであろう シアワセな時間を予感させる[KERO]…[LR]<END>
+#JMP($22377)
+#FIXEDLENGTH(55,0)
+it hints at[LR]
+happy times to[LR]
+come…[LR]<END>
+
+//[WORD0]のニオイも ナゼかおちつく[KERO]～[LR]<END>
+#JMP($223DD)
+#FIXEDLENGTH(36,0)
+[WORD0] smell[LR]
+calms me[LR]
+somehow～[LR]<END>
+
+//[WORD0]クサさが イイん<$17><$19><$00>な！[LR]<END>
+#JMP($2240C)
+#FIXEDLENGTH(28,0)
+The [WORD0][LR]
+stink is[LR]
+good<$17><$19><$00>![LR]<END>
+
+//木工用ボンドって…[LR]<END>
+#JMP($22442)
+#FIXEDLENGTH(19,0)
+Wood glue…[LR]<END>
+
+//いいニオイがして好きなんだ[KERO]♥[LR]<END>
+#JMP($22460)
+#FIXEDLENGTH(32,0)
+smells nice, I like[LR]
+it♥[LR]<END>
+
+//よく手のひらに、ぬりたくって かわかしたモンだ[KERO]…[LR]<END>
+#JMP($2248B)
+#FIXEDLENGTH(51,0)
+I'd smear it on[LR]
+my palms and let[LR]
+it dry…[LR]<END>
+
+//あの、かわくのをまってる間のもどかしさと…<END>
+#JMP($224C9)
+#FIXEDLENGTH(42,0)
+The impatience waitin' for it to dry…<END>
+
+//日やけしたカワを ペリペリ～って むいてる時みたいなキモチよさが <END>
+#JMP($22508)
+#FIXEDLENGTH(63,0)
+and the joy of peelin' sunburned skin,<END>
+
+//かさぶたをはがす時に似た…[LR]イタキモチいいカンジが [LR]<END>
+#JMP($2254D)
+#FIXEDLENGTH(51,0)
+like peelin' a[LR]
+scab…[LR]
+that sore-good[LR]
+feelin'[LR]<END>
+
+//ないまぜになって…[LR]<END>
+#JMP($22582)
+#FIXEDLENGTH(19,0)
+all mixed up…[LR]<END>
+
+//ステキなニオイメモリーを、築き上げている<$17><$19><$00>…♥[LR]<END>
+#JMP($225A0)
+#FIXEDLENGTH(48,0)
+build a lovely[LR]
+smell[LR]
+memory<$17><$19><$00>…♥[LR]<END>
+
+//接着剤として使った量よりも、<END>
+#JMP($225FC)
+#FIXEDLENGTH(28,0)
+More than I used as glue,<END>
+
+//手にぬりたくった量の方が はるかに多い<$17><$19><$00>よ…[LR]<END>
+#JMP($2261A)
+#FIXEDLENGTH(45,0)
+I smeared way[LR]
+more on my[LR]
+hands<$17><$19><$00>…[LR]<END>
+
+//ダンボール箱のニオイって すばらしい[KERO]！[LR]<END>
+#JMP($22654)
+#FIXEDLENGTH(41,0)
+Cardboard box[LR]
+smell is[LR]
+wonderful![LR]<END>
+
+//紙の香ばしさに…[LR]<END>
+#JMP($22688)
+#FIXEDLENGTH(17,0)
+Toasty paper…[LR]<END>
+
+//なんかビミョーな あまいニオイがミックスされてる[KERO]～[LR]<END>
+#JMP($226A4)
+#FIXEDLENGTH(53,0)
+mixed with a[LR]
+faint sweet[LR]
+smell～[LR]<END>
+
+//お日さまにさらしておくと…[LR]ひなびたニオイに変化して…[LR]<END>
+#JMP($226E4)
+#FIXEDLENGTH(54,0)
+Leave it in the[LR]
+sun…[LR]
+it turns rustic…[LR]<END>
+
+//これもまたよし[KERO]♪[LR]<END>
+#JMP($2271F)
+#FIXEDLENGTH(20,0)
+That's good[LR]
+too♪[LR]<END>
+
+//マイルドになるんだなッス～！[LR]<END>
+#JMP($2273E)
+#FIXEDLENGTH(29,0)
+It gets mellow～![LR]<END>
+
+//洗ってないアタマのニオイは…[LR]<END>
+#JMP($227B4)
+#FIXEDLENGTH(29,0)
+Unwashed hair[LR]
+smell…[LR]<END>
+
+//[WORD0]のだったら、サイコーってカンジッス♥[LR]<END>
+#JMP($227DC)
+#FIXEDLENGTH(42,0)
+if it's[LR]
+[WORD0]'s, it's[LR]
+the best♥[LR]<END>
+
+//シャンプーのニオイがした時よりも、<END>
+#JMP($22811)
+#FIXEDLENGTH(34,0)
+More than a shampoo smell,<END>
+
+//１００倍ドキドキしちゃう<$17><$19><$00>!![LR]<END>
+#JMP($2283B)
+#FIXEDLENGTH(30,0)
+100x more[LR]
+thrillin'<$17><$19><$00>!![LR]<END>
+
+//きっとあれは フェロモンのニオイなんだ[KERO]！[LR]<END>
+#JMP($22864)
+#FIXEDLENGTH(43,0)
+It must be[LR]
+pheromone smell![LR]<END>
+
+//だからあんなに ウットリなんだ[KERO]～[LR]<END>
+#JMP($2289A)
+#FIXEDLENGTH(35,0)
+That's why it's[LR]
+so dreamy～[LR]<END>
+
+//う～ん…[LR]よい♥♥♥[LR]<END>
+#JMP($228C8)
+#FIXEDLENGTH(20,0)
+Mmm…[LR]
+Good♥♥♥[LR]<END>
+
+//アブラねんどのニオイって なんかイイんだなッス…[LR]<END>
+#JMP($228E9)
+#FIXEDLENGTH(48,0)
+Oil clay smell is[LR]
+kinda nice…[LR]<END>
+
+//まだまだ 日本全国が、やみくもにガンバってたころの…[LR]<END>
+#JMP($22924)
+#FIXEDLENGTH(52,0)
+From when all[LR]
+Japan worked[LR]
+blindly hard…[LR]<END>
+
+//カラダに悪そうな…アカぬけないニオイがする<$17><$19><$00>～♥[LR]<END>
+#JMP($22963)
+#FIXEDLENGTH(50,0)
+an[LR]
+unhealthy…unrefined[LR]
+smell<$17><$19><$00>～♥[LR]<END>
+
+//学ラン<END>
+#JMP($229BD)
+#FIXEDLENGTH(6,0)
+Gakur.<END>
+
+//セーラー服<END>
+#JMP($229CD)
+#FIXEDLENGTH(10,0)
+Sailor<END>
+
+//[WORD0]に しみこんだ アセのニオイっていいニオイ[KERO]…[LR]<END>
+#JMP($229E0)
+#FIXEDLENGTH(51,0)
+Sweat soaked[LR]
+into [WORD0][LR]
+smells nice…[LR]<END>
+
+//ブレザーは不可！[LR]<END>
+#JMP($22A1E)
+#FIXEDLENGTH(17,0)
+No blazers![LR]<END>
+
+//やっぱ[WORD0]だ[KERO]…♥[LR]<END>
+#JMP($22A3A)
+#FIXEDLENGTH(21,0)
+Gotta be[LR]
+[WORD0]…♥[LR]<END>
+
+//掃除機のうしろから出る 風のニオイっていい[KERO]…[LR]<END>
+#JMP($22A69)
+#FIXEDLENGTH(47,0)
+Air from the[LR]
+back of a[LR]
+vacuum smells[LR]
+nice…[LR]<END>
+
+//カラカラにかわいた日の…[LR]風がまき上げる ホコリのニオイがするっス!![LR]<END>
+#JMP($22AA3)
+#FIXEDLENGTH(67,0)
+Smells like dust[LR]
+kicked up on a[LR]
+bone-dry day!![LR]<END>
+
+//掃除機が変なモノすいこんでると、ビミョーにすっぱいニオイがしたりして…[LR]<END>
+#JMP($22AF1)
+#FIXEDLENGTH(71,0)
+If it sucked up[LR]
+somethin' odd, it[LR]
+smells a bit[LR]
+sour…[LR]<END>
+
+//アクセントのある ニオイになるッスよ～!![LR]<END>
+#JMP($22B43)
+#FIXEDLENGTH(40,0)
+makes a smell[LR]
+with an[LR]
+accent～!![LR]<END>
+
+//こっちはかなり、ツウ好みだ[KERO]ね～[LR]<END>
+#JMP($22B76)
+#FIXEDLENGTH(34,0)
+This one's for[LR]
+connoisseurs～[LR]<END>
+
+//地下鉄の よどんだホコリくさい空気って…[LR]<END>
+#JMP($22BA8)
+#FIXEDLENGTH(40,0)
+The stale, dusty[LR]
+subway air…[LR]<END>
+
+//体に悪そうなカンジが、たまらなく 都会スメル!![LR]<END>
+#JMP($22BDB)
+#FIXEDLENGTH(46,0)
+that unhealthy[LR]
+feel is pure city[LR]
+smell!![LR]<END>
+
+//階段を下りて…[LR]<END>
+#JMP($22C14)
+#FIXEDLENGTH(15,0)
+Downstairs…[LR]<END>
+
+//地下に もぐっていくにつれ…[LR]<END>
+#JMP($22C2E)
+#FIXEDLENGTH(28,0)
+the deeper you[LR]
+go…[LR]<END>
+
+//心がおどってしまう、[LR][WORD0]いいニオイなんだなッス～!![LR]<END>
+#JMP($22C5E)
+#FIXEDLENGTH(53,0)
+it gets your[LR]
+heart dancin', a[LR]
+[WORD0] nice[LR]
+smell～!![LR]<END>
+
+//[WORD2]が おもしろいって思う、本 おしえて<$17><$18><$00>～<END>
+#JMP($22CB2)
+#FIXEDLENGTH(44,0)
+Tell me a book [WORD2] finds fun<$17><$18><$00>～<END>
+
+//発売したばっかりの 「[VAR1]」のニオイが好き[KERO]～[LR]<END>
+#JMP($22D0D)
+#FIXEDLENGTH(46,0)
+I love the smell[LR]
+of brand-new[LR]
+"[VAR1]"～[LR]<END>
+
+//最初にページをあける時に フッと立ちのぼる…[LR]<END>
+#JMP($22D46)
+#FIXEDLENGTH(44,0)
+Risin' as you[LR]
+first open a[LR]
+page…[LR]<END>
+
+//インクのニオイが<$17><$1B><$00>♥[LR]たまらなく好きッス!![LR]<END>
+#JMP($22D7A)
+#FIXEDLENGTH(43,0)
+ink smell<$17><$1B><$00>♥[LR]
+I love it!![LR]<END>
+
+//合わせにカオをうずめて[LR]紙の香りとブレンドしながらたのしむと…[LR]<END>
+#JMP($22DB0)
+#FIXEDLENGTH(62,0)
+Bury your face[LR]
+in the spine,[LR]
+mixed with[LR]
+paper scent…[LR]<END>
+
+//もぉ～!![LR][WORD3]サイコー<$17><$19><$00>!![LR]<END>
+#JMP($22E02)
+#FIXEDLENGTH(28,0)
+Wow～!![LR]
+[WORD3] the[LR]
+best!![LR]<END>
+
+//よくカオがまっクロになるまで…[LR]やってしまうんだ[KERO]～[LR]<END>
+#JMP($22E29)
+#FIXEDLENGTH(53,0)
+I often do it…[LR]
+till my face[LR]
+turns black～[LR]<END>
+
+//学校のワックスのニオイも、独特のモンがある<$17><$19><$00>ねェ～！[LR]<END>
+#JMP($22E6E)
+#FIXEDLENGTH(54,0)
+School wax smell[LR]
+is special[LR]
+too<$17><$19><$00>～![LR]<END>
+
+//夏休みとかの前に やるッスよね？[LR]ワックスがけ！[LR]<END>
+#JMP($22EAF)
+#FIXEDLENGTH(47,0)
+You do it before[LR]
+summer break,[LR]
+right?[LR]
+Waxin'![LR]<END>
+
+//これが終われば なが～いお休みだ！っていう…[LR]<END>
+#JMP($22EE9)
+#FIXEDLENGTH(44,0)
+Once this is[LR]
+done, a long[LR]
+break!…[LR]<END>
+
+//開放感とワクワク感の、ないまぜになったニオイなん<$17><$19><$00>～[LR]<END>
+#JMP($22F20)
+#FIXEDLENGTH(54,0)
+a smell of[LR]
+freedom and[LR]
+excitement[LR]
+mixed<$17><$19><$00>～[LR]<END>
+
+//ホゥ♥♥♥[LR]<END>
+#JMP($22F61)
+#FIXEDLENGTH(11,0)
+Hoh♥♥♥[LR]<END>
+
+//近頃の [WORD0]はなんとも、<END>
+#JMP($22F91)
+#FIXEDLENGTH(24,0)
+[WORD0] these days are so<END>
+
+//大事につつんである[KERO]も…[LR]<END>
+#JMP($22FBA)
+#FIXEDLENGTH(26,0)
+carefully[LR]
+wrapped, kero…[LR]<END>
+
+//だってホラ！[LR]<END>
+#JMP($2300F)
+#FIXEDLENGTH(13,0)
+'Cause look![LR]<END>
+
+//いれモンに カスがのこっちまって…[LR]<END>
+#JMP($23027)
+#FIXEDLENGTH(34,0)
+bits stay stuck[LR]
+in the case…[LR]<END>
+
+//なんともやるせないじゃない<$17><$19><$00>か～！[LR]<END>
+#JMP($23054)
+#FIXEDLENGTH(36,0)
+ain't that just[LR]
+miserable<$17><$19><$00>～![LR]<END>
+
+//…って、[LR]いちおう言っておく[KERO]も…[LR]<END>
+#JMP($23083)
+#FIXEDLENGTH(35,0)
+…I'll say that,[LR]
+just in case…[LR]<END>
+
+//断じてイジきたないワケではないッスよ!?[LR]<END>
+#JMP($230B1)
+#FIXEDLENGTH(39,0)
+I'm not greedy,[LR]
+no way!?[LR]<END>
+
+//[WORD0]に[WORD1]を はさんで食べてみた[KERO]も…[LR]<END>
+#JMP($23119)
+#FIXEDLENGTH(41,0)
+I tried [WORD1][LR]
+in [WORD0]…[LR]<END>
+
+//あんまりおいしくなかった[KERO]…[LR]<END>
+#JMP($2314D)
+#FIXEDLENGTH(30,0)
+It wasn't so[LR]
+good…[LR]<END>
+
+//ところが!![LR]<END>
+#JMP($23176)
+#FIXEDLENGTH(11,0)
+But!![LR]<END>
+
+//ガッカリして、[WORD0]を はがしながら 食ってみると…[LR]<END>
+#JMP($2318C)
+#FIXEDLENGTH(50,0)
+Disappointed, I[LR]
+peeled [WORD0][LR]
+off and ate…[LR]<END>
+
+//そのうまさといったら!![LR]<END>
+#JMP($231C9)
+#FIXEDLENGTH(23,0)
+and how tasty!![LR]<END>
+
+//一度やってみるコトを オススメする[KERO]！[LR]<END>
+#JMP($231EB)
+#FIXEDLENGTH(39,0)
+I recommend[LR]
+tryin' it once![LR]<END>
+
+//あの、みじめったらしさは やみつき[KERO]よ～♥[LR]<END>
+#JMP($2321D)
+#FIXEDLENGTH(43,0)
+That pitifulness[LR]
+is addictive～♥[LR]<END>
+
+//小さくって[LR]こまかい、食べモノは…[LR]<END>
+#JMP($23255)
+#FIXEDLENGTH(34,0)
+Small and[LR]
+tiny food…[LR]<END>
+
+//[WORD0]得した気分になれる[KERO]♪[LR]<END>
+#JMP($2328B)
+#FIXEDLENGTH(29,0)
+makes me feel[LR]
+[WORD0] lucky♪[LR]<END>
+
+//なんで？って そりゃ～[LR]長持ちするからなんだなッス♪[LR]<END>
+#JMP($232B3)
+#FIXEDLENGTH(51,0)
+Why? Well～[LR]
+'cause it lasts[LR]
+longer♪[LR]<END>
+
+//ハシを左手で使って ひとつずつ つまんで食うと～[LR]<END>
+#JMP($232F1)
+#FIXEDLENGTH(47,0)
+Use chopsticks[LR]
+left-handed, one[LR]
+at a time～[LR]<END>
+
+//さらに、長持ちして おトクな気分 倍増<$17><$19><$00>!![LR]<END>
+#JMP($2332B)
+#FIXEDLENGTH(42,0)
+lasts even[LR]
+longer, double[LR]
+the luck!![LR]<END>
+
+//[WORD1]とか～[LR][WORD2]とか～[LR]<END>
+#JMP($233A3)
+#FIXEDLENGTH(24,0)
+[WORD1]～[LR]
+[WORD2]～[LR]<END>
+
+//まるごとよりも、こまかくしてある方が[LR]好きなんだな[KERO]～♪[LR]<END>
+#JMP($233C3)
+#FIXEDLENGTH(57,0)
+I like 'em[LR]
+chopped more[LR]
+than whole～♪[LR]<END>
+
+//インスタント[WORD0]ってのが 出てた[KERO]！[LR]<END>
+#JMP($2341E)
+#FIXEDLENGTH(38,0)
+There's instant[LR]
+[WORD0] out[LR]
+now![LR]<END>
+
+//かやくをいれて お湯入れて…[LR]<END>
+#JMP($23457)
+#FIXEDLENGTH(28,0)
+Bits, hot water…[LR]<END>
+
+//フタして３分まってから 食べたッス～[LR]<END>
+#JMP($2347E)
+#FIXEDLENGTH(36,0)
+lid on, wait 3[LR]
+minutes, and[LR]
+eat～[LR]<END>
+
+//まぁウマかったんだ[KERO]も…[LR]<END>
+#JMP($234AD)
+#FIXEDLENGTH(26,0)
+It was tasty,[LR]
+kero…[LR]<END>
+
+//なんかモノたりなくって…[LR]<END>
+#JMP($234CC)
+#FIXEDLENGTH(25,0)
+but it felt[LR]
+lacking…[LR]<END>
+
+//フッと さっきとったフタみたら…[LR]<END>
+#JMP($234F0)
+#FIXEDLENGTH(32,0)
+I looked at the[LR]
+lid…[LR]<END>
+
+//かやくがビッシリこびりついてた<$17><$19><$00>!![LR]<END>
+#JMP($2351B)
+#FIXEDLENGTH(36,0)
+the bits were all[LR]
+stuck on it!![LR]<END>
+
+//ほとんど 食べおわってたから…[LR]<END>
+#JMP($2354E)
+#FIXEDLENGTH(30,0)
+I'd nearly[LR]
+finished it…[LR]<END>
+
+//泣きながら かやくだけ こそげおとして食べた[KERO]…[LR]<END>
+#JMP($23577)
+#FIXEDLENGTH(48,0)
+so cryin', I[LR]
+scraped off the[LR]
+bits and ate[LR]
+'em…[LR]<END>
+
+//今日の一句…[LR]<END>
+#JMP($235B2)
+#FIXEDLENGTH(13,0)
+A haiku…[LR]<END>
+
+//「かやくモノ…上におくのはシロウトなり、<END>
+#JMP($235CA)
+#FIXEDLENGTH(40,0)
+"Toppings…on top is for amateurs,<END>
+
+//底に入れるがキホンとぞ知る…」[LR]<END>
+#JMP($235F4)
+#FIXEDLENGTH(31,0)
+in the bottom is[LR]
+basic…"[LR]<END>
+
+//[WORD0]入り[WORD1]って 新製品が出てた[KERO]～！[LR]<END>
+#JMP($23656)
+#FIXEDLENGTH(41,0)
+New [WORD1][LR]
+with [WORD0][LR]
+came out～![LR]<END>
+
+//さっそく 買ってためしてみた<$17><$19><$00>♪[LR]<END>
+#JMP($2368A)
+#FIXEDLENGTH(33,0)
+I bought and[LR]
+tried it right[LR]
+away[LR]<END>
+
+//色々テストした結果！[LR]一番ウマい 食べかたを発見!![LR]<END>
+#JMP($236B6)
+#FIXEDLENGTH(49,0)
+After lots of[LR]
+tests![LR]
+I found the best[LR]
+way!![LR]<END>
+
+//外の[WORD1]は、まず口の中で 溶かすようにして食べて、[LR]<END>
+#JMP($236F2)
+#FIXEDLENGTH(51,0)
+Eat the outer[LR]
+[WORD1] meltin'[LR]
+it in your mouth,[LR]<END>
+
+//[WORD0]は あとで かわかして食べるッス♪[LR]<END>
+#JMP($2372D)
+#FIXEDLENGTH(38,0)
+and dry the[LR]
+[WORD0] to eat[LR]
+later♪[LR]<END>
+
+//これぞ！ ひとつで２回もオイシく食べられる おトクな方法<END>
+#JMP($2375E)
+#FIXEDLENGTH(54,0)
+Yes! A way to enjoy one thing twice!<END>
+
+//なんだ[KERO]♥[LR]<END>
+#JMP($23796)
+#FIXEDLENGTH(12,0)
+That's it♥[LR]<END>
+
+//ただ…[LR]かわかしてる [WORD0]を、[WORD1]に取られないように <END>
+#JMP($237C2)
+#FIXEDLENGTH(53,0)
+But…[LR]
+watch that the[LR]
+dryin' [WORD0][LR]
+doesn't get<END>
+
+//気をつける必要がある<$17><$19><$00>！[LR]<END>
+#JMP($237FF)
+#FIXEDLENGTH(26,0)
+swiped by[LR]
+[WORD1]<$17><$19><$00>![LR]<END>
+
+//これ、じゅーよう!![LR]<END>
+#JMP($23824)
+#FIXEDLENGTH(19,0)
+Important!![LR]<END>
+
+//ちまたの[LR]「ヘンな飲みモノ愛好家」達の間で話題ふっとうの～[LR]<END>
+#JMP($23859)
+#FIXEDLENGTH(58,0)
+The hot topic[LR]
+among[LR]
+weird-drink[LR]
+fans～[LR]<END>
+
+//「カン入り[WORD0]・クリームスープ」をゲットした[KERO]！[LR]<END>
+#JMP($2389E)
+#FIXEDLENGTH(51,0)
+I got "Canned[LR]
+[WORD0] Cream[LR]
+Soup"![LR]<END>
+
+//飲んでみたら [WORD0]が カンのそこにこびりついて、<END>
+#JMP($238E4)
+#FIXEDLENGTH(47,0)
+Drank it, and [WORD0] stuck to the bottom,<END>
+
+//何度たたいてもとれなかったッス!![LR]<END>
+#JMP($2391B)
+#FIXEDLENGTH(33,0)
+no matter how I[LR]
+tapped it!![LR]<END>
+
+//あれはハラが立つというか…[LR]かなしくなるというか…[LR]<END>
+#JMP($23947)
+#FIXEDLENGTH(50,0)
+It's maddenin'…[LR]
+or kinda sad…[LR]<END>
+
 //ま！[LR]<END>
 #JMP($23984)
 #FIXEDLENGTH(5,0)
 Well[LR]<END>
 
+//味はそこそこだったから～[LR]<END>
+#JMP($23994)
+#FIXEDLENGTH(25,0)
+The taste was[LR]
+okay～[LR]<END>
+
+//なんなら[WORD1]も…[LR]一度ためしてみる<$17><$19><$00>よ！[LR]<END>
+#JMP($239C0)
+#FIXEDLENGTH(42,0)
+Maybe[LR]
+[WORD1]…[LR]
+should try it[LR]
+once![LR]<END>
+
+//[WORD0]で売ってる[KERO]よ～！[LR]<END>
+#JMP($23A0A)
+#FIXEDLENGTH(25,0)
+It's sold at[LR]
+[WORD0]～![LR]<END>
+
+//ちょっと前に…[LR]<END>
+#JMP($23A5C)
+#FIXEDLENGTH(15,0)
+A while ago…[LR]<END>
+
+//[WORD0]のパイロットのひじょー食！[LR]<END>
+#JMP($23A76)
+#FIXEDLENGTH(32,0)
+[WORD0] pilot[LR]
+rations![LR]<END>
+
+//「[VAR1]のカンヅメ」が、たくさん手に入った[KERO]～！[LR]<END>
+#JMP($23A9E)
+#FIXEDLENGTH(47,0)
+I got lots of[LR]
+"Canned[LR]
+[VAR1]"～![LR]<END>
+
+//でも、いいかげんあきてきたんで…[LR]<END>
+#JMP($23AD8)
+#FIXEDLENGTH(33,0)
+But I got sick of[LR]
+'em…[LR]<END>
+
+//ためしに マヨネーズとしょうゆを入れて、<END>
+#JMP($23B04)
+#FIXEDLENGTH(39,0)
+so I tried addin' mayo and soy sauce,<END>
+
+//かきまぜて 食べてみた<$17><$19><$00>よ…？[LR]<END>
+#JMP($23B33)
+#FIXEDLENGTH(31,0)
+stirred it and[LR]
+ate it<$17><$19><$00>…?[LR]<END>
+
+//そしたら!![LR]<END>
+#JMP($23B65)
+#FIXEDLENGTH(11,0)
+And then!![LR]<END>
+
+//これが [WORD2]ウマいんだ[KERO]～!![LR]<END>
+#JMP($23B84)
+#FIXEDLENGTH(30,0)
+It was [WORD2][LR]
+tasty～!![LR]<END>
+
+//今まであきてたのが ウソのようだったッス!![LR]<END>
+#JMP($23BAD)
+#FIXEDLENGTH(42,0)
+Like I was never[LR]
+sick of it!![LR]<END>
+
+//今度[WORD3]にも ごちそうしてあげる[KERO]～♥[LR]<END>
+#JMP($23BEA)
+#FIXEDLENGTH(40,0)
+I'll treat[LR]
+[WORD3] next[LR]
+time～♥[LR]<END>
+
+//[WORD0]名物！ <END>
+#JMP($23C53)
+#FIXEDLENGTH(12,0)
+[WORD0] treat!<END>
+
+//[WORD1]の串カツを食べた[KERO]！[LR]<END>
+#JMP($23C61)
+#FIXEDLENGTH(27,0)
+I ate [WORD1][LR]
+kushikatsu![LR]<END>
+
+//でも これが[WORD1]とは名ばかりで…<END>
+#JMP($23C87)
+#FIXEDLENGTH(32,0)
+But [WORD1] in name only…<END>
+
+//間にはさまってる [WORD2]ばかりが多い しろモノだったッス…！[LR]<END>
+#JMP($23CC7)
+#FIXEDLENGTH(58,0)
+it was mostly[LR]
+the [WORD2] in[LR]
+between…![LR]<END>
+
+//くやしいから全部バラバラにして、<END>
+#JMP($23D0C)
+#FIXEDLENGTH(32,0)
+So annoyed, I took it all apart,<END>
+
+//[WORD1]をあとの方まで 温存しながら食べた[KERO]！[LR]<END>
+#JMP($23D34)
+#FIXEDLENGTH(44,0)
+savin' [WORD1][LR]
+for last![LR]<END>
+
+//もうあんなモン…[LR]<END>
+#JMP($23D6B)
+#FIXEDLENGTH(17,0)
+That thing…[LR]<END>
+
+//二度とたのまない[KERO]～!![LR]<END>
+#JMP($23D87)
+#FIXEDLENGTH(24,0)
+never orderin'[LR]
+again!![LR]<END>
+
+//宴会で～[LR]<END>
+#JMP($23DBD)
+#FIXEDLENGTH(9,0)
+A party[LR]<END>
+
+//[WORD0]入りのスキヤキを 食べてきた[KERO]～♪[LR]<END>
+#JMP($23DE6)
+#FIXEDLENGTH(40,0)
+I ate sukiyaki[LR]
+with [WORD0]～♪[LR]<END>
+
+//タマゴたっぷりつけて食べたら [WORD1]ウマかったッス～♥[LR]<END>
+#JMP($23E22)
+#FIXEDLENGTH(53,0)
+With lots of egg,[LR]
+it was [WORD1][LR]
+tasty～♥[LR]<END>
+
+//タレが またオイシかったんで…[LR]<END>
+#JMP($23E6A)
+#FIXEDLENGTH(30,0)
+The sauce was[LR]
+so good…[LR]<END>
+
+//使いおわったタマゴにタレを入れて…[LR]<END>
+#JMP($23E93)
+#FIXEDLENGTH(35,0)
+I poured it in[LR]
+the used egg…[LR]<END>
+
+//全部すすっちゃった[KERO]…♥[LR]<END>
+#JMP($23EC1)
+#FIXEDLENGTH(26,0)
+and slurped it[LR]
+all…♥[LR]<END>
+
+//ちょっと行儀が悪かった[KERO]～[LR]<END>
+#JMP($23EE6)
+#FIXEDLENGTH(28,0)
+Bit bad[LR]
+manners～[LR]<END>
+
+//てへっ♥[LR]<END>
+#JMP($23F0D)
+#FIXEDLENGTH(9,0)
+Tehee♥[LR]<END>
+
+//[WORD0]のしゃぶしゃぶを、食ったッス！[LR]<END>
+#JMP($23F42)
+#FIXEDLENGTH(36,0)
+I ate [WORD0][LR]
+shabu-shabu![LR]<END>
+
+//[WORD0]のニクってのは…[LR]なかなかウマいもん<$17><$19><$00>ねェ～！[LR]<END>
+#JMP($23F71)
+#FIXEDLENGTH(52,0)
+[WORD0] meat…[LR]
+is pretty[LR]
+tasty<$17><$19><$00>～![LR]<END>
+
+//ついつい おさらにこびりついてるニクの…[LR]<END>
+#JMP($23FB0)
+#FIXEDLENGTH(40,0)
+Meat stuck to[LR]
+the plate…[LR]<END>
+
+//切れ端まで しゃぶしゃぶしてェ～[LR]<END>
+#JMP($23FE3)
+#FIXEDLENGTH(32,0)
+even scraps,[LR]
+swish-swish～[LR]<END>
+
+//ひんしゅくを かっちまった<$17><$19><$00>…[LR]<END>
+#JMP($2400E)
+#FIXEDLENGTH(31,0)
+got me frowned[LR]
+at<$17><$19><$00>…[LR]<END>
+
+//[WORD0]にある店[KERO]♪[LR]<END>
+#JMP($2404D)
+#FIXEDLENGTH(19,0)
+A shop in[LR]
+[WORD0]♪[LR]<END>
+
+//[WORD1]も 今度いっしょに行く[KERO]～♥[LR]<END>
+#JMP($24070)
+#FIXEDLENGTH(34,0)
+[WORD1], let's[LR]
+go together～♥[LR]<END>
+
+//ひさしぶりに料理するかってんで…[LR]<END>
+#JMP($2409F)
+#FIXEDLENGTH(33,0)
+Thought I'd cook[LR]
+for once…[LR]<END>
+
+//[WORD0]入りのカレーに チャレンジした[KERO]！[LR]<END>
+#JMP($240E0)
+#FIXEDLENGTH(40,0)
+I tried curry[LR]
+with [WORD0]![LR]<END>
+
+//でも…[LR]ルーを入れたあとに ちょっと目をはなしたら…[LR]<END>
+#JMP($24113)
+#FIXEDLENGTH(51,0)
+But…[LR]
+I looked away[LR]
+after addin' the[LR]
+roux…[LR]<END>
+
+//カレーがこげてしまったん<$17><$19><$00>～!![LR]<END>
+#JMP($24151)
+#FIXEDLENGTH(32,0)
+and the curry[LR]
+burned<$17><$19><$00>～!![LR]<END>
+
+//…が、しかし!![LR]<END>
+#JMP($24184)
+#FIXEDLENGTH(15,0)
+…But!![LR]<END>
+
+//もったいナイから 食べてみたところ…[LR]<END>
+#JMP($2419E)
+#FIXEDLENGTH(36,0)
+Not to waste it,[LR]
+I ate it…[LR]<END>
+
+//ナベのふちで 固まったルーが、<END>
+#JMP($241CD)
+#FIXEDLENGTH(29,0)
+the roux stuck on the rim,<END>
+
+//かなりウマいコトを 発見したッスよ!![LR]<END>
+#JMP($241EC)
+#FIXEDLENGTH(36,0)
+was really[LR]
+tasty!![LR]<END>
+
+//今、あれを大量生産する方法を 研究中だ[KERO]～♥[LR]<END>
+#JMP($24223)
+#FIXEDLENGTH(45,0)
+Now I'm studyin'[LR]
+mass[LR]
+production～♥[LR]<END>
+
+//たくさんできたら、[WORD1]にも おすそ分けしてあげる<$17><$19><$00>♥[LR]<END>
+#JMP($24263)
+#FIXEDLENGTH(54,0)
+If I make lots, I'll[LR]
+share with[LR]
+[WORD1]♥[LR]<END>
+
+//[WORD0]でダシをとった みそ汁をつくったッス！[LR]<END>
+#JMP($242C5)
+#FIXEDLENGTH(43,0)
+I made miso soup[LR]
+with [WORD0][LR]
+stock![LR]<END>
+
+//で、ふとダシをとったあとの [WORD0]を食べてみた<$17><$19><$00>が…[LR]<END>
+#JMP($242FB)
+#FIXEDLENGTH(52,0)
+Then I tried the[LR]
+[WORD0] after[LR]
+makin' stock…[LR]<END>
+
+//これが!![LR]<END>
+#JMP($2433A)
+#FIXEDLENGTH(9,0)
+And!![LR]<END>
+
+//まだ味がのこってるじゃナイっすか～ッ!![LR]<END>
+#JMP($2434E)
+#FIXEDLENGTH(39,0)
+It's still got[LR]
+flavor!![LR]<END>
+
+//もぉ～！[LR]もったいないので全部食べた[KERO]！[LR]<END>
+#JMP($24380)
+#FIXEDLENGTH(41,0)
+Jeez～![LR]
+Too good to[LR]
+waste, I ate it[LR]
+all![LR]<END>
+
+//で、これからダシをとる時は、<END>
+#JMP($243B4)
+#FIXEDLENGTH(28,0)
+So now, makin' stock,<END>
+
+//[WORD0]を入れっぱなしにしておくコトにした<$17><$19><$00>～[LR]<END>
+#JMP($243D8)
+#FIXEDLENGTH(45,0)
+I'll leave[LR]
+[WORD0][LR]
+in<$17><$19><$00>～[LR]<END>
+
+//具がふえて…[LR][WORD1]イイカンジ[KERO]♥[LR]<END>
+#JMP($24419)
+#FIXEDLENGTH(34,0)
+More filling…[LR]
+[WORD1] nice♥[LR]<END>
+
+//[WORD1]は[WORD0]のカンヅメののこった汁…[LR]<END>
+#JMP($24467)
+#FIXEDLENGTH(37,0)
+[WORD1], juice[LR]
+left in [WORD0][LR]
+cans…[LR]<END>
+
+//どうしてる[KERO]？[LR]<END>
+#JMP($24497)
+#FIXEDLENGTH(16,0)
+what do you do?[LR]<END>
+
+//なんか、すてる人が多いって きいた<$17><$19><$00>が…[LR]<END>
+#JMP($244BA)
+#FIXEDLENGTH(41,0)
+I hear lots of[LR]
+folks toss it…[LR]<END>
+
+//くぁ～ッ!![LR]もったいない話ッス～!![LR]<END>
+#JMP($244EE)
+#FIXEDLENGTH(34,0)
+Kwaa～!![LR]
+What a waste～!![LR]<END>
+
+//あれをごはんにかければ…[LR]かるく一杯いけてしまうのに…<END>
+#JMP($2451B)
+#FIXEDLENGTH(53,0)
+Pour it on rice…[LR]
+and you could[LR]
+easily eat a[LR]
+bowl…<END>
+
+//ウマいんだ[KERO]～！[LR]<END>
+#JMP($24572)
+#FIXEDLENGTH(18,0)
+It's yummy～![LR]<END>
+
+//ウソだと思うなら…[LR]ためしてみて[KERO]～！[LR]<END>
+#JMP($2458F)
+#FIXEDLENGTH(39,0)
+If you don't[LR]
+believe me…[LR]
+try it～![LR]<END>
+
+//そうだんべ!?[LR][WORD1]なら わかってくれると思った<$17><$19><$00>…♥[LR]<END>
+#JMP($245CA)
+#FIXEDLENGTH(53,0)
+Right!?[LR]
+I knew [WORD1][LR]
+would get[LR]
+it<$17><$19><$00>…♥[LR]<END>
+
+//カンヅメの 汁さえあれば、何杯でも いけちゃう<END>
+#JMP($24601)
+#FIXEDLENGTH(44,0)
+With can juice I could eat bowl after bowl<END>
+
+//[WORD0]の骨付きから揚げ [WORD1]ピースパックを <END>
+#JMP($24662)
+#FIXEDLENGTH(42,0)
+[WORD0] fried chicken, [WORD1]-piece pack<END>
+
+//買ってきてくった[KERO]～♪[LR]<END>
+#JMP($2468E)
+#FIXEDLENGTH(24,0)
+I bought and[LR]
+ate～♪[LR]<END>
+
+//やわらかかったから なんこつまで 食べてしまったッス♥[LR]<END>
+#JMP($246B1)
+#FIXEDLENGTH(53,0)
+It was soft, so I[LR]
+ate the[LR]
+cartilage too♥[LR]<END>
+
+//だ[KERO]も…[LR]骨と骨の間のニクが なかなか食べられなくって…[LR]<END>
+#JMP($246F1)
+#FIXEDLENGTH(56,0)
+But…[LR]
+the meat[LR]
+between bones[LR]
+was hard to[LR]
+eat…[LR]<END>
+
+//イヤァ、苦労したした！[LR]<END>
+#JMP($24734)
+#FIXEDLENGTH(23,0)
+Man, what a[LR]
+struggle![LR]<END>
+
+//[WORD0]の骨付きから揚げって、<END>
+#JMP($24756)
+#FIXEDLENGTH(27,0)
+[WORD0] bone-in chicken,<END>
+
+//どこまで食べられるのか [LR]<END>
+#JMP($24779)
+#FIXEDLENGTH(24,0)
+how far can you[LR]
+eat it?[LR]<END>
+
+//わかんなくなってこまる[KERO]～[LR]<END>
+#JMP($24793)
+#FIXEDLENGTH(28,0)
+I get confused～[LR]<END>
+
 //[WORD0]に…[LR]<END>
 #JMP($247EA)
 #FIXEDLENGTH(10,0)
 [WORD0]…[LR]<END>
+
+//「[VAR1]のキモすいのキモって…[LR]つい、食べちゃうよね～！」[LR]<END>
+#JMP($247FC)
+#FIXEDLENGTH(55,0)
+"The liver in[LR]
+[VAR1] liver[LR]
+soup…[LR]
+you eat it,[LR]
+right!"[LR]<END>
+
+//って、言われたんだスけど…[LR]<END>
+#JMP($2483E)
+#FIXEDLENGTH(27,0)
+they said to me,[LR]
+but…[LR]<END>
+
+//フッ………[LR]<END>
+#JMP($248A0)
+#FIXEDLENGTH(11,0)
+Heh………[LR]<END>
+
+//なんか さみしかったッス…[LR]<END>
+#JMP($248B6)
+#FIXEDLENGTH(26,0)
+It kinda made me[LR]
+lonely…[LR]<END>
+
+//おでんを食べてきたッス～♥[LR]<END>
+#JMP($248EE)
+#FIXEDLENGTH(27,0)
+I went and ate[LR]
+oden～♥[LR]<END>
+
+//[WORD0]のつみれとか～[LR]<END>
+#JMP($2493E)
+#FIXEDLENGTH(20,0)
+[WORD0][LR]
+fishballs～[LR]<END>
+
+//[WORD1]入り福ぶくろを いっぱい食べてきた[KERO]♥[LR]<END>
+#JMP($2495A)
+#FIXEDLENGTH(44,0)
+ate lots of[LR]
+[WORD1] tofu[LR]
+pouches♥[LR]<END>
+
+//モチロン最後は、つゆにタマゴの黄身をとかして すすってきた<$17><$19><$00>♥[LR]<END>
+#JMP($24991)
+#FIXEDLENGTH(63,0)
+Of course, I[LR]
+mixed yolk in[LR]
+the broth and[LR]
+slurped♥[LR]<END>
+
+//ホゥ…♥[LR]ウマかった<$17><$19><$00>～♥[LR]<END>
+#JMP($249DB)
+#FIXEDLENGTH(27,0)
+Hoh…♥[LR]
+It was yummy～♥[LR]<END>
+
+//[WORD2]が おもしろいって思う、雑誌 おしえて<$17><$18><$00>～<END>
+#JMP($24A12)
+#FIXEDLENGTH(46,0)
+Tell me a magazine [WORD2] finds fun<$17><$18><$00>～<END>
+
+//[WORD3]に マーボー[WORD4]が <END>
+#JMP($24A99)
+#FIXEDLENGTH(24,0)
+At [WORD3], a mapo [WORD4]<END>
+
+//ウマい店があるって、[LR]<END>
+#JMP($24AB3)
+#FIXEDLENGTH(21,0)
+is tasty, they[LR]
+said,[LR]<END>
+
+//「[VAR1]」にのってた[KERO]～[LR]<END>
+#JMP($24AD0)
+#FIXEDLENGTH(23,0)
+in "[VAR1]"～[LR]<END>
+
+//マーボー[WORD4]は 好きなんだ[KERO]も…[LR]<END>
+#JMP($24AF2)
+#FIXEDLENGTH(34,0)
+I like mapo[LR]
+[WORD4], kero…[LR]<END>
+
+//べるのにやたらと 時間がかかってしまうッス…[LR]<END>
+#JMP($24B28)
+#FIXEDLENGTH(44,0)
+it takes me[LR]
+forever to eat…[LR]<END>
+
+//ひきニクが ひとかけらでも 残ってるのが <END>
+#JMP($24B5F)
+#FIXEDLENGTH(39,0)
+If even one scrap of mince is left,<END>
+
+//ゆるせないん<$17><$19><$00>よ～!![LR]<END>
+#JMP($24B8E)
+#FIXEDLENGTH(22,0)
+I can't stand[LR]
+it～!![LR]<END>
+
+//それでもよければ…[LR]<END>
+#JMP($24BAF)
+#FIXEDLENGTH(19,0)
+If that's okay…[LR]<END>
+
+//[WORD2]！ 今度いっしょに行く[KERO]～♥[LR]<END>
+#JMP($24BD5)
+#FIXEDLENGTH(34,0)
+[WORD2]! Let's[LR]
+go together～♥[LR]<END>
+
+//分かった<$17><$19><$00>…[LR][WORD3]と行く<$17><$19><$00>…[LR]<END>
+#JMP($24C32)
+#FIXEDLENGTH(31,0)
+Got it…[LR]
+I'll go with[LR]
+[WORD3]…[LR]<END>
+
+//え？[LR]ハズかしくないん<$17><$19><$00>か？[LR]<END>
+#JMP($24C64)
+#FIXEDLENGTH(29,0)
+Huh?[LR]
+Not[LR]
+embarrassed<$17><$19><$00>?[LR]<END>
+
+//[WORD0]に<END>
+#JMP($24D15)
+#FIXEDLENGTH(7,0)
+[WORD0]<END>
+
+//[WORD1]の おだんごやサンがおいしいって、聞いたモンで～[LR]<END>
+#JMP($24D1E)
+#FIXEDLENGTH(53,0)
+[WORD1]'s[LR]
+dango shop is[LR]
+good, I heard～[LR]<END>
+
+//ホントに ウマかった<$17><$19><$00>～[LR]<END>
+#JMP($24D80)
+#FIXEDLENGTH(25,0)
+It was really[LR]
+tasty<$17><$19><$00>～[LR]<END>
+
+//みたらしダンゴ<END>
+#JMP($24DB2)
+#FIXEDLENGTH(14,0)
+Mitarashi<END>
+
+//ゴマだんご<END>
+#JMP($24DCD)
+#FIXEDLENGTH(10,0)
+Sesame<END>
+
+//あんこモチ<END>
+#JMP($24DE4)
+#FIXEDLENGTH(10,0)
+Bean mochi<END>
+
+//…ところで ふと思ったんだ[KERO]も！[LR]<END>
+#JMP($24E08)
+#FIXEDLENGTH(33,0)
+…By the way, I[LR]
+thought![LR]<END>
+
+//串だんごの入れモノにおちた、タレとかあんこを…[LR]<END>
+#JMP($24E34)
+#FIXEDLENGTH(47,0)
+Sauce or bean[LR]
+paste fallen in[LR]
+the dango box…[LR]<END>
+
+//ついつい串で あつめて なめちゃうのは…[LR]<END>
+#JMP($24E6E)
+#FIXEDLENGTH(39,0)
+scrapin' it with[LR]
+the skewer,[LR]
+lickin'…[LR]<END>
+
+//[WORD2]も あれ、ついやっちゃう人？<END>
+#JMP($24ED5)
+#FIXEDLENGTH(32,0)
+[WORD2], do you do that too?<END>
+
+//<$17><$1B><$00> やっぱし？[LR]<END>
+#JMP($24F17)
+#FIXEDLENGTH(15,0)
+<$17><$1B><$00> Figures?[LR]<END>
+
+//そういうモンなん<$17><$19><$00>かねェ～！[LR]<END>
+#JMP($24F31)
+#FIXEDLENGTH(30,0)
+That's how it[LR]
+is<$17><$19><$00>～![LR]<END>
+
+//うそぉーッ!?[LR]<END>
+#JMP($24F5B)
+#FIXEDLENGTH(13,0)
+No way!?[LR]<END>
+
+//変わってる…[LR]<END>
+#JMP($24F73)
+#FIXEDLENGTH(13,0)
+You're odd…[LR]<END>
+
+//っちゅーか…[LR]品がイイんだべか…？[LR]<END>
+#JMP($24F8B)
+#FIXEDLENGTH(34,0)
+I mean…[LR]
+are you classy…?[LR]<END>
+
+//[WORD0]の もも肉のローストが、<END>
+#JMP($25038)
+#FIXEDLENGTH(28,0)
+[WORD0] roast drumsticks,<END>
+
+//[WORD1]で特売！[LR]３本３８０円!![LR]<END>
+#JMP($25056)
+#FIXEDLENGTH(29,0)
+[WORD1] sale![LR]
+3 for 380 yen!![LR]<END>
+
+//って いうんで、さっそく買ってきた[KERO]～♥[LR]<END>
+#JMP($2507E)
+#FIXEDLENGTH(41,0)
+So I bought[LR]
+some right[LR]
+away～♥[LR]<END>
+
+//しっかし、いつも思うんだ[KERO]も…<END>
+#JMP($250B2)
+#FIXEDLENGTH(31,0)
+But I always think, kero…<END>
+
+//もものローストに まいてある アルミホイルはジャマだ[KERO]～[LR]<END>
+#JMP($250DC)
+#FIXEDLENGTH(56,0)
+The foil wrapped[LR]
+on drumsticks is[LR]
+a pain～[LR]<END>
+
+//どうせ、みんなあれを外して…[LR]そこのおニクもくうにきまってるッス…[LR]<END>
+#JMP($2511F)
+#FIXEDLENGTH(66,0)
+Everyone takes[LR]
+it off…[LR]
+and eats the[LR]
+meat there too…[LR]<END>
+
+//つーかそれをやってる時って…[LR]<END>
+#JMP($2516C)
+#FIXEDLENGTH(29,0)
+And when you're[LR]
+doin' that…[LR]<END>
+
+//なんかむなしい…[LR]………[LR]<END>
+#JMP($25194)
+#FIXEDLENGTH(24,0)
+it feels empty…[LR]
+………[LR]<END>
+
+//つーワケで！[LR]<END>
+#JMP($251B7)
+#FIXEDLENGTH(13,0)
+So![LR]<END>
+
+//[WORD2]が よく行くディスカウントストアを おしえて[KERO]？<END>
+#JMP($251D7)
+#FIXEDLENGTH(52,0)
+Tell me a discount store [WORD2] goes to?<END>
+
+//[WORD2]がよく行く ディスカウントストアだ[KERO]～<END>
+#JMP($25240)
+#FIXEDLENGTH(43,0)
+A discount store [WORD2] goes to～<END>
+
+//[WORD0]の もも肉が 格安で売ってるといい<$17><$19><$00>ねェ～[LR]<END>
+#JMP($25286)
+#FIXEDLENGTH(47,0)
+Hope [WORD0][LR]
+drumsticks are[LR]
+cheap[LR]
+there<$17><$19><$00>～[LR]<END>
+
+//も♪[LR]<END>
+#JMP($252F9)
+#FIXEDLENGTH(5,0)
+♪[LR]<END>
+
+//安いお店は 知っているに こしたコトはないん<$17><$19><$00>けどねェ…[LR]<END>
+#JMP($2530A)
+#FIXEDLENGTH(56,0)
+Knowin' cheap[LR]
+shops never[LR]
+hurts<$17><$19><$00>…[LR]<END>
+
+//[WORD0]の～[LR]<END>
+#JMP($25379)
+#FIXEDLENGTH(10,0)
+[WORD0]'s～[LR]<END>
+
+//[WORD0]に<END>
+#JMP($26168)
+#FIXEDLENGTH(7,0)
+[WORD0]<END>
 
 //ところで…[LR]<END>
 #JMP($26AF2)
@@ -10423,6 +12146,11 @@ too[LR]<END>
 #JMP($27FF7)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
+
+//[WORD2]が おもしろいって思う、雑誌 おしえて<$17><$18><$00>～<END>
+#JMP($2841D)
+#FIXEDLENGTH(46,0)
+Tell me a magazine [WORD2] finds fun<$17><$18><$00>～<END>
 
 //も…[LR]<END>
 #JMP($28C40)
@@ -10699,6 +12427,12 @@ I see…[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//ゆるせないん<$17><$19><$00>よ～!![LR]<END>
+#JMP($3F7AD)
+#FIXEDLENGTH(22,0)
+I can't stand[LR]
+it～!![LR]<END>
+
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($3F9FD)
 #FIXEDLENGTH(12,0)
@@ -10723,6 +12457,22 @@ But…[LR]<END>
 #JMP($409DC)
 #FIXEDLENGTH(7,0)
 Ah![LR]<END>
+
+//う～ん…[LR]やみつき～♥[LR]<END>
+#JMP($4125B)
+#FIXEDLENGTH(22,0)
+Mmm…[LR]
+Hooked～♥[LR]<END>
+
+//も♪[LR]<END>
+#JMP($415CE)
+#FIXEDLENGTH(5,0)
+♪[LR]<END>
+
+//も♪[LR]<END>
+#JMP($41868)
+#FIXEDLENGTH(5,0)
+♪[LR]<END>
 
 //ね！[LR]<END>
 #JMP($41A55)
@@ -10796,6 +12546,11 @@ Maybe…[LR]<END>
 #FIXEDLENGTH(7,0)
 Well…[LR]<END>
 
+//も♪[LR]<END>
+#JMP($47132)
+#FIXEDLENGTH(5,0)
+♪[LR]<END>
+
 //ぜひとも、一度 お手合わせしたいもの<$17><$19><$00>!![LR]<END>
 #JMP($480F0)
 #FIXEDLENGTH(41,0)
@@ -10852,6 +12607,11 @@ Huh!?[LR]<END>
 #JMP($4BCAD)
 #FIXEDLENGTH(5,0)
 Well[LR]<END>
+
+//も♪[LR]<END>
+#JMP($4BCFA)
+#FIXEDLENGTH(5,0)
+♪[LR]<END>
 
 //なぬ～!?[LR]<END>
 #JMP($4C0B9)
