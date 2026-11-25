@@ -44753,15 +44753,1176 @@ sneaks on[LR]
 where you can't[LR]
 see!<END>
 
+//ヘー<END>
+#JMP($6DD2B)
+#FIXEDLENGTH(4,0)
+Huh<END>
+
+//おかしいケロ…[LR]たしかに トイレで[LR]「$_W1…」って、[LR]聞こえたダス…[LR]もしや… $_YOUのイタズラ？<END>
+#JMP($6DD30)
+#FIXEDLENGTH(91,0)
+Weird, kero…[LR]
+In the toilet I[LR]
+heard "$_W1…"[LR]
+for sure…[LR]
+Was it $_YOU's[LR]
+prank?<END>
+
+//いつも 強がってる[LR]オラだケロも、 [LR]弱音をはいちゃう[LR]コトもあるんダス…。[LR]「あ～ 腹へった…」[LR]空腹には だれも[LR]勝てないんだケロ。<END>
+#JMP($6DD8C)
+#FIXEDLENGTH(126,0)
+I always act[LR]
+tough,[LR]
+kero, but even I[LR]
+whine[LR]
+sometimes…[LR]
+"Ahh, I'm[LR]
+hungry…"[LR]
+Nobody beats[LR]
+hunger, kero.<END>
+
+//ふう…食いすぎたダス…[LR]食べ放題だと思って[LR]１週間分のゴハン[LR]食べたのはキツいダス。[LR]このまま冬眠できる [LR]いきおいだケロ…<END>
+#JMP($6DE0B)
+#FIXEDLENGTH(118,0)
+Phew…ate too[LR]
+much…[LR]
+All-you-can-eat,[LR]
+so[LR]
+I ate a week's[LR]
+meals. Rough,[LR]
+dasu.[LR]
+I could[LR]
+hibernate[LR]
+like this, kero…<END>
+
+//世界チャンピオン<END>
+#JMP($6DE82)
+#FIXEDLENGTH(16,0)
+World champ<END>
+
+//ベルト<END>
+#JMP($6DE93)
+#FIXEDLENGTH(6,0)
+belt<END>
+
+//最強のカエルに[LR]なるのだから、[LR]それなりのカッコを [LR]しようと思った。[LR]…で、$_W1っぽい、$_W2を買った。[LR]最強に似合うダス～<END>
+#JMP($6DE9A)
+#FIXEDLENGTH(118,0)
+Gonna be the[LR]
+strongest frog,[LR]
+so[LR]
+I should look the[LR]
+part. So I[LR]
+bought[LR]
+a $_W1-ish[LR]
+$_W2.[LR]
+Suits the[LR]
+strongest～<END>
+
+//トモダチの結婚式に出席。[LR]ものすごくキレイに[LR]なっててビックリ！[LR]しまった！[LR]こんなコトならオラが！[LR]…いやいや、[LR]なんでもないダスよ…<END>
+#JMP($6DF11)
+#FIXEDLENGTH(130,0)
+At a friend's[LR]
+wedding.[LR]
+She'd gotten so[LR]
+pretty, wow![LR]
+Darn! If I'd[LR]
+known,[LR]
+I'd have…![LR]
+…nah, never[LR]
+mind,[LR]
+dasu…<END>
+
 //おしり<END>
 #JMP($6DF97)
 #FIXEDLENGTH(6,0)
 Butt<END>
 
+//激しい修行の後には、[LR]適度のマッサージが[LR]必要ダス。[LR]今日は、$_W1を[LR]重点的にお願いした。[LR]…ちがう！[LR]そこは $_W2ダス！<END>
+#JMP($6DF9E)
+#FIXEDLENGTH(115,0)
+After hard[LR]
+trainin',[LR]
+a good massage[LR]
+is a must.[LR]
+Today I asked[LR]
+for[LR]
+my $_W1.[LR]
+…No![LR]
+That's my $_W2!<END>
+
+//歯医者行ってから[LR]気づいた…[LR]オラ、歯、[LR]ないダス！<END>
+#JMP($6E012)
+#FIXEDLENGTH(49,0)
+At the dentist[LR]
+I realized… I[LR]
+have no teeth!<END>
+
+//ヒグマ<END>
+#JMP($6E044)
+#FIXEDLENGTH(6,0)
+bear<END>
+
+//腕立て１０００回<END>
+#JMP($6E04B)
+#FIXEDLENGTH(16,0)
+1000 push-ups<END>
+
+//調子が悪いので[LR]病院に行った。[LR]先生に、$_W1と戦ったり、$_W2するのやめなさいと言われた。[LR]先生…それは[LR]出来ない相談だケロ…<END>
+#JMP($6E05C)
+#FIXEDLENGTH(120,0)
+Felt off, so I[LR]
+went to the[LR]
+clinic.[LR]
+Doc said quit[LR]
+fightin' $_W1[LR]
+and doin' $_W2.[LR]
+Doc…that's a[LR]
+no-can-do,[LR]
+kero…<END>
+
+//ローリングサンダー<END>
+#JMP($6E0D5)
+#FIXEDLENGTH(18,0)
+Rollin' Thunder<END>
+
+//あ！子供が危ない！[LR]$_MEスペシャル[LR]$_W1アタックを、[LR]おみまいする時ダス!![LR]今だ！[LR]ケロロロォ！ケロロロ[LR]オオーッッ!!!!<END>
+#JMP($6E0E8)
+#FIXEDLENGTH(114,0)
+Ah! A kid's in[LR]
+danger![LR]
+Time for the[LR]
+$_ME Special[LR]
+$_W1 Attack!![LR]
+Now![LR]
+Keroroo! Keroro[LR]
+ooo!!!!<END>
+
+//町内<END>
+#JMP($6E15B)
+#FIXEDLENGTH(4,0)
+town<END>
+
+//神社にお参り。[LR]神様、どーかオラを[LR]世界最強に…[LR]いや、その前に[LR]日本最強に…[LR]いや、その前に $_W1最強に…[LR]して下さいダス～!!<END>
+#JMP($6E160)
+#FIXEDLENGTH(121,0)
+Shrine visit.[LR]
+God,[LR]
+please make me[LR]
+world's[LR]
+strongest…[LR]
+no, first Japan's[LR]
+strongest…[LR]
+no, first $_W1's[LR]
+strongest,[LR]
+please!!<END>
+
+//今日は遠心力修行。[LR]近所の子供に[LR]手伝ってもらう。[LR]ぐるぐるぐるぐる…[LR]ぐるぐるぐるぐる…[LR]ぐるぐるぐるぐる…[LR]うう…ちょ、ちょっと、[LR]回しすぎたケロ…<END>
+#JMP($6E1DA)
+#FIXEDLENGTH(145,0)
+Today:[LR]
+centrifugal[LR]
+trainin'. A kid[LR]
+nearby helped.[LR]
+Round and[LR]
+round…[LR]
+round and[LR]
+round…[LR]
+round and[LR]
+round…[LR]
+Ugh…w-wait,[LR]
+too much spin,[LR]
+kero…<END>
+
+//オケラ<END>
+#JMP($6E26C)
+#FIXEDLENGTH(6,0)
+bug<END>
+
+//通りすがりの[LR]子供におしえた。[LR]「$_W1だって、$_W2だって、[LR]みんなみんな [LR]生きているダス、[LR]トモダチなんダスよ～」<END>
+#JMP($6E273)
+#FIXEDLENGTH(110,0)
+Told a kid[LR]
+passin'[LR]
+by: "$_W1, $_W2,[LR]
+everyone's[LR]
+alive, dasu,[LR]
+we're all[LR]
+friends～"<END>
+
+//湖を白鳥が[LR]埋め尽くしていた。[LR]楽しそうだったので、[LR]オラもオラもと、[LR]飛び込んだ。[LR]が…あまりの冷たさに[LR]飛び出した…。[LR]やるダスな…白鳥…<END>
+#JMP($6E2E2)
+#FIXEDLENGTH(135,0)
+Swans covered[LR]
+the lake.[LR]
+Looked fun, so[LR]
+"me too!" I[LR]
+jumped in.[LR]
+But…so cold[LR]
+I jumped out…[LR]
+Not bad…swans…<END>
+
+//ケンカ<END>
+#JMP($6E36F)
+#FIXEDLENGTH(6,0)
+brawl<END>
+
+//未来のコトを考えた。[LR]世界$_W1王者？[LR]世界$_W2チャンピオン？[LR]もーそーだけなら[LR]だれでもできる。 [LR]修行あるのみ。<END>
+#JMP($6E376)
+#FIXEDLENGTH(108,0)
+Thought of my[LR]
+future.[LR]
+World $_W1 king?[LR]
+World $_W2[LR]
+champ?[LR]
+Anyone can[LR]
+daydream.[LR]
+Just train.<END>
+
+//ゴキブリ<END>
+#JMP($6E3E3)
+#FIXEDLENGTH(8,0)
+roach<END>
+
+//たしかになんか、[LR]物音が聞こえた。[LR]$_W1！いるのはわかってるケロ！[LR]さあ！出てくるダス！[LR]…冷蔵庫が、[LR]うなったダケだった。<END>
+#JMP($6E3EC)
+#FIXEDLENGTH(119,0)
+I heard a noise,[LR]
+for sure.[LR]
+$_W1! I know[LR]
+you're there,[LR]
+kero![LR]
+Come out![LR]
+…Just the fridge[LR]
+hummin'.<END>
+
 //カエル<END>
 #JMP($6E464)
 #FIXEDLENGTH(6,0)
 Frog<END>
+
+//「$_W1でもわかる、$_W2学！」を買った。[LR]まあ、読んだだけで[LR]マスターできるなら[LR]誰も苦労しないケロも。<END>
+#JMP($6E46B)
+#FIXEDLENGTH(99,0)
+Bought "$_W2[LR]
+for $_W1!"[LR]
+Well, if readin'[LR]
+made you a[LR]
+master,[LR]
+nobody'd[LR]
+struggle.<END>
+
+//酔っぱらい<END>
+#JMP($6E4CF)
+#FIXEDLENGTH(10,0)
+drunk<END>
+
+//夜の街を[LR]うろついてみた。[LR]「おう！そこのミドリ！[LR]かかってこい！」と、[LR]イチャモンつけてくる[LR]$_W1とか いなくてよかった。[LR]ちょっと寂しいケロも…<END>
+#JMP($6E4DA)
+#FIXEDLENGTH(141,0)
+Wandered the[LR]
+town[LR]
+at night. Glad no[LR]
+$_W1 yelled[LR]
+"Hey![LR]
+You, green guy![LR]
+Fight me!" Bit[LR]
+lonely though,[LR]
+kero…<END>
+
+//イヤーハー<END>
+#JMP($6E56D)
+#FIXEDLENGTH(10,0)
+Yeehaw<END>
+
+//ふと $_W1してた、[LR]昔のホロ苦い経験を[LR]思い出して、[LR]うれしくなったりする。[LR]思わず「$_W2！」と[LR]叫んで走りだした。<END>
+#JMP($6E578)
+#FIXEDLENGTH(110,0)
+I suddenly[LR]
+recalled[LR]
+a bittersweet[LR]
+time[LR]
+I was $_W1-ing,[LR]
+and got happy.[LR]
+I yelled "$_W2!"[LR]
+and ran off.<END>
+
+//時間も忘れて[LR]修行に熱中。[LR]時間はもう０時。[LR]バス、もう終わってた…[LR]えい！走って帰るダス！[LR]…で、[LR]４２．１９５Ｋｍ[LR]ぐらい走って帰った。<END>
+#JMP($6E5E7)
+#FIXEDLENGTH(133,0)
+Lost track of[LR]
+time[LR]
+trainin'.[LR]
+Midnight.[LR]
+No more buses…[LR]
+Fine! I'll run[LR]
+home![LR]
+…So I ran about[LR]
+42.195 km home.<END>
+
+//メーターはロマン…[LR]「艦長！脱出を！」[LR]「オラは艦と運命を[LR]共にするダス…」[LR]「艦長！」[LR]「我々もお供します！」[LR]「オ、オマエ達…」[LR]くぁ～！泣ける～！<END>
+#JMP($6E66D)
+#FIXEDLENGTH(145,0)
+Meters are[LR]
+romance…[LR]
+"Captain![LR]
+Abandon[LR]
+ship!" "I'll go[LR]
+down[LR]
+with her, dasu…"[LR]
+"Captain!" "We'll[LR]
+stay too!"[LR]
+"Y-you guys…"[LR]
+Kwaa! So movin'!<END>
+
+//フロッグ<END>
+#JMP($6E6FF)
+#FIXEDLENGTH(8,0)
+Frog<END>
+
+//でたな悪の$_W1怪人！[LR]くらえ！必殺！[LR]$_W2アタック!![LR]ドグアアアッッーン！[LR]ヒーロ－ゴッコした。[LR]充実した一日だった。<END>
+#JMP($6E708)
+#FIXEDLENGTH(113,0)
+You again, evil[LR]
+$_W1![LR]
+Take this![LR]
+Finisher![LR]
+$_W2 Attack!![LR]
+Ka-boooom![LR]
+Played heroes.[LR]
+A full day.<END>
+
+//たこ焼き<END>
+#JMP($6E77A)
+#FIXEDLENGTH(8,0)
+takoyaki<END>
+
+//お好み焼き<END>
+#JMP($6E783)
+#FIXEDLENGTH(10,0)
+okonomi<END>
+
+//今日の昼飯は[LR]何にするダスか…？[LR]$_W1？[LR]$_W2？[LR]悩んだ時は最初に思っ[LR]た方と決めてるダスよ。[LR]よって$_W1に決定。<END>
+#JMP($6E78E)
+#FIXEDLENGTH(108,0)
+What for lunch[LR]
+today, dasu…?[LR]
+$_W1? $_W2?[LR]
+When torn, I go[LR]
+with my first[LR]
+idea.[LR]
+So, $_W1.<END>
+
+//気持ちよさそうに、[LR]泳いでるダスなぁ～[LR]水もとっても[LR]キレイだケロ♪[LR]ケロロ♪ オラも[LR]泳ぎたいダスよ！[LR]ンでも、ここは[LR]満員ダスね…<END>
+#JMP($6E7FB)
+#FIXEDLENGTH(126,0)
+They swim so[LR]
+happily, dasu～[LR]
+The water's so[LR]
+clean, kero♪[LR]
+Keroro♪ I wanna[LR]
+swim too! But[LR]
+it's full, dasu…<END>
+
+//これも修行なんだケロ！[LR]精神統一すれば、[LR]この通りだケロ♪[LR]ちょっとやそっとじゃ、[LR]崩れないダスよ！[LR]あとは、何分もつか[LR]だケロも…<END>
+#JMP($6E87A)
+#FIXEDLENGTH(126,0)
+This is trainin'![LR]
+Focus your mind[LR]
+and look, kero♪[LR]
+It won't crumble[LR]
+that easy, dasu![LR]
+Now, how many[LR]
+minutes can I[LR]
+last…<END>
+
+//くぁ～ッ!![LR]この家は、オラがいただいたケロ～[LR]取り戻したくば、[LR]いますぐ、ここまで[LR]来るダスよ！[LR]…って、一回やって[LR]みたかったダスよ♪<END>
+#JMP($6E8F9)
+#FIXEDLENGTH(130,0)
+Kwaa!![LR]
+This house is[LR]
+mine![LR]
+Want it back?[LR]
+Come here now,[LR]
+dasu![LR]
+…Always wanted[LR]
+to try sayin'[LR]
+that♪<END>
+
+//まな板<END>
+#JMP($6E97C)
+#FIXEDLENGTH(6,0)
+board<END>
+
+//ケロロ… [LR]なかなかイイ[LR]ちりとりダスが…[LR]もうちょっと、[LR]まからないケロ？[LR]$_W1と、[LR]物々交換でも[LR]いいんダスが…<END>
+#JMP($6E983)
+#FIXEDLENGTH(108,0)
+Keroro… A fine[LR]
+dustpan, dasu…[LR]
+Can you knock[LR]
+a bit off, kero?[LR]
+I'd trade you[LR]
+$_W1 for it…<END>
+
+//演歌の大御所<END>
+#JMP($6E9F0)
+#FIXEDLENGTH(12,0)
+enka legend<END>
+
+//どこにいても、[LR]修行は欠かさない[LR]ダスよ！[LR]これから、$_W1と会うんだケロも…[LR]待ってる間も、修行ダス！[LR]…緊張で、ジッとして[LR]られないんだケロも…<END>
+#JMP($6E9FD)
+#FIXEDLENGTH(140,0)
+Wherever I am,[LR]
+I never skip[LR]
+trainin', dasu![LR]
+I'm meetin' $_W1[LR]
+now, kero…[LR]
+trainin' while I[LR]
+wait![LR]
+…Too nervous to[LR]
+sit still, kero…<END>
+
+//目的を達成するゴトに[LR]目玉を１つ入れるん[LR]ダスから…[LR]全部に目玉が入るには[LR]いったい いくつ、[LR]達成しないとならない[LR]ダスかね…<END>
+#JMP($6EA8A)
+#FIXEDLENGTH(121,0)
+One eye painted[LR]
+in[LR]
+per goal[LR]
+reached…[LR]
+To fill in[LR]
+all the eyes,[LR]
+how many must I[LR]
+achieve, dasu…<END>
+
+//カレー<END>
+#JMP($6EB04)
+#FIXEDLENGTH(6,0)
+curry<END>
+
+//この花の葉っぱは[LR]実は食べれるんダスよ！[LR]おひたしもいいケロ♪[LR]いためてもいいダス♪[LR]$_W1にいれても、ウマイんだケロ♪<END>
+#JMP($6EB0B)
+#FIXEDLENGTH(114,0)
+This flower's[LR]
+leaves[LR]
+are edible, dasu![LR]
+Boiled is good♪[LR]
+Stir-fried too♪[LR]
+Tasty in $_W1[LR]
+too, kero♪<END>
+
+//くぁーっ!![LR]ウマイダスよぉ～♪[LR]こんな豪華な料理は、[LR]オラ、生まれて[LR]初めてだケロ♪[LR]この料理は、ハァ～[LR]$_W1っぽくて、ウマいダス！<END>
+#JMP($6EB7E)
+#FIXEDLENGTH(126,0)
+Kwaa!![LR]
+So tasty,[LR]
+dasu～♪[LR]
+Such a fancy[LR]
+meal,[LR]
+first in my life,[LR]
+kero♪ It's kinda[LR]
+$_W1-like, haa～,[LR]
+tasty!<END>
+
+//レタス<END>
+#JMP($6EBFD)
+#FIXEDLENGTH(6,0)
+greens<END>
+
+//石の上にも３年…[LR]じっと待てば、[LR]やがてなるダスよ！[LR]こうして待ってれば、[LR]やがて、$_W1になるダスか…？<END>
+#JMP($6EC04)
+#FIXEDLENGTH(100,0)
+3 years on a[LR]
+rock…[LR]
+Wait patiently,[LR]
+and it'll come![LR]
+If I wait like[LR]
+this, will I turn[LR]
+into $_W1…?<END>
+
+//じゃがいも<END>
+#JMP($6EC69)
+#FIXEDLENGTH(10,0)
+potato<END>
+
+//ケロロ♪ ちょっと、[LR]買いすぎたダスよ♪[LR]かごの中が $_W1でいっぱいだケロ[LR]ん？ このぶつぶつの[LR]物体は、何ダスかね？[LR]なんだか、気になる[LR]存在だケロ～♪<END>
+#JMP($6EC74)
+#FIXEDLENGTH(145,0)
+Keroro♪ Bought[LR]
+a bit much♪[LR]
+The basket's full[LR]
+of $_W1, kero[LR]
+Hm? What's this[LR]
+bumpy thing,[LR]
+dasu? I'm[LR]
+curious about[LR]
+it～♪<END>
+
+//くぁーっ!![LR]西郷さんは、[LR]カッコイイダスなぁ～♪[LR]まさに！[LR]男の中の男だケロ～[LR]オラも明治維新、[LR]したかったダスよぉ～<END>
+#JMP($6ED06)
+#FIXEDLENGTH(112,0)
+Kwaa!![LR]
+Mr. Saigo is[LR]
+so cool, dasu～♪[LR]
+Truly![LR]
+A man among[LR]
+men～[LR]
+I wish I'd done[LR]
+the Meiji[LR]
+Restoration～<END>
+
+//オラは簡単には[LR]負けないダスよ♪[LR]悔しければさらに、[LR]精進するんだケロ！[LR]オラも昔は、[LR]遅かったダス…[LR]$_W1くって、鍛錬するケロ～♪<END>
+#JMP($6ED77)
+#FIXEDLENGTH(126,0)
+I don't lose[LR]
+easy, dasu♪[LR]
+If it stings,[LR]
+train harder,[LR]
+kero![LR]
+I used to be[LR]
+slow too…[LR]
+Eat $_W1, train[LR]
+up～♪<END>
+
+//歩け♪ 歩け♪[LR]どんどん、進め♪[LR]リュックの中は、[LR]おやつと、$_W1♪[LR]あの丘ついたら、[LR]休憩だケロ♪[LR]さあ、歩け♪歩け♪<END>
+#JMP($6EDF6)
+#FIXEDLENGTH(113,0)
+Walk♪ Walk♪[LR]
+On and on♪[LR]
+In my backpack,[LR]
+snacks and[LR]
+$_W1♪[LR]
+At that hill,[LR]
+a break, kero♪[LR]
+Now, walk♪[LR]
+walk♪<END>
+
+//オランダ<END>
+#JMP($6EE68)
+#FIXEDLENGTH(8,0)
+Holland<END>
+
+//なかなかイイ、[LR]バランスだケロ♪[LR]日頃の鍛錬なくして、[LR]こうはいかないダスよ！[LR]ケロロ♥[LR]たいしたモンだなッス♪[LR]$_W1 No１になるんだケロ～♪<END>
+#JMP($6EE71)
+#FIXEDLENGTH(135,0)
+Pretty good[LR]
+balance, kero♪[LR]
+No daily trainin',[LR]
+no way, dasu![LR]
+Keroro♥[LR]
+Not bad at all♪[LR]
+I'll be $_W1[LR]
+No.1～♪<END>
+
+//ケロロ… いいニオイが[LR]するんだケロ♪[LR]それはいったい、[LR]なんダスか？[LR]見たコトないよな、[LR]食べモノだケロ♪[LR]うわさに聞く $_W1ダスか？<END>
+#JMP($6EEF9)
+#FIXEDLENGTH(128,0)
+Keroro… Smells[LR]
+great, kero♪[LR]
+What is that,[LR]
+dasu?[LR]
+A food I've[LR]
+never seen♪[LR]
+The famous[LR]
+$_W1?<END>
+
+//なんでも、$_W1からはるばる来たそうだケロ♪[LR]若いのにたいした[LR]モンダスなぁ～[LR]ふむふむ… なるほど～[LR]オラでよければ、[LR]力になるダスよぉ～<END>
+#JMP($6EF7A)
+#FIXEDLENGTH(132,0)
+Came all the way[LR]
+from $_W1,[LR]
+kero♪[LR]
+So young, yet[LR]
+so capable～[LR]
+Hmm… I see～[LR]
+If I can help,[LR]
+I will, dasu～<END>
+
+//$_W1まで、頼むダスよ♪[LR]運転手はまだだケロ？[LR]ケロロ？ 何ダスか？[LR]………[LR]お客の座席は[LR]後ろなんダスか…<END>
+#JMP($6F004)
+#FIXEDLENGTH(100,0)
+To $_W1, please♪[LR]
+Driver's not[LR]
+here?[LR]
+Keroro? What?[LR]
+………[LR]
+Passengers sit[LR]
+in back, dasu…<END>
+
+//アラスカグマ<END>
+#JMP($6F069)
+#FIXEDLENGTH(12,0)
+Alaska bear<END>
+
+//どうか…[LR]オラの願いを[LR]かなえてだケロ…[LR]今度の$_W1との一戦は[LR]なにがなんでも、[LR]負けられないダス…<END>
+#JMP($6F076)
+#FIXEDLENGTH(95,0)
+Please…[LR]
+grant my wish,[LR]
+kero…[LR]
+My next bout[LR]
+with $_W1,[LR]
+no matter what,[LR]
+I can't lose…<END>
+
+//千羽鶴に込める願いは…[LR]だれかを思う心だケロ♪[LR]人を思う純粋な気持ち[LR]そんな願いは、[LR]きっと かなうと[LR]思うんダスよ♪<END>
+#JMP($6F0D6)
+#FIXEDLENGTH(112,0)
+The wish in 1000[LR]
+cranes is a[LR]
+heart[LR]
+thinkin' of[LR]
+someone♪[LR]
+A pure wish like[LR]
+that surely[LR]
+comes[LR]
+true, dasu♪<END>
+
+//今日も修行で[LR]疲れたダスよ…[LR]気づけばすっかり[LR]夕方だケロ…[LR]一人帰る家路では、[LR]なぜか、夕日が[LR]目にしみたケロ…<END>
+#JMP($6F147)
+#FIXEDLENGTH(108,0)
+Tired from[LR]
+trainin' again…[LR]
+Already[LR]
+evenin'…[LR]
+Walkin' home[LR]
+alone,[LR]
+the sunset[LR]
+somehow[LR]
+stung my eyes…<END>
+
+//巨大ダコ<END>
+#JMP($6F1B4)
+#FIXEDLENGTH(8,0)
+octopus<END>
+
+//船にのって、大海原を[LR]探検だケロ♪[LR]先に見えるは、新大陸？[LR]それとも海賊船ダスか！[LR]海の旅には危険が[LR]付きモノだケロ！[LR]$_W1が海底からおそってくる!?<END>
+#JMP($6F1BD)
+#FIXEDLENGTH(142,0)
+Explorin' the[LR]
+ocean[LR]
+by ship, kero♪[LR]
+Ahead, a new[LR]
+land?[LR]
+Or a pirate[LR]
+ship?![LR]
+Sea trips come[LR]
+with[LR]
+danger, kero![LR]
+$_W1 attacks[LR]
+from below!?<END>
+
+//押し売り<END>
+#JMP($6F24C)
+#FIXEDLENGTH(8,0)
+peddler<END>
+
+//ふむふむ…$_W1の言いたいコトはそれだけダスか？[LR]それはダメだケロ！ [LR]ンでは失礼するダス…[LR]…$_W2買いませんか？っていう電話だったケロ…<END>
+#JMP($6F255)
+#FIXEDLENGTH(132,0)
+Hmm…is that all[LR]
+$_W1 has to[LR]
+say?[LR]
+That's a no,[LR]
+kero![LR]
+Goodbye, dasu…[LR]
+…Was a call[LR]
+sellin' $_W2…<END>
+
+//格闘仮面<END>
+#JMP($6F2DA)
+#FIXEDLENGTH(8,0)
+Fightmsk<END>
+
+//ジャイアントクマ<END>
+#JMP($6F2E3)
+#FIXEDLENGTH(16,0)
+Giant Bear<END>
+
+//最新の情勢を新聞で[LR]チェックするダスよ！[LR]情報収集も、[LR]大事な修行だケロ♪[LR]ふむふむ…なるほど…[LR]$_W1が $_W2に負けたダスか…<END>
+#JMP($6F2F4)
+#FIXEDLENGTH(120,0)
+Checkin' the[LR]
+news[LR]
+in the paper,[LR]
+dasu![LR]
+Gatherin' info is[LR]
+trainin' too,[LR]
+kero♪[LR]
+Hmm…I see…[LR]
+$_W1 lost to[LR]
+$_W2, dasu…<END>
+
+//スモウ<END>
+#JMP($6F372)
+#FIXEDLENGTH(6,0)
+Sumo<END>
+
+//$_W1山で、クマと$_W2の特訓だケロ！[LR]呼吸が大事ダスよ！[LR]イッチ・ニ・サン♪[LR]さすがだケロ！[LR]2人の息は、[LR]バッチリだケロ!!<END>
+#JMP($6F379)
+#FIXEDLENGTH(116,0)
+On Mt. $_W1,[LR]
+$_W2[LR]
+trainin' with a[LR]
+bear![LR]
+Breathin' is key![LR]
+One, two,[LR]
+three♪[LR]
+Great, kero! Our[LR]
+breathin's in[LR]
+sync!!<END>
+
+//緑もえる山々の木々♪[LR]ふりそそぐ日差し♪[LR]香るそよ風♪[LR]心が安らぐ[LR]瞬間ダスなぁ～♥[LR]ンでは、ここで一句！[LR]「緑もゆ 木々と[LR]日差しに 香る風」<END>
+#JMP($6F3EE)
+#FIXEDLENGTH(135,0)
+Green hills,[LR]
+trees♪[LR]
+Sunshine♪[LR]
+Fragrant[LR]
+breeze♪ A[LR]
+peaceful[LR]
+moment, dasu～♥[LR]
+Now, a haiku![LR]
+"Green trees[LR]
+ablaze,[LR]
+sun and[LR]
+fragrant wind"<END>
+
+//たけのこ<END>
+#JMP($6F476)
+#FIXEDLENGTH(8,0)
+bamboo<END>
+
+//$_W1採ってきたダス！[LR]さっそく、$_W1鍋にしてみたケロ♪[LR]仕上げに、$_W2も いれたダス！[LR]あとは、煮えるのを待つだけだケロ♪<END>
+#JMP($6F484)
+#FIXEDLENGTH(118,0)
+Picked $_W1![LR]
+Made $_W1 hot[LR]
+pot right away♪[LR]
+Topped with[LR]
+$_W2 too![LR]
+Now just wait[LR]
+for it to cook,[LR]
+kero♪<END>
+
+//戦隊モノ<END>
+#JMP($6F4FB)
+#FIXEDLENGTH(8,0)
+sentai<END>
+
+//戦隊キック<END>
+#JMP($6F504)
+#FIXEDLENGTH(10,0)
+SentaiKick<END>
+
+//$_W1！[LR]好きなんダスよ♪[LR]ンだケロも、ついつい[LR]ハマってしまって、[LR]テレビに向かって、[LR]「$_W2」[LR]とかって、やってしまうケロ…<END>
+#JMP($6F50F)
+#FIXEDLENGTH(120,0)
+$_W1![LR]
+I love it, dasu♪[LR]
+But I get so[LR]
+into it,[LR]
+at the TV,[LR]
+"$_W2"[LR]
+I end up doin'[LR]
+that…<END>
+
+//旅先で子供たちと[LR]サッカーやったケロ♪[LR]シュート！って時に、[LR]スッころんだダス…[LR]バンソウコウは、[LR]少年の汗のニオイが[LR]したケロ…<END>
+#JMP($6F588)
+#FIXEDLENGTH(124,0)
+Played soccer[LR]
+with[LR]
+kids on my trip♪[LR]
+Goin' for a shot,[LR]
+I tripped, dasu…[LR]
+The bandage[LR]
+smelled[LR]
+like a boy's[LR]
+sweat,[LR]
+kero…<END>
+
+//岬で見る海、沈む夕日、[LR]今日の終わりを[LR]カンジさせるケロ…[LR]今日も一人、[LR]修行にはげむ日々[LR]オラの目指すモノは、[LR]手が届くようで[LR]遠いんダスよ…<END>
+#JMP($6F605)
+#FIXEDLENGTH(137,0)
+Sea from the[LR]
+cape,[LR]
+settin' sun, the[LR]
+end of the day…[LR]
+Alone again,[LR]
+trainin' day[LR]
+after day.[LR]
+What I aim for[LR]
+seems[LR]
+close, yet so[LR]
+far…<END>
+
+//秋の雲<END>
+#JMP($6F68F)
+#FIXEDLENGTH(6,0)
+cloud<END>
+
+//わたあめ<END>
+#JMP($6F696)
+#FIXEDLENGTH(8,0)
+candy<END>
+
+//いまいち、カットが[LR]決まらなかったダス…[LR]$_W1をイメージしたんダスが、[LR]どうしても、$_W2に見えてしまうケロ…<END>
+#JMP($6F69F)
+#FIXEDLENGTH(105,0)
+The haircut[LR]
+didn't[LR]
+quite work,[LR]
+dasu…[LR]
+I pictured $_W1,[LR]
+but it looks like[LR]
+$_W2, kero…<END>
+
+//ベンベンベベン♪[LR]ベンベベン♪[LR]今日も一日～[LR]修行の日々～[LR]ベンベベン♪[LR]ウマイ $_W1が食べたいケロ～♪<END>
+#JMP($6F710)
+#FIXEDLENGTH(98,0)
+Ben ben beben♪[LR]
+Ben beben♪[LR]
+Another day～[LR]
+of trainin'～[LR]
+Ben beben♪[LR]
+Want tasty[LR]
+$_W1～♪<END>
+
+//ハァ～ ハッ！[LR]しゅ、修行は、[LR]キ、キビシイケロも…[LR]オラは野望のため、[LR]ガンバルダスよ！[LR]ハァ～ ハッ！[LR]ンだケロも、ちょっと[LR]やりすぎケロ…!?<END>
+#JMP($6F773)
+#FIXEDLENGTH(137,0)
+Haa～ ha![LR]
+Tr-trainin' is[LR]
+t-tough, kero…[LR]
+But for my[LR]
+dream,[LR]
+I'll try, dasu![LR]
+Haa～ ha![LR]
+But, kero,[LR]
+maybe[LR]
+I overdid it…!?<END>
+
+//湯豆腐<END>
+#JMP($6F800)
+#FIXEDLENGTH(6,0)
+yudofu<END>
+
+//世の中ウマいモノが、[LR]いっぱいあるんダスよ♪[LR]柿もウマいケロ～ [LR]$_W1もいいダスなぁ～[LR]ンでも、今日のオラは [LR]$_W2って気分だケロ～♪<END>
+#JMP($6F807)
+#FIXEDLENGTH(127,0)
+The world's full[LR]
+of[LR]
+tasty stuff,[LR]
+dasu♪[LR]
+Persimmons are[LR]
+good～[LR]
+$_W1 too～[LR]
+But today I'm[LR]
+in a $_W2[LR]
+mood～♪<END>
+
+//もらった割引券で、[LR]バーに来たダスよ♪[LR]こんなシャレた場所は、[LR]初めてだケロも…[LR]まんず、いいカンジ[LR]ダスなぁ～♪[LR]オシャレしてきてよかったケロ♥<END>
+#JMP($6F887)
+#FIXEDLENGTH(140,0)
+With a discount[LR]
+ticket, I came to[LR]
+a bar, dasu♪[LR]
+First time in[LR]
+such[LR]
+a classy place…[LR]
+Real nice,[LR]
+dasu～♪[LR]
+Glad I dressed[LR]
+up♥<END>
+
+//毎日、修行ばかりじゃ、[LR]身が持たないダス[LR]疲れがたまる前に、[LR]ゆっくり休むのが[LR]イイんだケロ～[LR]心を無心にして、[LR]空を見上げるんダスよ～<END>
+#JMP($6F914)
+#FIXEDLENGTH(130,0)
+Trainin' every[LR]
+day[LR]
+wears you out,[LR]
+dasu.[LR]
+Before you're[LR]
+tired, rest slow,[LR]
+kero～[LR]
+Empty your mind[LR]
+and look at the[LR]
+sky～<END>
+
+//セン抜き<END>
+#JMP($6F997)
+#FIXEDLENGTH(8,0)
+opener<END>
+
+//ピンチダス！[LR]木登りの修行中に[LR]足がすべったケロ…[LR]このままでは、[LR]落ちてしまうダスよ…[LR]ああ、こんな時に、 [LR]$_W1があれば…<END>
+#JMP($6F9A0)
+#FIXEDLENGTH(119,0)
+A pinch![LR]
+Tree-climbin'[LR]
+practice,[LR]
+my foot slipped…[LR]
+At this rate[LR]
+I'll fall, dasu…[LR]
+Oh, if only I had[LR]
+$_W1 now…<END>
+
+//おばあさん<END>
+#JMP($6FA18)
+#FIXEDLENGTH(10,0)
+granny<END>
+
+//がま口<END>
+#JMP($6FA23)
+#FIXEDLENGTH(6,0)
+purse<END>
+
+//待つんだケロー!![LR]$_W1から奪った $_W2を返すダスよ！[LR]今こそ、修行の成果を[LR]発揮する時だケロ！[LR]地の果てまでも、[LR]追いかけるダスよ～!!<END>
+#JMP($6FA2A)
+#FIXEDLENGTH(128,0)
+Wait, kero!![LR]
+Give back the[LR]
+$_W2 you stole[LR]
+from $_W1![LR]
+Now's the time[LR]
+to show my[LR]
+trainin'![LR]
+To the ends of[LR]
+the earth I'll[LR]
+chase!!<END>
+
+//悪代官<END>
+#JMP($6FAAB)
+#FIXEDLENGTH(6,0)
+tyrant<END>
+
+//巨大カエルロボ<END>
+#JMP($6FAB2)
+#FIXEDLENGTH(14,0)
+giant frog bot<END>
+
+//ムニャムニャ…[LR]$_W1よ！ いざ勝負だケロ…[LR]はわわ… 巨大化したダス…[LR]ンでは、オラも…[LR]$_W2で、お相手いたす…<END>
+#JMP($6FAC1)
+#FIXEDLENGTH(106,0)
+Mumble mumble…[LR]
+$_W1! Let's[LR]
+fight, kero…[LR]
+Hawawa… it got[LR]
+huge…[LR]
+Then me too…[LR]
+I'll face you with[LR]
+$_W2…<END>
+
+//うむうむ♥[LR]いい城ダスなぁ～[LR]４層５階で、天守閣は[LR]安土桃山後期の[LR]モノだケロ♪[LR]いやぁ～ 何度見ても、[LR]ほれぼれするダスよぉ～<END>
+#JMP($6FB2C)
+#FIXEDLENGTH(121,0)
+Mm-hm♥[LR]
+Fine castle,[LR]
+dasu[LR]
+4 tiers, 5 floors,[LR]
+a keep from the[LR]
+late[LR]
+Azuchi-Momoyama[LR]
+However many[LR]
+times[LR]
+I see it, I'm in[LR]
+awe<END>
+
+//はまぐり<END>
+#JMP($6FBA6)
+#FIXEDLENGTH(8,0)
+clam<END>
+
+//もうすぐ、$_W1鍋が煮えるケロ♪[LR]今夜の鍋は豪華ダス♪[LR]カニに魚に、[LR]$_W1！[LR]あー 早く食べたい[LR]ダスよぉ～♥<END>
+#JMP($6FBAF)
+#FIXEDLENGTH(102,0)
+Almost done,[LR]
+$_W1 hot pot♪[LR]
+Tonight's pot is[LR]
+fancy♪[LR]
+Crab, fish,[LR]
+$_W1![LR]
+Ahh, I wanna eat[LR]
+now, dasu～♥<END>
+
+//ふむふむ…[LR]そう来たダスか…[LR]ンならば、これで[LR]どうだケロ！[LR]ケロロ♪ 我ながら、[LR]会心の一手ダスよ！[LR]これで、勝ったも[LR]同然だケロ♪<END>
+#JMP($6FC16)
+#FIXEDLENGTH(126,0)
+Hmm…[LR]
+that's your[LR]
+move…[LR]
+Then how[LR]
+about this![LR]
+Keroro♪ If I say[LR]
+so, a great[LR]
+move![LR]
+As good as[LR]
+won, kero♪<END>
+
+//スクワット<END>
+#JMP($6FC95)
+#FIXEDLENGTH(10,0)
+squats<END>
+
+//夕日に向かって、[LR]$_W1 ３０回だケロ！[LR]今日の修行も[LR]キビシイダスなぁ～[LR]それでも、オラは、[LR]負けないダスよ！[LR]ファイト！オー!!<END>
+#JMP($6FCA0)
+#FIXEDLENGTH(121,0)
+Facin' the[LR]
+sunset,[LR]
+30 $_W1, kero![LR]
+Today's trainin'[LR]
+is tough, dasu～[LR]
+Still, I[LR]
+won't lose![LR]
+Fight! Oh!!<END>
+
+//あの家はハァ～[LR]昔、オラがすんでた家。[LR]ワケあって、家を出ることになったんダスが…[LR]なつかしいケロ～[LR]今も $_W1、住んでるんダスかね…<END>
+#JMP($6FD1A)
+#FIXEDLENGTH(129,0)
+That house,[LR]
+haa～[LR]
+is where I used[LR]
+to live.[LR]
+I had my reasons[LR]
+to leave…[LR]
+Nostalgic, kero～[LR]
+Does $_W1 still[LR]
+live there…<END>
+
+//雨にもマケず、[LR]風にもマケず、[LR]今日も修行に[LR]はげむケロ！[LR]今度の相手は、$_W1ダス！[LR]ひとときも、気が[LR]抜けないんだケロ！<END>
+#JMP($6FD9C)
+#FIXEDLENGTH(116,0)
+Not beaten by[LR]
+rain,[LR]
+not beaten by[LR]
+wind,[LR]
+trainin' again[LR]
+today, kero![LR]
+Next foe is[LR]
+$_W1![LR]
+Can't relax a[LR]
+sec!<END>
+
+//もうちょっとだケロ♪[LR]あと、５センチで[LR]届くダス！[LR]もう３日も食べて[LR]ないんだケロ…[LR]くわっ!! [LR]あ、あと １センチ…<END>
+#JMP($6FE11)
+#FIXEDLENGTH(110,0)
+Almost there,[LR]
+kero♪[LR]
+5 cm more[LR]
+and I reach it![LR]
+Haven't eaten[LR]
+in 3 days…[LR]
+Kwah!![LR]
+J-just 1 cm…<END>
+
+//ざるそばは、[LR]一息で吸い込むのが[LR]流儀ダスよ♪[LR]ゴウカイに音を[LR]立てて食べるんだケロ♪[LR]ズ、ズズッ！[LR]ウ、ウマイケロ～!!<END>
+#JMP($6FE80)
+#FIXEDLENGTH(114,0)
+Zaru soba, you[LR]
+slurp in one go,[LR]
+that's the way[LR]
+Eat it with a big,[LR]
+loud noise, kero[LR]
+Sl-slurp![LR]
+S-so good,[LR]
+kero!!<END>
+
+//今日はソバ打ちの[LR]修行ダス!![LR]日頃の鍛錬の[LR]おかげで、[LR]そば屋さんのご主人に[LR]スジがイイって、[LR]ほめられたダスよ♪[LR]ケロヨ～ン♪<END>
+#JMP($6FEF3)
+#FIXEDLENGTH(121,0)
+Today:[LR]
+soba-makin'[LR]
+trainin'!![LR]
+Thanks to daily[LR]
+practice,[LR]
+the soba shop[LR]
+boss[LR]
+said I've got[LR]
+talent,[LR]
+dasu♪[LR]
+Keroyo～n♪<END>
+
+//$_OYOU！ガンバってるケロ？[LR]オラも毎日 ガンバってるダスよ！[LR]前の子から[LR]絵ハガキが届いたダス[LR][LR]ま、それはそれで[LR]いいんだケロも…[LR]なんか、ちょっと…[LR]複雑な気分…<END>
+#JMP($6FF6D)
+#FIXEDLENGTH(157,0)
+$_OYOU! Doin'[LR]
+well, kero?[LR]
+I'm workin' hard[LR]
+daily![LR]
+A postcard[LR]
+came[LR]
+from the one[LR]
+before[LR]
+[LR]
+Well, that's[LR]
+fine, kero…[LR]
+but kinda…[LR]
+mixed feelings…<END>
+
+//$_OYOU お元気ですニャ？[LR]まだネコだけど $_OMEは元気。[LR]前の子から[LR]絵ハガキが届いたダス[LR][LR]ま、それはそれで[LR]いいんだケロも…[LR]なんか、ちょっと…[LR]複雑な気分…<END>
+#JMP($7000B)
+#FIXEDLENGTH(151,0)
+$_OYOU, are[LR]
+you well, nya?[LR]
+Still a cat, but[LR]
+$_OME's fine.[LR]
+A postcard[LR]
+came[LR]
+from the one[LR]
+before[LR]
+[LR]
+Well, that's[LR]
+fine, kero…[LR]
+but kinda…[LR]
+mixed feelings…<END>
+
+//ハァイ $_OYOU、元気？[LR]$_OMEは元気！心配しないでネ★[LR]前の子から[LR]絵ハガキが届いたダス[LR][LR]ま、それはそれで[LR]いいんだケロも…[LR]なんか、ちょっと…[LR]複雑な気分…<END>
+#JMP($700A3)
+#FIXEDLENGTH(150,0)
+Hiya $_OYOU,[LR]
+how are you?[LR]
+$_OME's fine![LR]
+Don't worry★[LR]
+A postcard[LR]
+came[LR]
+from the one[LR]
+before[LR]
+[LR]
+Well, that's[LR]
+fine, kero…[LR]
+but kinda…[LR]
+mixed feelings…<END>
+
+//$_OYOU、お元気かしら？[LR]$_OMEはとーても元気だわン！[LR]前の子から[LR]絵ハガキが届いたダス[LR][LR]ま、それはそれで[LR]いいんだケロも…[LR]なんか、ちょっと…[LR]複雑な気分…<END>
+#JMP($7013A)
+#FIXEDLENGTH(149,0)
+$_OYOU, are[LR]
+you well?[LR]
+$_OME is just[LR]
+fine, woof![LR]
+A postcard[LR]
+came[LR]
+from the one[LR]
+before[LR]
+[LR]
+Well, that's[LR]
+fine, kero…[LR]
+but kinda…[LR]
+mixed feelings…<END>
+
+//$_OYOUよ元気か？[LR]$_OMEは元気だ♪[LR]前の子から[LR]絵ハガキが届いたダス[LR][LR]ま、それはそれで[LR]いいんだケロも…[LR]なんか、ちょっと…[LR]複雑な気分…<END>
+#JMP($701D0)
+#FIXEDLENGTH(131,0)
+$_OYOU, you[LR]
+well?[LR]
+$_OME is fine♪[LR]
+A postcard[LR]
+came[LR]
+from the one[LR]
+before[LR]
+[LR]
+Well, that's[LR]
+fine, kero…[LR]
+but kinda…[LR]
+mixed feelings…<END>
 
 //$_WORD愛用の壁紙<END>
 #JMP($70254)
