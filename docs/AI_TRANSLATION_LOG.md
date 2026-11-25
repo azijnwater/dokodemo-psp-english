@@ -32,7 +32,7 @@ upstream translation team). Style rules: [STYLE_NOTES.md](STYLE_NOTES.md).
 | File | Patch | Strings found in KSC | Human JMPs | AI entries | AI-UNSURE | Skipped (non-text) | Still untranslated (unique) |
 |------|-------|---------------------:|-----------:|-----------:|----------:|-------------------:|----------------------------:|
 | KAERU.KSC (Ricky) | `patches/ricky_messages.txt` | 10,798 | 0 | 9,915 (+252 reused human) | 16 | 169 | 0 |
-| NEKO.KSC (Toro) | `patches/toro_ai_messages.txt` | 14,497 | 844 | in progress (see `scripts/ai/stats.py`) | – | – | – |
+| NEKO.KSC (Toro) | `patches/toro_ai_messages.txt` | 14,497 | 844 | 7,167 (+251 reused human) — in progress, batches 1–25 | 3 | 30 | 6,034 |
 | ROBO.KSC (Suzuki) | — | 10,003 | 17 | 0 | 0 | 0 | 9,294 |
 | USAGI.KSC (Jun) | — | 10,629 | 13 | 0 | 0 | 0 | 9,762 |
 | INU.KSC (Pierre) | — | 11,522 | 29 | 0 | 0 | 0 | 10,418 |
@@ -72,4 +72,8 @@ item names shared with Toro) reuse that translation when it fits ("reused human"
   `#JMP`/`#FIXEDLENGTH`; only ~25 commented-only words at the end of the file and
   some commented-only lines in `toro_messages.txt` remain. Rather than editing the
   human files, all NEKO.KSC strings without a `#JMP` anywhere are handled by the
-  Toro worklist (patch `patches/toro_ai_messages.txt`, not started yet).
+  Toro worklist (patch `patches/toro_ai_messages.txt`, in progress; worklist offsets
+  up to about `$612EC` done).
+- **Atlas `#` gotcha**: a script line that starts with `#` is read as an Atlas command
+  ("Nonalphabetical character in command"). `gen_patch.py` now never breaks a line in
+  front of `#` and rejects text that would start with `#`.

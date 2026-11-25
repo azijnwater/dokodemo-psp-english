@@ -39810,6 +39810,12 @@ rumor[LR]<END>
 Right![LR]
 Not all the time![LR]<END>
 
+//年に 1、2回だよ[NYA]！[LR]<END>
+#JMP($60799)
+#FIXEDLENGTH(21,0)
+Just 1-2 a year[LR]
+[NYA]![LR]<END>
+
 //カッコイイ人 って だぁれ？<END>
 #JMP($607C2)
 #FIXEDLENGTH(26,0)
