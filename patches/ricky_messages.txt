@@ -8633,30 +8633,1766 @@ not enough time[LR]
 makes it[LR]
 tough<$17><$19><$00>～[LR]<END>
 
+//なんでか？[LR]っていうと…[LR]<END>
+#JMP($1E1CA)
+#FIXEDLENGTH(24,0)
+Why?[LR]
+Well…[LR]<END>
+
+//1人でかかえられる量というのは、大体 きまってるからなんだ[KERO]～[LR]<END>
+#JMP($1E1ED)
+#FIXEDLENGTH(62,0)
+'cause how much[LR]
+one person can[LR]
+carry is pretty[LR]
+much fixed～[LR]<END>
+
+//両手に、おさまるぐらいの[WORD1]が…[LR]<END>
+#JMP($1E23F)
+#FIXEDLENGTH(34,0)
+[WORD1] that[LR]
+fits in two[LR]
+hands…[LR]<END>
+
+//ちょうどイイしあわせなん<$17><$19><$00>よ[LR]<END>
+#JMP($1E266)
+#FIXEDLENGTH(30,0)
+is just the right[LR]
+happiness[LR]<END>
+
+//いつも 使ってるモノを なんかひとつおしえて<$17><$18><$00>？<END>
+#JMP($1E298)
+#FIXEDLENGTH(47,0)
+Tell me somethin' you always use<$17><$18><$00>?<END>
+
+//キレイな川より…[LR]ドブ川の方が…[LR]<END>
+#JMP($1E2F4)
+#FIXEDLENGTH(32,0)
+Over a clean[LR]
+river…[LR]
+a ditch…[LR]<END>
+
+//なにやら なつかしいカンジがするのは 仕方ないことなん<$17><$19><$00>～[LR]<END>
+#JMP($1E31F)
+#FIXEDLENGTH(58,0)
+feels kinda[LR]
+nostalgic, can't[LR]
+be helped<$17><$19><$00>～[LR]<END>
+
+//からして…[LR]<END>
+#JMP($1E385)
+#FIXEDLENGTH(11,0)
+so…[LR]<END>
+
 //でも…[LR]<END>
 #JMP($1E39B)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//だからといって、川をよごしてイイと 言っているンではない<$17><$19><$00>よ！[LR]<END>
+#JMP($1E3A7)
+#FIXEDLENGTH(63,0)
+But that doesn't[LR]
+mean it's okay[LR]
+to dirty[LR]
+rivers<$17><$19><$00>![LR]<END>
+
+//さすがに川に…[LR]<END>
+#JMP($1E3F1)
+#FIXEDLENGTH(15,0)
+In a river…[LR]<END>
+
+//[WORD1]が すててあるのはガマンならない<$17><$19><$00>！[LR]<END>
+#JMP($1E40B)
+#FIXEDLENGTH(42,0)
+dumped[LR]
+[WORD1], I[LR]
+can't stand[LR]
+that![LR]<END>
+
+//子どものころに言われたコトバっちゅーモンは…[LR]<END>
+#JMP($1E442)
+#FIXEDLENGTH(45,0)
+Words you heard[LR]
+as a kid…[LR]<END>
+
+//[WORD0]心に のこるモノ<$17><$19><$00>～[LR]<END>
+#JMP($1E483)
+#FIXEDLENGTH(26,0)
+stay in your[LR]
+heart [WORD0][LR]<END>
+
+//[WORD1]もろくにできないのか！[LR]とか、[LR]<END>
+#JMP($1E4D2)
+#FIXEDLENGTH(35,0)
+Can't you even[LR]
+do [WORD1]![LR]
+or,[LR]<END>
+
+//そんなコトでは、りっぱな [WORD2]になれない！[LR]なんて、[LR]<END>
+#JMP($1E500)
+#FIXEDLENGTH(52,0)
+You'll never be[LR]
+a fine [WORD2][LR]
+like that![LR]
+and such,[LR]<END>
+
+//言われっと ホントにダメになってく[KERO]も…[LR]<END>
+#JMP($1E53F)
+#FIXEDLENGTH(41,0)
+hear that and[LR]
+you really go[LR]
+bad, kero…[LR]<END>
+
+//[WORD1]がウマくなったなー！[LR]とか、[LR]<END>
+#JMP($1E573)
+#FIXEDLENGTH(33,0)
+You got good at[LR]
+[WORD1]![LR]
+or,[LR]<END>
+
+//[WORD2]になれる素質があるぞ！[LR]なんて、[LR]<END>
+#JMP($1E59F)
+#FIXEDLENGTH(37,0)
+You've got[LR]
+[WORD2] talent![LR]
+and such,[LR]<END>
+
+//ホメられると どんどんのびていけるッス！[LR]<END>
+#JMP($1E5CF)
+#FIXEDLENGTH(40,0)
+get praised and[LR]
+you keep[LR]
+growin'![LR]<END>
+
+//赤ん坊のころは～[LR]してもらえるシアワセ♪[LR]<END>
+#JMP($1E602)
+#FIXEDLENGTH(40,0)
+As a baby[LR]
+the joy of bein'[LR]
+cared for[LR]<END>
+
+//大きくなると～[LR]自分で できるシアワセ♪[LR]<END>
+#JMP($1E635)
+#FIXEDLENGTH(39,0)
+Older～[LR]
+the joy of doin'[LR]
+it yourself♪[LR]<END>
+
+//もっと大きくなると～[LR]あたえるシアワセ♪[LR]<END>
+#JMP($1E667)
+#FIXEDLENGTH(40,0)
+Older still～[LR]
+the joy of[LR]
+givin'♪[LR]<END>
+
+//それがあるコトに気づく人は…[LR]<END>
+#JMP($1E69A)
+#FIXEDLENGTH(29,0)
+Folks who notice[LR]
+that…[LR]<END>
+
+//シアワセな人なんだろうと思う[KERO]～♥[LR]<END>
+#JMP($1E6C8)
+#FIXEDLENGTH(36,0)
+must be happy[LR]
+folks, I think～♥[LR]<END>
+
+//久しぶりに 田舎に帰ったら…[LR]<END>
+#JMP($1E6F9)
+#FIXEDLENGTH(28,0)
+Home after[LR]
+ages…[LR]<END>
+
+//おさななじみが<$17><$1B><$00>[LR]<END>
+#JMP($1E720)
+#FIXEDLENGTH(18,0)
+an old pal<$17><$1B><$00>[LR]<END>
+
+//[WORD0]みたいに ステキになってたコトってない[KERO]？[LR]<END>
+#JMP($1E74F)
+#FIXEDLENGTH(48,0)
+ever turned all[LR]
+lovely like[LR]
+[WORD0]?[LR]<END>
+
+//しっぱいした～!![LR]ってさァ～！[LR]<END>
+#JMP($1E795)
+#FIXEDLENGTH(30,0)
+I blew it～!![LR]
+you think～![LR]<END>
+
+//あとの祭りだよオイ～!![LR]…って!![LR]<END>
+#JMP($1E7BB)
+#FIXEDLENGTH(32,0)
+Too late now,[LR]
+hey～!![LR]
+…like!![LR]<END>
+
+//もぉ～！[LR]地元っつーのは[LR]<END>
+#JMP($1E7EF)
+#FIXEDLENGTH(24,0)
+Jeez～![LR]
+Home turf is[LR]<END>
+
+//[WORD1]重要なん<$17><$19><$00>～!![LR]<END>
+#JMP($1E809)
+#FIXEDLENGTH(21,0)
+[WORD1][LR]
+important～!![LR]<END>
+
+//真実は…[LR]今、この瞬間しか、真実足りえんの<$17><$19><$00>よ[LR]<END>
+#JMP($1E82B)
+#FIXEDLENGTH(47,0)
+Truth…[LR]
+is only true in[LR]
+this very[LR]
+moment<$17><$19><$00>[LR]<END>
+
+//[WORD0]くん…！[LR]<END>
+#JMP($1E864)
+#FIXEDLENGTH(14,0)
+[WORD0]-kun…![LR]<END>
+
+//時間がたてば 人のキモチは変わるモノ…[LR]<END>
+#JMP($1E885)
+#FIXEDLENGTH(38,0)
+With time,[LR]
+feelings[LR]
+change…[LR]<END>
+
+//時間がたてば 人の心は変わるモノ…[LR]<END>
+#JMP($1E8B6)
+#FIXEDLENGTH(34,0)
+With time,[LR]
+hearts change…[LR]<END>
+
+//<$17><$19><$00>から…[LR]<END>
+#JMP($1E8E3)
+#FIXEDLENGTH(10,0)
+So…[LR]<END>
+
+//時間がたてば[WORD1]もマズくなるモノ…[LR]<END>
+#JMP($1E90D)
+#FIXEDLENGTH(36,0)
+With time,[LR]
+[WORD1] goes[LR]
+bad too…[LR]<END>
+
+//人間が想像できる未来は…[LR]<END>
+#JMP($1E94D)
+#FIXEDLENGTH(25,0)
+A future humans[LR]
+dream…[LR]<END>
+
+//ぜ～んぶ 実現できるらしい<$17><$19><$00>よ～！[LR]<END>
+#JMP($1E971)
+#FIXEDLENGTH(35,0)
+can all come[LR]
+true, they[LR]
+say<$17><$19><$00>～![LR]<END>
+
+//テレビで [WORD0]見てたら…[LR][WORD1]が そう言ってた<$17><$19><$00>～！[LR]<END>
+#JMP($1E9BF)
+#FIXEDLENGTH(53,0)
+Watchin'[LR]
+[WORD0] on[LR]
+TV…[LR]
+[WORD1] said[LR]
+so<$17><$19><$00>～![LR]<END>
+
+//ンだ[KERO]も！[LR]<END>
+#JMP($1E9FF)
+#FIXEDLENGTH(12,0)
+So, kero![LR]<END>
+
+//カエルが想像する未来は…[LR]<END>
+#JMP($1EA16)
+#FIXEDLENGTH(25,0)
+A future frogs[LR]
+dream…[LR]<END>
+
+//ぜ～んぶ 実現できるのであろうか～[LR]<END>
+#JMP($1EA3A)
+#FIXEDLENGTH(34,0)
+can it all come[LR]
+true～[LR]<END>
+
+//[WORD2]が上手くなりたいコトって なんだ[KERO]？<END>
+#JMP($1EA78)
+#FIXEDLENGTH(41,0)
+What does [WORD2] wanna get better at?<END>
+
+//じょーしきって マチガイだらけだ[KERO]！[LR]<END>
+#JMP($1EACE)
+#FIXEDLENGTH(37,0)
+Common sense is[LR]
+full of mistakes![LR]<END>
+
+//カタチから入るのって ぜんぜんカッコ悪くないん<$17><$19><$00>よ！[LR]<END>
+#JMP($1EAFE)
+#FIXEDLENGTH(53,0)
+Startin' with the[LR]
+look ain't uncool[LR]
+at all<$17><$19><$00>![LR]<END>
+
+//スポーツを習う時だって、フォームから入れば…[LR]<END>
+#JMP($1EB3E)
+#FIXEDLENGTH(45,0)
+Learnin' a[LR]
+sport, start with[LR]
+form…[LR]<END>
+
+//自然と上手くなるモノ<$17><$19><$00>～[LR]<END>
+#JMP($1EB76)
+#FIXEDLENGTH(26,0)
+and you[LR]
+naturally[LR]
+improve[LR]<END>
+
+//それはそれでかまわない[KERO]よ～！[LR]<END>
+#JMP($1EB9B)
+#FIXEDLENGTH(32,0)
+That's fine too～![LR]<END>
+
+//[WORD1]をする時でも フォームから入ってイイんだ[KERO]！[LR]<END>
+#JMP($1EBC6)
+#FIXEDLENGTH(50,0)
+Even with[LR]
+[WORD1],[LR]
+startin' with[LR]
+form is fine![LR]<END>
+
+//ん<$17><$19><$00>～♥[LR]<END>
+#JMP($1EC03)
+#FIXEDLENGTH(10,0)
+Mm<$17><$19><$00>～♥[LR]<END>
+
+//[WORD0]はナゼ…[LR]<END>
+#JMP($1EC2F)
+#FIXEDLENGTH(14,0)
+Why's[LR]
+[WORD0]…[LR]<END>
+
+//ホントのコト言われると、おこるんだろうねェ～!![LR]<END>
+#JMP($1EC48)
+#FIXEDLENGTH(47,0)
+get mad when[LR]
+told the truth, I[LR]
+wonder～!![LR]<END>
+
+//も～[LR]<END>
+#JMP($1ECB0)
+#FIXEDLENGTH(5,0)
+Jeez[LR]<END>
+
+//ホントのコトを言ってくれる人って少ないから、ありがたい<$17><$19><$00>よ～[LR]<END>
+#JMP($1ECC0)
+#FIXEDLENGTH(62,0)
+Few folks tell[LR]
+you the truth,[LR]
+so they're[LR]
+precious<$17><$19><$00>～[LR]<END>
+
+//でも…[LR]言われた時は…[LR]<END>
+#JMP($1ED09)
+#FIXEDLENGTH(22,0)
+But…[LR]
+when you do…[LR]<END>
+
+//[WORD1]怒る[KERO]も…[LR]きっと！[LR]<END>
+#JMP($1ED33)
+#FIXEDLENGTH(26,0)
+[WORD1] mad…[LR]
+surely![LR]<END>
+
+//だ[KERO]も！[LR]そこで怒ってばっかりじゃ だれもなんにも <END>
+#JMP($1ED58)
+#FIXEDLENGTH(50,0)
+But![LR]
+If you only get[LR]
+mad, nobody'll[LR]
+tell you<END>
+
+//言ってくれなくなっちゃう[KERO]～[LR]<END>
+#JMP($1ED8C)
+#FIXEDLENGTH(30,0)
+anything[LR]
+anymore～[LR]<END>
+
+//大人になればなるほど ホントのコトは…[LR]<END>
+#JMP($1EDB5)
+#FIXEDLENGTH(38,0)
+The older you[LR]
+get, the truth…[LR]<END>
+
+//みんな、なかなか言ってくれなくなる<$17><$19><$00>…[LR]<END>
+#JMP($1EDE6)
+#FIXEDLENGTH(40,0)
+nobody tells you[LR]
+much[LR]
+anymore<$17><$19><$00>…[LR]<END>
+
+//だ・か・ら、自分で気づかなきゃ～♪[LR]<END>
+#JMP($1EE19)
+#FIXEDLENGTH(35,0)
+S-o, ya gotta[LR]
+notice[LR]
+yourself～♪[LR]<END>
+
+//ダメダメダメ～[LR]ダメ<$17><$19><$00>よベイベ～♪[LR]<END>
+#JMP($1EE44)
+#FIXEDLENGTH(35,0)
+No no no～[LR]
+No way<$17><$19><$00>,[LR]
+baby～♪[LR]<END>
+
+//宇宙は ドンドンふくらむメカニズムがあるそうだ[KERO]～[LR]<END>
+#JMP($1EE74)
+#FIXEDLENGTH(51,0)
+Space has a way[LR]
+of swellin' up,[LR]
+they say～[LR]<END>
+
+//不安も ふくらむメカニズムがある[KERO]～[LR]<END>
+#JMP($1EEBA)
+#FIXEDLENGTH(37,0)
+Worry has a way[LR]
+of swellin' too～[LR]<END>
+
+//同じように…[LR]<END>
+#JMP($1EEEA)
+#FIXEDLENGTH(13,0)
+Likewise…[LR]<END>
+
+//[WORD1]や [WORD0]も ふくらむメカニズムが あるにちがいない[KERO]♪[LR]<END>
+#JMP($1EF20)
+#FIXEDLENGTH(59,0)
+[WORD1] and[LR]
+[WORD0] must[LR]
+have ways to[LR]
+swell too♪[LR]<END>
+
+//シアワセは…[LR]<END>
+#JMP($1EF68)
+#FIXEDLENGTH(13,0)
+Happiness…[LR]<END>
+
+//準備している人におとずれる<$17><$19><$00>♥[LR]<END>
+#JMP($1EF80)
+#FIXEDLENGTH(32,0)
+comes to those[LR]
+who[LR]
+prepare<$17><$19><$00>♥[LR]<END>
+
+//「こうなりたい」と思ってる人は…[LR]<END>
+#JMP($1EFAB)
+#FIXEDLENGTH(33,0)
+Folks who think[LR]
+"I'll be this"…[LR]<END>
+
+//ホントにそうなれるん<$17><$19><$00>よ♥[LR]<END>
+#JMP($1EFD7)
+#FIXEDLENGTH(28,0)
+really can[LR]
+become it<$17><$19><$00>♥[LR]<END>
+
+//イメージトレーニングってやつ<$17><$19><$00>かねェ～？[LR]<END>
+#JMP($1EFFE)
+#FIXEDLENGTH(42,0)
+Image trainin', is[LR]
+it<$17><$19><$00>～?[LR]<END>
+
+//みたいになりたい！」とイメージトレーニングする<$17><$19><$00>♪[LR]<END>
+#JMP($1F054)
+#FIXEDLENGTH(52,0)
+I wanna be like[LR]
+that!" I[LR]
+image-train♪[LR]<END>
+
+//自分がキズつきたくないのなら…[LR]<END>
+#JMP($1F095)
+#FIXEDLENGTH(31,0)
+If you don't[LR]
+wanna get hurt…[LR]<END>
+
+//うやむやにしておいた方が イイ場合もある<$17><$19><$00>ねェ…[LR]<END>
+#JMP($1F0BF)
+#FIXEDLENGTH(49,0)
+sometimes it's[LR]
+better to leave[LR]
+it vague<$17><$19><$00>…[LR]<END>
+
+//キズつきたくないコトは、うやむやにしておいて…[LR]<END>
+#JMP($1F10A)
+#FIXEDLENGTH(47,0)
+What I don't[LR]
+wanna be hurt[LR]
+by, I blur…[LR]<END>
+
+//そのうちに、わすれてしまうタイプ<$17><$19><$00>よ！[LR]<END>
+#JMP($1F144)
+#FIXEDLENGTH(40,0)
+and forget 'em[LR]
+eventually, that[LR]
+type![LR]<END>
+
+//きっと、[WORD0]も そういうタイプだ[KERO]！[LR]<END>
+#JMP($1F18C)
+#FIXEDLENGTH(38,0)
+I bet [WORD0][LR]
+is that type too![LR]<END>
+
+//ハズかしいコトは～[LR]笑い話にして、成仏させるにかぎる[KERO]～[LR]<END>
+#JMP($1F1BF)
+#FIXEDLENGTH(57,0)
+Embarrassin'[LR]
+stuff[LR]
+make it a funny[LR]
+story and let it[LR]
+rest[LR]<END>
+
+//どうせ ハズかしいコトばっかりな人生だから～[LR]<END>
+#JMP($1F203)
+#FIXEDLENGTH(44,0)
+Life's all[LR]
+embarrassin'[LR]
+stuff anyway～[LR]<END>
+
+//むかしから 言うではない<$17><$19><$00>か～？[LR]<END>
+#JMP($1F23A)
+#FIXEDLENGTH(33,0)
+There's an old[LR]
+sayin', right～?[LR]<END>
+
+//「おどる[WORD0]に 見る[WORD0]♪[LR]<END>
+#JMP($1F27B)
+#FIXEDLENGTH(28,0)
+"Dance[LR]
+[WORD0],[LR]
+watch [WORD0][LR]<END>
+
+//同じ[WORD0]なら おどらにゃそんそん♪」[LR]<END>
+#JMP($1F299)
+#FIXEDLENGTH(37,0)
+both [WORD0],[LR]
+so ya gotta[LR]
+dance♪"[LR]<END>
+
+//人間カンケイってムズカシイ[KERO]！[LR]<END>
+#JMP($1F2CB)
+#FIXEDLENGTH(32,0)
+Relationships[LR]
+are hard![LR]<END>
+
+//ヘビーなコトは イヤがる人達ばっかりだから…[LR]<END>
+#JMP($1F2F6)
+#FIXEDLENGTH(44,0)
+Everyone hates[LR]
+heavy stuff…[LR]<END>
+
+//あんまりハードなコト言うと、<END>
+#JMP($1F32D)
+#FIXEDLENGTH(28,0)
+say somethin' too harsh,<END>
+
+//大体カンケーは、おわっちゃう[KERO]よ！[LR]<END>
+#JMP($1F34B)
+#FIXEDLENGTH(36,0)
+and it's usually[LR]
+over![LR]<END>
+
+//そのくせ １人はサミシイから、つかずはなれず…[LR]<END>
+#JMP($1F37A)
+#FIXEDLENGTH(46,0)
+But alone is[LR]
+lonely, so not[LR]
+too close…[LR]<END>
+
+//ビミョーなバランスで舵をとりやがる…[LR]<END>
+#JMP($1F3B0)
+#FIXEDLENGTH(37,0)
+steerin' a tricky[LR]
+balance…[LR]<END>
+
+//セチガライ世の中だゼ…！[LR]<END>
+#JMP($1F3E0)
+#FIXEDLENGTH(25,0)
+It's a tough[LR]
+world…![LR]<END>
+
+//太陽族<END>
+#JMP($1F420)
+#FIXEDLENGTH(6,0)
+Sunny<END>
+
+//ちょっと、[WORD0]っぽい言い方だゼ…！[LR]<END>
+#JMP($1F42F)
+#FIXEDLENGTH(36,0)
+That sounded a[LR]
+bit [WORD0]…![LR]<END>
+
+//きれいで 流れのはやい川より…[LR]<END>
+#JMP($1F460)
+#FIXEDLENGTH(30,0)
+Over a clean,[LR]
+fast river…[LR]<END>
+
+//よごれてるケド ゆったり流れてる川の方が…[LR]<END>
+#JMP($1F489)
+#FIXEDLENGTH(42,0)
+a dirty but[LR]
+slow-flowin'[LR]
+river…[LR]<END>
+
+//人生も川のようなモノ<$17><$19><$00>！[LR]<END>
+#JMP($1F4DA)
+#FIXEDLENGTH(26,0)
+Life is like a[LR]
+river<$17><$19><$00>![LR]<END>
+
+//そんなに いそぐコトないン<$17><$19><$00>！[LR]<END>
+#JMP($1F4FC)
+#FIXEDLENGTH(31,0)
+No need to[LR]
+rush<$17><$19><$00>![LR]<END>
+
+//ゆっくりと流れればイイん<$17><$19><$00>♪[LR]<END>
+#JMP($1F526)
+#FIXEDLENGTH(30,0)
+Just flow[LR]
+slowly<$17><$19><$00>♪[LR]<END>
+
+//今の世の中って、あくせく [WORD0]している人間ばっかりなんだなッス…[LR]<END>
+#JMP($1F56C)
+#FIXEDLENGTH(65,0)
+These days, it's[LR]
+all humans busily[LR]
+[WORD0]-ing…[LR]<END>
+
+//人間の「記憶」は、うすれるモノ<$17><$19><$00>よ…[LR]<END>
+#JMP($1F5BA)
+#FIXEDLENGTH(38,0)
+Human "memory"[LR]
+fades<$17><$19><$00>…[LR]<END>
+
+//思い出というモンは…[LR]<END>
+#JMP($1F5EB)
+#FIXEDLENGTH(21,0)
+Memories are…[LR]<END>
+
+//うすれた「記憶」で、つくられたモノであり…[LR]<END>
+#JMP($1F60B)
+#FIXEDLENGTH(43,0)
+made from faded[LR]
+"memory"…[LR]<END>
+
+//思い出と事実は…[LR]<END>
+#JMP($1F641)
+#FIXEDLENGTH(17,0)
+Memory, fact…[LR]<END>
+
+//同じモノではないん<$17><$19><$00>な～[LR]<END>
+#JMP($1F663)
+#FIXEDLENGTH(26,0)
+aren't the[LR]
+same<$17><$19><$00>～[LR]<END>
+
+//だから 思い出というモノは 美しい<$17><$19><$00>よ～[LR]<END>
+#JMP($1F688)
+#FIXEDLENGTH(40,0)
+That's why[LR]
+memories are[LR]
+beautiful<$17><$19><$00>～[LR]<END>
+
+//コドモのころに食べた[WORD0]が すごくおいしく思えると <END>
+#JMP($1F6D0)
+#FIXEDLENGTH(51,0)
+[WORD0] you ate as a kid seemin' super yummy,<END>
+
+//言えばわかってくれる[KERO]か？<END>
+#JMP($1F705)
+#FIXEDLENGTH(27,0)
+get it if I say that?<END>
+
+//そっか…[LR][WORD2]は わかってくれる<$17><$19><$00>か…[LR]<END>
+#JMP($1F74A)
+#FIXEDLENGTH(39,0)
+I see…[LR]
+[WORD2] gets[LR]
+it…[LR]<END>
+
+//[WORD2]にもそのうち わかる日がくる<$17><$19><$00>よ…[LR]<END>
+#JMP($1F785)
+#FIXEDLENGTH(40,0)
+Someday[LR]
+[WORD2] will[LR]
+get it too<$17><$19><$00>…[LR]<END>
+
+//今のコは「交換日記」ってしない[KERO]？<END>
+#JMP($1F7BA)
+#FIXEDLENGTH(35,0)
+Kids don't do "swap diaries" now?<END>
+
+//いい<$17><$19><$00>ねェ～♥[LR]交換日記♥[LR]<END>
+#JMP($1F7FF)
+#FIXEDLENGTH(27,0)
+Nice～♥[LR]
+Swap diaries♥[LR]<END>
+
+//なんか、ほのぼのするッスよ～♥[LR]<END>
+#JMP($1F825)
+#FIXEDLENGTH(31,0)
+It's so[LR]
+heartwarmin'～♥[LR]<END>
+
+//交換日記を している<END>
+#JMP($1F846)
+#FIXEDLENGTH(19,0)
+Keep a swap diary<END>
+
+//え～？[LR]しない[KERO]～？[LR]<END>
+#JMP($1F86A)
+#FIXEDLENGTH(21,0)
+Huh～?[LR]
+Not you～?[LR]<END>
+
+//[KERO]なァ～[LR]<END>
+#JMP($1F887)
+#FIXEDLENGTH(10,0)
+[KERO]～[LR]<END>
+
+//[WORD1]と 交換日記してたんだ[KERO]♥[LR]<END>
+#JMP($1F8E1)
+#FIXEDLENGTH(32,0)
+I kept one with[LR]
+[WORD1]♥[LR]<END>
+
+//って！[LR]<END>
+#JMP($1F90C)
+#FIXEDLENGTH(7,0)
+Hey![LR]<END>
+
+//むかし話を したくなるなんて…[LR]<END>
+#JMP($1F91E)
+#FIXEDLENGTH(30,0)
+Wantin' old talk…[LR]<END>
+
+//かねェ…[LR]<END>
+#JMP($1F95C)
+#FIXEDLENGTH(9,0)
+Maybe…[LR]<END>
+
+//バッタリ系ってある[KERO]～[LR]<END>
+#JMP($1F972)
+#FIXEDLENGTH(24,0)
+There's run-in[LR]
+types～[LR]<END>
+
+//どんなか～？[LR]っていうと…[LR]<END>
+#JMP($1F995)
+#FIXEDLENGTH(26,0)
+What kind～?[LR]
+Well…[LR]<END>
+
+//[WORD0]とかで バッタリ出会うん<$17><$19><$00>～[LR]<END>
+#JMP($1F9CF)
+#FIXEDLENGTH(34,0)
+You run into 'em[LR]
+at[LR]
+[WORD0]<$17><$19><$00>～[LR]<END>
+
+//おんなじクラスだったとか～[LR]<END>
+#JMP($1F9FC)
+#FIXEDLENGTH(27,0)
+Like old[LR]
+classmates～[LR]<END>
+
+//むかしいっしょに [WORD0]したとか～[LR]<END>
+#JMP($1FA37)
+#FIXEDLENGTH(33,0)
+Like folks you[LR]
+did [WORD0][LR]
+with～[LR]<END>
+
+//そういう人にさァ～[LR]<END>
+#JMP($1FA69)
+#FIXEDLENGTH(19,0)
+Folks like that～[LR]<END>
+
+//ンで、そういう時に…[LR]<END>
+#JMP($1FA87)
+#FIXEDLENGTH(21,0)
+And then…[LR]<END>
+
+//変わってねェなァ、オメェ…[LR]って思うコトもあれば…[LR]<END>
+#JMP($1FAA7)
+#FIXEDLENGTH(50,0)
+You haven't[LR]
+changed, pal…[LR]
+sometimes that…[LR]<END>
+
+//エーッ!?[LR]<END>
+#JMP($1FAE4)
+#FIXEDLENGTH(9,0)
+Whaa!?[LR]<END>
+
+//オメェ…[LR]あれからいろいろ苦労したん<$17><$19><$00>なァ…[LR]<END>
+#JMP($1FAF8)
+#FIXEDLENGTH(45,0)
+Pal…[LR]
+you sure had it[LR]
+rough[LR]
+since<$17><$19><$00>…[LR]<END>
+
+//ってコトもあり…[LR]<END>
+#JMP($1FB30)
+#FIXEDLENGTH(17,0)
+sometimes that…[LR]<END>
+
+//人生いろいろってヤツを…[LR]<END>
+#JMP($1FB4C)
+#FIXEDLENGTH(25,0)
+Life's all sorts…[LR]<END>
+
+//つい、考えちまう[KERO]…[LR]<END>
+#JMP($1FB70)
+#FIXEDLENGTH(22,0)
+makes me think…[LR]<END>
+
+//いじめっ子と…[LR]いじめられっ子のカンケイって…[LR]<END>
+#JMP($1FB93)
+#FIXEDLENGTH(46,0)
+Bullies and…[LR]
+the bullied…[LR]<END>
+
+//大人になっても変わらない[KERO]～[LR]<END>
+#JMP($1FBCC)
+#FIXEDLENGTH(30,0)
+don't change as[LR]
+adults～[LR]<END>
+
+//大人の社会になると…[LR]<END>
+#JMP($1FC1F)
+#FIXEDLENGTH(21,0)
+As adults…[LR]<END>
+
+//[WORD0]と…[LR]<END>
+#JMP($1FC3F)
+#FIXEDLENGTH(10,0)
+[WORD0] &…[LR]<END>
+
+//[WORD1]のカンケイになるん<$17><$19><$00>よ…[LR]<END>
+#JMP($1FC4B)
+#FIXEDLENGTH(31,0)
+it turns into[LR]
+[WORD1]<$17><$19><$00>…[LR]<END>
+
+//時間は 飛びこえられないから…[LR]<END>
+#JMP($1FC75)
+#FIXEDLENGTH(30,0)
+You can't leap[LR]
+over time…[LR]<END>
+
+//今の自分じゃどうにもならないん<$17><$19><$00>ねェ…[LR]<END>
+#JMP($1FC9E)
+#FIXEDLENGTH(40,0)
+nothin' the you[LR]
+of now can[LR]
+do<$17><$19><$00>…[LR]<END>
+
+//そういうのって せつない[KERO]～[LR]<END>
+#JMP($1FCD1)
+#FIXEDLENGTH(29,0)
+That kinda[LR]
+thing's sad～[LR]<END>
+
+//明日という字は…[LR]<END>
+#JMP($1FCFB)
+#FIXEDLENGTH(17,0)
+Tomorrow…[LR]<END>
+
+//明るい日と書く<$17><$19><$00>～[LR]<END>
+#JMP($1FD11)
+#FIXEDLENGTH(20,0)
+is "bright[LR]
+day"～[LR]<END>
+
+//明日の「あ」は～[LR]<END>
+#JMP($1FD45)
+#FIXEDLENGTH(17,0)
+"A" in "ashita"[LR]<END>
+
+//[WORD0]の「あ」でも あるん<$17><$19><$00>♪[LR]<END>
+#JMP($1FD5B)
+#FIXEDLENGTH(30,0)
+is also the "a"[LR]
+in [WORD0]♪[LR]<END>
+
+//男はみんな、マザコンなんだ[KERO]～！[LR]<END>
+#JMP($1FD86)
+#FIXEDLENGTH(34,0)
+All men are[LR]
+mama's boys～![LR]<END>
+
+//[WORD0]もきっと、そうに違いないッス！[LR]<END>
+#JMP($1FDC8)
+#FIXEDLENGTH(36,0)
+[WORD0] surely[LR]
+is too![LR]<END>
+
+//でも、ホントのカアちゃんは…[LR]<END>
+#JMP($1FDF7)
+#FIXEDLENGTH(29,0)
+But your real[LR]
+mom…[LR]<END>
+
+//結構、イヤなんだ[KERO]も…[LR]<END>
+#JMP($1FE25)
+#FIXEDLENGTH(24,0)
+is a bit much…[LR]<END>
+
+//<$17><$1B><$00>[LR]えんぴつのニオイが好き[KERO]～♥[LR]<END>
+#JMP($1FE4A)
+#FIXEDLENGTH(34,0)
+<$17><$1B><$00>[LR]
+I love pencil[LR]
+smell～♥[LR]<END>
+
+//削ったばっかのエンピツを ハナのところにもってって…[LR]<END>
+#JMP($1FE77)
+#FIXEDLENGTH(52,0)
+Hold a freshly[LR]
+sharpened[LR]
+pencil to your[LR]
+nose…[LR]<END>
+
+//目をつぶって[LR]<END>
+#JMP($1FEB3)
+#FIXEDLENGTH(13,0)
+eyes shut[LR]<END>
+
+//「スーハー」ってすると…[LR]<END>
+#JMP($1FEC8)
+#FIXEDLENGTH(25,0)
+and go "sniff,[LR]
+haa"…[LR]<END>
+
+//なんかこう、落ち着くん<$17><$19><$00>～♥[LR]<END>
+#JMP($1FEEC)
+#FIXEDLENGTH(30,0)
+somehow it's[LR]
+calmin'<$17><$19><$00>～♥[LR]<END>
+
+//でもたまに…[LR]うっかりハナの穴につっこんじゃうんだ[KERO]もね～！[LR]<END>
+#JMP($1FF1F)
+#FIXEDLENGTH(61,0)
+But sometimes…[LR]
+I accidentally[LR]
+stick it up my[LR]
+nose～![LR]<END>
+
+//ハーモニカのニオイって好き[KERO]～！[LR]<END>
+#JMP($1FF69)
+#FIXEDLENGTH(34,0)
+I love the smell[LR]
+of harmonicas～![LR]<END>
+
+//金属っぽいニオイと～[LR]ツバっぽいニオイのハーモニーが…[LR]<END>
+#JMP($1FF96)
+#FIXEDLENGTH(54,0)
+The metal smell～[LR]
+and spit smell[LR]
+harmony…[LR]<END>
+
+//なんか、たまらなくせつないん<$17><$19><$00>～♥[LR]<END>
+#JMP($1FFD4)
+#FIXEDLENGTH(36,0)
+it's unbearably[LR]
+bittersweet<$17><$19><$00>～♥[LR]<END>
+
+//たてぶえ<END>
+#JMP($20011)
+#FIXEDLENGTH(8,0)
+Recorder<END>
+
+//あと、[WORD0]も同じような…[LR]ノスタルジーあふれるニオイがする[KERO]…[LR]<END>
+#JMP($2003B)
+#FIXEDLENGTH(64,0)
+Also, [WORD0][LR]
+has the same…[LR]
+nostalgic smell…[LR]<END>
+
+//好きなコの[WORD0]を…[LR]<END>
+#JMP($20086)
+#FIXEDLENGTH(20,0)
+Crush's[LR]
+[WORD0]…[LR]<END>
+
+//放課後だれもいない時に そっと ふいてみたコトのある人は、<END>
+#JMP($200AC)
+#FIXEDLENGTH(56,0)
+Those who secretly blew it after school, all alone,<END>
+
+//放課後だれもいない時に そっと かいでみたコトのある人は、<END>
+#JMP($200EA)
+#FIXEDLENGTH(56,0)
+Those who secretly sniffed it after school, all alone,<END>
+
+//ちなみに[WORD3]は やったコトある[KERO]？<END>
+#JMP($2018D)
+#FIXEDLENGTH(35,0)
+Has [WORD3] ever done that?<END>
 
 //ええっ!?[LR]<END>
 #JMP($201DE)
 #FIXEDLENGTH(9,0)
 Whaa!?[LR]<END>
 
+//甘酸っぱい思い出づくりのチャンスを逃した[KERO]!?[LR]<END>
+#JMP($201F2)
+#FIXEDLENGTH(46,0)
+You missed a[LR]
+bittersweet[LR]
+memory chance!?[LR]<END>
+
+//う～ん…[LR]もったいナイコトを…[LR]<END>
+#JMP($2022B)
+#FIXEDLENGTH(30,0)
+Hmm…[LR]
+What a waste…[LR]<END>
+
 //ええっ!?[LR]<END>
 #JMP($2025C)
 #FIXEDLENGTH(9,0)
 Whaa!?[LR]<END>
+
+//…しょーがナイなァ～[LR][WORD3]は～♥[LR]<END>
+#JMP($20278)
+#FIXEDLENGTH(33,0)
+…Oh, you～[LR]
+[WORD3]～♥[LR]<END>
+
+//好きな子の たてぶえを コッソリふいた コトがある<END>
+#JMP($202A2)
+#FIXEDLENGTH(47,0)
+Secretly blew my crush's recorder<END>
+
+//好きな子の [WORD0]のにおいを コッソリかいだ コトがある<END>
+#JMP($202DC)
+#FIXEDLENGTH(52,0)
+Secretly sniffed my crush's [WORD0]<END>
+
+//なぬーっ!?[LR]<END>
+#JMP($20328)
+#FIXEDLENGTH(11,0)
+Wha!?[LR]<END>
+
+//そ、そ、そんなじゅーようなコトを忘れた<$17><$19><$00>か!![LR]<END>
+#JMP($2033E)
+#FIXEDLENGTH(46,0)
+Y-y-you forgot[LR]
+somethin' that[LR]
+important!![LR]<END>
+
+//<$17><$1B><$00>そんなコトでは、老後のたのしみが へってしまう<$17><$19><$00>よ!?[LR]<END>
+#JMP($20377)
+#FIXEDLENGTH(56,0)
+<$17><$1B><$00>At this[LR]
+rate, you'll have[LR]
+less fun when[LR]
+you're old!?[LR]<END>
+
+//そう<$17><$19><$00>か～♥[LR]<END>
+#JMP($203C2)
+#FIXEDLENGTH(14,0)
+I see～♥[LR]<END>
+
+//ま！[LR]<END>
+#JMP($203DB)
+#FIXEDLENGTH(5,0)
+Well[LR]<END>
+
+//深くは、追求しない[KERO]♥[LR]<END>
+#JMP($203EB)
+#FIXEDLENGTH(24,0)
+I won't dig[LR]
+deeper♥[LR]<END>
+
+//口に出したら こわれてしまいそうな気がする…[LR]<END>
+#JMP($2040E)
+#FIXEDLENGTH(44,0)
+Feels like sayin'[LR]
+it'll break it…[LR]<END>
+
+//そんなキラキラした思い出なん<$17><$19><$00>ね♥[LR]<END>
+#JMP($20442)
+#FIXEDLENGTH(36,0)
+such a sparkly[LR]
+memory<$17><$19><$00>♥[LR]<END>
+
+//なんで…[LR]他人のフトンのニオイは気になるのに…[LR]<END>
+#JMP($2047B)
+#FIXEDLENGTH(46,0)
+Why…[LR]
+do other folks'[LR]
+futons smell[LR]
+weird…[LR]<END>
+
+//自分のフトンのニオイは いいニオイだって思うん<$17><$19><$00>かねェ？[LR]<END>
+#JMP($204B1)
+#FIXEDLENGTH(57,0)
+but your own[LR]
+futon smells[LR]
+nice<$17><$19><$00>?[LR]<END>
+
+//帰ってきた～！[LR]って気がして スゴクおちつく[KERO]～♥[LR]<END>
+#JMP($2052F)
+#FIXEDLENGTH(50,0)
+I'm home～![LR]
+it feels super[LR]
+calmin'～♥[LR]<END>
+
+//きっと生きモノは自分のテリトリーを ニオイで本能的に知るん<$17><$19><$00>！[LR]<END>
+#JMP($2056C)
+#FIXEDLENGTH(63,0)
+Critters must[LR]
+know their turf[LR]
+by smell by[LR]
+instinct![LR]<END>
+
+//だからいいニオイ♥って思う[KERO]～[LR]<END>
+#JMP($205B3)
+#FIXEDLENGTH(32,0)
+So it smells[LR]
+nice♥～[LR]<END>
+
+//ダンプカーの…[LR]排気ガスのニオイは…[LR]<END>
+#JMP($205E0)
+#FIXEDLENGTH(36,0)
+A dump truck's…[LR]
+exhaust smell…[LR]<END>
+
+//子どものころを思い出す いいニオイ[KERO]…[LR]<END>
+#JMP($2060F)
+#FIXEDLENGTH(39,0)
+nice, smells like[LR]
+childhood…[LR]<END>
+
+//[WORD0]に悪いに ちがいナイんだ[KERO]も…[LR]<END>
+#JMP($20656)
+#FIXEDLENGTH(36,0)
+I bet it's bad for[LR]
+[WORD0]…[LR]<END>
+
+//なぁんか好きなん<$17><$19><$00>よ～！[LR]<END>
+#JMP($20685)
+#FIXEDLENGTH(26,0)
+but I kinda like[LR]
+it<$17><$19><$00>～![LR]<END>
+
+//これのニオイが好きな人は けっこう多いん<$17><$19><$00>よ!?[LR]<END>
+#JMP($206AA)
+#FIXEDLENGTH(47,0)
+Lots of folks[LR]
+like this[LR]
+smell<$17><$19><$00>!?[LR]<END>
+
+//[WORD1]はどう<$17><$19><$00>か？<END>
+#JMP($206EC)
+#FIXEDLENGTH(18,0)
+How 'bout [WORD1]?<END>
+
+//なんだか…[LR]<END>
+#JMP($20725)
+#FIXEDLENGTH(11,0)
+Somehow…[LR]<END>
+
+//都会にいながらも、田舎のあぜみちをカンジさせてくれる…[LR]<END>
+#JMP($2073B)
+#FIXEDLENGTH(55,0)
+even in the city,[LR]
+it makes me feel[LR]
+country paths…[LR]<END>
+
+//あの、絶妙なブレンドがステキ[KERO]～♥[LR]<END>
+#JMP($2077D)
+#FIXEDLENGTH(36,0)
+that perfect[LR]
+blend is[LR]
+lovely～♥[LR]<END>
+
+//排気ガスの ニオイが たまらナイ<END>
+#JMP($207A3)
+#FIXEDLENGTH(30,0)
+I love exhaust smell<END>
+
+//そう<$17><$19><$00>か…[LR]共感できないのが残念だ[KERO]～[LR]<END>
+#JMP($207D9)
+#FIXEDLENGTH(40,0)
+I see…[LR]
+Too bad you[LR]
+don't feel it～[LR]<END>
+
+//まぁ…[LR]<END>
+#JMP($20814)
+#FIXEDLENGTH(7,0)
+Well…[LR]<END>
+
+//体には悪いんで、そんなムキになって かぐコトもナイんだ[KERO]ね…[LR]<END>
+#JMP($2081D)
+#FIXEDLENGTH(61,0)
+it's bad for you,[LR]
+so no need to[LR]
+sniff it so hard…[LR]<END>
+
+//………[LR]いいニオイなのに～!![LR]<END>
+#JMP($20865)
+#FIXEDLENGTH(28,0)
+………[LR]
+But it smells[LR]
+good!![LR]<END>
+
+//タクシーにのった時の…[LR]あの独特のニオイもいい<$17><$19><$00>～♥[LR]<END>
+#JMP($2089D)
+#FIXEDLENGTH(53,0)
+Ridin' a taxi…[LR]
+that peculiar[LR]
+smell is nice[LR]
+too～♥[LR]<END>
+
+//たぶんあれは…[LR]シートの…こう…[LR]<END>
+#JMP($208DD)
+#FIXEDLENGTH(32,0)
+Prob'ly…[LR]
+the seats…like…[LR]<END>
+
+//高級なセンで行こうとして…[LR]<END>
+#JMP($20908)
+#FIXEDLENGTH(27,0)
+tryin' to go[LR]
+fancy…[LR]<END>
+
+//でも失敗してるって カンジのニオイが イイん<$17><$19><$00>ねェ～♥[LR]<END>
+#JMP($2092E)
+#FIXEDLENGTH(54,0)
+but failin', that[LR]
+kinda smell is[LR]
+nice<$17><$19><$00>～♥[LR]<END>
+
+//やめられないニオイ<$17><$19><$00>…[LR]<END>
+#JMP($20977)
+#FIXEDLENGTH(24,0)
+A smell I can't[LR]
+quit…[LR]<END>
+
+//ガソリンのニオイって たまらない[KERO]～♥[LR]<END>
+#JMP($2099F)
+#FIXEDLENGTH(39,0)
+Gasoline smell is[LR]
+irresistible～♥[LR]<END>
+
+//なんとも言えない…脳みそにひびくようなシゲキなんだなッス!![LR]<END>
+#JMP($209D1)
+#FIXEDLENGTH(59,0)
+Indescribable… a[LR]
+buzz that rings[LR]
+in your brain!![LR]<END>
+
+//それでいてやさしい…[LR]<END>
+#JMP($20A17)
+#FIXEDLENGTH(21,0)
+Yet gentle…[LR]<END>
+
+//まるでカァちゃんのムネに…[LR]いだかれているような香り…[LR]<END>
+#JMP($20A34)
+#FIXEDLENGTH(54,0)
+Like bein' held…[LR]
+in Ma's arms…[LR]<END>
+
+//すばらしい[KERO]～♥[LR]<END>
+#JMP($20A75)
+#FIXEDLENGTH(18,0)
+Wonderful～♥[LR]<END>
+
+//モーターのやけるニオイをかぐと…[LR]<END>
+#JMP($20AA1)
+#FIXEDLENGTH(33,0)
+Smellin' a burnin'[LR]
+motor…[LR]<END>
+
+//手を接着剤だらけにして…[LR]<END>
+#JMP($20ACD)
+#FIXEDLENGTH(25,0)
+hands covered[LR]
+in glue…[LR]<END>
+
+//一生けんめいつくった、<END>
+#JMP($20B03)
+#FIXEDLENGTH(22,0)
+workin' hard to build<END>
+
+//[WORD0]のリモコンを 思い出すッス～♪[LR]<END>
+#JMP($20B1B)
+#FIXEDLENGTH(35,0)
+that remote[LR]
+[WORD0], I[LR]
+remember～♪[LR]<END>
+
+//完成したのはいい[KERO]も…[LR]<END>
+#JMP($20B49)
+#FIXEDLENGTH(24,0)
+I finished it,[LR]
+kero…[LR]<END>
+
+//そこら中にぶっつけ回って…[LR]<END>
+#JMP($20B6C)
+#FIXEDLENGTH(27,0)
+crashed it[LR]
+everywhere…[LR]<END>
+
+//１時間もしないうちに <END>
+#JMP($20B8C)
+#FIXEDLENGTH(21,0)
+and in under an hour<END>
+
+//こなごなにしてしまったもん<$17><$19><$00>…[LR]<END>
+#JMP($20BA9)
+#FIXEDLENGTH(32,0)
+smashed it to[LR]
+bits<$17><$19><$00>…[LR]<END>
+
+//リモコンをつくるより…[LR]<END>
+#JMP($20BD4)
+#FIXEDLENGTH(23,0)
+Over buildin' it…[LR]<END>
+
+//バラバラになるまでぶつける方が、たのしかったん<$17><$19><$00>かねェ…[LR]<END>
+#JMP($20BF6)
+#FIXEDLENGTH(58,0)
+maybe crashin'[LR]
+it to bits was[LR]
+the fun[LR]
+part<$17><$19><$00>…[LR]<END>
+
+//クーラーが、ガンガンきいてる [WORD1]とかから出た時に…[LR]<END>
+#JMP($20C6F)
+#FIXEDLENGTH(53,0)
+Steppin' out of[LR]
+a [WORD1] with[LR]
+the AC blastin'…[LR]<END>
+
+//「むわっ」とするのといっしょにくる、外のニオイが好き[KERO]…♥[LR]<END>
+#JMP($20CAF)
+#FIXEDLENGTH(60,0)
+I love the[LR]
+outside smell[LR]
+with that muggy[LR]
+"whoosh"…♥[LR]<END>
+
+//湿度が高くて、蒸しアツい日の…[LR]<END>
+#JMP($20CF6)
+#FIXEDLENGTH(31,0)
+On a humid,[LR]
+muggy day…[LR]<END>
+
+//夕方ぐらいが イチバンいい<$17><$19><$00>ねェ～♥[LR]<END>
+#JMP($20D20)
+#FIXEDLENGTH(37,0)
+around evenin'[LR]
+is the[LR]
+best<$17><$19><$00>～♥[LR]<END>
+
+//思わずたおれそうになる<$17><$19><$00>！[LR]<END>
+#JMP($20D50)
+#FIXEDLENGTH(28,0)
+I nearly fall[LR]
+over<$17><$19><$00>![LR]<END>
+
+//っちゅーか、それって 実はクーラー病…？[LR]<END>
+#JMP($20D77)
+#FIXEDLENGTH(40,0)
+Wait, is that[LR]
+actually AC[LR]
+sickness…?[LR]<END>
+
+//クーラーがきいている、<END>
+#JMP($20DC1)
+#FIXEDLENGTH(22,0)
+With the AC on,<END>
+
+//[WORD0]のニオイも…[LR]<END>
+#JMP($20DD9)
+#FIXEDLENGTH(18,0)
+[WORD0]'s[LR]
+smell…[LR]<END>
+
+//涼しげなカンジで、<END>
+#JMP($20DF6)
+#FIXEDLENGTH(18,0)
+feels cool,<END>
+
+//これもまた いい[KERO]ねェ～♥[LR]<END>
+#JMP($20E0A)
+#FIXEDLENGTH(27,0)
+that's nice[LR]
+too～♥[LR]<END>
+
+//赤ちゃんって…[LR]<END>
+#JMP($20E3F)
+#FIXEDLENGTH(15,0)
+Babies…[LR]<END>
+
+//ミルクと お日様のような 何ともいいニオイがする<$17><$19><$00>～[LR]<END>
+#JMP($20E59)
+#FIXEDLENGTH(52,0)
+smell so nice,[LR]
+like milk and[LR]
+sunshine<$17><$19><$00>～[LR]<END>
+
+//ずっと かいでいるだけで、ナゼか まんぞく♥[LR]<END>
+#JMP($20E98)
+#FIXEDLENGTH(43,0)
+Just sniffin'[LR]
+'em, somehow I'm[LR]
+content♥[LR]<END>
+
+//安心感とは あのコトを言うん<$17><$19><$00>かねェ…？[LR]<END>
+#JMP($20ECE)
+#FIXEDLENGTH(41,0)
+Is that what you[LR]
+call[LR]
+comfort<$17><$19><$00>…?[LR]<END>
+
+//ストーブまわりのニオイで、忘れてはイケナイのが…[LR]<END>
+#JMP($20F07)
+#FIXEDLENGTH(49,0)
+Smells around[LR]
+the stove, can't[LR]
+forget…[LR]<END>
+
+//髪の毛がこげた時のニオイ…!![LR]<END>
+#JMP($20F43)
+#FIXEDLENGTH(29,0)
+the smell of[LR]
+singed hair…!![LR]<END>
+
+//あれも変なニオイなんだ[KERO]も…[LR]<END>
+#JMP($20F6B)
+#FIXEDLENGTH(30,0)
+Weird smell too…[LR]<END>
+
+//ど～も、やみつきになっちゃうニオイなんだ[KERO]～♥[LR]<END>
+#JMP($20F91)
+#FIXEDLENGTH(48,0)
+But it's a smell[LR]
+you get hooked[LR]
+on～♥[LR]<END>
+
+//金属を しばらくにぎってたあとの手のニオイ…[LR]<END>
+#JMP($20FDB)
+#FIXEDLENGTH(44,0)
+Hand smell after[LR]
+holdin' metal…[LR]<END>
+
+//あれも何気なくいい[KERO]…♥[LR]<END>
+#JMP($21012)
+#FIXEDLENGTH(26,0)
+That's kinda[LR]
+nice too…♥[LR]<END>
+
+//思わずス～ハ～しちゃう<$17><$19><$00>～！[LR]<END>
+#JMP($21037)
+#FIXEDLENGTH(30,0)
+I can't help[LR]
+sniffin'～![LR]<END>
+
+//手のあたたかさで ビミョーに立ちのぼってくる、<END>
+#JMP($21060)
+#FIXEDLENGTH(45,0)
+Rising faintly with the warmth of your hand,<END>
+
+//歯と脳にジワジワっとぬけていくあのシゲキ…[LR]<END>
+#JMP($21095)
+#FIXEDLENGTH(43,0)
+that zing[LR]
+seepin' into[LR]
+teeth and[LR]
+brain…[LR]<END>
+
+//[WORD0]カイカンなんだなッス～!![LR]<END>
+#JMP($210D4)
+#FIXEDLENGTH(30,0)
+It's [WORD0][LR]
+bliss～!![LR]<END>
+
+//ネギを切った時 手につくニオイって…[LR]<END>
+#JMP($2110C)
+#FIXEDLENGTH(36,0)
+Green onion[LR]
+smell on hands…[LR]<END>
+
+//石鹸でもなかなかとれないから、<END>
+#JMP($2113B)
+#FIXEDLENGTH(30,0)
+won't come off with soap,<END>
+
+//みんなイヤがるんだ[KERO]～[LR]<END>
+#JMP($2115B)
+#FIXEDLENGTH(24,0)
+so everyone[LR]
+hates it～[LR]<END>
 
 //だケロも…[LR]<END>
 #JMP($2117E)
 #FIXEDLENGTH(11,0)
 But…[LR]<END>
 
+//だって…[LR]<END>
+#JMP($211C3)
+#FIXEDLENGTH(9,0)
+'Cause…[LR]<END>
+
+//おなかがすいちゃう、いいニオイでねェスか～♥[LR]<END>
+#JMP($211D1)
+#FIXEDLENGTH(45,0)
+it's a good smell[LR]
+that makes you[LR]
+hungry～♥[LR]<END>
+
+//あぶらギトギトで、ネギがたくさん浮かんだラーメン…くいたくなる<$17><$19><$00>よ!![LR]<END>
+#JMP($21206)
+#FIXEDLENGTH(70,0)
+Greasy ramen[LR]
+with lots of[LR]
+green[LR]
+onion…makes me[LR]
+wanna eat it!![LR]<END>
+
+//だけど塩をつけてもむと ニオイはおちるん<$17><$19><$00>よ！[LR]<END>
+#JMP($21257)
+#FIXEDLENGTH(47,0)
+But rub it with[LR]
+salt and the[LR]
+smell comes off![LR]<END>
+
+//ま！<END>
+#JMP($21291)
+#FIXEDLENGTH(4,0)
+Well<END>
+
+//ね！[LR]<END>
+#JMP($212CF)
+#FIXEDLENGTH(5,0)
+See![LR]<END>
+
+//カブトムシを かっている時の…[LR]<END>
+#JMP($21301)
+#FIXEDLENGTH(30,0)
+When keepin'[LR]
+beetles…[LR]<END>
+
+//水そうのニオイってスゴク好き[KERO]！[LR]<END>
+#JMP($21327)
+#FIXEDLENGTH(34,0)
+I love the tank[LR]
+smell![LR]<END>
+
+//おがくずのニオイしかしなかったのが、<END>
+#JMP($21354)
+#FIXEDLENGTH(36,0)
+It only smelled of sawdust,<END>
+
+//だんだん カブトくさーくなるん<$17><$19><$00>…[LR]<END>
+#JMP($2137A)
+#FIXEDLENGTH(35,0)
+then slowly gets[LR]
+beetle-y<$17><$19><$00>…[LR]<END>
+
+//あれはナツのニオイなん<$17><$19><$00>ねェ～!![LR]<END>
+#JMP($213A8)
+#FIXEDLENGTH(34,0)
+That's the smell[LR]
+of[LR]
+summer<$17><$19><$00>～!![LR]<END>
+
+//っちゅーか…[LR]<END>
+#JMP($213D5)
+#FIXEDLENGTH(13,0)
+I mean…[LR]<END>
+
+//くさったスイカのニオイ…？[LR]<END>
+#JMP($213ED)
+#FIXEDLENGTH(27,0)
+rotten[LR]
+watermelon[LR]
+smell…?[LR]<END>
+
+//でも 好きッス～♥[LR]<END>
+#JMP($2141C)
+#FIXEDLENGTH(18,0)
+But I like it～♥[LR]<END>
+
+//石油ストーブを つけた時や…[LR]けした時のニオイって…[LR]<END>
+#JMP($21465)
+#FIXEDLENGTH(51,0)
+Lightin' a[LR]
+kerosene[LR]
+heater…[LR]
+or turnin' it[LR]
+off…[LR]<END>
+
+//たまらなくステキ<$17><$19><$00>～♥[LR]<END>
+#JMP($214A0)
+#FIXEDLENGTH(24,0)
+that smell's[LR]
+lovely♥[LR]<END>
+
+//何とも言えないやさしさとなつかしさのある…[LR]<END>
+#JMP($214C3)
+#FIXEDLENGTH(43,0)
+Somehow gentle[LR]
+and nostalgic…[LR]<END>
+
+//それでいてツンとくるあのニオイ…[LR]<END>
+#JMP($214F6)
+#FIXEDLENGTH(33,0)
+yet that sharp[LR]
+smell…[LR]<END>
+
 //も…[LR]<END>
 #JMP($21559)
 #FIXEDLENGTH(5,0)
 too[LR]<END>
+
+//きっと、芯の燃えるニオイの 香ばしいカンジがプラスされて…[LR]<END>
+#JMP($21569)
+#FIXEDLENGTH(58,0)
+Surely the[LR]
+toasty smell of[LR]
+the burnin' wick[LR]
+adds…[LR]<END>
+
+//あのゼツミョーさ加減を もたらしているん<$17><$19><$00>ね～！[LR]<END>
+#JMP($215AE)
+#FIXEDLENGTH(49,0)
+that perfect[LR]
+touch<$17><$19><$00>～![LR]<END>
+
+//電気ストーブを、つけた時の…[LR]<END>
+#JMP($2160C)
+#FIXEDLENGTH(29,0)
+Turnin' on a[LR]
+heater…[LR]<END>
+
+//ホコリが、燃えるニオイがいい[KERO]…[LR]<END>
+#JMP($21634)
+#FIXEDLENGTH(34,0)
+the burnin' dust[LR]
+smell is nice…[LR]<END>
+
+//何者にもジャマされない…[LR]<END>
+#JMP($21661)
+#FIXEDLENGTH(25,0)
+Undisturbed…[LR]<END>
+
+//ただひたすら純粋にかわいた…空気のニオイ…[LR]<END>
+#JMP($21682)
+#FIXEDLENGTH(43,0)
+just pure[LR]
+dry…air smell…[LR]<END>
+
+//あれはもぉ～!![LR]たまらない[KERO]ねェ～ッ!![LR]<END>
+#JMP($216B8)
+#FIXEDLENGTH(39,0)
+That's just～!![LR]
+irresistible～!![LR]<END>
+
+//ちなみに！[LR]<END>
+#JMP($216EA)
+#FIXEDLENGTH(11,0)
+Oh, and![LR]<END>
+
+//ドライヤーでも 同じようなニオイが味わえるッスよ～！[LR]<END>
+#JMP($21700)
+#FIXEDLENGTH(52,0)
+A hair dryer[LR]
+gives a similar[LR]
+smell too～![LR]<END>
+
+//蚊取り線香のニオイって イイん<$17><$19><$00>よねェ～♥[LR]<END>
+#JMP($21761)
+#FIXEDLENGTH(43,0)
+Mosquito coil[LR]
+smell is[LR]
+nice<$17><$19><$00>～♥[LR]<END>
+
+//火をつけた時の ニオイが好き[KERO]～♥[LR]<END>
+#JMP($21797)
+#FIXEDLENGTH(35,0)
+I love the smell[LR]
+when lit～♥[LR]<END>
+
+//つけてないヤツでも[LR]おろし立てをかぐと…[LR]<END>
+#JMP($217C5)
+#FIXEDLENGTH(40,0)
+Even unlit,[LR]
+sniff a fresh[LR]
+one…[LR]<END>
+
+//すがすがしい、よいニオイがするん<$17><$19><$00>よ～？[LR]<END>
+#JMP($217F8)
+#FIXEDLENGTH(42,0)
+it smells fresh[LR]
+and nice<$17><$19><$00>～?[LR]<END>
+
+//ビニールうきわのニオイって、<END>
+#JMP($21859)
+#FIXEDLENGTH(28,0)
+The smell of plastic floats,<END>
+
+//なんであんなに たまらないん<$17><$19><$00>かねェ～！[LR]<END>
+#JMP($2187D)
+#FIXEDLENGTH(41,0)
+why's it so[LR]
+irresistible<$17><$19><$00>～![LR]<END>
+
+//ふくらませに、かかったうきわに 口をつける瞬間…[LR]<END>
+#JMP($218B1)
+#FIXEDLENGTH(48,0)
+The moment[LR]
+your lips touch[LR]
+the float…[LR]<END>
+
+//ハナにつくあの香り…[LR]<END>
+#JMP($218EC)
+#FIXEDLENGTH(21,0)
+that nose[LR]
+scent…[LR]<END>
+
+//いやがおうにも、期待を高められてしまうッス！[LR]<END>
+#JMP($2190C)
+#FIXEDLENGTH(45,0)
+it gets you[LR]
+excited, like it[LR]
+or not![LR]<END>
+
+//そして、中から口に 空気を逆流させて…[LR]<END>
+#JMP($21944)
+#FIXEDLENGTH(38,0)
+Then, back into[LR]
+your mouth…[LR]<END>
+
+//ハナからぬくと さらに！[LR]<END>
+#JMP($21975)
+#FIXEDLENGTH(24,0)
+out the nose,[LR]
+more![LR]<END>
+
+//ま！[LR]<END>
+#JMP($23984)
+#FIXEDLENGTH(5,0)
+Well[LR]<END>
 
 //[WORD0]に…[LR]<END>
 #JMP($247EA)
@@ -8788,6 +10524,11 @@ Keroro…[LR]<END>
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//かねェ…[LR]<END>
+#JMP($3592F)
+#FIXEDLENGTH(9,0)
+Maybe…[LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($35A65)
 #FIXEDLENGTH(12,0)
@@ -8832,6 +10573,11 @@ I see～[LR]<END>
 #JMP($38C73)
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
+
+//いつも 使ってるモノを なんかひとつおしえて<$17><$18><$00>？<END>
+#JMP($396F0)
+#FIXEDLENGTH(47,0)
+Tell me somethin' you always use<$17><$18><$00>?<END>
 
 //が…[LR]<END>
 #JMP($39B81)
@@ -8933,6 +10679,11 @@ I see…[LR]<END>
 #FIXEDLENGTH(5,0)
 !～[LR]<END>
 
+//も～[LR]<END>
+#JMP($3D5C6)
+#FIXEDLENGTH(5,0)
+Jeez[LR]<END>
+
 //もしかして…[LR]<END>
 #JMP($3D6A0)
 #FIXEDLENGTH(13,0)
@@ -8972,6 +10723,11 @@ But…[LR]<END>
 #JMP($409DC)
 #FIXEDLENGTH(7,0)
 Ah![LR]<END>
+
+//ね！[LR]<END>
+#JMP($41A55)
+#FIXEDLENGTH(5,0)
+See![LR]<END>
 
 //ところで…[LR]<END>
 #JMP($41B85)
@@ -9035,6 +10791,11 @@ But…[LR]<END>
 #FIXEDLENGTH(13,0)
 Maybe…[LR]<END>
 
+//まぁ…[LR]<END>
+#JMP($46CF5)
+#FIXEDLENGTH(7,0)
+Well…[LR]<END>
+
 //ぜひとも、一度 お手合わせしたいもの<$17><$19><$00>!![LR]<END>
 #JMP($480F0)
 #FIXEDLENGTH(41,0)
@@ -9087,6 +10848,11 @@ Oh, yeah…[LR]<END>
 #FIXEDLENGTH(7,0)
 Huh!?[LR]<END>
 
+//ま！[LR]<END>
+#JMP($4BCAD)
+#FIXEDLENGTH(5,0)
+Well[LR]<END>
+
 //なぬ～!?[LR]<END>
 #JMP($4C0B9)
 #FIXEDLENGTH(9,0)
@@ -9117,6 +10883,11 @@ too[LR]<END>
 #FIXEDLENGTH(5,0)
 but[LR]<END>
 
+//いつも 使ってるモノを なんかひとつおしえて<$17><$18><$00>？<END>
+#JMP($4E01C)
+#FIXEDLENGTH(47,0)
+Tell me somethin' you always use<$17><$18><$00>?<END>
+
 //も…[LR]<END>
 #JMP($4E862)
 #FIXEDLENGTH(5,0)
@@ -9127,10 +10898,20 @@ too[LR]<END>
 #FIXEDLENGTH(5,0)
 too[LR]<END>
 
+//いつも 使ってるモノを なんかひとつおしえて<$17><$18><$00>？<END>
+#JMP($4F02D)
+#FIXEDLENGTH(47,0)
+Tell me somethin' you always use<$17><$18><$00>?<END>
+
 //[WORD1]が…[LR]<END>
 #JMP($4F4BD)
 #FIXEDLENGTH(10,0)
 [WORD1]…[LR]<END>
+
+//ま！[LR]<END>
+#JMP($4F528)
+#FIXEDLENGTH(5,0)
+Well[LR]<END>
 
 //ところで…[LR]<END>
 #JMP($4F838)
@@ -9405,6 +11186,11 @@ I see～♪[LR]<END>
 #JMP($5BD56)
 #FIXEDLENGTH(13,0)
 Oh, yeah…[LR]<END>
+
+//まぁ…[LR]<END>
+#JMP($5BEF1)
+#FIXEDLENGTH(7,0)
+Well…[LR]<END>
 
 //うーむ…[LR]<END>
 #JMP($5BF9A)
@@ -9681,6 +11467,11 @@ How?<END>
 #JMP($779A1)
 #FIXEDLENGTH(4,0)
 Huh<END>
+
+//太陽族<END>
+#JMP($77BE8)
+#FIXEDLENGTH(6,0)
+Sunny<END>
 
 //ほー<END>
 #JMP($77EF2)
