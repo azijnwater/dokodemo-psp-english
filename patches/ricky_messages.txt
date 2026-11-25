@@ -20758,105 +20758,1790 @@ wearin'[LR]
 [WORD1] boosts[LR]
 your luck～[LR]<END>
 
+//も、<END>
+#JMP($37961)
+#FIXEDLENGTH(4,0)
+and<END>
+
+//[WORD1]を身につけてて…[LR]<END>
+#JMP($3796D)
+#FIXEDLENGTH(22,0)
+wearin'[LR]
+[WORD1]…[LR]<END>
+
+//[VAR6]万円拾ったとか…[LR]<END>
+#JMP($3798E)
+#FIXEDLENGTH(20,0)
+found[LR]
+[VAR6]0,000…[LR]<END>
+
+//[WORD3]の彼女ができたとか…[LR]<END>
+#JMP($379AD)
+#FIXEDLENGTH(26,0)
+got a [WORD3][LR]
+girlfriend…[LR]<END>
+
+//ライバルの [WORD4]とバトルして [WORD5]で勝ったとか…[LR]<END>
+#JMP($379D2)
+#FIXEDLENGTH(49,0)
+beat rival[LR]
+[WORD4] with[LR]
+[WORD5]…[LR]<END>
+
+//いっぱい体験記が 書いてあった[KERO]よ～[LR]<END>
+#JMP($37A0E)
+#FIXEDLENGTH(37,0)
+lots of[LR]
+testimonials[LR]
+were written～[LR]<END>
+
+//かな…[LR]<END>
+#JMP($37A5E)
+#FIXEDLENGTH(7,0)
+maybe[LR]<END>
+
+//[WORD0]に 載ってたん<$17><$19><$00>が…[LR]<END>
+#JMP($37ABD)
+#FIXEDLENGTH(26,0)
+It was in[LR]
+[WORD0]…[LR]<END>
+
+//[WORD1]では 野生の [WORD2]が 畑や民家を 荒らし回って 大変らしい[KERO]～[LR]<END>
+#JMP($37AE2)
+#FIXEDLENGTH(65,0)
+In [WORD1], wild[LR]
+[WORD2] wreck[LR]
+fields and[LR]
+homes, it's[LR]
+awful～[LR]<END>
+
+//…で、見事 [WORD2]を退治してくれた人には…[LR]<END>
+#JMP($37B2E)
+#FIXEDLENGTH(41,0)
+…and whoever[LR]
+gets rid of[LR]
+[WORD2]…[LR]<END>
+
+//賞金[VAR3]万円プレゼント！って、書いてあったんだ[KERO]～！[LR]<END>
+#JMP($37B62)
+#FIXEDLENGTH(53,0)
+gets a[LR]
+[VAR3]0,000 yen[LR]
+prize, it said～![LR]<END>
+
 //フフフ…[LR]<END>
 #JMP($37BA2)
 #FIXEDLENGTH(9,0)
 Hehehe…[LR]<END>
+
+//次の旅の目的地は 決まった<$17><$19><$00>な…[LR]<END>
+#JMP($37BB0)
+#FIXEDLENGTH(33,0)
+My next trip's[LR]
+set…[LR]<END>
+
+//[WORD0]に 載ってたん<$17><$19><$00>が…[LR]<END>
+#JMP($37C3B)
+#FIXEDLENGTH(26,0)
+It was in[LR]
+[WORD0]…[LR]<END>
+
+//[WORD1]で 世界最強[WORD2]大会 ってのが 開かれるらしい<$17><$19><$00>！[LR]<END>
+#JMP($37C60)
+#FIXEDLENGTH(55,0)
+A World's[LR]
+Strongest[LR]
+[WORD2][LR]
+Contest is in[LR]
+[WORD1]![LR]<END>
+
+//[WORD4]参加したい[KERO]も…[LR]<END>
+#JMP($37CA2)
+#FIXEDLENGTH(23,0)
+I [WORD4][LR]
+wanna join…[LR]<END>
+
+//か？[LR]<END>
+#JMP($37CEC)
+#FIXEDLENGTH(5,0)
+?[LR]<END>
+
+//世界最強[WORD2]大会に 出場した<END>
+#JMP($37D0E)
+#FIXEDLENGTH(28,0)
+Was in World's Best [WORD2]<END>
+
+//そうだった<$17><$19><$00>か～[LR]<END>
+#JMP($37D44)
+#FIXEDLENGTH(18,0)
+Is that so～[LR]<END>
+
+//よーし！[LR]<END>
+#JMP($37D61)
+#FIXEDLENGTH(9,0)
+Alright![LR]<END>
+
+//じゃあ 参加する<$17><$19><$00>よ！[LR]<END>
+#JMP($37D6C)
+#FIXEDLENGTH(23,0)
+Then I'll enter![LR]<END>
+
+//[WORD3]が鳴る[KERO]～[LR]<END>
+#JMP($37D8E)
+#FIXEDLENGTH(17,0)
+My [WORD3][LR]
+tingles[LR]<END>
+
+//やっぱり そう<$17><$19><$00>か…[LR]<END>
+#JMP($37DB9)
+#FIXEDLENGTH(21,0)
+Thought so…[LR]<END>
+
+//か…[LR]<END>
+#JMP($37DF5)
+#FIXEDLENGTH(5,0)
+…[LR]<END>
+
+//参加したかった[KERO]…[LR]<END>
+#JMP($37E05)
+#FIXEDLENGTH(20,0)
+Wanted to join…[LR]<END>
+
+//身に付けてるモノを なんかひとつおしえて<$17><$18><$00>？<END>
+#JMP($37E35)
+#FIXEDLENGTH(44,0)
+Tell me somethin' you wear<$17><$18><$00>?<END>
+
+//もし、[WORD5]が なにも 手に持っていない時に、<END>
+#JMP($37ED3)
+#FIXEDLENGTH(43,0)
+If [WORD5] has nothin' in hand,<END>
+
+//悪い[WORD3]に おそわれたとしても…[LR]<END>
+#JMP($37F00)
+#FIXEDLENGTH(33,0)
+and a bad[LR]
+[WORD3][LR]
+attacks…[LR]<END>
+
+//身につけているモノが <END>
+#JMP($37F2C)
+#FIXEDLENGTH(21,0)
+what you're wearin'<END>
+
+//十分に 役にたつというコトを、<END>
+#JMP($37F43)
+#FIXEDLENGTH(29,0)
+can help plenty,<END>
+
+//おぼえておく[KERO]～！[LR]<END>
+#JMP($37F68)
+#FIXEDLENGTH(20,0)
+remember that～![LR]<END>
+
+//[WORD1]を 敵にぶつけたり、[LR]<END>
+#JMP($37F8F)
+#FIXEDLENGTH(25,0)
+Throw [WORD1][LR]
+at 'em,[LR]<END>
+
+//[WORD2]を いきなり目の前に みせたりするだけでも <END>
+#JMP($37FB3)
+#FIXEDLENGTH(46,0)
+or just flash [WORD2] in their face,<END>
+
+//[WORD4]有効な 攻撃になる[KERO]！[LR]<END>
+#JMP($37FE9)
+#FIXEDLENGTH(28,0)
+it's a [WORD4][LR]
+good attack![LR]<END>
+
+//頭のスミにでも おぼえておく<$17><$19><$00>よ～[LR]<END>
+#JMP($38010)
+#FIXEDLENGTH(35,0)
+Keep it in mind～[LR]<END>
+
+//[WORD2]がほしい 電化製品をおしえて[KERO]？<END>
+#JMP($3804F)
+#FIXEDLENGTH(37,0)
+What appliance does [WORD2] want?<END>
+
+//[WORD3]の けん賞で 最新式の[WORD1]が 当たるらしい[KERO]～[LR]<END>
+#JMP($380E0)
+#FIXEDLENGTH(51,0)
+A [WORD3][LR]
+contest gives[LR]
+away a new[LR]
+[WORD1]～[LR]<END>
+
+//しかも、なにが最新式かっていうと…[LR]<END>
+#JMP($3811E)
+#FIXEDLENGTH(35,0)
+And what's new[LR]
+about it…[LR]<END>
+
+//[WORD1]を使って、[WORD4]のトレーニングができる すぐれモノらしい<$17><$19><$00>！[LR]<END>
+#JMP($3814C)
+#FIXEDLENGTH(65,0)
+you can do[LR]
+[WORD4][LR]
+trainin' with[LR]
+[WORD1]![LR]<END>
+
+//<$17><$1B><$00> さすが最新式！[LR]<END>
+#JMP($38198)
+#FIXEDLENGTH(19,0)
+<$17><$1B><$00> So new![LR]<END>
+
+//ひとつぶで ２度オイシイ[KERO]！[LR]<END>
+#JMP($381B6)
+#FIXEDLENGTH(29,0)
+Two treats in[LR]
+one![LR]<END>
+
+//というワケで、[WORD2]！[LR]<END>
+#JMP($381E6)
+#FIXEDLENGTH(22,0)
+So, [WORD2]![LR]<END>
+
+//ハガキ [VAR5]枚おくる<$17><$19><$00>よ～！[LR]<END>
+#JMP($38207)
+#FIXEDLENGTH(28,0)
+I'll send [VAR5][LR]
+cards～![LR]<END>
+
+//[WORD0]の広告に 載ってたん<$17><$19><$00>が…[LR]<END>
+#JMP($38273)
+#FIXEDLENGTH(32,0)
+It was in a[LR]
+[WORD0] ad…[LR]<END>
+
+//新しいカップラーメンが 発売されるらしい[KERO]～[LR]<END>
+#JMP($3829E)
+#FIXEDLENGTH(45,0)
+New cup ramen[LR]
+is comin' out～[LR]<END>
+
+//その名も 「[VAR1]＆[VAR2]味」<$17><$19><$00>～！[LR]<END>
+#JMP($382D6)
+#FIXEDLENGTH(31,0)
+Called "[VAR1] &[LR]
+[VAR2] Flavor"～![LR]<END>
+
+//１週間 [WORD1]を [WORD2]の中に つけ込んだモノを ベースに 味付けしたらしい[KERO]～[LR]<END>
+#JMP($38300)
+#FIXEDLENGTH(75,0)
+Seasoned with[LR]
+[WORD1][LR]
+soaked in[LR]
+[WORD2] for a[LR]
+week～[LR]<END>
 
 //うーむ…[LR]<END>
 #JMP($38356)
 #FIXEDLENGTH(9,0)
 Hmmm…[LR]<END>
 
+//気になる<$17><$19><$00>…[LR]<END>
+#JMP($38364)
+#FIXEDLENGTH(14,0)
+Curious…[LR]<END>
+
+//はやく食べたい…[LR]<END>
+#JMP($3837D)
+#FIXEDLENGTH(17,0)
+Wanna eat it…[LR]<END>
+
+//座右の銘、ひとつおしえて<$17><$18><$00><END>
+#JMP($383A5)
+#FIXEDLENGTH(27,0)
+Tell me a motto<$17><$18><$00><END>
+
+//明日は明日の 風が吹く<END>
+#JMP($383F4)
+#FIXEDLENGTH(21,0)
+Tomorrow's a new day<END>
+
+//ガンバっても、ガンバっても…[LR]<END>
+#JMP($3841C)
+#FIXEDLENGTH(29,0)
+No matter how[LR]
+hard I try…[LR]<END>
+
+//どーしても 負けてしまうコトも ある<$17><$19><$00>よ…[LR]<END>
+#JMP($3843E)
+#FIXEDLENGTH(42,0)
+sometimes I just[LR]
+lose…[LR]<END>
+
+//そんな時は…[LR]<END>
+#JMP($3847B)
+#FIXEDLENGTH(13,0)
+Then…[LR]<END>
+
+//ココロの中で こうつぶやく<$17><$19><$00>よ…[LR]<END>
+#JMP($38493)
+#FIXEDLENGTH(33,0)
+I mutter this in[LR]
+my heart…[LR]<END>
+
+//「[VAR1]…」[LR]<END>
+#JMP($384BF)
+#FIXEDLENGTH(10,0)
+"[VAR1]…"[LR]<END>
+
+//そして、明日の勝利を目指して、<END>
+#JMP($384D4)
+#FIXEDLENGTH(30,0)
+And aimin' for tomorrow's win,<END>
+
+//イチから やり直すんだ[KERO]!![LR]<END>
+#JMP($384F4)
+#FIXEDLENGTH(27,0)
+start over from[LR]
+scratch!![LR]<END>
+
+//ガンバる[KERO]!![LR]<END>
+#JMP($3852C)
+#FIXEDLENGTH(14,0)
+I'll try!![LR]<END>
+
+//[WORD2]の好きな乗りモノ、おしえて<$17><$18><$00>～<END>
+#JMP($38556)
+#FIXEDLENGTH(36,0)
+Tell me [WORD2]'s favorite ride<$17><$18><$00>～<END>
+
+//この前 旅に出た時に [WORD1]に乗った<$17><$19><$00>よ！[LR]<END>
+#JMP($385D7)
+#FIXEDLENGTH(41,0)
+On my last trip I[LR]
+rode [WORD1]![LR]<END>
+
+//なかなかの 乗り心地だった[KERO]～[LR]<END>
+#JMP($3860B)
+#FIXEDLENGTH(31,0)
+Pretty comfy[LR]
+ride～[LR]<END>
+
+//最新型だって いってた<$17><$19><$00>が、<END>
+#JMP($38635)
+#FIXEDLENGTH(28,0)
+Said it's the newest model,<END>
+
+//[WORD3]まで ついてた[KERO]～！[LR]<END>
+#JMP($38653)
+#FIXEDLENGTH(26,0)
+even had[LR]
+[WORD3]～![LR]<END>
+
+//しかも、スピードも速くて…[LR]<END>
+#JMP($38678)
+#FIXEDLENGTH(27,0)
+And fast too…[LR]<END>
+
+//なぁ～[LR]<END>
+#JMP($386D1)
+#FIXEDLENGTH(7,0)
+～[LR]<END>
+
+//最新型[WORD1]は スゴイ[KERO]～[LR]<END>
+#JMP($386E3)
+#FIXEDLENGTH(26,0)
+New [WORD1] is[LR]
+amazin'～[LR]<END>
+
+//[WORD2]が机の中にしまって、大切にしてるモノってなんだ[KERO]？<END>
+#JMP($38719)
+#FIXEDLENGTH(56,0)
+What does [WORD2] keep safe in their desk?<END>
+
+//火事とか 地震とか 非常の時に、<END>
+#JMP($3879D)
+#FIXEDLENGTH(30,0)
+In a fire, quake, emergency,<END>
+
+//まっさきに 持って逃げるモノって～[LR]<END>
+#JMP($387BD)
+#FIXEDLENGTH(34,0)
+the first thing[LR]
+to grab～[LR]<END>
+
+//ふだんから 決めておいた方が いい[KERO]よ～[LR]<END>
+#JMP($387EA)
+#FIXEDLENGTH(40,0)
+best decide it[LR]
+ahead～[LR]<END>
+
+//…でないと、<END>
+#JMP($38867)
+#FIXEDLENGTH(12,0)
+…or else,<END>
+
+//あわてて、[WORD3]なんか持って 逃げちゃうかもしれない<$17><$19><$00>よ～[LR]<END>
+#JMP($38875)
+#FIXEDLENGTH(58,0)
+you might panic[LR]
+and run off with[LR]
+[WORD3]～[LR]<END>
+
+//「備えあれば うれいナシ」だ[KERO]～[LR]<END>
+#JMP($388C0)
+#FIXEDLENGTH(33,0)
+"Be prepared"～[LR]<END>
+
+//旅の途中で 泊まるところがなくて、<END>
+#JMP($3890F)
+#FIXEDLENGTH(33,0)
+No place to stay on my trip,<END>
+
+//野宿したんだ[KERO]も…[LR]<END>
+#JMP($38932)
+#FIXEDLENGTH(20,0)
+I camped out…[LR]<END>
+
+//その時、[WORD0]を 枕がわりに 使ってみた<$17><$19><$00>よ～[LR]<END>
+#JMP($38951)
+#FIXEDLENGTH(45,0)
+used [WORD0][LR]
+as a pillow～[LR]<END>
+
+//イヤ、これが あんがい イイカンジなんだ[KERO]～♪[LR]<END>
+#JMP($38991)
+#FIXEDLENGTH(46,0)
+And it's actually[LR]
+pretty nice～♪[LR]<END>
+
+//今でも たまに [WORD0]を 枕がわり寝る日が ある<$17><$19><$00>よ[LR]<END>
+#JMP($389F9)
+#FIXEDLENGTH(49,0)
+I still sometimes[LR]
+sleep on[LR]
+[WORD0][LR]<END>
+
+//[WORD1]も ゼヒ試してみる[KERO]～[LR]<END>
+#JMP($38A3D)
+#FIXEDLENGTH(28,0)
+[WORD1], try it[LR]
+too～[LR]<END>
+
+//いつも 使ってる電化製品を なんかひとつおしえて<$17><$18><$00>？<END>
+#JMP($38A6D)
+#FIXEDLENGTH(51,0)
+Tell me an appliance you always use<$17><$18><$00>?<END>
+
+//トモダチ<END>
+#JMP($38AE9)
+#FIXEDLENGTH(8,0)
+Friends<END>
+
+//[WORD1]って、[WORD4]にとって 必要<$17><$19><$00>か？[LR]<END>
+#JMP($38B1A)
+#FIXEDLENGTH(37,0)
+Does [WORD4][LR]
+need [WORD1]?[LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($38B5C)
 #FIXEDLENGTH(12,0)
 I see～[LR]<END>
+
+//じゃあ、一度、[WORD1]を使わずに [VAR3]週間 過ごしてみる[KERO]よ！[LR]<END>
+#JMP($38B73)
+#FIXEDLENGTH(58,0)
+Then try [VAR3][LR]
+weeks without[LR]
+[WORD1]![LR]<END>
+
+//もし、[WORD1]を使わないまま [VAR3]週間 過ごすコトができたらな…[LR]<END>
+#JMP($38BB8)
+#FIXEDLENGTH(59,0)
+If you last[LR]
+[VAR3] weeks[LR]
+without[LR]
+[WORD1]…[LR]<END>
+
+//[WORD4]の精神力は レベルが[WORD3]は 上がっているはず<$17><$19><$00>！[LR]<END>
+#JMP($38C06)
+#FIXEDLENGTH(54,0)
+[WORD4]'s[LR]
+willpower should[LR]
+be up [WORD3][LR]
+levels![LR]<END>
+
+//[WORD1]が ないと 生きていけない<END>
+#JMP($38C3E)
+#FIXEDLENGTH(29,0)
+Can't live without [WORD1]<END>
 
 //そう<$17><$19><$00>か…[LR]<END>
 #JMP($38C73)
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//実は 最新式の[WORD1]を [WORD2]に もらったんで、[WORD4]に あげようかと思ったんだ[KERO]も…[LR]<END>
+#JMP($38C92)
+#FIXEDLENGTH(81,0)
+I got a new[LR]
+[WORD1] from[LR]
+[WORD2],[LR]
+thought I'd give[LR]
+it to [WORD4]…[LR]<END>
+
+//やめとく<$17><$19><$00>よ～[LR]<END>
+#JMP($38CEE)
+#FIXEDLENGTH(16,0)
+I'll pass～[LR]<END>
+
+//[WORD2]の好きな乗りモノ、おしえて<$17><$18><$00>～<END>
+#JMP($38D2D)
+#FIXEDLENGTH(36,0)
+Tell me [WORD2]'s favorite ride<$17><$18><$00>～<END>
+
+//こんど 発売される [WORD1]の オモチャが スゴイんだ[KERO]～[LR]<END>
+#JMP($38DA5)
+#FIXEDLENGTH(53,0)
+The new[LR]
+[WORD1] toy is[LR]
+amazin'～[LR]<END>
+
+//[VAR4]分の１サイズ なん<$17><$19><$00>が、<END>
+#JMP($38DE5)
+#FIXEDLENGTH(27,0)
+It's 1/[VAR4] size,<END>
+
+//人が 乗るコトができて、<END>
+#JMP($38E08)
+#FIXEDLENGTH(23,0)
+you can ride it,<END>
+
+//ホンモノと 同じように 動くんだ[KERO]！[LR]<END>
+#JMP($38E21)
+#FIXEDLENGTH(36,0)
+and it moves[LR]
+like the real[LR]
+one![LR]<END>
+
+//しかも [WORD3]のサイン入りなん<$17><$19><$00>！[LR]<END>
+#JMP($38E50)
+#FIXEDLENGTH(34,0)
+And it's signed[LR]
+by [WORD3]![LR]<END>
+
+//ま、そのぶん値段が ホンモノの[VAR4]倍するん<$17><$19><$00>が…[LR]<END>
+#JMP($38E85)
+#FIXEDLENGTH(48,0)
+Though it costs[LR]
+[VAR4]x the real[LR]
+one…[LR]<END>
+
+//それが問題<$17><$19><$00>な…[LR]<END>
+#JMP($38EC0)
+#FIXEDLENGTH(18,0)
+The problem…[LR]<END>
+
+//[WORD2]の好きな乗りモノ、おしえて<$17><$18><$00>～<END>
+#JMP($38EEE)
+#FIXEDLENGTH(36,0)
+Tell me [WORD2]'s favorite ride<$17><$18><$00>～<END>
+
+//こんど始まる 新番組のヒーロー特撮番組なん<$17><$19><$00>が…[LR]<END>
+#JMP($38F5E)
+#FIXEDLENGTH(49,0)
+A new hero[LR]
+tokusatsu show[LR]
+is startin'…[LR]<END>
+
+//主人公の乗るマシンが [WORD1]なんだ[KERO]～♪[LR]<END>
+#JMP($38F9A)
+#FIXEDLENGTH(40,0)
+the hero's[LR]
+machine is[LR]
+[WORD1]～♪[LR]<END>
+
+//名前が「[VAR3][WORD4][WORD1]」って いうん<$17><$19><$00>！[LR]<END>
+#JMP($38FD5)
+#FIXEDLENGTH(40,0)
+It's called[LR]
+"[VAR3][LR]
+[WORD4][LR]
+[WORD1]"![LR]<END>
+
+//[WORD5]カッコイイん<$17><$19><$00>!![LR]<END>
+#JMP($39008)
+#FIXEDLENGTH(23,0)
+[WORD5] cool!![LR]<END>
+
+//<$17><$1B><$00> いっぺんでイイから 乗ってみたい[KERO]～♪[LR]<END>
+#JMP($3902A)
+#FIXEDLENGTH(43,0)
+<$17><$1B><$00> I wanna[LR]
+ride it once～♪[LR]<END>
+
+//ＧＯ！ＧＯ！[LR]<END>
+#JMP($39060)
+#FIXEDLENGTH(13,0)
+GO! GO![LR]<END>
+
+//[WORD2]の好きなギャグ、ひとつおしえて<$17><$18><$00>～<END>
+#JMP($3909D)
+#FIXEDLENGTH(40,0)
+Tell me a gag [WORD2] likes<$17><$18><$00>～<END>
+
+//敵に かこまれ…絶体絶命のピンチの時に…[LR]<END>
+#JMP($390F6)
+#FIXEDLENGTH(40,0)
+Surrounded…in a[LR]
+do-or-die[LR]
+pinch…[LR]<END>
+
+//脱出する方法を おしえる<$17><$19><$00>…[LR]<END>
+#JMP($39129)
+#FIXEDLENGTH(29,0)
+I'll teach you a[LR]
+way out…[LR]<END>
+
+//敵に かこまれ…[LR]<END>
+#JMP($39159)
+#FIXEDLENGTH(16,0)
+Surrounded…[LR]<END>
+
+//もうダメだ！と思ったら…[LR]<END>
+#JMP($3916E)
+#FIXEDLENGTH(25,0)
+when it's[LR]
+hopeless…[LR]<END>
+
+//こう叫ぶ<$17><$19><$00>…[LR]<END>
+#JMP($39192)
+#FIXEDLENGTH(14,0)
+yell this…[LR]<END>
+
 //「[VAR1]!!」[LR]<END>
 #JMP($391AB)
 #FIXEDLENGTH(10,0)
 "[VAR1]!!"[LR]<END>
+
+//すると、敵は あまりのつまらなさに 硬まってしまう[KERO]！[LR]<END>
+#JMP($391C0)
+#FIXEDLENGTH(54,0)
+Then the foes[LR]
+freeze, it's so[LR]
+lame![LR]<END>
+
+//そのスキに、ダッシュで逃げる！[LR]<END>
+#JMP($39204)
+#FIXEDLENGTH(31,0)
+In that gap,[LR]
+dash away![LR]<END>
+
+//これ<$17><$19><$00>よ～♪[LR]<END>
+#JMP($3922E)
+#FIXEDLENGTH(14,0)
+That's it～♪[LR]<END>
+
+//なりたくなーい、病気ってある<$17><$18><$00>？<END>
+#JMP($39250)
+#FIXEDLENGTH(33,0)
+Any illness you don't wanna get?<END>
+
+//どんなに [WORD2]や [WORD3]を きたえても…[LR]<END>
+#JMP($392D2)
+#FIXEDLENGTH(38,0)
+However you[LR]
+train [WORD2][LR]
+or [WORD3]…[LR]<END>
+
+//[WORD1]に なったら、意味がない[KERO]よ～[LR]<END>
+#JMP($39303)
+#FIXEDLENGTH(36,0)
+if you get[LR]
+[WORD1], no[LR]
+point～[LR]<END>
+
+//健全な [WORD2]と [WORD3]は 健康な体から！[LR]<END>
+#JMP($39332)
+#FIXEDLENGTH(38,0)
+Sound [WORD2],[LR]
+[WORD3] need[LR]
+health![LR]<END>
+
+//[WORD2]の体で ケガしたコトのある場所って、どこ<$17><$18><$00>？<END>
+#JMP($3937F)
+#FIXEDLENGTH(49,0)
+Where's [WORD2] been hurt before<$17><$18><$00>?<END>
+
+//イヤ、恥ずかしい話なん<$17><$19><$00>が…[LR]<END>
+#JMP($39440)
+#FIXEDLENGTH(30,0)
+Well, it's[LR]
+embarrassin'…[LR]<END>
+
+//実は [WORD3]をしていて つい うっかり…[LR]<END>
+#JMP($39469)
+#FIXEDLENGTH(37,0)
+I was doin'[LR]
+[WORD3] and[LR]
+carelessly…[LR]<END>
+
+//ま、[WORD2]も、[WORD3]する時は [WORD1]を ケガしないよう、気をつける<$17><$19><$00>よ…[LR]<END>
+#JMP($394A1)
+#FIXEDLENGTH(69,0)
+Well, [WORD2],[LR]
+when doin'[LR]
+[WORD3], don't[LR]
+hurt your[LR]
+[WORD1]…[LR]<END>
+
+//なったコトのある 病気ってなにかある[KERO]？<END>
+#JMP($394FA)
+#FIXEDLENGTH(40,0)
+Any illness you've had?<END>
+
+//そうそう！ [WORD6]～[LR]<END>
+#JMP($395AB)
+#FIXEDLENGTH(19,0)
+Oh yeah![LR]
+[WORD6]～[LR]<END>
+
+//[WORD1]だけは 気を付けないと いけない[KERO]！[LR]<END>
+#JMP($395C9)
+#FIXEDLENGTH(41,0)
+Watch out for[LR]
+[WORD1]![LR]<END>
+
+//[WORD1]になると さらに [WORD2]や [WORD3]に なりやすいん<$17><$19><$00>！[LR]<END>
+#JMP($395FD)
+#FIXEDLENGTH(55,0)
+Get [WORD1][LR]
+and you get[LR]
+[WORD2] or[LR]
+[WORD3] easier![LR]<END>
+
+//[WORD4]でも [WORD5]でも スキキライなく、なんでも食べてれば、<END>
+#JMP($39680)
+#FIXEDLENGTH(56,0)
+Eat anything, [WORD4] or [WORD5], without bein' picky,<END>
+
+//そんな 心配は 無用だ[KERO]も～[LR]<END>
+#JMP($396C0)
+#FIXEDLENGTH(28,0)
+and no need to[LR]
+worry～[LR]<END>
 
 //いつも 使ってるモノを なんかひとつおしえて<$17><$18><$00>？<END>
 #JMP($396F0)
 #FIXEDLENGTH(47,0)
 Tell me somethin' you always use<$17><$18><$00>?<END>
 
+//サバイバルで 生き抜くには、<END>
+#JMP($39761)
+#FIXEDLENGTH(27,0)
+To survive in the wild,<END>
+
+//いろんなモノを 使って いかないと いけない<$17><$19><$00>！[LR]<END>
+#JMP($3977E)
+#FIXEDLENGTH(47,0)
+you gotta use[LR]
+all kinds of[LR]
+stuff![LR]<END>
+
 //例えば…[LR]<END>
 #JMP($397B8)
 #FIXEDLENGTH(9,0)
 Like…[LR]<END>
+
+//[WORD1]を 使って 川で 魚をとったり…[LR]<END>
+#JMP($397C3)
+#FIXEDLENGTH(35,0)
+Catch fish in a[LR]
+river with[LR]
+[WORD1]…[LR]<END>
+
+//[WORD1]を 使って 火を おこしたり…[LR]<END>
+#JMP($397F1)
+#FIXEDLENGTH(33,0)
+start a fire with[LR]
+[WORD1]…[LR]<END>
+
+//[WORD1]を 使って [WORD2]したり…[LR]<END>
+#JMP($3981D)
+#FIXEDLENGTH(29,0)
+[WORD2] with[LR]
+[WORD1]…[LR]<END>
+
+//[WORD1]ひとつあれば、[LR]<END>
+#JMP($39845)
+#FIXEDLENGTH(20,0)
+With one[LR]
+[WORD1],[LR]<END>
+
+//実は いろんなコトが できるん<$17><$19><$00>よ～[LR]<END>
+#JMP($3985B)
+#FIXEDLENGTH(36,0)
+you can do lots[LR]
+of stuff～[LR]<END>
+
+//大切なのは 使い方なんだ[KERO]～♪[LR]<END>
+#JMP($3988A)
+#FIXEDLENGTH(31,0)
+It's how you use[LR]
+it～♪[LR]<END>
 
 //[WORD2]の好きなコトバ、ひとつおしえて<$17><$18><$00><END>
 #JMP($398C5)
 #FIXEDLENGTH(38,0)
 Tell me a word [WORD2] likes<$17><$18><$00><END>
 
+//「[VAR1]！」[LR]<END>
+#JMP($39957)
+#FIXEDLENGTH(10,0)
+"[VAR1]!"[LR]<END>
+
+//イイ言葉<$17><$19><$00>…[LR]<END>
+#JMP($3996C)
+#FIXEDLENGTH(14,0)
+Good words…[LR]<END>
+
+//[WORD3]に染みいる イイ言葉<$17><$19><$00>な…[LR]<END>
+#JMP($39985)
+#FIXEDLENGTH(32,0)
+Words that sink[LR]
+into [WORD3]…[LR]<END>
+
+//………はて？[LR]<END>
+#JMP($399B0)
+#FIXEDLENGTH(13,0)
+………Hm?[LR]<END>
+
+//だれの言葉だった<$17><$19><$00>か…？[LR]<END>
+#JMP($399C2)
+#FIXEDLENGTH(26,0)
+Who said that…?[LR]<END>
+
+//それとも…[LR]<END>
+#JMP($39A11)
+#FIXEDLENGTH(11,0)
+Or…[LR]<END>
+
+//うーん…[LR]<END>
+#JMP($39A42)
+#FIXEDLENGTH(9,0)
+Hmm…[LR]<END>
+
+//だれだった<$17><$19><$00>か…[LR]<END>
+#JMP($39A50)
+#FIXEDLENGTH(18,0)
+Who was it…[LR]<END>
+
+//いつも大切に 持ち歩いてるモノって なんかある[KERO]？<END>
+#JMP($39A76)
+#FIXEDLENGTH(49,0)
+Anything you always carry with care?<END>
+
+//どんなモノでも ずっと、大切にしてやれば…[LR]<END>
+#JMP($39AF3)
+#FIXEDLENGTH(42,0)
+Care for[LR]
+anything long[LR]
+enough…[LR]<END>
+
+//いつか恩返し してくれるモン<$17><$19><$00>よ！[LR]<END>
+#JMP($39B28)
+#FIXEDLENGTH(35,0)
+and someday it[LR]
+repays you![LR]<END>
+
 //が…[LR]<END>
 #JMP($39B81)
 #FIXEDLENGTH(5,0)
 but[LR]<END>
+
+//昔、おそってきた [WORD2]に <END>
+#JMP($39B91)
+#FIXEDLENGTH(25,0)
+Once [WORD2] attacked me,<END>
+
+//持っていた [WORD1]で 弾が止まって、<END>
+#JMP($39BD6)
+#FIXEDLENGTH(33,0)
+the [WORD1] I had stopped a bullet,<END>
+
+//助かったん<$17><$19><$00>よ～！[LR]<END>
+#JMP($39BF9)
+#FIXEDLENGTH(20,0)
+and saved me～![LR]<END>
 
 //ありがとう…[LR]<END>
 #JMP($39C4D)
 #FIXEDLENGTH(13,0)
 Thank you…[LR]<END>
 
+//おぼえておく<$17><$19><$00>！[LR]<END>
+#JMP($39D01)
+#FIXEDLENGTH(18,0)
+Remember that![LR]<END>
+
+//戦いの 基本は…[LR]<END>
+#JMP($39D1E)
+#FIXEDLENGTH(16,0)
+Fight basics…[LR]<END>
+
+//ステップは 軽やかに！ 攻撃は するどく！[LR]<END>
+#JMP($39D39)
+#FIXEDLENGTH(40,0)
+Light steps![LR]
+Sharp attacks![LR]<END>
+
+//なんだ[KERO]～！[LR]<END>
+#JMP($39D6C)
+#FIXEDLENGTH(14,0)
+That's it～![LR]<END>
+
+//すなわち！[LR]<END>
+#JMP($39D85)
+#FIXEDLENGTH(11,0)
+In short![LR]<END>
+
+//[WORD0]のように 舞い、[WORD1]のように 刺す！[LR]<END>
+#JMP($39D9B)
+#FIXEDLENGTH(41,0)
+Float like[LR]
+[WORD0], sting[LR]
+like [WORD1]![LR]<END>
+
+//だ[KERO]！[LR]<END>
+#JMP($39DCF)
+#FIXEDLENGTH(8,0)
+Kero![LR]<END>
+
+//………あら？[LR]<END>
+#JMP($39DE2)
+#FIXEDLENGTH(13,0)
+………Huh?[LR]<END>
+
+//なんか ちがうよーな…？[LR]<END>
+#JMP($39DF4)
+#FIXEDLENGTH(24,0)
+Somethin's off…?[LR]<END>
+
+//わかった！[LR]<END>
+#JMP($39E23)
+#FIXEDLENGTH(11,0)
+Got it![LR]<END>
+
+//[WORD2]のように 舞い、[WORD3]のように 刺す！[LR]<END>
+#JMP($39E39)
+#FIXEDLENGTH(41,0)
+Float like[LR]
+[WORD2], sting[LR]
+like [WORD3]![LR]<END>
+
+//だ[KERO]！[LR]<END>
+#JMP($39E6D)
+#FIXEDLENGTH(8,0)
+Kero![LR]<END>
+
+//イヤ…[LR]<END>
+#JMP($39E89)
+#FIXEDLENGTH(7,0)
+No…[LR]<END>
+
+//これも ちがうよーな…[LR]<END>
+#JMP($39E95)
+#FIXEDLENGTH(22,0)
+that's off too…[LR]<END>
+
 //あ！[LR]<END>
 #JMP($39EB6)
 #FIXEDLENGTH(5,0)
 Ah![LR]<END>
+
+//[WORD4]のように 舞い、[WORD5]のように 刺す！[LR]<END>
+#JMP($39EC6)
+#FIXEDLENGTH(41,0)
+Float like[LR]
+[WORD4], sting[LR]
+like [WORD5]![LR]<END>
+
+//だ[KERO]！[LR]<END>
+#JMP($39EFA)
+#FIXEDLENGTH(8,0)
+Kero![LR]<END>
 
 //えーっと…[LR]<END>
 #JMP($39F1B)
 #FIXEDLENGTH(11,0)
 Umm…[LR]<END>
 
+//なんか、わかんなく なってしまった<$17><$19><$00>～！[LR]<END>
+#JMP($39F31)
+#FIXEDLENGTH(41,0)
+I've lost track～![LR]<END>
+
+//カッコイイ有名人を、おしえて[KERO]～？<END>
+#JMP($39F74)
+#FIXEDLENGTH(35,0)
+Tell me a cool celeb～?<END>
+
+//この前、テレビで<END>
+#JMP($39FF8)
+#FIXEDLENGTH(16,0)
+Recently on TV<END>
+
+//「各界著名人バトル！最強はだれだ！デスマッチ！」<END>
+#JMP($3A010)
+#FIXEDLENGTH(48,0)
+"Celebrity Battle! Who's Strongest! Deathmatch!"<END>
+
+//って、番組を やってた[KERO]よ～[LR]<END>
+#JMP($3A042)
+#FIXEDLENGTH(29,0)
+there was a[LR]
+show like that～[LR]<END>
+
+//決勝戦は [WORD1]と [WORD2]の 対決だったん<$17><$19><$00>が、<END>
+#JMP($3A072)
+#FIXEDLENGTH(44,0)
+The final was [WORD1] vs [WORD2],<END>
+
+//かなり 見応えあった[KERO]～[LR]<END>
+#JMP($3A0A0)
+#FIXEDLENGTH(25,0)
+a real good[LR]
+watch～[LR]<END>
+
+//[WORD2]の[WORD4]が、もう少しのトコで 決まるところを…<END>
+#JMP($3A0C4)
+#FIXEDLENGTH(49,0)
+[WORD2]'s [WORD4] almost landed…<END>
+
+//カウンターで [WORD1]が [WORD3]を 決めたん<$17><$19><$00>！[LR]<END>
+#JMP($3A100)
+#FIXEDLENGTH(43,0)
+but [WORD1][LR]
+countered with[LR]
+[WORD3]![LR]<END>
+
+//イヤ～ [WORD5]エキサイティングで アツイ試合だった[KERO]～[LR]<END>
+#JMP($3A136)
+#FIXEDLENGTH(53,0)
+Man～ a[LR]
+[WORD5][LR]
+excitin', hot[LR]
+match～[LR]<END>
+
+//好きなプロスポーツのチームを おしえて[KERO]～？<END>
+#JMP($3A17F)
+#FIXEDLENGTH(44,0)
+Tell me a pro team you like～?<END>
+
+//昔、[WORD1]に入って プロ選手になろうと <END>
+#JMP($3A200)
+#FIXEDLENGTH(37,0)
+I once wanted to join [WORD1]<END>
+
+//思ってた時があったッス…[LR]<END>
+#JMP($3A22A)
+#FIXEDLENGTH(25,0)
+and go pro…[LR]<END>
+
 //でも…[LR]<END>
 #JMP($3A24E)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//あきらめたんだ[KERO]…[LR]<END>
+#JMP($3A25A)
+#FIXEDLENGTH(20,0)
+I gave up…[LR]<END>
+
+//プロに なるには…[LR]<END>
+#JMP($3A281)
+#FIXEDLENGTH(18,0)
+To go pro…[LR]<END>
+
+//身長が [VAR2]cm 足りなかったん<$17><$19><$00>ー!![LR]<END>
+#JMP($3A29E)
+#FIXEDLENGTH(35,0)
+I was [VAR2]cm[LR]
+too short!![LR]<END>
 
 //この前…[LR]<END>
 #JMP($3A35B)
 #FIXEDLENGTH(9,0)
 Lately…[LR]<END>
 
+//[WORD0]で [WORD1]が 歩いてるのを 見つけたんで…[LR]<END>
+#JMP($3A369)
+#FIXEDLENGTH(44,0)
+Saw [WORD1][LR]
+walkin' at[LR]
+[WORD0]…[LR]<END>
+
+//後ろから いきなり [WORD3]を くらわしたんだ[KERO]～！[LR]<END>
+#JMP($3A3A0)
+#FIXEDLENGTH(48,0)
+hit 'em with[LR]
+[WORD3] from[LR]
+behind～![LR]<END>
+
 //でも…[LR]<END>
 #JMP($3A3DB)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//よくみたら 全然 ちがう [WORD2]だった<$17><$19><$00>!![LR]<END>
+#JMP($3A3ED)
+#FIXEDLENGTH(40,0)
+Turned out it[LR]
+was a different[LR]
+[WORD2]!![LR]<END>
 
 //よ…[LR]<END>
 #JMP($3A448)
 #FIXEDLENGTH(5,0)
 !…[LR]<END>
 
+//賞味期限を [VAR1]日過ぎた…[LR]<END>
+#JMP($3A492)
+#FIXEDLENGTH(25,0)
+[VAR1] days past[LR]
+its date…[LR]<END>
+
+//[WORD0]のニオイって…[LR]<END>
+#JMP($3A4B6)
+#FIXEDLENGTH(20,0)
+[WORD0] smell…[LR]<END>
+
+//[WORD3] 格別なんだ[KERO]～♥[LR]<END>
+#JMP($3A4CF)
+#FIXEDLENGTH(24,0)
+is [WORD3][LR]
+special～♥[LR]<END>
+
 //でも…[LR]<END>
 #JMP($3A4F2)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
+
+//あくまでも [VAR1]日目の[WORD0]が イイん<$17><$19><$00>！[LR]<END>
+#JMP($3A504)
+#FIXEDLENGTH(40,0)
+Day [VAR1][LR]
+[WORD0] is the[LR]
+one![LR]<END>
+
+//[VAR1]日以上 過ぎたのは もうダメなんだ[KERO]！[LR]<END>
+#JMP($3A537)
+#FIXEDLENGTH(41,0)
+Over [VAR1][LR]
+days is no good![LR]<END>
+
+//それはただ 臭いだけなん<$17><$19><$00>！[LR]<END>
+#JMP($3A56B)
+#FIXEDLENGTH(29,0)
+That just stinks![LR]<END>
+
+//あくまでも [VAR1]日目モノの [WORD0]のニオイが イイんだ[KERO]～♥[LR]<END>
+#JMP($3A593)
+#FIXEDLENGTH(57,0)
+Day [VAR1][LR]
+[WORD0] smell[LR]
+is the best～♥[LR]<END>
+
+//[VAR1]日間 しめきった部屋を…[LR]<END>
+#JMP($3A5F0)
+#FIXEDLENGTH(27,0)
+A room shut for[LR]
+[VAR1] days…[LR]<END>
+
+//開けた瞬間の ニオイって また [WORD0]いいニオイ<$17><$19><$00>ねェ～[LR]<END>
+#JMP($3A616)
+#FIXEDLENGTH(54,0)
+the smell when[LR]
+you open it is[LR]
+[WORD0] nice～[LR]<END>
+
+//あの、[WORD2]っぽいニオイが かぎたいがタメに 旅に出かける…[LR]<END>
+#JMP($3A675)
+#FIXEDLENGTH(58,0)
+I travel just to[LR]
+smell that[LR]
+[WORD2]-ish[LR]
+smell…[LR]<END>
+
+//と、いっても 過言ではないかも しれない<$17><$19><$00>～♥[LR]<END>
+#JMP($3A6BA)
+#FIXEDLENGTH(46,0)
+you could say～♥[LR]<END>
+
+//空きビンや 空きペットボトルの 集積所のニオイって…[LR]<END>
+#JMP($3A734)
+#FIXEDLENGTH(51,0)
+Smell of empty[LR]
+bottle collection[LR]
+spots…[LR]<END>
+
+//また 不思議なニオイで イイんだ[KERO]～[LR]<END>
+#JMP($3A772)
+#FIXEDLENGTH(36,0)
+is weird and[LR]
+nice～[LR]<END>
+
+//[WORD0]や [WORD1]と [WORD2]が 混ざりあって とけあったような…[LR]<END>
+#JMP($3A7A1)
+#FIXEDLENGTH(56,0)
+Like [WORD0],[LR]
+[WORD1] and[LR]
+[WORD2] mixed[LR]
+and melted…[LR]<END>
+
+//なんともいえない ニオイのハーモニー<$17><$19><$00>よ～[LR]<END>
+#JMP($3A7E4)
+#FIXEDLENGTH(43,0)
+an indescribable[LR]
+smell harmony～[LR]<END>
+
+//[WORD0]のニオイって…[LR]<END>
+#JMP($3A848)
+#FIXEDLENGTH(20,0)
+[WORD0] smell…[LR]<END>
+
+//[WORD1]のニオイに 似ている気がする<$17><$19><$00>…[LR]<END>
+#JMP($3A867)
+#FIXEDLENGTH(38,0)
+Smells like[LR]
+[WORD1], I[LR]
+think…[LR]<END>
+
+//[WORD0]って、[WORD1]を主食としているん<$17><$19><$00>かねェ…？[LR]<END>
+#JMP($3A8A0)
+#FIXEDLENGTH(48,0)
+Does [WORD0][LR]
+live on[LR]
+[WORD1]…?[LR]<END>
+
+//[WORD0]のニオイって…[LR]<END>
+#JMP($3A911)
+#FIXEDLENGTH(20,0)
+[WORD0] smell…[LR]<END>
+
+//実は、四季おりおりに びみょうに ちがうんだ[KERO]～[LR]<END>
+#JMP($3A930)
+#FIXEDLENGTH(48,0)
+It actually[LR]
+changes with[LR]
+the seasons～[LR]<END>
+
+//ちなみに [WORD1]の[WORD0]のニオイは…[LR]<END>
+#JMP($3A96B)
+#FIXEDLENGTH(34,0)
+By the way,[LR]
+[WORD1]'s[LR]
+[WORD0] smell…[LR]<END>
+
+//[WORD2][WORD4]な<END>
+#JMP($3A9C9)
+#FIXEDLENGTH(12,0)
+[WORD2][WORD4]<END>
+
+//ニオイなん<$17><$19><$00>よ～♥[LR]<END>
+#JMP($3A9E5)
+#FIXEDLENGTH(20,0)
+smell～♥[LR]<END>
+
+//エレベーターの中の ニオイもステキ<$17><$19><$00>…[LR]<END>
+#JMP($3AA34)
+#FIXEDLENGTH(39,0)
+Elevator smell is[LR]
+lovely too…[LR]<END>
+
+//エレベーター本来の ニオイをベースにして…[LR]<END>
+#JMP($3AA66)
+#FIXEDLENGTH(42,0)
+On the[LR]
+elevator's own[LR]
+smell…[LR]<END>
+
+//あの せまい空間の中に…[LR]<END>
+#JMP($3AA9B)
+#FIXEDLENGTH(24,0)
+in that tiny[LR]
+space…[LR]<END>
+
+//[WORD0]とか [WORD1]とか いろんな人が、乗ったり 降りたりして…[LR]<END>
+#JMP($3AABE)
+#FIXEDLENGTH(58,0)
+[WORD0],[LR]
+[WORD1], all[LR]
+kinds of folks[LR]
+get on and off…[LR]<END>
+
+//ニオイが ミックスされる[KERO]～[LR]<END>
+#JMP($3AB03)
+#FIXEDLENGTH(29,0)
+mixin' smells～[LR]<END>
 
 //しかも！[LR]<END>
 #JMP($3AB2B)
 #FIXEDLENGTH(9,0)
 Plus![LR]<END>
 
+//それが 上下に 何度も何度も シャッフルされるワケ<$17><$19><$00>よ…[LR]<END>
+#JMP($3AB36)
+#FIXEDLENGTH(55,0)
+shuffled up and[LR]
+down again and[LR]
+again…[LR]<END>
+
+//まさに ニオイのカクテル…[LR]<END>
+#JMP($3AB78)
+#FIXEDLENGTH(26,0)
+A smell[LR]
+cocktail…[LR]<END>
+
+//イヤ、ミックスジュース<$17><$19><$00>な！[LR]<END>
+#JMP($3AB9D)
+#FIXEDLENGTH(30,0)
+No, mixed juice![LR]<END>
+
+//自分の [WORD0]の ニオイって…[LR]<END>
+#JMP($3ABEF)
+#FIXEDLENGTH(28,0)
+My own[LR]
+[WORD0] smell…[LR]<END>
+
+//なんで クサく ないんだ[KERO]…？[LR]<END>
+#JMP($3AC10)
+#FIXEDLENGTH(30,0)
+why doesn't it[LR]
+stink…?[LR]<END>
+
+//イヤ、ホントは クサいん<$17><$19><$00>が…[LR]<END>
+#JMP($3AC39)
+#FIXEDLENGTH(31,0)
+No, it does[LR]
+stink…[LR]<END>
+
+//なぜか 懐かしくて うれしい…[LR]<END>
+#JMP($3AC63)
+#FIXEDLENGTH(29,0)
+but nostalgic,[LR]
+nice…[LR]<END>
+
+//なんというか…[LR]<END>
+#JMP($3AC8B)
+#FIXEDLENGTH(15,0)
+Like…[LR]<END>
+
+//[VAR1]年ぶりに トモダチに 会ったような…[LR]<END>
+#JMP($3ACA5)
+#FIXEDLENGTH(38,0)
+meetin' a friend[LR]
+after [VAR1][LR]
+years…[LR]<END>
+
+//そんなカンジのニオイ なんだ[KERO]…♥[LR]<END>
+#JMP($3ACD6)
+#FIXEDLENGTH(35,0)
+it smells like[LR]
+that…♥[LR]<END>
+
+//車のタイヤの ニオイって、<END>
+#JMP($3AD14)
+#FIXEDLENGTH(25,0)
+Car tire smell,<END>
+
+//実は なかなかイイ<$17><$19><$00>よ～[LR]<END>
+#JMP($3AD35)
+#FIXEDLENGTH(25,0)
+is actually nice～[LR]<END>
+
+//特に 新しいタイヤで [VAR0]00km走った 直後の ニオイが また格別[KERO]～[LR]<END>
+#JMP($3AD59)
+#FIXEDLENGTH(64,0)
+Esp. new tires[LR]
+right after[LR]
+[VAR0]00km～[LR]<END>
+
+//アスファルトの ニオイと 混ぜて かぐのが オススメ<$17><$19><$00>よ～[LR]<END>
+#JMP($3ADA4)
+#FIXEDLENGTH(56,0)
+I suggest mixin'[LR]
+with asphalt[LR]
+smell～[LR]<END>
+
+//なんだか、[WORD1]系のニオイなんだなッス！[LR]<END>
+#JMP($3ADFC)
+#FIXEDLENGTH(40,0)
+Kinda a[LR]
+[WORD1]-type[LR]
+smell![LR]<END>
+
 //でも…[LR]<END>
 #JMP($3AE2F)
 #FIXEDLENGTH(7,0)
 But…[LR]<END>
 
+//あんまり ニオイを かぐのに夢中になって…[LR]<END>
+#JMP($3AE3B)
+#FIXEDLENGTH(41,0)
+Too absorbed in[LR]
+sniffin'…[LR]<END>
+
+//動き出した車に ツブされないよう 気をつけないと いけない<$17><$19><$00>！[LR]<END>
+#JMP($3AE6F)
+#FIXEDLENGTH(61,0)
+watch you don't[LR]
+get squashed by[LR]
+a movin' car![LR]<END>
+
+//回ほど、平面ガエルに なりかけた<$17><$19><$00>…[LR]<END>
+#JMP($3AEC1)
+#FIXEDLENGTH(37,0)
+times I nearly[LR]
+became a flat[LR]
+frog…[LR]<END>
+
+//冷蔵庫を 開けた時の ニオイって またいい<$17><$19><$00>よ～[LR]<END>
+#JMP($3AF1D)
+#FIXEDLENGTH(47,0)
+Smell of openin'[LR]
+the fridge is[LR]
+nice～[LR]<END>
+
+//ブレンドスメルなんだ[KERO]～♥[LR]<END>
+#JMP($3AF57)
+#FIXEDLENGTH(28,0)
+A blended[LR]
+smell～♥[LR]<END>
+
+//[WORD0]や [WORD1]…[LR]<END>
+#JMP($3AF7E)
+#FIXEDLENGTH(16,0)
+[WORD0],[LR]
+[WORD1]…[LR]<END>
+
+//中に 入っているモノで、<END>
+#JMP($3AF93)
+#FIXEDLENGTH(23,0)
+with what's inside,<END>
+
+//毎日 びみょーに ニオイ具合が 変わるんだ[KERO]～[LR]<END>
+#JMP($3AFB2)
+#FIXEDLENGTH(45,0)
+the smell[LR]
+changes a bit[LR]
+every day～[LR]<END>
+
+//そうそう、そーいえば 前に <END>
+#JMP($3AFEA)
+#FIXEDLENGTH(26,0)
+Oh yeah, a while back<END>
+
+//知らない間に 扉が閉まってて…[LR]<END>
+#JMP($3B044)
+#FIXEDLENGTH(30,0)
+the door shut[LR]
+on me…[LR]<END>
+
+//あやうく 冬眠するところ だった[KERO]！[LR]<END>
+#JMP($3B06D)
+#FIXEDLENGTH(36,0)
+I nearly[LR]
+hibernated![LR]<END>
+
+//[WORD2]も 冷蔵庫の かぎすぎには 気を付ける<$17><$19><$00>～[LR]<END>
+#JMP($3B0A4)
+#FIXEDLENGTH(46,0)
+[WORD2], don't[LR]
+sniff the fridge[LR]
+too much～[LR]<END>
+
+//新品の [WORD0]って いいニオイがする[KERO]～[LR]<END>
+#JMP($3B0FD)
+#FIXEDLENGTH(39,0)
+New [WORD0][LR]
+smells nice～[LR]<END>
+
+//あの…おろしたての…[LR]<END>
+#JMP($3B12F)
+#FIXEDLENGTH(21,0)
+That…fresh[LR]
+new…[LR]<END>
+
+//まだ 外の世界をしらない…[LR]<END>
+#JMP($3B149)
+#FIXEDLENGTH(26,0)
+not knowin' the[LR]
+world…[LR]<END>
+
+//キレイで 汚れてなく…[LR]<END>
+#JMP($3B168)
+#FIXEDLENGTH(22,0)
+clean, unsoiled…[LR]<END>
+
+//ういういしいカンジのニオイが…[LR]<END>
+#JMP($3B183)
+#FIXEDLENGTH(31,0)
+innocent smell…[LR]<END>
+
+//[WORD1]ステキ<$17><$19><$00>～[LR]<END>
+#JMP($3B1AD)
+#FIXEDLENGTH(17,0)
+[WORD1][LR]
+lovely～[LR]<END>
+
+//まあ、そのうち 普通の ニオイに 染まってしまうんだ[KERO]も…[LR]<END>
+#JMP($3B1C9)
+#FIXEDLENGTH(57,0)
+Well, it soon[LR]
+takes on a[LR]
+normal smell…[LR]<END>
+
+//マッチを消した後の…[LR]<END>
+#JMP($3B232)
+#FIXEDLENGTH(21,0)
+Blown-out[LR]
+matches…[LR]<END>
+
+//香ばしいニオイが 大好き<$17><$19><$00>～♥[LR]<END>
+#JMP($3B252)
+#FIXEDLENGTH(31,0)
+I love that[LR]
+toasty smell～♥[LR]<END>
+
+//一時期、やみつきになって…[LR]<END>
+#JMP($3B27C)
+#FIXEDLENGTH(27,0)
+For a while I got[LR]
+hooked…[LR]<END>
+
+//[VAR1]00本のマッチを 消しては かぎ、<END>
+#JMP($3B2A2)
+#FIXEDLENGTH(33,0)
+[VAR1]00 matches, blow out, sniff,<END>
+
+//消しては かぎ ってしていたら…[LR]<END>
+#JMP($3B2C5)
+#FIXEDLENGTH(31,0)
+blow out, sniff…[LR]<END>
+
+//それを みていた 近所の [WORD0]に、<END>
+#JMP($3B2EF)
+#FIXEDLENGTH(32,0)
+a [WORD0] nearby who saw,<END>
+
+//通報されてしまった[KERO]も…[LR]<END>
+#JMP($3B317)
+#FIXEDLENGTH(26,0)
+reported me…[LR]<END>
+
+//最近、健康食品だの自然食品だの、<END>
+#JMP($3B36F)
+#FIXEDLENGTH(32,0)
+Lately, health food, organic,<END>
+
+//声高らかに いってる人たちに…[LR]<END>
+#JMP($3B391)
+#FIXEDLENGTH(30,0)
+to folks shoutin'[LR]
+about it…[LR]<END>
+
+//その前に 好きキライなくす[KERO]ー!!!!![LR]<END>
+#JMP($3B3F0)
+#FIXEDLENGTH(36,0)
+First stop bein'[LR]
+picky!!!!![LR]<END>
+
 //[WORD0]でも [WORD1]でも、<END>
 #JMP($3B41F)
 #FIXEDLENGTH(21,0)
 [WORD0] or [WORD1],<END>
+
+//なんでも いろんなモノ 好きキライなく 食べてれば～[LR]<END>
+#JMP($3B43C)
+#FIXEDLENGTH(50,0)
+Eat all kinds of[LR]
+stuff without[LR]
+bein' picky～[LR]<END>
+
+//健康１００％<$17><$19><$00>よ～！[LR]<END>
+#JMP($3B479)
+#FIXEDLENGTH(22,0)
+100% healthy～![LR]<END>
+
+//回転寿司は バトルなんだ[KERO]～[LR]<END>
+#JMP($3B49C)
+#FIXEDLENGTH(29,0)
+Conveyor sushi[LR]
+is a battle～[LR]<END>
+
+//席についた 瞬間…[LR]<END>
+#JMP($3B4CC)
+#FIXEDLENGTH(18,0)
+When you sit…[LR]<END>
+
+//バトルは始まる<$17><$19><$00>…[LR]<END>
+#JMP($3B4E3)
+#FIXEDLENGTH(20,0)
+the battle[LR]
+starts…[LR]<END>
+
+//今日の 腹ぐあいを 確認…[LR]<END>
+#JMP($3B502)
+#FIXEDLENGTH(25,0)
+Check your[LR]
+hunger…[LR]<END>
+
+//回転している ネタの種類、鮮度をチェック…[LR]<END>
+#JMP($3B520)
+#FIXEDLENGTH(42,0)
+check the fish[LR]
+and freshness…[LR]<END>
+
+//皿の値段チェック…[LR]<END>
+#JMP($3B54F)
+#FIXEDLENGTH(19,0)
+check prices…[LR]<END>
+
+//店のオススメチェック…[LR]<END>
+#JMP($3B567)
+#FIXEDLENGTH(23,0)
+check the[LR]
+specials…[LR]<END>
+
+//サイドオーダーに [WORD0]があるかチェック…[LR]<END>
+#JMP($3B598)
+#FIXEDLENGTH(41,0)
+check if[LR]
+[WORD0]'s on[LR]
+the side menu…[LR]<END>
+
+//赤だしをたのむか否か…[LR]<END>
+#JMP($3B5C6)
+#FIXEDLENGTH(23,0)
+red miso soup or[LR]
+not…[LR]<END>
+
+//ガリのタイミング…[LR]<END>
+#JMP($3B5E2)
+#FIXEDLENGTH(19,0)
+gari timin'…[LR]<END>
+
+//等々…[LR]<END>
+#JMP($3B5FA)
+#FIXEDLENGTH(7,0)
+etc…[LR]<END>
+
+//状況を しゅん時に 判断して…[LR]<END>
+#JMP($3B60C)
+#FIXEDLENGTH(29,0)
+Judge it all in a[LR]
+flash…[LR]<END>
+
+//いかに予算内で 満足できる 食べ方ができるか…[LR]<END>
+#JMP($3B634)
+#FIXEDLENGTH(45,0)
+how to eat[LR]
+happy within[LR]
+budget…[LR]<END>
+
+//戦略を くみ立てる…[LR]<END>
+#JMP($3B666)
+#FIXEDLENGTH(20,0)
+build a[LR]
+strategy…[LR]<END>
+
+//回転寿司は バトルなんだ[KERO]～!![LR]<END>
+#JMP($3B685)
+#FIXEDLENGTH(31,0)
+Conveyor sushi[LR]
+is a battle～!![LR]<END>
+
+//[WORD2]の肉が 特売価格グラム[VAR0]0円!![LR]<END>
+#JMP($3B6E4)
+#FIXEDLENGTH(35,0)
+[WORD2] meat[LR]
+sale, [VAR0]0[LR]
+yen/g!![LR]<END>
+
+//って、いうので [VAR1]kg買ってきた<$17><$19><$00>よ～[LR]<END>
+#JMP($3B70C)
+#FIXEDLENGTH(38,0)
+So I bought[LR]
+[VAR1]kg～[LR]<END>
+
+//おかげで、ここ一週間の 献立は…[LR]<END>
+#JMP($3B73D)
+#FIXEDLENGTH(32,0)
+So this week's[LR]
+menu…[LR]<END>
+
+//[WORD2]カツ[LR]<END>
+#JMP($3B78B)
+#FIXEDLENGTH(10,0)
+[WORD2]cutl[LR]<END>
+
+//[WORD2]どん[LR]<END>
+#JMP($3B7A2)
+#FIXEDLENGTH(10,0)
+[WORD2] don[LR]<END>
+
+//[WORD2]のポワレ[LR]<END>
+#JMP($3B7C7)
+#FIXEDLENGTH(14,0)
+[WORD2] poele[LR]<END>
+
+//[WORD2]のムニエル[LR]<END>
+#JMP($3B7E2)
+#FIXEDLENGTH(16,0)
+[WORD2][LR]
+meuniere[LR]<END>
+
+//[WORD2]のタタキしょうが風味 [LR]<END>
+#JMP($3B7FF)
+#FIXEDLENGTH(27,0)
+[WORD2] tataki[LR]
+w/ ginger[LR]<END>
+
+//[WORD2]コロッケ[LR]<END>
+#JMP($3B835)
+#FIXEDLENGTH(14,0)
+[WORD2][LR]
+korokke[LR]<END>
+
+//[WORD2]磯部巻[LR]<END>
+#JMP($3B850)
+#FIXEDLENGTH(12,0)
+[WORD2] isobe[LR]<END>
+
+//[WORD2]カレー[LR]<END>
+#JMP($3B869)
+#FIXEDLENGTH(12,0)
+[WORD2] curry[LR]<END>
+
+//[WORD2]と野菜のイタメ[LR]<END>
+#JMP($3B890)
+#FIXEDLENGTH(20,0)
+[WORD2] veg[LR]
+stir-fry[LR]<END>
+
+//[WORD2]酢味噌和え[LR]<END>
+#JMP($3B8B1)
+#FIXEDLENGTH(16,0)
+[WORD2] w/[LR]
+miso[LR]<END>
+
+//[WORD2]アジア風味[LR]<END>
+#JMP($3B8CE)
+#FIXEDLENGTH(16,0)
+[WORD2] Asian[LR]<END>
+
+//[WORD2]のソテー[LR]<END>
+#JMP($3B8F9)
+#FIXEDLENGTH(14,0)
+[WORD2] saute[LR]<END>
 
 //あ！[LR]<END>
 #JMP($3BC38)
@@ -21190,6 +22875,11 @@ Don't know it?[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//うーん…[LR]<END>
+#JMP($4D109)
+#FIXEDLENGTH(9,0)
+Hmm…[LR]<END>
+
 //も…[LR]<END>
 #JMP($4D19F)
 #FIXEDLENGTH(5,0)
@@ -21459,6 +23149,11 @@ Maybe…[LR]<END>
 #FIXEDLENGTH(13,0)
 But, kero…[LR]<END>
 
+//そんな時は…[LR]<END>
+#JMP($5793F)
+#FIXEDLENGTH(13,0)
+Then…[LR]<END>
+
 //うーむ…[LR]<END>
 #JMP($57CD4)
 #FIXEDLENGTH(9,0)
@@ -21719,6 +23414,11 @@ I see～[LR]<END>
 #FIXEDLENGTH(12,0)
 I see…[LR]<END>
 
+//うーん…[LR]<END>
+#JMP($5E183)
+#FIXEDLENGTH(9,0)
+Hmm…[LR]<END>
+
 //そう<$17><$19><$00>か～[LR]<END>
 #JMP($5E36C)
 #FIXEDLENGTH(12,0)
@@ -21753,6 +23453,11 @@ Anyway…[LR]<END>
 #JMP($5EE04)
 #FIXEDLENGTH(11,0)
 I see…[LR]<END>
+
+//それとも…[LR]<END>
+#JMP($5EE6E)
+#FIXEDLENGTH(11,0)
+Or…[LR]<END>
 
 //でも…[LR]<END>
 #JMP($5F39D)
@@ -21941,6 +23646,11 @@ Haa～<END>
 #JMP($6D27B)
 #FIXEDLENGTH(6,0)
 Sauce<END>
+
+//トモダチ<END>
+#JMP($75663)
+#FIXEDLENGTH(8,0)
+Friends<END>
 
 //もどる<END>
 #JMP($75BDB)
